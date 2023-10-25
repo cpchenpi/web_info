@@ -1,0 +1,3566 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-webkit book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>红楼梦 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1213945/">
+<meta name="keywords" content="红楼梦,曹雪芹,高鹗,岳麓书社,1999-11-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书红楼梦 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img1.doubanio.com/f/vendors/02814fbb5bee25484516bd0a642af695f7ec5a83/css/douban.css" rel="stylesheet" type="text/css">
+  <link href="https://img2.doubanio.com/cuphead/book-static/common/master.dd2c2.css" rel="stylesheet" type="text/css">
+
+  <link href="https://img2.doubanio.com/cuphead/book-static/base/init.e399f.css" rel="stylesheet">
+  <style type="text/css"></style>
+  <script src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+  <script src="https://img1.doubanio.com/f/vendors/aa9559674f2476cdc16f755b3cdc4ebc478db669/js/douban.js"></script>
+  <script src="https://img9.doubanio.com/cuphead/book-static/common/master.1b6f4.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/b6814ac068f705a1366083b58858a468706a60dc/css/lib/jquery.snippet.css">
+  <link rel="stylesheet" href="https://img9.doubanio.com/cuphead/book-static/subject/index.c0756.css">
+  <script src="https://img1.doubanio.com/f/vendors/7965e09b0065d26bfd22d390de956c22a48b9008/js/lib/jquery.snippet.js"></script>
+  <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+  <script src="https://img1.doubanio.com/cuphead/book-static/mod/hide.7e82b.js"></script>
+  <script src="https://img1.doubanio.com/cuphead/book-static/subject/unfold.4988a.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1213945/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+  
+
+
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"Book",
+  "workExample": [],
+  "name" : "红楼梦",
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "name": "曹雪芹"
+    }
+    ,
+    {
+      "@type": "Person",
+      "name": "高鹗"
+    }
+  ]
+,
+  "url" : "https://book.douban.com/subject/1213945/",
+  "isbn" : "9787805200323",
+  "sameAs": "https://book.douban.com/subject/1213945/"
+}
+</script>
+
+  
+  
+  <meta property="og:title" content="红楼梦" />
+  <meta property="og:description" content="《红楼梦》是一部中国末期封建社会的百科全书。小说以上层贵族社会为中心图画，真实、生动地描写了十八世纪上半叶中国末期封建社会的全部生活，是这段历史生活的一面镜子和缩影，是中国古老封建社会已经无可挽回地走..." />
+  <meta property="og:site_name" content="豆瓣" />
+  <meta property="og:url" content="https://book.douban.com/subject/1213945/" />
+  <meta property="og:image" content="https://img9.doubanio.com/view/subject/l/public/s1707395.jpg" />
+  <meta property="og:type" content="book" />
+      <meta property="book:author" content="曹雪芹" />
+      <meta property="book:author" content="高鹗" />
+  <meta property="book:isbn" content="9787805200323" />
+
+
+  <script>  </script>
+  <style type="text/css">
+#db-discussion-section .olt { margin-bottom: 7px; }
+</style>
+
+  <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=book" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;book/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >豆瓣书店</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual/2022?fullscreen=1&source=navigation"
+            target="_blank"
+     >2022年度榜单</a>
+    </li>
+    <li    ><a href="https://standbyme2022.douban.com/?autorotate=false&fullscreen=true&hidenav=true&source=web_navigation"
+            target="_blank"
+     >2022书影音报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?biz_type=book&utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://book.douban.com/annual/2022?fullscreen=1&source=book_navigation" class="bookannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+
+<h1>
+    <span property="v:itemreviewed">红楼梦</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img9.doubanio.com/view/subject/l/public/s1707395.jpg" title="红楼梦">
+      <img src="https://img9.doubanio.com/view/subject/s/public/s1707395.jpg" title="点击看大图" alt="红楼梦"
+         rel="v:photo" style="max-width: 135px;max-height: 200px;">
+  </a>
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+            
+            <a class="" href="/search/%E6%9B%B9%E9%9B%AA%E8%8A%B9">曹雪芹</a>
+        
+           /
+            
+            <a class="" href="/search/%E9%AB%98%E9%B9%97">高鹗</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span>
+      <a href="https://book.douban.com/press/2358">岳麓书社</a>
+    <br>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 1999-11-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 889<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 18.50元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/10185">古典名著普及文库</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787805200323<br/>
+
+    
+    
+  
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">
+            豆瓣评分
+    </div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 9.6 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar50"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="comments" class="rating_people"><span property="v:votes">11357</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">81.8%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:11px"></div>
+
+            <span class="rating_per">15.0%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">2.8%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.2%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.2%</span>
+            <br>
+  </div>
+</div>
+
+  </div>
+  
+      
+
+
+
+
+
+
+  
+  <div id="interest_sect_level" class="clearfix">
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1213945-wish">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j  " value="想读" title="" />
+</form>
+
+        </span>
+      </a>
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1213945-do">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j  " value="在读" title="" />
+</form>
+
+        </span>
+      </a>
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1213945-collect">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j  " value="读过" title="" />
+</form>
+
+        </span>
+      </a>
+    <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img1.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img1.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img1.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1213945-1">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1213945-2">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1213945-3">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1213945-4">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1213945-5">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/>
+        </a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+    </div>
+  </div>
+
+
+
+  
+
+
+
+
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img1.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+          <a class="j a_show_login" href="https://book.douban.com/annotation/write?sid=1213945" rel="nofollow">写笔记</a>
+        </li>
+
+        <li>
+          <img src="https://img1.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://book.douban.com/subject/1213945/new_review" rel="nofollow">写书评</a>
+        </li>
+
+        <li>
+
+<span class="rr">
+
+
+    <img src="/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="https://www.douban.com/accounts/passport/login?source=book" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+      
+
+        
+        
+    
+    <li class="rec" id="C-1213945">
+        <a href="#" data-url="https://book.douban.com/subject/1213945/" data-desc="" data-title="书籍《红楼梦》 (来自豆瓣) " data-pic="https://img9.doubanio.com/view/subject/l/public/s1707395.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script>
+      window.DoubanShareIcons = "https://img1.doubanio.com/f/vendors/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png";
+    </script>
+    <script src="https://img1.doubanio.com/f/vendors/b6e0770163b1da14217b0f1ca39189d47b95f51f/js/lib/sharebutton.js"></script>
+
+    </ul>
+  </div>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1213945"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span>内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《红楼梦》是一部中国末期封建社会的百科全书。小说以上层贵族社会为中心图画，真实、生动地描写了十八世纪上半叶中国末期封建社会的全部生活，是这段历史生活的一面镜子和缩影，是中国古老封建社会已经无可挽回地走向崩溃的真实写照。《红楼梦》之所以成为“中国小说文学难以征服的顶峰”，不仅仅是因为它具有很高的思想价值，还在于它非凡的艺术成就。全书规模宏伟，结构严谨，人物生动，语言优美。此外还有一些明显的艺术特点值得后人品味、鉴赏。《红楼梦》一书，通过对“贾、史、王、薛”四大家族荣衰的描写，展示了广阔的社会生活视野，森罗万象，囊括了多姿多彩的世俗人情。人称《红楼梦》内蕴着一个时代的历史容量，是封建末世的百科全书。</p></div>
+
+      </div>
+    
+
+</div>
+
+  
+      
+
+<link rel="stylesheet" href="https://img9.doubanio.com/cuphead/book-static/other/online-partner.36905.css">
+
+
+  
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/authors_section.6022b.css">
+
+<h2>
+    
+  
+
+  <h2>
+    <span>红楼梦的创作者</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+</h2>
+<div class="indent">
+    <p></p>
+    <div id="authors" class="authors">
+    <ul class="authors-list from-subject __oneline">
+            
+            <li class="author">
+                <a href="https://book.douban.com/author/4508611/" title="曹雪芹">
+                    <img src="https://img9.doubanio.com/view/celebrity/raw/public/p12836.jpg" alt="曹雪芹" class="avatar">
+                </a>
+                <div class="info">
+                    <a href="https://book.douban.com/author/4508611/" title="曹雪芹" class="name">曹雪芹</a>
+                    <span class="role">作者</span>
+                </div>
+            </li>
+             
+        <li class="author fake fake5"></li>
+    </ul>
+    </div>
+</div>
+
+  
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+    
+  
+
+  <h2>
+    <span>作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>曹雪芹,（？-1763，一作1764）清小说家。名霑，字梦阮，号雪芹、芹圃、芹溪。为满洲正白旗“包衣”人。自曾祖起，三代任江宁织造，其祖曹寅尤为康熙帝所信用。雍正初年，在统计阶级内部政治斗争牵连下，雪芹家受到重大打击，其父免职，产业被抄，遂随家迁居北京。他早年经历了一段封建大官僚地主家庭的繁华生活，后因家道衰落，趋于艰困。晚期居北京西郊，贫病而卒，年未及五十。性情高傲，嗜酒健谈。具有深厚的文化修养和卓越的艺术才能。他生活在我国已有资本主义生产萌芽的封建末世，在其后期又有机会接触到下层人民，因而对当时社会阶级斗争和思想斗争有较具体的感受，看到了统治阶级的腐朽凶残和内部的分崩离析。曾以十年时间，从事《石头记》（即《红楼梦》）的创作。书中通过一个贵族官僚大家庭的盛衰历史的描写，塑造了许多典型人物形象，对当时社会的黑暗腐败，进行了深刻的解剖和批判，并热情地歌...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>曹雪芹,（？-1763，一作1764）清小说家。名霑，字梦阮，号雪芹、芹圃、芹溪。为满洲正白旗“包衣”人。自曾祖起，三代任江宁织造，其祖曹寅尤为康熙帝所信用。雍正初年，在统计阶级内部政治斗争牵连下，雪芹家受到重大打击，其父免职，产业被抄，遂随家迁居北京。他早年经历了一段封建大官僚地主家庭的繁华生活，后因家道衰落，趋于艰困。晚期居北京西郊，贫病而卒，年未及五十。性情高傲，嗜酒健谈。具有深厚的文化修养和卓越的艺术才能。他生活在我国已有资本主义生产萌芽的封建末世，在其后期又有机会接触到下层人民，因而对当时社会阶级斗争和思想斗争有较具体的感受，看到了统治阶级的腐朽凶残和内部的分崩离析。曾以十年时间，从事《石头记》（即《红楼梦》）的创作。书中通过一个贵族官僚大家庭的盛衰历史的描写，塑造了许多典型人物形象，对当时社会的黑暗腐败，进行了深刻的解剖和批判，并热情地歌颂了具有异端思想的男女青年，成为我国古典小说中伟大的现实主义作品。但其中也反映了作者为封建制度“补天”的幻想和找不到出路的悲观情绪。据称先后曾增删五次，但未成全书而卒；今流行本一百二十回，后四十回一般认为是高鹗所续。也能诗，又善画石，但作品流传绝少。</p></div>
+
+            </span>
+      </div>
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span>目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1213945_short">
+        前言<br/>
+        第一回 甄士隐梦幻识通灵<br/>
+        第二回 贾夫人仙逝扬州城<br/>
+        第三回 贾雨村夤缘复旧职<br/>
+        第四回 薄命女偏逢薄命郎<br/>
+        第五回 游幻境指迷十二钗<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1213945_short').hide();$('#dir_1213945_full').show();$.get('/j/subject/j_dir_count',{id:1213945});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1213945_full" style="display:none">
+        前言<br/>
+        第一回 甄士隐梦幻识通灵<br/>
+        第二回 贾夫人仙逝扬州城<br/>
+        第三回 贾雨村夤缘复旧职<br/>
+        第四回 薄命女偏逢薄命郎<br/>
+        第五回 游幻境指迷十二钗<br/>
+        第六回 贾宝玉初试云雨情<br/>
+        第七回 送宫花贾琏戏熙凤<br/>
+        第八回 比通灵金莺微露意<br/>
+        第九回 恋风流情友入家塾<br/>
+        第十回 金寡妇贪利权受辱<br/>
+        第十一回 庆寿辰宁府排家宴<br/>
+        第十二回 王熙凤毒设相思局<br/>
+        第十三回 秦可卿死封龙禁尉<br/>
+        第十四回 林如海捐馆扬州城<br/>
+        第十五回 王凤姐弄权铁槛寺<br/>
+        第十六回 贾元春才选凤藻宫<br/>
+        第十七回 大观园试才题对额<br/>
+        第十八回 林黛玉误剪香囊袋<br/>
+        第十九回 情切切良宵花解语<br/>
+        第二十回 王熙凤正言弹妒意<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1213945_full').hide();$('#dir_1213945_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/verify/b94df3c30a99176a78709b95ecf1cf80b105beb0/entry_creator/dist/author_subject/style.css">
+
+<div id="author_subject" class="author-wrapper">
+  <div class="loading"></div>
+</div>
+
+<script type="text/javascript">
+  var answerObj = {
+    TYPE: 'book',
+    SUBJECT_ID: '1213945',
+    ISALL: 'False' || false,
+    USER_ID: 'None'
+  }
+</script>
+<!-- 使用 vendors 提供的 react & react-dom -->
+<script src="https://img1.doubanio.com/f/vendors/bd6325a12f40c34cbf2668aafafb4ccd60deab7e/vendors.js"></script>
+<script src="https://img1.doubanio.com/f/vendors/6242a400cfd25992da35ace060e58f160efc9c50/shared_rc.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/verify/6e7e593ba318f1355c70e66e010cf89411c3d937/entry_creator/dist/author_subject/index.js"></script> 
+  
+      
+
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/blockquote-list.748c0.css"/>
+
+<div class="ugc-mod blockquote-list-wrapper">
+  <div class="hd">
+    <h2>
+      原文摘录
+      &nbsp;&nbsp;· · · · · ·&nbsp;
+      <span class="pl">( <a href="blockquotes">全部</a> )</span>
+    </h2>
+
+    <ul class="blockquote-list">
+      
+        <li>
+          <figure>
+            红楼梦曲
+〔第一支红楼梦引子〕开辟鸿蒙，谁为情种？都只为风月情浓。趁着这奈何天、伤怀日、寂寥时，试遣愚衷。因此上演出这怀金悼玉的《红楼梦》。
+
+〔第二支终身误【薛宝钗】〕都道是金玉良缘，俺只念木石前盟。空对着、山中高士晶莹雪；终不忘、世外仙姝寂寞林。叹人间、美中不足今方信。纵然是齐眉举案，到底意难平！
+
+〔第三支枉凝眉【林黛玉】〕一个是阆苑仙葩，一个是美玉无瑕。若说没奇缘，今生偏又遇着他；若说有奇缘，如何心事终虚化？一个枉自嗟呀，一个空劳牵挂。一个是水中月，一个是镜中花。想眼中能有多少泪珠儿，怎经得秋流到冬尽、春流到夏！
+
+〔第四支恨无常【贾元春】〕喜荣华正好，恨无常又到。眼睁睁、把万事全抛。荡悠悠、把芳魂消耗。望家乡，路远山遥。故向爹娘梦里相寻告：儿命已入黄泉。天伦呵，须要退步抽身早。
+
+〔第五支分骨肉【贾探春】〕一帆风雨路三千，把骨肉家园齐来抛闪。恐哭损残年，告爹娘，莫把儿悬念。自古穷通皆有定，离合岂无缘？从今分两地，各自保平安。奴去也，莫牵连！
+
+〔第六支乐中悲【史湘云】〕襁褓中，父母双双亡。纵居那绮罗丛，谁知娇养？幸生来，英雄阔大宽宏量，从未将儿女私情略萦心上。好一似，霁月光风耀玉堂。厮配得才貌仙郎，博个地久天长，准折得幼年时坎坷形状。终究是云散高唐，水涸湘江。这是尘寰中消长数应当，何必枉悲伤。
+
+〔第七支世难容【妙玉】〕气质美如兰，才华阜比仙。天生成孤癖人皆罕。你道是啖肉食腥膻，视绮罗俗厌。却不知、太高人愈妒，过洁世同嫌。可叹这、青灯古殿人将老；辜负了、红粉朱楼春色阑。到头来、依旧是风尘肮脏违心愿。好一似，无瑕美玉遭泥陷；又何须，王孙公子叹无缘。
+
+〔第八支喜冤家【贾迎春】〕中山狼，无情兽，全不念当日的根由。一味的骄奢淫荡贪欢媾。觑着那，侯门艳质同蒲柳；作践的，公府千金似下流。叹芳魂艳魄，一载荡悠悠！
+
+〔第九支虚花悟【贾惜春】〕将那三春看破，桃红柳绿待如何？把这... (<a href="https://book.douban.com/annotation/32105279/">查看原文</a>)
+
+            <div class="blockquote-extra">
+              <div class='blockquote-meta'>
+                <a href="https://www.douban.com/people/crystalmomo/" class="author-avatar">
+                  <img width="20" height="20" src="https://img2.doubanio.com/icon/u2030435-21.jpg">
+                </a>
+                <a class="author-name" href="https://www.douban.com/people/crystalmomo/">樱桃Yuri</a>
+                  <span>1 回复</span>
+                  <span>86赞</span>
+                <datetime>2014-07-03 20:00:33</datetime>
+              </div>
+
+              
+              <figcaption title="引自章节：十二钗正册判词">
+                —— 引自章节：十二钗正册判词
+              </figcaption>
+            </div>
+          </figure>
+        </li>
+      
+        <li>
+          <figure>
+            “妹妹往那里去？怎么又哭了？又是谁得罪了你？”
+
+林黛玉回头见是宝玉，便勉强笑道：“好好的，我何曾哭了。”
+
+宝玉笑道：“你瞧瞧，眼睛上的泪珠儿未干，还撒谎呢。”一面说，一面禁不住抬起手来替他拭泪。
+
+林黛玉忙向后退了几步，说道：“你又要死了！作什么这么动手动脚的！”
+
+宝玉笑道：“说话忘了情，不觉的动了手，也就顾不的死活。”
+
+林黛玉道：“你死了倒不值什么，只是丢下了什么金，又是什么麒麟，可怎么样呢？”
+
+一句话又把宝玉说急了，赶上来问道：“你还说这话，到底是咒我还是气我呢？”林黛玉见问，方想起前日的事来，遂自悔自己又说造次了，忙笑道：“你别着急，我原说错了。这有什么的，筋都暴起来，急的一脸汗。”
+
+一面说，一面禁不住近前伸手替他拭面上的汗。宝玉瞅了半天，方说道“你放心”三个字。
+
+林黛玉听了，怔了半天，方说道：“我有什么不放心的？我不明白这话。你倒说说怎么放心不放心？”
+
+宝玉叹了一口气，问道：“你果不明白这话？难道我素日在你身上的心都用错了？连你的意思若体贴不着，就难怪你天天为我生气了。”
+
+林黛玉道：“果然我不明白放心不放心的话。”
+宝玉点头叹道：“好妹妹，你别哄我。果然不明白这话，不但我素日之意白用了，且连你素日待我之意也都辜负了。你皆因总是不放心的原故，才弄了一身病。但凡宽慰些，这病也不得一日重似一日。”
+
+林黛玉听了这话，如轰雷掣电，细细思之，竟比自己肺腑中掏出来的还觉恳切，竟有万句言语，满心要说，只是半个字也不能吐，却怔怔的望着他。此时宝玉心中也有万句言语，不知从那一句上说起，却也怔怔的望着黛玉。
+
+两个人怔了半天，林黛玉只咳了一声，两眼不觉滚下泪来，回身便要走。宝玉忙上前拉住，说道：“好妹妹，且略站住，我说一句话再走。”
+
+林黛玉一面拭泪，一面将手推开，说道：“有什么可说的。你的话我早知道了！”口里说着，却头也不回竟去了。 (<a href="https://book.douban.com/annotation/39014192/">查看原文</a>)
+
+            <div class="blockquote-extra">
+              <div class='blockquote-meta'>
+                <a href="https://www.douban.com/people/mercurius711116/" class="author-avatar">
+                  <img width="20" height="20" src="https://img2.doubanio.com/icon/u70752633-92.jpg">
+                </a>
+                <a class="author-name" href="https://www.douban.com/people/mercurius711116/">倚天照海</a>
+                  <span>10 回复</span>
+                  <span>73赞</span>
+                <datetime>2016-09-08 20:01:08</datetime>
+              </div>
+
+              
+              <figcaption title="引自章节：第三十二回 诉肺腑心迷活宝玉">
+                —— 引自章节：第三十二回 诉肺腑心迷活宝玉
+              </figcaption>
+            </div>
+          </figure>
+        </li>
+    </ul>
+
+      <p class="pl"> &gt; <a href="blockquotes">全部原文摘录</a> </p>
+  </div>
+</div>
+
+
+
+  
+      
+
+
+
+
+<div class="subject_show block5">
+<h2>
+    
+  
+
+  <h2>
+    <span>丛书信息</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+</h2>
+<div>
+　　<a href="https://book.douban.com/series/10185">古典名著普及文库</a>(共45册)，
+这套丛书还有
+
+《白话战国策》《宋十大名家词》《白话说苑》《四书集注》《白话左传》
+等
+。
+</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+  
+
+
+
+
+    <div id="rec-ebook-section" class="block5 subject_show">
+    
+
+    
+  
+
+  <h2>
+    <span>喜欢读&#34;红楼梦&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="tips-mod">
+        支持 Web、iPhone、iPad、Android 阅读器
+    </div>
+    <div class="content clearfix">
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/316702/?dcs=subject-rec&amp;dcm=douban&amp;dct=1213945" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/316702.1653713784.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/316702/" target="_blank">论文艺女青年如何培养女王气场</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/407582/?dcs=subject-rec&amp;dcm=douban&amp;dct=1213945" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/407582.1653693572.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/407582/" target="_blank">少年PI的奇幻漂流（插图珍藏版）</a>
+            </div>
+            <div class="price">
+                
+    18.00元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/228662/?dcs=subject-rec&amp;dcm=douban&amp;dct=1213945" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/228662.1653713581.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/228662/" target="_blank">夏日便当·修订版</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/440810/?dcs=subject-rec&amp;dcm=douban&amp;dct=1213945" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/440810.1653713710.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/440810/" target="_blank">冬日便当</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/300679/?dcs=subject-rec&amp;dcm=douban&amp;dct=1213945" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/300679.1653714209.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/300679/" target="_blank">秋日便当</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+    </div>
+    </div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span>喜欢读&#34;红楼梦&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1059116/" onclick="moreurl(this, {'total': 10, 'clicked': '1059116', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s26352423.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1059116/" onclick="moreurl(this, {'total': 10, 'clicked': '1059116', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            水浒全传
+          </a>
+          <span class="subject-rate">8.8</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1483894/" onclick="moreurl(this, {'total': 10, 'clicked': '1483894', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s1661101.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1483894/" onclick="moreurl(this, {'total': 10, 'clicked': '1483894', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            三国演义
+          </a>
+          <span class="subject-rate">9.5</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1014561/" onclick="moreurl(this, {'total': 10, 'clicked': '1014561', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s1325863.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1014561/" onclick="moreurl(this, {'total': 10, 'clicked': '1014561', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            古文观止
+          </a>
+          <span class="subject-rate">9.1</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1000517/" onclick="moreurl(this, {'total': 10, 'clicked': '1000517', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s1075061.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1000517/" onclick="moreurl(this, {'total': 10, 'clicked': '1000517', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            故事新编
+          </a>
+          <span class="subject-rate">8.9</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1433477/" onclick="moreurl(this, {'total': 10, 'clicked': '1433477', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s1447590.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1433477/" onclick="moreurl(this, {'total': 10, 'clicked': '1433477', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            史记
+          </a>
+          <span class="subject-rate">9.4</span>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1141406/" onclick="moreurl(this, {'total': 10, 'clicked': '1141406', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img9.doubanio.com/view/subject/s/public/s5924326.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1141406/" onclick="moreurl(this, {'total': 10, 'clicked': '1141406', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            简爱（英文全本）
+          </a>
+          <span class="subject-rate">8.5</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1008145/" onclick="moreurl(this, {'total': 10, 'clicked': '1008145', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s1070222.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1008145/" onclick="moreurl(this, {'total': 10, 'clicked': '1008145', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            围城
+          </a>
+          <span class="subject-rate">9.0</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1029553/" onclick="moreurl(this, {'total': 10, 'clicked': '1029553', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img9.doubanio.com/view/subject/s/public/s1627374.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1029553/" onclick="moreurl(this, {'total': 10, 'clicked': '1029553', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            西游记（全二册）
+          </a>
+          <span class="subject-rate">9.0</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1004992/" onclick="moreurl(this, {'total': 10, 'clicked': '1004992', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img9.doubanio.com/view/subject/s/public/s1662165.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1004992/" onclick="moreurl(this, {'total': 10, 'clicked': '1004992', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            张爱玲文集
+          </a>
+          <span class="subject-rate">8.9</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1059258/" onclick="moreurl(this, {'total': 10, 'clicked': '1059258', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s1045431.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1059258/" onclick="moreurl(this, {'total': 10, 'clicked': '1059258', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            道德经
+          </a>
+          <span class="subject-rate">9.5</span>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+      
+
+
+
+
+<div id="comments-section">
+    <link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/lib/subject-comments/comments-section.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span>短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1213945/comments/">全部 2181 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+                <a class="short-comment-tabs on-tab"
+                    href="https://book.douban.com/subject/1213945/comments?sort=score" 
+                    data-tab="score">热门</a>
+                <span>/</span>
+                <a class="short-comment-tabs "
+                    href="https://book.douban.com/subject/1213945/comments?sort=time" 
+                    data-tab="time">最新</a>
+                <span>/</span>
+                <a class="j a_show_login "
+                    href="https://book.douban.com/subject/1213945/comments?sort=follows" 
+                    data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+  
+  <div class="comment-list score show" id="score">
+      <ul>
+          
+  <li class="comment-item" data-cid="913916289">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-913916289" class="vote-count">9</span>
+              <a id="btn-913916289" href="" class="j a_show_login" data-cid="913916289">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/43258216/">泊也</a>
+            <span class="user-stars allstar40 rating" title="推荐"></span>
+          <a class="comment-time" href="/comment/913916289">2015-05-29 03:32:22</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">今后，当我作自我介绍的时候，我可以跟别人说我从头到尾读过《红楼梦》了。多少痴男怨女、富贵荣华，终究不过是命运安排、竹篮打水罢！在整部书里，最佩服的是王熙凤和贾母。尤不喜宝玉黛玉二人，除了他们作的诗不错外，实在不敢苟同他们毫无担当、散漫无为的性格。而宝钗的稳重世故，虽然成熟可赞，但她封建殉道士的不作为只能让我叹息她最后的结局。性格决定命运，岂知这命运也是随时运而变、不由人掌握的！我们看淡风云变幻，也...</span>
+        <span class="hide-item full">今后，当我作自我介绍的时候，我可以跟别人说我从头到尾读过《红楼梦》了。多少痴男怨女、富贵荣华，终究不过是命运安排、竹篮打水罢！在整部书里，最佩服的是王熙凤和贾母。尤不喜宝玉黛玉二人，除了他们作的诗不错外，实在不敢苟同他们毫无担当、散漫无为的性格。而宝钗的稳重世故，虽然成熟可赞，但她封建殉道士的不作为只能让我叹息她最后的结局。性格决定命运，岂知这命运也是随时运而变、不由人掌握的！我们看淡风云变幻，也只能在这浊世之中尽己所能把握命运而已！</span>
+        <span class="expand">(<a href="javascript:;">展开</a>)</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=913916289"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="989631057">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-989631057" class="vote-count">1</span>
+              <a id="btn-989631057" href="" class="j a_show_login" data-cid="989631057">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/breakawaylost/">𝙆𝙆</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/989631057">2015-12-21 12:51:41</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">姑苏林黛玉</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=989631057"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="1159296058">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-1159296058" class="vote-count">3</span>
+              <a id="btn-1159296058" href="" class="j a_show_login" data-cid="1159296058">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/Angel-Lily/">西西利亚冰百合</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/1159296058">2017-03-02 11:08:27</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">高鹗真的是狗尾续貂</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=1159296058"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="278658701">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-278658701" class="vote-count">1</span>
+              <a id="btn-278658701" href="" class="j a_show_login" data-cid="278658701">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/stillwaters1989/">临江仙</a>
+          <a class="comment-time" href="/comment/278658701">2010-08-05 00:16:13</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">不喜该版本，字太小。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=278658701"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="687088549">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-687088549" class="vote-count">22</span>
+              <a id="btn-687088549" href="" class="j a_show_login" data-cid="687088549">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/wayne8/">商夏</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/687088549">2013-05-31 17:18:01</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">读过两遍，第一遍耗时一年。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=687088549"></div>
+    </div>
+  </li>
+
+      </ul>
+  </div>
+
+        
+  
+  <div class="comment-list time noshow" id="time">
+      <ul>
+          
+  <li class="comment-item" data-cid="3966471761">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3966471761" class="vote-count">0</span>
+              <a id="btn-3966471761" href="" class="j a_show_login" data-cid="3966471761">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/152727003/">tongwandou</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/3966471761">2023-10-18 22:24:12</a>
+          <span class="comment-location">云南</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">初看觉得黛玉气性大，后来才发觉，黛玉是唯一的真性情，可怜可悲可叹</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=3966471761"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3946699578">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3946699578" class="vote-count">0</span>
+              <a id="btn-3946699578" href="" class="j a_show_login" data-cid="3946699578">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/xmpoppy/">鹹粥重訪零陵路</a>
+          <a class="comment-time" href="/comment/3946699578">2023-09-30 03:54:52</a>
+          <span class="comment-location">江苏</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">家裡有一本這個版 小時候不愛看長這樣的書⋯今天一打開看見前言 震驚到⋯</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=3946699578"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3945183739">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3945183739" class="vote-count">0</span>
+              <a id="btn-3945183739" href="" class="j a_show_login" data-cid="3945183739">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/200761248/">羽落清琴</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/3945183739">2023-09-28 17:42:43</a>
+          <span class="comment-location">天津</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">传承家父的版本，有厚重感</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=3945183739"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3858588903">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3858588903" class="vote-count">0</span>
+              <a id="btn-3858588903" href="" class="j a_show_login" data-cid="3858588903">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/165134976/">禾方玩</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/3858588903">2023-09-17 08:14:09</a>
+          <span class="comment-location">山西</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">读一遍即知它的伟大，遂知小说应无一字赘言</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=3858588903"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3929189261">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3929189261" class="vote-count">0</span>
+              <a id="btn-3929189261" href="" class="j a_show_login" data-cid="3929189261">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/1922447/">贞观</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/3929189261">2023-09-11 20:32:58</a>
+          <span class="comment-location">广东</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">岳麗书社出的书都很物美价廉，装帧不是很讲究，序言很好。翻阅不下百次，度过30年。文学启蒙，文化启蒙，性灵启蒙的奇书</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/1213945/?comment_id=3929189261"></div>
+    </div>
+  </li>
+
+      </ul>
+  </div>
+
+        
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1213945/comments/">更多短评 2181 条</a></p>
+    <script src="https://img1.doubanio.com/cuphead/book-static/lib/subject-comments/comments-section.js"></script>
+    <script>
+     (function () {
+            if (window.SUBJECT_COMMENTS_SECTION) {
+                // tab handler
+                SUBJECT_COMMENTS_SECTION.createTabHandler();
+                // expand handler
+                SUBJECT_COMMENTS_SECTION.createExpandHandler({
+                    root: document.getElementById('comment-list-wrapper'),
+                });
+                SUBJECT_COMMENTS_SECTION.createVoteHandler({
+                    api: '/j/comment/:id/vote',
+                    root: document.getElementById('comment-list-wrapper'),
+                    voteSelector: '.vote-comment',
+                    textSelector: '.vote-count',
+                    afterVote: function (elem) {
+                        var parentNode = elem.parentNode;
+                        var successElem = document.createElement('span');
+                        successElem.innerHTML = '已投票';
+                        parentNode.removeChild(elem);
+                        parentNode.appendChild(successElem);
+                    }
+                });
+            }
+        })()
+    </script>
+</div>
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/610438fbda6eb614.css">
+
+    <section id="reviews-wrapper" class="reviews mod book-content">
+        <header>
+            
+                <a href="new_review" rel="nofollow" class="create-review redbutt rr "
+                    data-isverify="False"
+                    data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1213945/new_review">
+                    <span>我要写书评</span>
+                </a>
+            <h2>
+                    红楼梦的书评 · · · · · ·
+
+                    <span class="pl">( <a href="reviews">全部 4391 条</a> )</span>
+            </h2>
+        </header>
+        
+            
+            <div class="review_filter">
+                            <a href="javascript:;;" class="cur" data-sort="">热门</a>
+                            <a href="javascript:;;" data-sort="time">最新</a>
+                            <a href="javascript:;;" data-sort="follow">好友</a>
+                        <a href="/subject/1213945/reviews?version=1" data-sort="version">只看本版本的评论</a>
+            </div>
+            <script>
+                var cur_sort = '';
+                $('#reviews-wrapper .review_filter a').on('click', function () {
+                    var sort = $(this).data('sort');
+                    if(sort === cur_sort) return;
+
+                    if(sort === 'follow' && true){
+                        window.location.href = '//www.douban.com/accounts/login?source=movie';
+                        return;
+                    }
+
+                    if($('#reviews-wrapper .review_filter').data('doing')) return;
+                    $('#reviews-wrapper .review_filter').data('doing', true);
+
+                    cur_sort = sort;
+
+                    $('#reviews-wrapper .review_filter a').removeClass('cur');
+                    $(this).addClass('cur');
+
+                    $.getJSON('reviews', { sort: sort }, function(res) {
+                        $('#reviews-wrapper .review-list').remove();
+                        $('#reviews-wrapper [href="reviews?sort=follow"]').parent().remove();
+                        $('#reviews-wrapper .review_filter').after(res.html);
+                        $('#reviews-wrapper .review_filter').data('doing', false);
+                        $('#reviews-wrapper .review_filter').removeData('doing');
+
+                        if (res.count === 0) {
+                            $('#reviews-wrapper .review-list').html('<span class="no-review">你关注的人还没写过长评</span>');
+                        }
+                    });
+                });
+            </script>
+
+
+            
+
+
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="1967305">
+        <div class="main review-item" id="1967305">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/yuyan545/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1025094-38.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/yuyan545/" class="name">亚比煞</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-04-16" class="main-meta">2009-04-16 21:09:38</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/1967305/">与世界的敌对，不等于生命的真诚</a></h2>
+
+                <div id="review_1967305_short" class="review-short" data-rid="1967305">
+                    <div class="short-content">
+
+                        石头记22回，宝钗做生辰，贾府开了梨园会搭台看戏。  “大家娘儿姐妹等说笑时，贾母因问宝钗爱听何戏，爱吃何物等语。宝钗深知贾母年老人，喜热闹戏文，爱吃甜烂之物，便总依贾母贾母往日素喜着说了出来，贾母更加欢悦。”  记得每每有人分析宝钗的性格时，这一段便经常被拿出...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1967305-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1967305_full" class="hidden">
+                    <div id="review_1967305_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1967305" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1967305">
+                                4346
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1967305" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1967305">
+                                349
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/1967305/#comments" class="reply ">542回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1238633">
+        <div class="main review-item" id="1238633">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/Amaranta/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1705851-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/Amaranta/" class="name">慕容小燕子</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2007-11-12" class="main-meta">2007-11-12 22:25:40</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/1238633/">关于被开除的晴雯的一些话</a></h2>
+
+                <div id="review_1238633_short" class="review-short" data-rid="1238633">
+                    <div class="short-content">
+
+                        我又想到了晴雯。这个美丽、聪明的女孩子，最后被撵出去，惨死在肮脏的亲戚家。关于她的被开除，我觉得其中有许多值得自己警觉的东西，也想把想到的告诉我的女朋友们，故写了下面的话。  第一，居其职，就该尽其事。不能懒惰，要勤勤恳恳做事。既然是当丫鬟，领那一份薪水，就...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1238633-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1238633_full" class="hidden">
+                    <div id="review_1238633_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1238633" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1238633">
+                                1956
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1238633" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1238633">
+                                485
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/1238633/#comments" class="reply ">902回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1398932">
+        <div class="main review-item" id="1398932">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/fengxifengxi/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u2024660-129.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/fengxifengxi/" class="name">刀叢中的小詩</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-06-05" class="main-meta">2008-06-05 00:59:13</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/1398932/">【握红小札】结语：一个人的爱与死</a></h2>
+
+                <div id="review_1398932_short" class="review-short" data-rid="1398932">
+                    <div class="short-content">
+
+                        《握红小札：闲读红楼》豆瓣主页链接：  http://book.douban.com/subject/5913966/   个人是存在于社会之中的，这是不争的事实。他在孤独中生活和死亡，就像伊凡·伊里奇一样。我认为牺牲参予来强调孤绝，要比牺牲孤绝来强调社会情感来得高贵美丽得多。 　　 　　 ——题记 　...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1398932-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1398932_full" class="hidden">
+                    <div id="review_1398932_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1398932" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1398932">
+                                799
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1398932" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1398932">
+                                63
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/1398932/#comments" class="reply ">164回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1145205">
+        <div class="main review-item" id="1145205">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/jiafeimao/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1046236-37.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/jiafeimao/" class="name">楚平</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2007-04-15" class="main-meta">2007-04-15 17:13:02</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/1145205/">拍不完的石头记，吃不够的红楼梦</a></h2>
+
+                <div id="review_1145205_short" class="review-short" data-rid="1145205">
+                    <div class="short-content">
+
+                        近日，青岛的《满汉全席》节目做“红楼菜”，还特意邀请了演过贾宝玉的欧阳奋强来品尝，倒也是有趣的一个噱头。一部云谲波诡的《红楼梦》，鲁迅断言：“经学家看到易，道学家看到淫，才子看到缠绵，革命家看到排满，流言家看到宫闱秘事……”他却是漏掉了一项，馋鬼们看到美味...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1145205-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1145205_full" class="hidden">
+                    <div id="review_1145205_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1145205" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1145205">
+                                621
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1145205" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1145205">
+                                47
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/1145205/#comments" class="reply ">191回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="5488921">
+        <div class="main review-item" id="5488921">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/kikiya123/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u3309706-59.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/kikiya123/" class="name">卞瓷郎</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2012-07-02" class="main-meta">2012-07-02 20:54:10</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/5488921/">邢岫烟</a></h2>
+
+                <div id="review_5488921_short" class="review-short" data-rid="5488921">
+                    <div class="short-content">
+
+                        大多知道红楼的人，很少会注意邢岫烟这个名字，广大群众更有可能连这三个字里都有两个不会念。她在书里出现的晚，而且疑似酱油，所以总让人有无足轻重之感，就算开口说话，也和空气一般，其存在感之弱几乎可以和迎春打个平手。 说来她最有名的段落就是教会贾宝玉怎么回妙玉的名...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-5488921-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_5488921_full" class="hidden">
+                    <div id="review_5488921_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="5488921" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-5488921">
+                                579
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="5488921" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-5488921">
+                                13
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/5488921/#comments" class="reply ">111回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1210178">
+        <div class="main review-item" id="1210178">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/zage/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1245285-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/zage/" class="name">杂歌</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2007-09-19" class="main-meta">2007-09-19 12:18:18</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1510451/">东方出版社2006版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/1210178/">楼主万岁</a></h2>
+
+                <div id="review_1210178_short" class="review-short" data-rid="1210178">
+                    <div class="short-content">
+
+                        　在某一个夜里，曹霑未必吃的很饱，只窝在坑上发呆。 　那时还没有电脑，这并没有妨碍他发贴的冲动。他在想着过去的那些姑娘，他们一直如影相随，时时轻叩回忆。于是，曹霑决心开始挖一个巨坑。 　他穿上了“曹雪芹”这件马甲，在角落里疯狂的码着字。帖子还没有大清论坛的斑...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1210178-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1210178_full" class="hidden">
+                    <div id="review_1210178_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1210178" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1210178">
+                                422
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1210178" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1210178">
+                                17
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/1210178/#comments" class="reply ">130回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2672337">
+        <div class="main review-item" id="2672337">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/1207019/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1207019-12.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/1207019/" class="name">柏邦妮</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-10-31" class="main-meta">2009-10-31 14:36:01</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2672337/">万事万物都是神奇的入口</a></h2>
+
+                <div id="review_2672337_short" class="review-short" data-rid="2672337">
+                    <div class="short-content">
+
+                        万事万物都是神奇的入口  柏邦妮  一 你不用强迫自己喜欢名著 在我的少年时代，我没有真的爱上《红楼梦》。就是现在，我相信，我对《红楼梦》的痴迷程度，恐怕远远比不上很多人。当时的我，为此感到害怕，羞愧。  在文学名著之中，恐怕很少有这样一部作品，排到了第一的位置。...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2672337-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2672337_full" class="hidden">
+                    <div id="review_2672337_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2672337" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2672337">
+                                330
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2672337" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2672337">
+                                27
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2672337/#comments" class="reply ">77回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="4537935">
+        <div class="main review-item" id="4537935">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/renshengwuliao/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u3052789-62.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/renshengwuliao/" class="name">人生无聊才读书</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2010-12-20" class="main-meta">2010-12-20 14:02:50</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/4537935/">性交家与意淫者：西门庆与贾宝玉的生死爱欲</a></h2>
+
+                <div id="review_4537935_short" class="review-short" data-rid="4537935">
+                    <div class="short-content">
+
+                        女人是世界最美丽的存在。有时比花朵与河流还要美。男人的工作，就是保存、保养、保护与享受这种美丽。美丽的东西，才能滋养男人，把他从西门庆脱胎换骨为贾宝玉。所以，你看，只有三种男人。一种是西门庆，一种是贾宝玉，另外一种是处在他们中间的。中间的男人是大多数，西门...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-4537935-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_4537935_full" class="hidden">
+                    <div id="review_4537935_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="4537935" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-4537935">
+                                321
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="4537935" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-4537935">
+                                24
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/4537935/#comments" class="reply ">43回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="7673862">
+        <div class="main review-item" id="7673862">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/luhua/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1329080-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/luhua/" class="name">芦哲峰</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2015-11-28" class="main-meta">2015-11-28 11:38:48</span>
+
+
+            <span class="publisher right">
+                <a class="publisher" target="_blank" href="https://book.douban.com/subject/1007305/">人民文学出版社1996版</a>
+            </span>
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/7673862/">醉爱红楼：品红小札</a></h2>
+
+                <div id="review_7673862_short" class="review-short" data-rid="7673862">
+                    <div class="short-content">
+
+                        1、女娲 《红楼梦》一书从女娲补天这一古老神话开始，敷演出一段故事。这一神话的引入，就奠定了本书的基调，和西方之《浮士德》异曲同工，表达了“永恒之女性，引导人类上升”的主题。 2、行二 宝玉叫宝二爷，贾琏叫琏二爷，贾芸叫芸二爷，贾蔷叫蔷二爷，柳湘莲叫柳二爷，醉金...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-7673862-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_7673862_full" class="hidden">
+                    <div id="review_7673862_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="7673862" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-7673862">
+                                330
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="7673862" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-7673862">
+                                37
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/7673862/#comments" class="reply ">61回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script type="text/javascript">
+        (function() {
+            if (window.__init_review_list) return;
+            __init_review_list = true;
+        })();
+        window.useful_icon = "https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png";
+        window.usefuled_icon = "https://img1.doubanio.com/f/zerkalo/635290bb14771c97270037be21ad50514d57acc3/pics/up-full.png";
+        window.useless_icon = "https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png";
+        window.uselessed_icon = "https://img1.doubanio.com/f/zerkalo/23cee7343568ca814238f5ef18bf8aadbe959df2/pics/down-full.png";
+    </script>
+
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/zerkalo/3aeb281ab0e4f2c7050458684acfeb6838441de9/css/review/editor/ng/setting_standalone.css">
+    <script src="https://img1.doubanio.com/f/zerkalo/938cdbe2e223a3117cbbcb4929cae2001b402c20/js/review/editor/ng/manifest.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/296cd5fec472a78add5fee958c58d72f47d91586/js/review/editor/ng/vendor.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8a6f99feb702ed3c956a552c1b978285dcfdf7d9/js/review/editor/ng/setting_standalone.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8941af7854ddad9561648b706cdb49f3d1534ff3/js/review/editor/ng/render_gif.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/ad32b4b739a59a90e9e3437fd2fba797dd7c26f2/js/review/actions.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/7196bdec780f03785f55b06fda34999595057f65/js/review/unfold.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+                <p class="pl">
+                    &gt;
+                        <a href="reviews">
+                            更多书评
+                                4391篇
+                        </a>
+                </p>
+    </section>
+<!-- COLLECTED JS -->
+
+  
+<div class="annotation">
+</div>
+
+<script>
+  $('document').ready(function () {
+    $.get(`/subject/1213945/annotation_html`, function (r) {
+      $('.annotation').html(r.html);
+    });
+  });
+</script>
+
+  
+    
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+    
+  
+
+  <h2>
+    <span>论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/1213945/discussion/637389445/" title="狂飙">狂飙</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/haoyufeng233/">momo</a></td>
+            <td class="pl"><span>1 回应</span></td>
+            <td class="pl"><span>2023-03-15 02:22:36</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/1213945/discussion/616624485/" title="不知道你们读的有没有感觉纸黄薄 质量感觉一般般.....">不知道你们读的有没有感觉纸黄薄 质量感觉一般般.....</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/lovemech/">吃就吃吧🌈</a></td>
+            <td class="pl"><span>2 回应</span></td>
+            <td class="pl"><span>2021-05-23 11:27:11</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/1213945/discussion/20762067/" title="我最初读的就是这个版本">我最初读的就是这个版本</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/1350069/">平和简静</a></td>
+            <td class="pl"><span>29 回应</span></td>
+            <td class="pl"><span>2019-07-29 18:48:14</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/1213945/discussion/21933070/" title="通行本与古本的差别">通行本与古本的差别</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/34757361/">Crystal</a></td>
+            <td class="pl"><span>5 回应</span></td>
+            <td class="pl"><span>2018-10-28 13:24:49</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/1213945/discussion/1102436/" title="封面不错！">封面不错！</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/wedichi/">Altynbekova</a></td>
+            <td class="pl"><span>10 回应</span></td>
+            <td class="pl"><span>2017-08-24 14:01:43</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1213945/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+
+  
+</div>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+  <link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/cart/presale.3f3fa.css">
+  <link rel="stylesheet" href="https://img2.doubanio.com/cuphead/book-static/cart/buyinfo.c90fe.css">
+
+  <div class="gray_ad buyinfo" id="buyinfo">
+      
+  <div class="add2cartContainer no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/accounts/passport/login?source=book" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+
+<script>
+  $(document).ready(function() {
+    $('.impression_track_mod_buyinfo').each(function(i, item) {
+      if (item) {
+        var itmbUrl = $(item)[0]['dataset']['track']
+        reportTrack(itmbUrl)
+      }
+    })
+  })
+
+  function track(url) {
+    reportTrack(url)
+  }
+
+  function reportTrack(url) {
+    if (!url) { return false }
+    $.ajax({ url: url, dataType: 'text/html' })
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/works.4fdcb.css">
+
+
+<div class="gray_ad version_works">
+  
+  
+
+  <h2>
+    <span>这本书的其他版本</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1085237">全部208</a>
+        ) </span>
+
+  </h2>
+
+
+  <ul>
+      
+      <li class="mb8 pl">
+        <div class="meta-wrapper">
+          <div class="meta">
+            <a href="https://book.douban.com/subject/1007305/">人民文学出版社 （1996）</a>
+            <div class="count">
+              <span>9.6分</span> 658120人读过
+            </div>
+          </div>
+
+            <div class="fold-btn">
+               <a href="javascript:void(0);"><span>展开</span>有售 (5)</a>
+            </div>
+        </div>
+
+        <ul class="buyinfo" style="display: none;">
+          
+  <ul class="bs current-version-list">
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://read.douban.com/bundle/169371278/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>豆瓣阅读</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://read.douban.com/bundle/169371278/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+    36.00元
+
+                        
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://read.douban.com/bundle/169371278/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" class="buy-book-btn e-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买电子书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RRar08XDBK9qZpgkRELd75z4Ma6oDRrqjY&amp;source=douban" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>得到</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RRar08XDBK9qZpgkRELd75z4Ma6oDRrqjY&amp;source=douban" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        22.99元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RRar08XDBK9qZpgkRELd75z4Ma6oDRrqjY&amp;source=douban" class="buy-book-btn e-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买电子书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3801&amp;pos=3&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGloUVAUHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVV9UC04THDZNRwYlC2R5XTcDSQx0eydKexJiBGJrECg0eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEHXFlZDkwUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVNsCQBYUxFWWSxmHl0XXAEEUG5fCUoVAV84KzsdNkViNAUOfRsfS28MTiJJC2RWIyYBcSUVYRoOEw1WOnp3Agg9AE9gWyc4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>京东商城</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3801&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGloUVAUHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVV9UC04THDZNRwYlC2R5XTcDSQx0eydKexJiBGJrECg0eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEHXFlZDkwUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVNsCQBYUxFWWSxmHl0XXAEEUG5fCUoVAV84KzsdNkViNAUOfRsfS28MTiJJC2RWIyYBcSUVYRoOEw1WOnp3Agg9AE9gWyc4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        38.01元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3801&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGloUVAUHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVV9UC04THDZNRwYlC2R5XTcDSQx0eydKexJiBGJrECg0eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEHXFlZDkwUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVNsCQBYUxFWWSxmHl0XXAEEUG5fCUoVAV84KzsdNkViNAUOfRsfS28MTiJJC2RWIyYBcSUVYRoOEw1WOnp3Agg9AE9gWyc4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2990&amp;pos=4&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D102771&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>当当网</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2990&amp;pos=1&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D102771&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        29.90元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2990&amp;pos=1&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D102771&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=9600&amp;pos=5&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000001117255%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000001117255%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>咪咕云书店</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=9600&amp;pos=1&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000001117255%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000001117255%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        96.00元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=9600&amp;pos=1&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000001117255%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000001117255%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+  </ul>
+
+
+          
+  <ul class="secondhand-books-list bs">
+</ul>
+
+        </ul>
+      </li>
+      
+      <li class="mb8 pl">
+        <div class="meta-wrapper">
+          <div class="meta">
+            <a href="https://book.douban.com/subject/1370809/">Penguin Classics （1974）</a>
+            <div class="count">
+              <span>9.4分</span> 152人读过
+            </div>
+          </div>
+
+        </div>
+
+        <ul class="buyinfo" style="display: none;">
+          
+  <ul class="bs current-version-list">
+  </ul>
+
+
+          
+  <ul class="secondhand-books-list bs">
+</ul>
+
+        </ul>
+      </li>
+      
+      <li class="mb8 pl">
+        <div class="meta-wrapper">
+          <div class="meta">
+            <a href="https://book.douban.com/subject/30137806/">人民文学出版社 （2018）</a>
+            <div class="count">
+              <span>9.8分</span> 141841人读过
+            </div>
+          </div>
+
+            <div class="fold-btn">
+               <a href="javascript:void(0);"><span>展开</span>有售 (3)</a>
+            </div>
+        </div>
+
+        <ul class="buyinfo" style="display: none;">
+          
+  <ul class="bs current-version-list">
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=20940&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFgdVQYAV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV1ZVCEkUHDZNRwYlLwQCXFdDeBV3ZDtebQlLAEMYMxcJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXV1ZDkwRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCQBYUA0fS2dmH1oXWA4AVW5fCUoVAV84KwcSHGVmNDsNWjcQUW97HA5wJGAGPV0PSSUVXiR6HDN2KgBQLScBDxJncCo4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>京东商城</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=20940&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFgdVQYAV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV1ZVCEkUHDZNRwYlLwQCXFdDeBV3ZDtebQlLAEMYMxcJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXV1ZDkwRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCQBYUA0fS2dmH1oXWA4AVW5fCUoVAV84KwcSHGVmNDsNWjcQUW97HA5wJGAGPV0PSSUVXiR6HDN2KgBQLScBDxJncCo4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        209.40元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=20940&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFgdVQYAV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV1ZVCEkUHDZNRwYlLwQCXFdDeBV3ZDtebQlLAEMYMxcJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXV1ZDkwRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCQBYUA0fS2dmH1oXWA4AVW5fCUoVAV84KwcSHGVmNDsNWjcQUW97HA5wJGAGPV0PSSUVXiR6HDN2KgBQLScBDxJncCo4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=14300&amp;pos=2&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25216995&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>当当网</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=14300&amp;pos=1&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25216995&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        143.00元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=14300&amp;pos=1&amp;url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1213945%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25216995&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dangdang&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=28800&amp;pos=3&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000000584588%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000000584588%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>咪咕云书店</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=28800&amp;pos=1&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000000584588%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000000584588%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        288.00元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=migu_zhongxin&amp;srcpage=subject&amp;price=28800&amp;pos=1&amp;url=http%3A%2F%2Fcitic.cmread.com%2FzxHtml%2Fhtml%2FpaperBookDetailShare.html%3FpaperBookId%3D100000000000584588%26btype%3D2%26cm%3DZ0050017%26useName%3Dzx_citicwap_Z0050017%26uid%3Dzs_2_100000000000584588%26channel%3Ddouban&amp;link2key=d0cff56be4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=migu_zhongxin&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+  </ul>
+
+
+          
+  <ul class="secondhand-books-list bs">
+</ul>
+
+        </ul>
+      </li>
+      
+      <li class="mb8 pl">
+        <div class="meta-wrapper">
+          <div class="meta">
+            <a href="https://book.douban.com/subject/27053166/">三秦出版社 （2016）</a>
+            <div class="count">
+              <span>9.7分</span> 59234人读过
+            </div>
+          </div>
+
+            <div class="fold-btn">
+               <a href="javascript:void(0);"><span>展开</span>有售 (3)</a>
+            </div>
+        </div>
+
+        <ul class="buyinfo" style="display: none;">
+          
+  <ul class="bs current-version-list">
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://read.douban.com/ebook/37994332/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>豆瓣阅读</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://read.douban.com/ebook/37994332/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+    12.99元
+
+                        
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://read.douban.com/ebook/37994332/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1213945" class="buy-book-btn e-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=douban_read&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买电子书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://www.dedao.cn/ebook/detail?id=zJblNOdGPBpZdjEgmN4JLq7yaRvKV206Rm01roMz6xYX5QDG8l9bnOeAkey1g25L&amp;source=douban" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>得到</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://www.dedao.cn/ebook/detail?id=zJblNOdGPBpZdjEgmN4JLq7yaRvKV206Rm01roMz6xYX5QDG8l9bnOeAkey1g25L&amp;source=douban" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        12.99元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://www.dedao.cn/ebook/detail?id=zJblNOdGPBpZdjEgmN4JLq7yaRvKV206Rm01roMz6xYX5QDG8l9bnOeAkey1g25L&amp;source=douban" class="buy-book-btn e-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=dedao&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买电子书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+      </li>
+      
+      <li>
+        
+
+            
+              <div class="cell price-btn-wrapper">
+                <div class="vendor-name">
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=12900&amp;pos=3&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFoTWwIHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVhbDE4eHDZNRwYlCF8FXDgJfjF1HXV2Twh8X2VbVS4feEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXVZdDEoSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVFsCQBYUAJJXT1mHl4TVQMEUW5fCUoVAV84KxtSBEJSFxUfTx9QWThhQj1vG0MENw4NXiUQQykBXAlRInN0PRgdTylldxY4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                    <span>京东商城</span>
+                  </a>
+                </div>
+
+                <div class="cell impression_track_manually" data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject">
+                  <div class="cell price-wrapper">
+                    <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=12900&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFoTWwIHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVhbDE4eHDZNRwYlCF8FXDgJfjF1HXV2Twh8X2VbVS4feEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXVZdDEoSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVFsCQBYUAJJXT1mHl4TVQMEUW5fCUoVAV84KxtSBEJSFxUfTx9QWThhQj1vG0MENw4NXiUQQykBXAlRInN0PRgdTylldxY4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span class="buylink-price ">
+                        
+                        129.00元
+                      </span>
+                    </a>
+
+                  </div>
+
+                  <div class="cell">
+                    <a href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=12900&amp;pos=1&amp;url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwQLU1hdCE8QC18IGFoTWwIHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVhbDE4eHDZNRwYlCF8FXDgJfjF1HXV2Twh8X2VbVS4feEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHFMcXQEAXVZdDEoSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVFsCQBYUAJJXT1mHl4TVQMEUW5fCUoVAV84KxtSBEJSFxUfTx9QWThhQj1vG0MENw4NXiUQQykBXAlRInN0PRgdTylldxY4&amp;srcsubj=1213945&amp;type=bkbuy&amp;subject=1213945" class="buy-book-btn paper-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=1213945&amp;isbn=7805200327&amp;source=jingdong&amp;user_id=&amp;bid=xSf-ODk9-q0&amp;platform=pc&amp;location=vendor_subject')">
+                      
+                      <span>购买纸质书</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+                
+  
+
+      </li>
+  </ul>
+
+
+          
+  <ul class="secondhand-books-list bs">
+</ul>
+
+        </ul>
+      </li>
+  </ul>
+</div>
+
+<script>
+  $(document).ready(function() {
+    $('.fold-btn a').click(function() {
+      var $btn = $(this).find('span');
+      var $target = $(this).parents('.meta-wrapper').eq(0).next('.buyinfo');
+      if ($target.is(':visible')) {
+        $target.css('display', 'none');
+        $btn.text('展开');
+      } else {
+        $target.css('display', 'flex');
+        $btn.text('收起');
+
+        // track
+        if (!($target.attr('data-exposed'))) {
+          $target.find('.impression_track_manually').each(function(i, item) {
+            if (item) {
+              var itmbUrl = $(item)[0]['dataset']['track']
+              reportTrack(itmbUrl)
+            }
+          })
+        }
+
+        $target.attr('data-exposed', true);
+      }
+    })
+  })
+</script>
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span>在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-80520-032-7&amp;subject=7805200327&amp;type=borrow&amp;library=10007&amp;link2key=d0cff56be4" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7805200327&amp;subject=7805200327&amp;type=borrow&amp;library=10001&amp;link2key=d0cff56be4" target="_blank">上海图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D7805200327%26strSearchType%3Disbn&amp;subject=7805200327&amp;type=borrow&amp;library=10002&amp;link2key=d0cff56be4" target="_blank">吉林省图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  
+    
+
+
+
+  
+  
+
+  <h2>
+    <span>以下书单推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1213945/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+  <div id="db-doulist-section" class="indent">
+    <ul class="bs">
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/38391562/" target="_blank">书单 | 千评9分书</a>
+                <span class="pl">(Sheryl)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/43621091/" target="_blank">豆瓣图书TOP250（旧版保存！2013.06）</a>
+                <span class="pl">(efans)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/1681326/" target="_blank">【个人】《冬吴相对论》参考书目</a>
+                <span class="pl">(丁文元和王德成)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/20172127/" target="_blank">闲着没事读读书（四）</a>
+                <span class="pl">(鹿小羽)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/1364866/" target="_blank">豆瓣高分读书榜</a>
+                <span class="pl">(smile)</span>
+            </li>
+    </ul>
+  </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+    
+
+
+
+
+
+  
+  
+
+  <h2>
+    <span>谁读这本书?</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div id="collector">
+  
+
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/2334026/"><img src="https://img1.doubanio.com/icon/u2334026-8.jpg" alt="寂静夜空" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/2334026/">寂静夜空</a><br/>
+      <div class="pl ll">          10月22日          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/79963345/"><img src="https://img1.doubanio.com/icon/u79963345-9.jpg" alt="LITTLE焘" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/79963345/">LITTLE焘</a><br/>
+      <div class="pl ll">          10月21日          想读      </div>
+
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/221498802/"><img src="https://img2.doubanio.com/icon/u221498802-1.jpg" alt="爱笑" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/221498802/">爱笑</a><br/>
+      <div class="pl ll">          10月20日          想读      </div>
+
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/152727003/"><img src="https://img9.doubanio.com/icon/u152727003-4.jpg" alt="tongwandou" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/152727003/">tongwandou</a><br/>
+      <div class="pl ll">          10月18日          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/1213945/comments?status=N">1097人在读</a></p>
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/1213945/comments?status=P">14859人读过</a></p>
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/1213945/comments?status=F">2949人想读</a></p>
+
+</div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+    
+
+
+
+
+
+
+<h2>
+  
+  
+
+  <h2>
+    <span>二手市场</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+</h2>
+<div class="indent">
+  <ul class="bs">
+  <li class="">
+      <a class=" " href="https://book.douban.com/subject/1213945/offers">2本二手书欲转让</a>
+        <span class="">
+          (1.00
+              至 20.00元)
+        </span>
+    </li>
+    <li>
+        <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>在豆瓣转让</span></a>
+
+      有2949人想读，手里有一本闲着?
+    </li>
+  </ul>
+</div>
+
+  
+<p class="pl">订阅关于红楼梦的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1213945/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2023 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+      
+
+    <script type="text/javascript">
+    $(function(){
+      $('.add2cartWidget').each(function() {
+        var add2CartBtn = $(this).find('.add2cart');
+        var inCartHint = $(this).find('.book-in-cart');
+        var deleteBtn = inCartHint.find('.delete-cart-item');
+
+        deleteBtn.click(function(e) {
+          e.preventDefault();
+          $.post_withck('/cart', {remove: this.rel}, function() {
+            add2CartBtn.show();
+            inCartHint.hide();
+          });
+        });
+      });
+    });
+  </script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'xSf-ODk9-q0',
+            criteria = '7:红楼梦|7:曹雪芹|7:古典文学|7:小说|7:古典名著|7:经典|7:中国|7:文学|7:名著|7:中国文学|3:/subject/1213945/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/aHF4dWV0OC9mL2FkanMvYzQyYzU5YWEwNWM4YTkyOTE3Y2UzM2RkZGEwZDk0OWYwZGM0YjVjNC9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+  <script src="https://img1.doubanio.com/f/vendors/8d311a1defb6b721d73cfb891924c13c06af631b/js/ui/fix_aside.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $().fixSide(200, 52);
+    });
+  </script>
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dae-web-book--default-8648d6889f-fdjxt-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

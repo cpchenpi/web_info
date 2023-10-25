@@ -1,0 +1,3581 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        蜘蛛侠2 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2006 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="https://img1.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img1.doubanio.com/f/vendors/02814fbb5bee25484516bd0a642af695f7ec5a83/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/vendors/ee6598d46af0bc554cecec9bcbf525b9b0582cb0/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/movie/cb1cb6aaa244dff6a281d103ff26d445debd130a/dist/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/aa9559674f2476cdc16f755b3cdc4ebc478db669/js/douban.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="蜘蛛侠2,Spider-Man 2,蜘蛛侠2影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="蜘蛛侠2电影简介和剧情介绍,蜘蛛侠2影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/movie/subject/1308570/"/>
+    <link rel="alternate" href="android-app://com.douban.movie/doubanmovie/subject/1308570/" />
+    <link rel="stylesheet" href="https://img1.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/ea46c1bbb13fe495ccb639fd815b628ba32df4c5/dist/movie/common/show.css">
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "name": "蜘蛛侠2 Spider-Man 2",
+  "url": "/subject/1308570/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027159/",
+      "name": "山姆·雷米 Sam Raimi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013888/",
+      "name": "斯坦·李 Stan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041593/",
+      "name": "史蒂夫·迪特寇 Steve Ditko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023078/",
+      "name": "艾尔弗雷德·高福 Alfred Gough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372971/",
+      "name": "迈尔斯·米勒 Miles Millar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018401/",
+      "name": "迈克尔·夏邦 Michael Chabon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000667/",
+      "name": "阿尔文·萨金特 Alvin Sargent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047997/",
+      "name": "托比·马奎尔 Tobey Maguire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054429/",
+      "name": "克斯汀·邓斯特 Kirsten Dunst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017897/",
+      "name": "阿尔弗雷德·莫里纳 Alfred Molina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049737/",
+      "name": "罗斯玛丽·哈里斯 Rosemary Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147911/",
+      "name": "J·K·西蒙斯 J.K. Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031857/",
+      "name": "唐纳·墨菲 Donna Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032035/",
+      "name": "丹尼尔·吉里斯 Daniel Gillies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027874/",
+      "name": "迪伦·贝克 Dylan Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027407/",
+      "name": "比尔·努恩 Bill Nunn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013869/",
+      "name": "范妮莎·费丽托 Vanessa Ferlito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031879/",
+      "name": "阿西夫·曼德维 Aasif Mandvi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010539/",
+      "name": "威廉·达福 Willem Dafoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049774/",
+      "name": "克里夫·罗伯逊 Cliff Robertson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036535/",
+      "name": "泰德·雷米 Ted Raimi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069816/",
+      "name": "布鲁斯·坎贝尔 Bruce Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013888/",
+      "name": "斯坦·李 Stan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004571/",
+      "name": "伊丽莎白·班克斯 Elizabeth Banks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040560/",
+      "name": "乔尔·麦克哈尔 Joel McHale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027159/",
+      "name": "山姆·雷米 Sam Raimi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027304/",
+      "name": "哈尔·斯帕克斯 Hal Sparks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027148/",
+      "name": "艾米丽·丹斯切尔 Emily Deschanel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027288/",
+      "name": "布兰娜·布朗 Brianna Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315291/",
+      "name": "佩顿·李斯特 Peyton R. List"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025259/",
+      "name": "约翰·兰迪斯 John Landis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022618/",
+      "name": "金大贤 Daniel Dae Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156672/",
+      "name": "邦妮· 萨默维尔 Bonnie Somerville"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088984/",
+      "name": "里德·戴蒙德 Reed Diamond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027231/",
+      "name": "乔伊·布赖恩特 Joy Bryant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173436/",
+      "name": "马吉纳·托娃 Mageina Tovah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019143/",
+      "name": "布兰特·布里斯科 Brent Briscoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007036/",
+      "name": "菲尔·拉马 Phil LaMarr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014264/",
+      "name": "斯科特·斯皮格尔 Scott Spiegel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117237/",
+      "name": "皮特·麦克罗比 Peter McRobbie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032342/",
+      "name": "莫莉·曲克 Molly Cheek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319856/",
+      "name": "斯宾塞·李斯特 Spencer List"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085830/",
+      "name": "克里斯汀·艾斯布鲁克 Christine Estabrook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320630/",
+      "name": "金锋 Feng Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077601/",
+      "name": "张欣迪 Cindy Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277946/",
+      "name": "乔安娜·巴隆 Joanne Baron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321045/",
+      "name": "路易斯·隆巴迪 Louis Lombardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194575/",
+      "name": "罗肖恩·费根 Roshon Fegan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089306/",
+      "name": "格雷格·埃德尔曼 Gregg Edelman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174393/",
+      "name": "克洛伊·戴克斯特拉 Chloe Dykstra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066916/",
+      "name": "埃利亚·巴斯金 Elya Baskin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108991/",
+      "name": "马克·约翰·杰弗瑞 Marc John Jefferies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278550/",
+      "name": "安妮·贝坦克特 Anne Betancourt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009911/",
+      "name": "克劳迪娅·卡茨 Claudia Katz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300460/",
+      "name": "加雷特·瓦伦 Garrett Warren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298525/",
+      "name": "Tim Storms Tim Storms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293965/",
+      "name": "苏西·帕克 Susie Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164447/",
+      "name": "卢·沃尔普 Lou Volpe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169288/",
+      "name": "罗蕾莱·李 Lorelei Llee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1140611/",
+      "name": "Jill Sayre Jill Sayre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068219/",
+      "name": "Vince Cupone Vince Cupone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080433/",
+      "name": "法布里奇奥·范特 Fabrizio Fante"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096157/",
+      "name": "丹·希克斯 Dan Hicks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073090/",
+      "name": "比尔·卡尔弗特 Bill Calvert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109853/",
+      "name": "蒂莫西·杰尔姆 Timothy Jerome"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071401/",
+      "name": "Kelly Connell Kelly Connell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176588/",
+      "name": "Scott Skversky Scott Skversky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180652/",
+      "name": "菲利普·格拉姆 Phillip Gramm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223894/",
+      "name": " Peter Cincotti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245189/",
+      "name": " Ken Wharton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253680/",
+      "name": " Christopher Porto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260435/",
+      "name": " John Thurner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217380/",
+      "name": "Jopaul Epp Jopaul Epp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183478/",
+      "name": "Weston Epp Weston Epp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190132/",
+      "name": "特洛伊·梅特卡夫 Troy Metcalf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033778/",
+      "name": "Mohammed Hassan Mohammed Hassan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213000/",
+      "name": "Damian Bailey Damian Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460375/",
+      "name": "卡尔文·迪恩 Calvin Dean"
+    }
+  ]
+,
+  "datePublished": "2004-06-30",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT2H7M",
+  "description": "大战绿妖之后，蜘蛛侠帕克（托比•马奎尔 Tobey Maguire 饰）忍痛拒绝了他唯一的挚爱玛丽（克尔斯滕•邓斯特 Kirsten Dunst 饰），因为蜘蛛侠的身份会为自己和亲人带来巨大危险，帕克...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "285435",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}
+</script>
+
+    
+    
+    <meta property="og:title" content="蜘蛛侠2 Spider-Man 2" />
+    <meta property="og:description" content="大战绿妖之后，蜘蛛侠帕克（托比•马奎尔 Tobey Maguire 饰）忍痛拒绝了他唯一的挚爱玛丽（克尔斯滕•邓斯特 Kirsten Dunst 饰），因为蜘蛛侠的身份会为自己和亲人带来巨大危险，帕克..." />
+    <meta property="og:site_name" content="豆瓣" />
+    <meta property="og:url" content="https://movie.douban.com/subject/1308570/" />
+    <meta property="og:image" content="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg" />
+    <meta property="og:type" content="video.movie" />
+            <meta property="video:actor" content="托比·马奎尔" />
+            <meta property="video:actor" content="克斯汀·邓斯特" />
+            <meta property="video:actor" content="詹姆斯·弗兰科" />
+            <meta property="video:actor" content="阿尔弗雷德·莫里纳" />
+            <meta property="video:actor" content="罗斯玛丽·哈里斯" />
+            <meta property="video:actor" content="J·K·西蒙斯" />
+            <meta property="video:actor" content="唐纳·墨菲" />
+            <meta property="video:actor" content="丹尼尔·吉里斯" />
+            <meta property="video:actor" content="迪伦·贝克" />
+            <meta property="video:actor" content="比尔·努恩" />
+            <meta property="video:actor" content="范妮莎·费丽托" />
+            <meta property="video:actor" content="阿西夫·曼德维" />
+            <meta property="video:actor" content="威廉·达福" />
+            <meta property="video:actor" content="克里夫·罗伯逊" />
+            <meta property="video:actor" content="泰德·雷米" />
+            <meta property="video:actor" content="布鲁斯·坎贝尔" />
+            <meta property="video:actor" content="斯坦·李" />
+            <meta property="video:actor" content="伊丽莎白·班克斯" />
+            <meta property="video:actor" content="乔尔·麦克哈尔" />
+            <meta property="video:actor" content="山姆·雷米" />
+            <meta property="video:actor" content="哈尔·斯帕克斯" />
+            <meta property="video:actor" content="艾米丽·丹斯切尔" />
+            <meta property="video:actor" content="布兰娜·布朗" />
+            <meta property="video:actor" content="佩顿·李斯特" />
+            <meta property="video:actor" content="约翰·兰迪斯" />
+            <meta property="video:actor" content="金大贤" />
+            <meta property="video:actor" content="邦妮· 萨默维尔" />
+            <meta property="video:actor" content="里德·戴蒙德" />
+            <meta property="video:actor" content="乔伊·布赖恩特" />
+            <meta property="video:actor" content="马吉纳·托娃" />
+            <meta property="video:actor" content="布兰特·布里斯科" />
+            <meta property="video:actor" content="菲尔·拉马" />
+            <meta property="video:actor" content="斯科特·斯皮格尔" />
+            <meta property="video:actor" content="皮特·麦克罗比" />
+            <meta property="video:actor" content="莫莉·曲克" />
+            <meta property="video:actor" content="斯宾塞·李斯特" />
+            <meta property="video:actor" content="克里斯汀·艾斯布鲁克" />
+            <meta property="video:actor" content="金锋" />
+            <meta property="video:actor" content="张欣迪" />
+            <meta property="video:actor" content="乔安娜·巴隆" />
+            <meta property="video:actor" content="路易斯·隆巴迪" />
+            <meta property="video:actor" content="罗肖恩·费根" />
+            <meta property="video:actor" content="格雷格·埃德尔曼" />
+            <meta property="video:actor" content="克洛伊·戴克斯特拉" />
+            <meta property="video:actor" content="埃利亚·巴斯金" />
+            <meta property="video:actor" content="马克·约翰·杰弗瑞" />
+            <meta property="video:actor" content="安妮·贝坦克特" />
+            <meta property="video:actor" content="克劳迪娅·卡茨" />
+            <meta property="video:actor" content="加雷特·瓦伦" />
+            <meta property="video:actor" content="Tim Storms" />
+            <meta property="video:actor" content="苏西·帕克" />
+            <meta property="video:actor" content="卢·沃尔普" />
+            <meta property="video:actor" content="罗蕾莱·李" />
+            <meta property="video:actor" content="Jill Sayre" />
+            <meta property="video:actor" content="Vince Cupone" />
+            <meta property="video:actor" content="法布里奇奥·范特" />
+            <meta property="video:actor" content="丹·希克斯" />
+            <meta property="video:actor" content="比尔·卡尔弗特" />
+            <meta property="video:actor" content="蒂莫西·杰尔姆" />
+            <meta property="video:actor" content="Kelly Connell" />
+            <meta property="video:actor" content="Scott Skversky" />
+            <meta property="video:actor" content="菲利普·格拉姆" />
+            <meta property="video:actor" content="Peter Cincotti" />
+            <meta property="video:actor" content="Ken Wharton" />
+            <meta property="video:actor" content="Christopher Porto" />
+            <meta property="video:actor" content="John Thurner" />
+            <meta property="video:actor" content="Jopaul Epp" />
+            <meta property="video:actor" content="Weston Epp" />
+            <meta property="video:actor" content="特洛伊·梅特卡夫" />
+            <meta property="video:actor" content="Mohammed Hassan" />
+            <meta property="video:actor" content="Damian Bailey" />
+            <meta property="video:actor" content="卡尔文·迪恩" />
+            <meta property="video:director" content="山姆·雷米" />
+        <meta property="video:duration" content="7620" />
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/258d11dbe634e61b.css">
+
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2022?fullscreen=1&source=navigation"
+     >2022年度榜单</a>
+    </li>
+    <li    ><a href="https://standbyme2022.douban.com/?autorotate=false&fullscreen=true&hidenav=true&source=web_navigation"
+            target="_blank"
+     >2022书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2022?fullscreen=1&source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <h1>
+        <span property="v:itemreviewed">蜘蛛侠2 Spider-Man 2</span>
+            <span class="year">(2004)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="https://movie.douban.com/subject/1308570/photos?type=R" title="点击看更多海报">
+        <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg" title="点击看更多海报" alt="Spider-Man 2" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="/celebrity/1027159/" rel="v:directedBy">山姆·雷米</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="/celebrity/1013888/">斯坦·李</a> / <a href="/celebrity/1041593/">史蒂夫·迪特寇</a> / <a href="/celebrity/1023078/">艾尔弗雷德·高福</a> / <a href="/celebrity/1372971/">迈尔斯·米勒</a> / <a href="/celebrity/1018401/">迈克尔·夏邦</a> / <a href="/celebrity/1000667/">阿尔文·萨金特</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="/celebrity/1047997/" rel="v:starring">托比·马奎尔</a> / <a href="/celebrity/1054429/" rel="v:starring">克斯汀·邓斯特</a> / <a href="/celebrity/1019001/" rel="v:starring">詹姆斯·弗兰科</a> / <a href="/celebrity/1017897/" rel="v:starring">阿尔弗雷德·莫里纳</a> / <a href="/celebrity/1049737/" rel="v:starring">罗斯玛丽·哈里斯</a> / <a href="/celebrity/1147911/" rel="v:starring">J·K·西蒙斯</a> / <a href="/celebrity/1031857/" rel="v:starring">唐纳·墨菲</a> / <a href="/celebrity/1032035/" rel="v:starring">丹尼尔·吉里斯</a> / <a href="/celebrity/1027874/" rel="v:starring">迪伦·贝克</a> / <a href="/celebrity/1027407/" rel="v:starring">比尔·努恩</a> / <a href="/celebrity/1013869/" rel="v:starring">范妮莎·费丽托</a> / <a href="/celebrity/1031879/" rel="v:starring">阿西夫·曼德维</a> / <a href="/celebrity/1010539/" rel="v:starring">威廉·达福</a> / <a href="/celebrity/1049774/" rel="v:starring">克里夫·罗伯逊</a> / <a href="/celebrity/1036535/" rel="v:starring">泰德·雷米</a> / <a href="/celebrity/1069816/" rel="v:starring">布鲁斯·坎贝尔</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">动作</span> / <span property="v:genre">科幻</span> / <span property="v:genre">冒险</span><br/>
+        <span class="pl">官方网站:</span> <a href="http://spiderman.sonypictures.com/" rel="nofollow" target="_blank">http://spiderman.sonypictures.com/</a><br/>
+        <span class="pl">制片国家/地区:</span> 美国<br/>
+        <span class="pl">语言:</span> 英语 / 俄语 / 汉语普通话<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2004-08-05(中国大陆)">2004-08-05(中国大陆)</span> / <span property="v:initialReleaseDate" content="2004-06-30(美国)">2004-06-30(美国)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="127">127分钟</span> / 135分钟(加长版)<br/>
+        <span class="pl">又名:</span> 蜘蛛人2(台)<br/>
+        <span class="pl">IMDb:</span> tt0316654<br>
+
+</div>
+
+
+
+
+                </div>
+                
+                    
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/b9636a640b0525c5be0809d093247e12d39aebbe/dist/movie/download-output-image/index.css">
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v:rating">
+        <div class="clearfix">
+            <div class="rating_logo ll">
+                豆瓣评分
+            </div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="https://img1.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">7.8</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar40"></div>
+        <div class="rating_sum">
+                <a href="comments" class="rating_people">
+                    <span property="v:votes">285435</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:31px"></div>
+        <span class="rating_per">23.0%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">47.1%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:38px"></div>
+        <span class="rating_per">28.1%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:2px"></div>
+        <span class="rating_per">1.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:0px"></div>
+        <span class="rating_per">0.2%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=科幻&type=17&interval_id=100:90&action=">92% 科幻片</a><br/>
+            好于 <a href="/typerank?type_name=动作&type=5&interval_id=100:90&action=">93% 动作片</a><br/>
+        </div>
+</div>
+<script src="https://img1.doubanio.com/f/movie/d9835c2c116dd65ad5f00817337abbb5445486ca/dist/movie/download-output-image/index.js"></script>
+
+
+                
+            </div>
+            
+                
+
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="https://www.douban.com/reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1308570-wish">
+                <span>想看</span>
+            </a>
+            <a href="https://www.douban.com/reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1308570-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img1.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img1.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img1.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1308570-1">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1308570-2">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1308570-3">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1308570-4">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1308570-5">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/>
+        </a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                
+                  <li> 
+    <img src="https://img1.doubanio.com/f/movie/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/movie/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写短评</a>
+ </li>
+                  <li> 
+    
+    <img src="https://img1.doubanio.com/f/movie/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/movie/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-1308570">
+    <a href= "#"
+        data-type="电影"
+        data-url="https://movie.douban.com/subject/1308570/"
+        data-desc="电影《蜘蛛侠2 Spider-Man 2》 (来自豆瓣) "
+        data-title="电影《蜘蛛侠2 Spider-Man 2》 (来自豆瓣) "
+        data-pic="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/b6e0770163b1da14217b0f1ca39189d47b95f51f/js/lib/sharebutton.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/dist/movie/libs/qrcode.min.js"></script>
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("/blank?sbj_page_click=bn_sharing");
+            });
+        });
+    </script>
+</div>
+
+
+
+
+            
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="/j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="1308570">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="蜘蛛侠2 Spider-Man 2‎ (2004)">
+                <input type="hidden" name="desc" value="导演 山姆·雷米 主演 托比·马奎尔 / 克斯汀·邓斯特 / 美国 / 7.8分(285435评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg" />
+                <strong>蜘蛛侠2 Spider-Man 2‎ (2004)</strong>
+                <p>导演 山姆·雷米 主演 托比·马奎尔 / 克斯汀·邓斯特 / 美国 / 7.8分(285435评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="/accounts/register?reason=recommend"  class="j a_show_login lnk-sharing" 
+            share-id="1308570" 
+            data-mode="plain" data-name="蜘蛛侠2 Spider-Man 2‎ (2004)" 
+            data-type="movie" data-desc="导演 山姆·雷米 主演 托比·马奎尔 / 克斯汀·邓斯特 / 美国 / 7.8分(285435评价)" 
+            data-href="https://movie.douban.com/subject/1308570/" data-image="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg" 
+            data-properties="{}" 
+            data-redir="" data-text="" 
+            data-apikey="" data-curl="" 
+            data-count="10" data-object_kind="1002" 
+            data-object_id="1308570" data-target_type="rec" 
+            data-target_action="0" 
+            data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/1308570\/&#34;,&#34;subject_title&#34;:&#34;蜘蛛侠2 Spider-Man 2‎ (2004)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_1308570"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">蜘蛛侠2的剧情简介</i>
+              · · · · · ·
+    </h2>
+
+            <div class="indent" id="link-report-intra">
+                    
+                        <span property="v:summary" class="">
+                                　　大战绿妖之后，蜘蛛侠帕克（托比•马奎尔 Tobey Maguire 饰）忍痛拒绝了他唯一的挚爱玛丽（克尔斯滕•邓斯特 Kirsten Dunst 饰），因为蜘蛛侠的身份会为自己和亲人带来巨大危险，帕克决定独立承担起蜘蛛侠的责任。
+                                    <br />
+                                　　帕克一直在忙于应付各种挑战：学习超能力的灵活运用；在超级英雄与平凡大学生的双重身份下隐藏自我、小心翼翼地生活等等。帕克对玛丽越来越难以自拔，但是作为蜘蛛侠又不能对玛丽展开心扉。
+                                    <br />
+                                　　好友哈利因为误会蜘蛛侠而一直处处与其为作对；唯一的亲人婶婶也对蜘蛛侠的真实身份产生了怀疑。同时，新的挑战又出现了：邪恶而强大的章鱼博士。帕克在种种压力下肩负起蜘蛛侠的使命。
+                        </span>
+                        <span class="pl"><a href="https://movie.douban.com/help/movie#t0-qs">&copy;豆瓣</a></span>
+            </div>
+</div>
+
+
+    <div id="dale_movie_subject_banner_after_intro"></div>
+
+    
+
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/e7bb3fa21985f6e07c027dd984c99f26e54987f9/dist/movie/celebrity/celebrities_section.css">
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">蜘蛛侠2的演职员</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="/subject/1308570/celebrities">全部 188</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1027159/" title="山姆·雷米 Sam Raimi" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/celebrity/raw/public/p1047.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1027159/" title="山姆·雷米 Sam Raimi" class="name">山姆·雷米</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1047997/" title="托比·马奎尔 Tobey Maguire" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p51863.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1047997/" title="托比·马奎尔 Tobey Maguire" class="name">托比·马奎尔</a></span>
+
+      <span class="role" title="饰 Spider-Man / Peter Parker">饰 Spider-Man / Peter Parker</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1054429/" title="克斯汀·邓斯特 Kirsten Dunst" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/personage/raw/public/57269f004fc9f4fa89c0b81e20b3e190.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1054429/" title="克斯汀·邓斯特 Kirsten Dunst" class="name">克斯汀·邓斯特</a></span>
+
+      <span class="role" title="饰 Mary Jane Watson">饰 Mary Jane Watson</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1019001/" title="詹姆斯·弗兰科 James Franco" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/celebrity/raw/public/p6610.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1019001/" title="詹姆斯·弗兰科 James Franco" class="name">詹姆斯·弗兰科</a></span>
+
+      <span class="role" title="饰 Harry Osborn">饰 Harry Osborn</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1017897/" title="阿尔弗雷德·莫里纳 Alfred Molina" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/personage/raw/public/94b3ad2cf94e6f11e1c43e783504c672.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1017897/" title="阿尔弗雷德·莫里纳 Alfred Molina" class="name">阿尔弗雷德·莫里纳</a></span>
+
+      <span class="role" title="饰 Doc Ock / Dr. Otto Octavius">饰 Doc Ock / Dr. Otto Octavius</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1049737/" title="罗斯玛丽·哈里斯 Rosemary Harris" class="">
+      <div class="avatar" style="background-image: url(https://img9.doubanio.com/view/celebrity/raw/public/p6636.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1049737/" title="罗斯玛丽·哈里斯 Rosemary Harris" class="name">罗斯玛丽·哈里斯</a></span>
+
+      <span class="role" title="饰 May Parker">饰 May Parker</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/verify/b94df3c30a99176a78709b95ecf1cf80b105beb0/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '1308570',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/bd6325a12f40c34cbf2668aafafb4ccd60deab7e/vendors.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/6242a400cfd25992da35ace060e58f160efc9c50/shared_rc.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/verify/6e7e593ba318f1355c70e66e010cf89411c3d937/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0164f79cda68b2b3cb09b712e8417001e4a4ca1a/dist/movie/subject/photos_section.css">
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">蜘蛛侠2的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1308570/trailer#trailer">预告片1</a>&nbsp;|&nbsp;<a href="https://movie.douban.com/subject/1308570/all_photos">图片418</a>&nbsp;·&nbsp;<a href="https://movie.douban.com/subject/1308570/mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="https://movie.douban.com/trailer/102675/#content" title="预告片" style="background-image:url(https://img1.doubanio.com/img/trailer/medium/1287520510.jpg)">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/1344978018/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p1344978018.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/1617901946/"><img src="https://img9.doubanio.com/view/photo/sqxs/public/p1617901946.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/1617901842/"><img src="https://img2.doubanio.com/view/photo/sqxs/public/p1617901842.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/1597210541/"><img src="https://img2.doubanio.com/view/photo/sqxs/public/p1597210541.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+    
+
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+<div class="mod">
+    <div class="hd">
+        
+    <h2>
+        <i class="">蜘蛛侠2的获奖情况</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1308570/awards/">全部</a>
+            )
+            </span>
+    </h2>
+
+    </div>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/Oscar/77/">第77届奥斯卡金像奖</a>
+            </li>
+            <li>最佳视觉效果</li>
+            <li><a href='https://movie.douban.com/celebrity/1018536/' target='_blank'>约翰·戴克斯特拉</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1028805/' target='_blank'>斯科特·斯多克迪克</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1083387/' target='_blank'>约翰·弗雷泽</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1289344/' target='_blank'>安东尼·拉默里纳拉</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/bafta/58/">第58届英国电影学院奖</a>
+            </li>
+            <li>电影奖 最佳特殊视觉效果(提名)</li>
+            <li><a href='https://movie.douban.com/celebrity/1018536/' target='_blank'>约翰·戴克斯特拉</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1289344/' target='_blank'>安东尼·拉默里纳拉</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1083387/' target='_blank'>约翰·弗雷泽</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1028805/' target='_blank'>斯科特·斯多克迪克</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/mtvma/14/">第14届MTV电影奖</a>
+            </li>
+            <li>MTV电影奖 年度电影(提名)</li>
+            <li></li>
+        </ul>
+</div>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0ebe45fa18ae69ea021b9ea03936d3656d4a5581/dist/movie/subject/recommendations.css">
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+              · · · · · ·
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1418189/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1344981868.jpg" alt="蜘蛛侠3" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1418189/?from=subject-page" class="" >蜘蛛侠3</a>
+                <span class="subject-rate">7.7</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/6082518/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2179858051.jpg" alt="超凡蜘蛛侠2" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/6082518/?from=subject-page" class="" >超凡蜘蛛侠2</a>
+                <span class="subject-rate">7.7</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1401524/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896590339.jpg" alt="X战警3：背水一战" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1401524/?from=subject-page" class="" >X战警3：背水一战</a>
+                <span class="subject-rate">7.7</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1432146/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896590009.jpg" alt="钢铁侠" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1432146/?from=subject-page" class="" >钢铁侠</a>
+                <span class="subject-rate">8.4</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1794171/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2184739474.jpg" alt="变形金刚" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1794171/?from=subject-page" class="" >变形金刚</a>
+                <span class="subject-rate">8.3</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1792928/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896589794.jpg" alt="金刚狼" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1792928/?from=subject-page" class="" >金刚狼</a>
+                <span class="subject-rate">7.6</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/6390823/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896590109.jpg" alt="美国队长2" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/6390823/?from=subject-page" class="" >美国队长2</a>
+                <span class="subject-rate">8.0</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1866475/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p916263375.jpg" alt="无敌浩克" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1866475/?from=subject-page" class="" >无敌浩克</a>
+                <span class="subject-rate">7.1</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1866479/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896589797.jpg" alt="复仇者联盟" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1866479/?from=subject-page" class="" >复仇者联盟</a>
+                <span class="subject-rate">8.3</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1300656/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p511430453.jpg" alt="终结者" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1300656/?from=subject-page" class="" >终结者</a>
+                <span class="subject-rate">8.2</span>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+    
+        
+
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}vote-comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/d63a579a99fd372b4398731a279a1382e6eac71e/dist/movie/subject-comments/comments-section.css">
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+            
+        <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+    <h2>
+        <i class="">蜘蛛侠2的短评</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1308570/comments?status=P">全部 25183 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+       
+        
+
+
+        <div class="mod-bd">
+                
+        <div class="tab-hd">
+                        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+                        <a id="new-comments-tab" href="comments?sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+                        <a id="following-comments-tab" href="comments?sort=follows" data-id="following"  class="j a_show_login">好友</a>
+        </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+
+        
+        <div class="comment-item " data-cid="12686408">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">485</span>
+
+                    <input value="12686408" type="hidden"/>
+                    <a href="javascript:;" data-id="12686408"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/wangdong1120/" class="">Bill</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2007-04-08 14:54:34">
+                    2007-04-08 14:54:34
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">少数几部觉得比原作优秀的续集之一 英雄电影中的优秀典范</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1308570/?comment_id=12686408"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="474735730">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">256</span>
+
+                    <input value="474735730" type="hidden"/>
+                    <a href="javascript:;" data-id="474735730"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/cabaret/" class="">陀螺凡达可</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2011-12-28 04:10:51">
+                    2011-12-28 04:10:51
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">最好的一部，重新定义了漫画英雄电影。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1308570/?comment_id=474735730"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="567360176">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">169</span>
+
+                    <input value="567360176" type="hidden"/>
+                    <a href="javascript:;" data-id="567360176"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/lingrui1995/" class="">朝暮雪</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2012-08-12 21:45:29">
+                    2012-08-12 21:45:29
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">第一部的主题是责任感，第二部则是探讨对自我的认知。
+我是彼得·帕克，还是蜘蛛侠？
+我是一个普通的高中生，还是一个超级英雄？
+有过迷茫，有过犹豫，最终走向了自信和使命。
+于是，他鼓足勇气将事实告诉梅姨，让梅姨不再自责；
+又再次忍痛拒绝玛丽·简，因为她只有离开自己才不会有危险。
+正是犯罪率飙升75%，让他明白自己的责任；
+也正是明白自己的责任，超能力才失而复得，因为只有充满责任感的人才配得上蜘蛛侠的称...</span>
+                <span class="full">第一部的主题是责任感，第二部则是探讨对自我的认知。
+我是彼得·帕克，还是蜘蛛侠？
+我是一个普通的高中生，还是一个超级英雄？
+有过迷茫，有过犹豫，最终走向了自信和使命。
+于是，他鼓足勇气将事实告诉梅姨，让梅姨不再自责；
+又再次忍痛拒绝玛丽·简，因为她只有离开自己才不会有危险。
+正是犯罪率飙升75%，让他明白自己的责任；
+也正是明白自己的责任，超能力才失而复得，因为只有充满责任感的人才配得上蜘蛛侠的称号。
+蜘蛛侠和章鱼博士在城市间飞檐走壁，以及在地铁侧面大战太精彩了；
+化身人体刹车凭借肉体停住地铁一幕惊为天人；
+面对章鱼博士，人们主动挡在蜘蛛侠面前，更是让人热泪盈眶。
+不愧是影史唯一一部获得奥斯卡最佳视觉效果奖的超英片，从剧本到视效都是当之无愧的《蜘蛛侠》系列最佳。</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1308570/?comment_id=567360176"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="21209322">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">933</span>
+
+                    <input value="21209322" type="hidden"/>
+                    <a href="javascript:;" data-id="21209322"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/lurenjia/" class="">甲🎹</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2007-10-01 01:49:09">
+                    2007-10-01 01:49:09
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">说实话，我觉得蜘蛛侠2是系列中最好的一部：故事的设定，人物的冲突，自我的矛盾，真挺不错的。我也是从这部开始变成了蜘蛛侠控。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1308570/?comment_id=21209322"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="802299604">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">39</span>
+
+                    <input value="802299604" type="hidden"/>
+                    <a href="javascript:;" data-id="802299604"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/69290051/" class="">Ocap</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2014-05-02 12:42:15">
+                    2014-05-02 12:42:15
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">17.7.24，应该是相隔最久的一次重温，上一次看还很小，第一次看是在叔叔家。这片可入超级英雄电影Top 5，除了两部内在造诣达到神级的，这部说触及了纯爆米花的天花板不为过。一点杂谈：https://movie.douban.com/review/8691828/</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1308570/?comment_id=802299604"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+
+
+
+
+                
+                    &gt; <a href="comments?sort=new_score&status=P" >
+                        更多短评
+                            25183条
+                    </a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="/help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的账号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="https://help.douban.com/help/ask?category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+    
+
+
+
+            <script src="https://img1.doubanio.com/f/movie/6eba6f43fb7592ab783e390f654c0d6a96b1598e/dist/movie/subject-comments/comments-section.js"></script>
+            <script>
+                $(function () {
+                    if (window.SUBJECT_COMMENTS_SECTION) {
+                        // tab handler
+                        SUBJECT_COMMENTS_SECTION.createTabHandler();
+                        // expand handler
+                        SUBJECT_COMMENTS_SECTION.createExpandHandler({
+                            root: document.getElementById('comments-section'),
+                        });
+                        // vote handler
+                        SUBJECT_COMMENTS_SECTION.createVoteHandler({
+                            api: '/j/comment/vote',
+                            root: document.getElementById('comments-section'),
+                            voteSelector: '.vote-comment',
+                            textSelector: '.vote-count',
+                            is_released: "true",
+                            alert_text: "该电影还未上映，不能投票噢",
+                            afterVote: function (elem) {
+                                var parentNode = elem.parentNode;
+                                var successElem = document.createElement('span');
+                                successElem.innerHTML = '已投票';
+                                parentNode.removeChild(elem);
+                                parentNode.appendChild(successElem);
+                            }
+                        });
+                    }
+                });
+            </script>
+        </div>
+    </div>
+
+
+
+<!--        此处是挂载其他页面，不是注释！不是注释！不是注释！-->
+        
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/610438fbda6eb614.css">
+
+    <section id="reviews-wrapper" class="reviews mod movie-content">
+        <header>
+            
+                <a href="new_review" rel="nofollow" class="create-review comment_btn "
+                    data-isverify="False"
+                    data-verify-url="https://www.douban.com/accounts/phone/verify?redir=http://movie.douban.com/subject/1308570/new_review">
+                    <span>我要写影评</span>
+                </a>
+            <h2>
+                    蜘蛛侠2的影评 · · · · · ·
+
+                    <span class="pl">( <a href="reviews">全部 173 条</a> )</span>
+            </h2>
+        </header>
+        
+            
+            <div class="review_filter">
+                            <a href="javascript:;;" class="cur" data-sort="">热门</a>
+                            <a href="javascript:;;" data-sort="time">最新</a>
+                            <a href="javascript:;;" data-sort="follow">好友</a>
+            </div>
+            <script>
+                var cur_sort = '';
+                $('#reviews-wrapper .review_filter a').on('click', function () {
+                    var sort = $(this).data('sort');
+                    if(sort === cur_sort) return;
+
+                    if(sort === 'follow' && true){
+                        window.location.href = '//www.douban.com/accounts/login?source=movie';
+                        return;
+                    }
+
+                    if($('#reviews-wrapper .review_filter').data('doing')) return;
+                    $('#reviews-wrapper .review_filter').data('doing', true);
+
+                    cur_sort = sort;
+
+                    $('#reviews-wrapper .review_filter a').removeClass('cur');
+                    $(this).addClass('cur');
+
+                    $.getJSON('reviews', { sort: sort }, function(res) {
+                        $('#reviews-wrapper .review-list').remove();
+                        $('#reviews-wrapper [href="reviews?sort=follow"]').parent().remove();
+                        $('#reviews-wrapper .review_filter').after(res.html);
+                        $('#reviews-wrapper .review_filter').data('doing', false);
+                        $('#reviews-wrapper .review_filter').removeData('doing');
+
+                        if (res.count === 0) {
+                            $('#reviews-wrapper .review-list').html('<span class="no-review">你关注的人还没写过长评</span>');
+                        }
+                    });
+                });
+            </script>
+
+
+            
+
+
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="1380641">
+        <div class="main review-item" id="1380641">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/VonishinE/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1985869-8.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/VonishinE/" class="name">VonishinE</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-05-15" class="main-meta">2008-05-15 17:14:31</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1380641/">我们仍在无力的坚持</a></h2>
+
+                <div id="review_1380641_short" class="review-short" data-rid="1380641">
+                    <div class="short-content">
+
+                        神奇漫画改编的电影里面，蜘蛛侠系列应该算是最成功的，迄今已经出到第三部，比较讽刺的是我按照倒叙的手法来看的，电影院看了3，竟然是第一步完整看完的蜘蛛侠电影，1看了开头就放弃了，2压根就没看过。 从网上下载了高清版的2，这才有时间重新体验过  结论：漫画英雄戏，拍不...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1380641-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1380641_full" class="hidden">
+                    <div id="review_1380641_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1380641" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1380641">
+                                185
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1380641" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1380641">
+                                13
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1380641/#comments" class="reply ">28回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1119271">
+        <div class="main review-item" id="1119271">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/enjolras/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1031779-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/enjolras/" class="name">enjolras</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2007-02-03" class="main-meta">2007-02-03 09:40:44</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1119271/">其实，这是一部青春片——Spider Man 2</a></h2>
+
+                <div id="review_1119271_short" class="review-short" data-rid="1119271">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        最近某人向我hard sell 电影，忙里偷闲看了两部。喜爱的程度竟然与预期相反，连我自己都感到意外。  先看的是蜘蛛侠2，本来我对英雄片兴趣不是很大，模式大同小异，就是打来打去，看到前面知道后面，总归是我们的英雄把反角打败。但Spider man 2却给到我一点惊喜，当然情节依然...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1119271-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1119271_full" class="hidden">
+                    <div id="review_1119271_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1119271" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1119271">
+                                90
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1119271" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1119271">
+                                9
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1119271/#comments" class="reply ">6回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="8691828">
+        <div class="main review-item" id="8691828">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/69290051/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u69290051-152.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/69290051/" class="name">Ocap</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2017-07-24" class="main-meta">2017-07-24 15:07:06</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/8691828/">重温杂谈</a></h2>
+
+                <div id="review_8691828_short" class="review-short" data-rid="8691828">
+                    <div class="short-content">
+
+                        为二次重启的《蜘蛛侠：英雄归来》做准备，今天重温了被誉为系列最佳的托比·马奎尔版《蜘蛛侠2》。只想说按照豆瓣这年头对漫改片的评分标准，这片不上8分简直是个笑话（我给9分）。顺带有些感慨，不吐不快： 套路让人犯腻的原因不在于套路本身，而是逐渐公式化后无惊喜的必然...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-8691828-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_8691828_full" class="hidden">
+                    <div id="review_8691828_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="8691828" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-8691828">
+                                82
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="8691828" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-8691828">
+                                5
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/8691828/#comments" class="reply ">11回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="8598344">
+        <div class="main review-item" id="8598344">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/159709381/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u159709381-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/159709381/" class="name">一笑D芳</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2017-06-12" class="main-meta">2017-06-12 21:23:05</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/8598344/">不一样的英雄</a></h2>
+
+                <div id="review_8598344_short" class="review-short" data-rid="8598344">
+                    <div class="short-content">
+
+                        《蜘蛛侠2》的开场，看得让我好心酸。我们的英雄彼得·帕克，生活却是糟糕得不能再糟了。因为执行任务，他不得不耽误各种功课，学习一落千丈。因为没有时间兼职挣外快，他依然手头拮据，生活困顿，常常因为交不起房租而受到嘲讽讥刺。因为错过恋人玛丽·珍的演出，他失去了心爱...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-8598344-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_8598344_full" class="hidden">
+                    <div id="review_8598344_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="8598344" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-8598344">
+                                38
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="8598344" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-8598344">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/8598344/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="9396965">
+        <div class="main review-item" id="9396965">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/90681003/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u90681003-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/90681003/" class="name">雪落下的声音</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-27" class="main-meta">2018-05-27 15:49:11</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9396965/">一点小疑问</a></h2>
+
+                <div id="review_9396965_short" class="review-short" data-rid="9396965">
+                    <div class="short-content">
+
+                        第一部接触的超级英雄，对超级英雄开始的憧憬，就从这一部在电影院看的第一部超级英雄电影：蜘蛛侠2。小时候看到章鱼博士还觉得蛮吓人的，造型太丑了，怪兽不像怪兽…机械不像机械的…但是看到蜘蛛侠在本伯父下的指引下行侠仗义真的太帅了！！！ 就是不明白为什么剧情中让哈利...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9396965-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9396965_full" class="hidden">
+                    <div id="review_9396965_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9396965" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9396965">
+                                49
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9396965" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9396965">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9396965/#comments" class="reply ">6回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="8194436">
+        <div class="main review-item" id="8194436">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/love921054/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u56822400-98.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/love921054/" class="name">轻寻到下绿</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2016-11-25" class="main-meta">2016-11-25 17:48:48</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/8194436/">故事很吸引人</a></h2>
+
+                <div id="review_8194436_short" class="review-short" data-rid="8194436">
+                    <div class="short-content">
+
+                        故事讲的蛮不错,吸引人. James Franco的表演让人眼前一亮，虽然戏份不多，但是很为电影加分。 最让我们感到亲切的是，他表现出的非英雄的一面，有时候他像我们一样狼狈的生活，比如徘徊在失业的边缘、交不起房租、爱人不见了等等，这让我们幸灾乐祸的同时也幻想，坐在相邻工位...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-8194436-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_8194436_full" class="hidden">
+                    <div id="review_8194436_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="8194436" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-8194436">
+                                33
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="8194436" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-8194436">
+                                5
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/8194436/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="13485097">
+        <div class="main review-item" id="13485097">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/170819629/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u170819629-19.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/170819629/" class="name">巅峰Futurama迷</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2021-04-17" class="main-meta">2021-04-17 15:07:55</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/13485097/">乱侃加彩虹屁（我不会吐槽的～～）</a></h2>
+
+                <div id="review_13485097_short" class="review-short" data-rid="13485097">
+                    <div class="short-content">
+
+                        1.我话就撂在这了，蜘蛛侠2，而是我看过有史以来最棒的单人超英电影第二部！（嗯，黑暗骑士除外……）（嗯，还有美队2……不，它比美队2好！） 2.托比马奎尔的演技是如此的好，以至于现在在美国都有恶搞他表情和名台词的人，，，（I&#39;m back!__my back……） 3.老版MJ这是一个让...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-13485097-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_13485097_full" class="hidden">
+                    <div id="review_13485097_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="13485097" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-13485097">
+                                14
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="13485097" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-13485097">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/13485097/#comments" class="reply ">8回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1053933">
+        <div class="main review-item" id="1053933">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/halfling/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1092648-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/halfling/" class="name">Zipporah</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2006-06-23" class="main-meta">2006-06-23 11:01:34</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1053933/">Raindrops are falling on my head</a></h2>
+
+                <div id="review_1053933_short" class="review-short" data-rid="1053933">
+                    <div class="short-content">
+
+                        为什么漫画英雄一定要遵守超人或者蝙蝠侠的套路？为什么漫画英雄就不能潦倒、郁闷、彷徨一些？当然去看此类电影多少都是想得到感官上的享受、刺激一下肾上腺素的分泌，不过有些额外的体验不也很好？文艺片当然还是最好的，但大片中加入一点文艺的元素不也很有意思？电影的界线...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1053933-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1053933_full" class="hidden">
+                    <div id="review_1053933_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1053933" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1053933">
+                                12
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1053933" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1053933">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1053933/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1127468">
+        <div class="main review-item" id="1127468">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/b.411/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1384185-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/b.411/" class="name">listen</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2007-02-25" class="main-meta">2007-02-25 23:24:47</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1127468/">上半部分……</a></h2>
+
+                <div id="review_1127468_short" class="review-short" data-rid="1127468">
+                    <div class="short-content">
+
+                        蜘蛛侠II 上半部分……      我们每人都像蜘蛛侠一样，有懦弱的一面，也有英雄的一面，无论是面对生活、道德或爱情……呵呵，很喜欢彼得·帕克看心爱女孩的背影时的眼神——愿此刻，你快乐！  不得不说蜘蛛侠II是部非常好的好莱坞商业、科幻电影， 尤其是电影的上半部分—— 电...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1127468-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1127468_full" class="hidden">
+                    <div id="review_1127468_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1127468" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1127468">
+                                10
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1127468" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1127468">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1127468/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="14178163">
+        <div class="main review-item" id="14178163">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/45750774/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u45750774-18.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/45750774/" class="name">t.d</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2022-01-30" class="main-meta">2022-01-30 21:05:13</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/14178163/">看完最新的漫威蜘蛛侠来洗洗眼</a></h2>
+
+                <div id="review_14178163_short" class="review-short" data-rid="14178163">
+                    <div class="short-content">
+
+                        我也不知道发生了什么，我们的电影已经从toby maguire down grade 到了 tom holland。新的蜘蛛侠每次toby出现的时候，都感觉画风一转，变成了一部文艺片。漫威的电影热闹极了，什么都有，但是就是不像电影。以前的蜘蛛侠也是商业片，也需要票房，但是它的质感，对话，人物的复...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-14178163-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_14178163_full" class="hidden">
+                    <div id="review_14178163_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="14178163" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-14178163">
+                                5
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="14178163" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-14178163">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/14178163/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script type="text/javascript">
+        (function() {
+            if (window.__init_review_list) return;
+            __init_review_list = true;
+                window.is_released = true
+                window.txt_released = '该电影还未上映，不能投票噢'
+        })();
+        window.useful_icon = "https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png";
+        window.usefuled_icon = "https://img1.doubanio.com/f/zerkalo/635290bb14771c97270037be21ad50514d57acc3/pics/up-full.png";
+        window.useless_icon = "https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png";
+        window.uselessed_icon = "https://img1.doubanio.com/f/zerkalo/23cee7343568ca814238f5ef18bf8aadbe959df2/pics/down-full.png";
+    </script>
+
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/zerkalo/3aeb281ab0e4f2c7050458684acfeb6838441de9/css/review/editor/ng/setting_standalone.css">
+    <script src="https://img1.doubanio.com/f/zerkalo/938cdbe2e223a3117cbbcb4929cae2001b402c20/js/review/editor/ng/manifest.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/296cd5fec472a78add5fee958c58d72f47d91586/js/review/editor/ng/vendor.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8a6f99feb702ed3c956a552c1b978285dcfdf7d9/js/review/editor/ng/setting_standalone.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8941af7854ddad9561648b706cdb49f3d1534ff3/js/review/editor/ng/render_gif.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/ad32b4b739a59a90e9e3437fd2fba797dd7c26f2/js/review/actions.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/7196bdec780f03785f55b06fda34999595057f65/js/review/unfold.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+                <p class="pl">
+                    &gt;
+                        <a href="reviews">
+                            更多影评
+                                173篇
+                        </a>
+                </p>
+    </section>
+<!-- COLLECTED JS -->
+
+
+    <br/>
+
+    
+            <div class="section-discussion">
+                    
+                    <div class="mod-hd">
+                            <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                        
+    <h2>
+        讨论区
+         &nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;
+    </h2>
+
+                    </div>
+                    
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1308570/discussion/637561099/" title="蜘蛛侠出现前的反派们都是怎么被解决的？">蜘蛛侠出现前的反派们都是怎么被解决的？</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/159916264/">Mr_Who</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2023-10-16 18:11:38</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1308570/discussion/23023388/" title="豆瓣太低估了。。IMDB7.7分">豆瓣太低估了。。IMDB7.7分</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/3818425/">空壳</a></td>
+          <td class="pl"><span>96 回应</span></td>
+          <td class="pl"><span>2023-09-14 17:09:02</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1308570/discussion/616370503/" title="哇～(￣▽￣～)~">哇～(￣▽￣～)~</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/164259941/">（｡ò ∀ ó｡）</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2023-08-20 21:12:14</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1308570/discussion/637299468/" title="重温看到梅姨搬家那段，感觉梅姨知道蜘蛛侠身份了。">重温看到梅姨搬家那段，感觉梅姨知道蜘蛛侠身份了。</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/165872960/">握握手是好朋友</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2023-07-06 13:19:00</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1308570/discussion/615868080/" title="为啥电影中间他的蜘蛛丝突然射不出来了">为啥电影中间他的蜘蛛丝突然射不出来了</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/146588795/">遗憾</a></td>
+          <td class="pl"><span>15 回应</span></td>
+          <td class="pl"><span>2023-07-05 19:56:17</span></td>
+        </tr>
+  </table>
+
+                    <p class="pl" align="right">
+                        <a href="/subject/1308570/discussion/" rel="nofollow">
+                            &gt; 去这部影片的讨论区（全部43条）
+                        </a>
+                    </p>
+            </div>
+
+        
+    
+        
+                
+                    
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+                关于《蜘蛛侠2》的问题
+                · · · · · ·
+            <span class="pl">
+                (<a href='https://movie.douban.com/subject/1308570/questions/?from=subject'>
+                    全部8个
+                </a>)
+            </span>
+        </h2>
+
+
+        <!-- 
+    
+    <a class='j a_show_login comment_btn'
+        href='https://movie.douban.com/subject/1308570/questions/ask/?from=subject'>我来提问</a>
+ -->
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/1308570/questions/839822/?from=subject" class="">
+                            火车那一幕编剧为什么要让大家看到蜘蛛侠的脸？
+                    </a>
+                </span>
+                <span class="meta">
+                    1人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/1308570/questions/5256/?from=subject" class="">
+                            邓斯特在电影里面的那个女性朋友是谁演的？
+                    </a>
+                </span>
+                <span class="meta">
+                    2人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='https://movie.douban.com/subject/1308570/questions/?from=subject'>
+                全部8个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+    <script src="https://img1.doubanio.com/f/movie/b2a06a0332fc1526f4caaf8c76c2717d24da408d/dist/movie/libs/jsrender.min.js"></script>
+    <script>
+        function reportTrack(url) {
+          if (!url) { return false }
+          $.ajax({ url: url, dataType: 'text/html' })
+        }
+        $(function(){
+            $(document).on('click', '.cross span', function(e) {
+                var $this = $(this);
+                var $dialog = $this.parents('#tv-play-source');
+                $dialog.remove();
+            });
+            $('body').bind('click', function(e) {
+                var $this = $(e.target),
+                    $source = $('.play-source');
+                if (!$this.is('.playBtn') && !$this.parents('.play-source').length) {
+                    $source.remove();
+                }
+            });
+            var sources = {};
+            sources[3] = [
+                        {play_link: "https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4OTQ0OTI0.html%3Ftpa%3DdW5pb25faWQ9MzAwMDA4XzEwMDAwMl8wMl8wMQ%26refer%3Desfhz_operation.xuka.xj_00003036_000000_FNZfau_19010900&amp;subtype=3&amp;type=online-video", ep: "1"},
+            ];
+            sources[9] = [
+                        {play_link: "https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3xd8o.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&amp;subtype=9&amp;type=online-video", ep: "1"},
+            ];
+            sources[1] = [
+                        {play_link: "https://www.douban.com/link2/?url=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fnlzqp4s3lmyeaxa.html%3Fptag%3Dnewdouban.movie&amp;subtype=1&amp;type=online-video", ep: "1"},
+            ];
+            sources[13] = [
+                        {play_link: "https://www.douban.com/link2/?url=http%3A%2F%2Fvip.1905.com%2Fplay%2F1273805.shtml%3F__hz%3D6e0721b2c6977135%26api_source%3Ddouban_vodadd&amp;subtype=13&amp;type=online-video", ep: "1"},
+            ];
+            sources[8] = [
+                        {play_link: "https://www.douban.com/link2/?url=https%3A%2F%2Fm.bilibili.com%2Fbangumi%2Fplay%2Fss40102%3Fbsource%3Ddoubanh5&amp;subtype=8&amp;type=online-video&amp;link2key=d95f4f585a", ep: "1"},
+            ];
+            $('.playBtn').each(function(i, item) {
+                // 曝光监测上报
+                if (item) {
+                    reportTrack(item.dataset.impressionTrack);
+                }
+            });
+            $('.playBtn').click(function(e){
+                // 点击监测上报
+                reportTrack(e.target.dataset.clickTrack);
+
+                $('.play-source').remove();
+
+                var height, width, tmpl, cn, source;
+                var $dialog = $('#tv-play-source');
+                var $this = $(this);
+                source = $this.data('source');
+                if(!source)return;
+                cn = $this.data('cn');
+
+                tmpl = $.templates('#episode-tmpl');
+                $dialog = $(tmpl.render({playlist: sources[source], cn: cn}));
+
+                $dialog.hide();
+                $('body').append($dialog);
+                width = $dialog.outerWidth();
+
+                $dialog.css({
+                    marginLeft: -width / 2,
+                    top: $this.offset().top + $this.outerHeight()
+                }).show();
+            });
+        });
+    </script>
+
+<script id="episode-tmpl" type="text/x-jsrender">
+<div id="tv-play-source" class="play-source">
+    <div class="cross">
+        <span style="color:#494949; font-size:16px">{{:cn}}</span>
+        <span style="cursor:pointer">✕</span>
+    </div>
+    <div class="episode-list">
+        {{for playlist}}
+            <a href="{{:play_link}}&episode={{:ep}}" target="_blank">{{:ep}}集</a>
+        {{/for}}
+     <div>
+ </div>
+</script>
+
+<div class="gray_ad">
+    
+    <h2>
+        在哪儿看这部电影
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+    
+    <ul class="bs">
+                
+                <li>
+                        <a class="playBtn" data-cn="优酷视频" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1308570&amp;video_type=movie&amp;video_id=207098&amp;source=youku&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1308570&amp;video_type=movie&amp;video_id=207098&amp;source=youku&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4OTQ0OTI0.html%3Ftpa%3DdW5pb25faWQ9MzAwMDA4XzEwMDAwMl8wMl8wMQ%26refer%3Desfhz_operation.xuka.xj_00003036_000000_FNZfau_19010900&amp;subtype=3&amp;type=online-video" target="_blank">
+                            优酷视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        
+                    </span></span>
+                </li>
+                
+                <li>
+                        <a class="playBtn" data-cn="爱奇艺视频" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1308570&amp;video_type=movie&amp;video_id=776852&amp;source=iqiyi&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1308570&amp;video_type=movie&amp;video_id=776852&amp;source=iqiyi&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3xd8o.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&amp;subtype=9&amp;type=online-video" target="_blank">
+                            爱奇艺视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        
+                    </span></span>
+                </li>
+                
+                <li>
+                        <a class="playBtn" data-cn="腾讯视频" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1308570&amp;video_type=movie&amp;video_id=228296&amp;source=qq&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1308570&amp;video_type=movie&amp;video_id=228296&amp;source=qq&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fnlzqp4s3lmyeaxa.html%3Fptag%3Dnewdouban.movie&amp;subtype=1&amp;type=online-video" target="_blank">
+                            腾讯视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                
+                <li>
+                        <a class="playBtn" data-cn="1905电影网" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1308570&amp;video_type=movie&amp;video_id=969477&amp;source=cctv6&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1308570&amp;video_type=movie&amp;video_id=969477&amp;source=cctv6&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=http%3A%2F%2Fvip.1905.com%2Fplay%2F1273805.shtml%3F__hz%3D6e0721b2c6977135%26api_source%3Ddouban_vodadd&amp;subtype=13&amp;type=online-video" target="_blank">
+                            1905电影网
+                        </a>
+                    <span class="buylink-price"><span>
+                        
+                    </span></span>
+                </li>
+                
+                <li>
+                        <a class="playBtn" data-cn="哔哩哔哩" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1308570&amp;video_type=movie&amp;video_id=883852&amp;source=bilibili&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1308570&amp;video_type=movie&amp;video_id=883852&amp;source=bilibili&amp;user_id=&amp;bid=CfW6DfpqdU4&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=https%3A%2F%2Fm.bilibili.com%2Fbangumi%2Fplay%2Fss40102%3Fbsource%3Ddoubanh5&amp;subtype=8&amp;type=online-video&amp;link2key=d95f4f585a" target="_blank">
+                            哔哩哔哩
+                        </a>
+                    <span class="buylink-price"><span>
+                        单片付费
+                    </span></span>
+                </li>
+
+    </ul>
+</div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+<!--tags-->
+
+    <div id="dale_subject_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下片单推荐</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1308570/doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/114465/" target="_blank">{北美电影票房总排行}</a>
+                    <span>(荔枝超人)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/16002/" target="_blank">带你进入不正常的世界</a>
+                    <span>(DK小眼镜儿)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/13712178/" target="_blank">评价人数超过十万的电影</a>
+                    <span>(依然饭特稀)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/16165/" target="_blank">美国系列电影1</a>
+                    <span>(無)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/432244/" target="_blank">入选《第十放映室》影片之国外篇 Ⅲ</a>
+                    <span>(心之旋影)</span>
+                </li>
+    </ul>
+
+</div>
+
+    
+        
+
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+              · · · · · ·
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="https://www.douban.com/people/212870418/" class="others-interest-avatar">
+                    <img src="https://img2.doubanio.com/icon/u212870418-1.jpg" class="pil" alt="对方正在输入...">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/212870418/" class="">对方正在输入...</a>
+                    <div class="">
+                        7分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/275468079/" class="others-interest-avatar">
+                    <img src="https://img2.doubanio.com/icon/u275468079-1.jpg" class="pil" alt="豆友HDpcbtBF1k">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/275468079/" class="">豆友HDpcbtBF1k</a>
+                    <div class="">
+                        55分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/175176661/" class="others-interest-avatar">
+                    <img src="https://img2.doubanio.com/icon/u175176661-1.jpg" class="pil" alt="I">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/175176661/" class="">I</a>
+                    <div class="">
+                        55分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="https://movie.douban.com/subject/1308570/comments?status=P">617728人看过</a>
+                &nbsp;/&nbsp;
+            <a href="https://movie.douban.com/subject/1308570/comments?status=F">16364人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅蜘蛛侠2的评论: <br/><span class="feed">
+    <a href="https://movie.douban.com/feed/subject/1308570/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_hovering_video"></div>
+    <!-- douban ad end -->
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2023 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript">
+$(function(){
+    var $actor_list = $('#info .actor a');
+    var $actor_attr = $('#info .actor .attrs');
+
+    if ($actor_list.length > 5) {
+        $actor_attr.empty();
+
+        $actor_list.each(function(idx){
+            if (idx+1 === $actor_list.length) {
+                $('<span></span>').prepend($(this)).appendTo($actor_attr);
+            } else {
+                $('<span> / </span>').prepend($(this)).appendTo($actor_attr);
+            }
+        });
+
+        $('<a href="javascript:;" class="more-actor" title="更多主演">更多...</a>').on('click', function(){
+            $actor_attr.find('span').show();
+            $(this).hide();
+        }).appendTo($actor_attr);
+
+        $actor_attr.find('span').eq(4).nextAll('span').hide();
+    }
+})
+</script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/movie/9dbc931479d6c183e970ea3594672460b6c96b3c/dist/movie/mod/login_pop.css" />
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB = "https://www.douban.com"
+    </script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/movie/3897d4734502adbdaa37cdf7f5c67a8e543ceefe/dist/movie/mod/login_pop.js"></script>
+
+    
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/dist/movie/libs/handlebars.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/8d311a1defb6b721d73cfb891924c13c06af631b/js/ui/fix_aside.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/55caa4decc5b4d78a5afa5d12f0b4bdfa7dcb6bb/js/lib/jquery.ba-hashchange.min.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/a58210ac28f14c3878942b24ec2212af19e6a0ab/dist/movie/subject/comment_vote.js"></script>
+    
+    <script>
+        $(function(){
+            $().fixSide(300, 52);
+
+            var UA = navigator.userAgent.toLowerCase();
+            isSafari = /safari/.test(UA)
+            $("#season").on('change', function(){
+                var subjectId = $(this).val();
+                if (subjectId.length){
+                    window.location = "/subject/" + subjectId + "/";
+                    // fix null state bug in Safari
+                    if (isSafari) {
+                        window.history.pushState &&
+                          window.history.pushState(null, document.title, window.location.href)
+                    }
+                }
+            });
+            $("#season").val("1308570")
+
+            $(window).hashchange();
+            if(window.location.href.indexOf('suggest')>0 && window.location.href.indexOf("?")>0){
+                if(window.history.pushState){
+                    window.history.pushState(null, document.title, window.location.href.substring(0,window.location.href.indexOf("?")));
+                }
+            }
+
+            $('.indent .a_show_full').click(function(){
+                $.get('/blank?expand');
+            });
+
+            $('body').on('click', 'a.write_review', function(e) {
+                e.preventDefault();
+                if(window._USER_ABNORMAL) {
+                    show_abnormal && show_abnormal()
+                }else {
+                    location.href = $(this).attr('href')
+                }
+            })
+        });
+    </script>
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'CfW6DfpqdU4',
+            criteria = '7:阿尔弗雷德·莫里纳|7:山姆·雷米|7:乔尔·麦克哈尔|7:动作|7:蜘蛛侠|7:比尔·努恩|7:斯坦·李|7:托比·马奎尔|7:漫画改编|7:美国电影|7:布鲁斯·坎贝尔|7:范妮莎·费丽托|7:罗斯玛丽·哈里斯|7:迪伦·贝克|7:超级英雄|7:詹姆斯·弗兰科|7:阿西夫·曼德维|7:克斯汀·邓斯特|7:唐纳·墨菲|7:美国|7:泰德·雷米|7:J·K·西蒙斯|7:伊丽莎白·班克斯|7:冒险|7:科幻|7:威廉·达福|7:克里夫·罗伯逊|7:蜘蛛侠2|7:电影|7:丹尼尔·吉里斯|7:2004|3:/subject/1308570/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_right', 'dale_movie_subject_inner_middle', 'dale_movie_subject_banner_after_intro', 'dale_subject_right_guess_you_like', 'dale_movie_subject_hovering_video'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/aHF4dWV0OC9mL2FkanMvYzQyYzU5YWEwNWM4YTkyOTE3Y2UzM2RkZGEwZDk0OWYwZGM0YjVjNC9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+
+    <!-- dae-web-movie--default-6c468db859-sl289-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

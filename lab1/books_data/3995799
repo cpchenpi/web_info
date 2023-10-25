@@ -1,0 +1,3007 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-webkit book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>蚁族 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/3995799/">
+<meta name="keywords" content="蚁族,廉思,广西师范大学出版社,2009-9,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书蚁族 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img1.doubanio.com/f/vendors/02814fbb5bee25484516bd0a642af695f7ec5a83/css/douban.css" rel="stylesheet" type="text/css">
+  <link href="https://img2.doubanio.com/cuphead/book-static/common/master.dd2c2.css" rel="stylesheet" type="text/css">
+
+  <link href="https://img2.doubanio.com/cuphead/book-static/base/init.e399f.css" rel="stylesheet">
+  <style type="text/css"></style>
+  <script src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+  <script src="https://img1.doubanio.com/f/vendors/aa9559674f2476cdc16f755b3cdc4ebc478db669/js/douban.js"></script>
+  <script src="https://img9.doubanio.com/cuphead/book-static/common/master.1b6f4.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/b6814ac068f705a1366083b58858a468706a60dc/css/lib/jquery.snippet.css">
+  <link rel="stylesheet" href="https://img9.doubanio.com/cuphead/book-static/subject/index.c0756.css">
+  <script src="https://img1.doubanio.com/f/vendors/7965e09b0065d26bfd22d390de956c22a48b9008/js/lib/jquery.snippet.js"></script>
+  <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+  <script src="https://img1.doubanio.com/cuphead/book-static/mod/hide.7e82b.js"></script>
+  <script src="https://img1.doubanio.com/cuphead/book-static/subject/unfold.4988a.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/3995799/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+  
+
+
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"Book",
+  "workExample": [],
+  "name" : "蚁族",
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "name": "廉思"
+    }
+  ]
+,
+  "url" : "https://book.douban.com/subject/3995799/",
+  "isbn" : "9787563390069",
+  "sameAs": "https://book.douban.com/subject/3995799/"
+}
+</script>
+
+  
+  
+  <meta property="og:title" content="蚁族" />
+  <meta property="og:description" content="“蚁族”，是对“大学毕业生低收入聚居群体”的典型概括，是继三大弱势群体（农民、农民工、下岗职工）之后的第四大弱势群体：受过高等教育，主要从事保险推销、电子器材销售、广告营销、餐饮服务等临时性工作，有的..." />
+  <meta property="og:site_name" content="豆瓣" />
+  <meta property="og:url" content="https://book.douban.com/subject/3995799/" />
+  <meta property="og:image" content="https://img1.doubanio.com/view/subject/l/public/s3966019.jpg" />
+  <meta property="og:type" content="book" />
+      <meta property="book:author" content="廉思" />
+  <meta property="book:isbn" content="9787563390069" />
+
+
+  <script>  </script>
+  <style type="text/css">
+#db-discussion-section .olt { margin-bottom: 7px; }
+</style>
+
+  <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=book" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;book/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >豆瓣书店</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual/2022?fullscreen=1&source=navigation"
+            target="_blank"
+     >2022年度榜单</a>
+    </li>
+    <li    ><a href="https://standbyme2022.douban.com/?autorotate=false&fullscreen=true&hidenav=true&source=web_navigation"
+            target="_blank"
+     >2022书影音报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?biz_type=book&utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://book.douban.com/annual/2022?fullscreen=1&source=book_navigation" class="bookannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+
+<h1>
+    <span property="v:itemreviewed">蚁族</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/view/subject/l/public/s3966019.jpg" title="蚁族">
+      <img src="https://img1.doubanio.com/view/subject/s/public/s3966019.jpg" title="点击看大图" alt="蚁族"
+         rel="v:photo" style="max-width: 135px;max-height: 200px;">
+  </a>
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+
+    
+    
+  
+
+    <span class="pl">作者:</span>
+        <a href="https://book.douban.com/author/919198/">
+            廉思</a>
+    <br>
+
+
+    
+    
+  
+    <span class="pl">出版社:</span>
+      <a href="https://book.douban.com/press/2476">广西师范大学出版社</a>
+    <br>
+
+    
+    
+  
+    <span class="pl">出品方:</span>
+      <a href="https://book.douban.com/producers/4">理想国</a>
+    <br>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 大学毕业生聚居村实录<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2009-9<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 339<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 29.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787563390069<br/>
+
+    
+    
+  
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">
+            豆瓣评分
+    </div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.8 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="comments" class="rating_people"><span property="v:votes">5253</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:31px"></div>
+
+            <span class="rating_per">23.3%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">47.1%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:35px"></div>
+
+            <span class="rating_per">25.8%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:4px"></div>
+
+            <span class="rating_per">3.0%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:1px"></div>
+
+            <span class="rating_per">0.8%</span>
+            <br>
+  </div>
+</div>
+
+  </div>
+  
+      
+
+
+
+
+
+
+  
+  <div id="interest_sect_level" class="clearfix">
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-3995799-wish">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j  " value="想读" title="" />
+</form>
+
+        </span>
+      </a>
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-3995799-do">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j  " value="在读" title="" />
+</form>
+
+        </span>
+      </a>
+      <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-3995799-collect">
+        <span>
+          
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j  " value="读过" title="" />
+</form>
+
+        </span>
+      </a>
+    <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img1.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img1.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img1.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-3995799-1">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-3995799-2">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-3995799-3">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-3995799-4">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-3995799-5">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/>
+        </a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+    </div>
+  </div>
+
+
+
+  
+
+
+
+
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img1.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+          <a class="j a_show_login" href="https://book.douban.com/annotation/write?sid=3995799" rel="nofollow">写笔记</a>
+        </li>
+
+        <li>
+          <img src="https://img1.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://book.douban.com/subject/3995799/new_review" rel="nofollow">写书评</a>
+        </li>
+
+        <li>
+
+<span class="rr">
+
+
+    <img src="/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="https://www.douban.com/accounts/passport/login?source=book" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+      
+
+        
+        
+    
+    <li class="rec" id="C-3995799">
+        <a href="#" data-url="https://book.douban.com/subject/3995799/" data-desc="" data-title="书籍《蚁族》 (来自豆瓣) " data-pic="https://img1.doubanio.com/view/subject/l/public/s3966019.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script>
+      window.DoubanShareIcons = "https://img1.doubanio.com/f/vendors/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png";
+    </script>
+    <script src="https://img1.doubanio.com/f/vendors/b6e0770163b1da14217b0f1ca39189d47b95f51f/js/lib/sharebutton.js"></script>
+
+    </ul>
+  </div>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+</div>
+
+<br clear="all">
+<div id="collect_form_3995799"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span>内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>“蚁族”，是对“大学毕业生低收入聚居群体”的典型概括，是继三大弱势群体（农民、农民工、下岗职工）之后的第四大弱势群体：受过高等教育，主要从事保险推销、电子器材销售、广告营销、餐饮服务等临时性工作，有的甚至处于失业半失业状态；平均月收入低于两千元，绝大多数没有“三险”和劳动合同；平均年龄集中在22—29岁之间，九成属于“80后”一代；主要聚居于城乡结合部或近郊农村，形成独特的“聚居村”。他们是有如蚂蚁般的“弱小强者”，他们是鲜为人知的庞大群体。</p>    <p>全书二十万字，几十幅图片，这些感人至深的文字和发人深省的图片告诉读者一个真实的“80后”，“天之骄子”的光环不再惠顾这一群体，他们比普通人有着更多令人堪忧的现状、年轻脆弱的心灵以及无法释怀的青春梦想……他们代表着我们这个社会不能忽视也不应该忽视的最敏感的群体，他们揭示了一代人的痛苦、无奈和彷徨。</p></div>
+
+      </div>
+    
+
+</div>
+
+  
+      
+
+<link rel="stylesheet" href="https://img9.doubanio.com/cuphead/book-static/other/online-partner.36905.css">
+
+
+  
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/authors_section.6022b.css">
+
+<h2>
+    
+  
+
+  <h2>
+    <span>蚁族的创作者</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+</h2>
+<div class="indent">
+    <p></p>
+    <div id="authors" class="authors">
+    <ul class="authors-list from-subject __oneline">
+            
+            <li class="author">
+                <a href="https://book.douban.com/author/919198/" title="廉思">
+                    <img src="https://img1.doubanio.com/view/personage/raw/public/7fd06612867a18dcc72ad468b7b456cc.jpg" alt="廉思" class="avatar">
+                </a>
+                <div class="info">
+                    <a href="https://book.douban.com/author/919198/" title="廉思" class="name">廉思</a>
+                    <span class="role">作者</span>
+                </div>
+            </li>
+             
+        <li class="author fake fake5"></li>
+    </ul>
+    </div>
+</div>
+
+  
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+    
+  
+
+  <h2>
+    <span>作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>廉思，祖籍燕赵，生于北京。修学经、管、法、政及至博士后出站。下过基层，坐过机关，当过学生干部，现在大学任教。</p></div>
+
+            </div>
+      </div>
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span>目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_3995799_short">
+        专家推荐<br/>
+        他们在小月河<br/>
+        自序<br/>
+        聚居村民序<br/>
+        第一篇 “蚁族”揭秘<br/>
+        “蚁族”诞生记<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_3995799_short').hide();$('#dir_3995799_full').show();$.get('/j/subject/j_dir_count',{id:3995799});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_3995799_full" style="display:none">
+        专家推荐<br/>
+        他们在小月河<br/>
+        自序<br/>
+        聚居村民序<br/>
+        第一篇 “蚁族”揭秘<br/>
+        “蚁族”诞生记<br/>
+        一 接触<br/>
+        二 第一次调研<br/>
+        三 课题组<br/>
+        四 第二次调研<br/>
+        五 80后<br/>
+        “蚁族”全解<br/>
+        一 基本概念<br/>
+        二 产生原因<br/>
+        三 心理状况<br/>
+        四 性-爱情-婚姻<br/>
+        五 收入状况<br/>
+        六 职业状况<br/>
+        七 教育状况<br/>
+        八 网络行为<br/>
+        九 集体行动倾向<br/>
+        “蚁族”调研报告节选<br/>
+        一 人口学特征<br/>
+        二 社会学特征<br/>
+        三 网络、利益表达方式及社会交往<br/>
+        第二篇 “蚂蚁”传奇<br/>
+        触摸城市的夹层——“聚居村”采访手记<br/>
+        一 奋斗在北京<br/>
+        二 一路走来的非主流<br/>
+        三 一切都会好起来<br/>
+        四 从村到村<br/>
+        五 进京记<br/>
+        六 保险公司的羚羊<br/>
+        七 孤独的行者<br/>
+        八 离开唐家岭<br/>
+        九 向下的青春<br/>
+        十 奋斗在“大学村落”<br/>
+        第三篇 走进“蚁域”<br/>
+        生存之上，生活之下<br/>
+        生存之上，生活之下<br/>
+        夜幕下的坚强<br/>
+        不能承受的青春之轻<br/>
+        寻找黑暗中的那抹烛火<br/>
+        唐家岭的“保护费”<br/>
+        活着<br/>
+        睡袋里岂可容身<br/>
+        帘子里隔着的性<br/>
+        守望城市<br/>
+        单薄的现实，厚实的梦想<br/>
+        哪里才有安全感<br/>
+        他们选择如此生活<br/>
+        逐梦北京<br/>
+        幸福是一种态度<br/>
+        幸福是一种态度<br/>
+        青春何处安放<br/>
+        这么近，那么远<br/>
+        第一缕阳光<br/>
+        中的爱情<br/>
+        有一种幸福<br/>
+        生存在北京<br/>
+        北京，这里是北京<br/>
+        城市的守望者<br/>
+        一路相随<br/>
+        他们并不贫穷<br/>
+        “蚁族”中的“另类”<br/>
+        出村进村<br/>
+        出村进村<br/>
+        同在北京两重天<br/>
+        永不妥协的青春<br/>
+        幸福是否只是一种传说<br/>
+        他们生活的世界<br/>
+        “马太效应”的真实触摸<br/>
+        第四篇 《蚁族》背后的故事<br/>
+        后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_3995799_full').hide();$('#dir_3995799_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span>&#34;蚁族&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>写这段文字的时候，我耳边响起了很早以前的一首歌：&quot;再过二十年，我们重相会，伟大的祖国该有多么美！&quot;这是经典歌曲《年轻的朋友来相会》中的歌词，表达了对改革开放的美好憧憬。歌中继而唱道：&quot;创造这奇迹要靠谁？&quot;回答是：&quot;要靠你，要靠我，要靠我们八十年代的新一辈。&quot;当时出生的80后，就是现在刚刚走出校门的大学毕业生，我讲述的正是他们中一个鲜为人...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/10722635/">&amp;quot;蚁族&amp;quot;揭秘</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/10722656/">&amp;quot;蚂蚁&amp;quot;传奇</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/10722970/">走进&amp;quot;蚁族&amp;quot;</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/3995799/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/verify/b94df3c30a99176a78709b95ecf1cf80b105beb0/entry_creator/dist/author_subject/style.css">
+
+<div id="author_subject" class="author-wrapper">
+  <div class="loading"></div>
+</div>
+
+<script type="text/javascript">
+  var answerObj = {
+    TYPE: 'book',
+    SUBJECT_ID: '3995799',
+    ISALL: 'False' || false,
+    USER_ID: 'None'
+  }
+</script>
+<!-- 使用 vendors 提供的 react & react-dom -->
+<script src="https://img1.doubanio.com/f/vendors/bd6325a12f40c34cbf2668aafafb4ccd60deab7e/vendors.js"></script>
+<script src="https://img1.doubanio.com/f/vendors/6242a400cfd25992da35ace060e58f160efc9c50/shared_rc.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/verify/6e7e593ba318f1355c70e66e010cf89411c3d937/entry_creator/dist/author_subject/index.js"></script> 
+  
+      
+
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/blockquote-list.748c0.css"/>
+
+<div class="ugc-mod blockquote-list-wrapper">
+  <div class="hd">
+    <h2>
+      原文摘录
+      &nbsp;&nbsp;· · · · · ·&nbsp;
+      <span class="pl">( <a href="blockquotes">全部</a> )</span>
+    </h2>
+
+    <ul class="blockquote-list">
+      
+        <li>
+          <figure>
+            ”在上帝揭露人的未来以前，人类的一切智慧是包含在这四个字里面的：等待和希望。“很喜欢《基督山伯爵》里的这句话。在等待中积蓄能量， 充实自己；在希望来临时，我们才不会不知所措。 (<a href="https://book.douban.com/annotation/31770906/">查看原文</a>)
+
+            <div class="blockquote-extra">
+              <div class='blockquote-meta'>
+                <a href="https://www.douban.com/people/15923965/" class="author-avatar">
+                  <img width="20" height="20" src="https://img2.doubanio.com/icon/u15923965-22.jpg">
+                </a>
+                <a class="author-name" href="https://www.douban.com/people/15923965/">Cong</a>
+                  <span>1赞</span>
+                <datetime>2014-05-30 05:16:56</datetime>
+              </div>
+
+              
+              <figcaption title="引自第41页">
+                —— 引自第41页
+              </figcaption>
+            </div>
+          </figure>
+        </li>
+      
+        <li>
+          <figure>
+            我今年23岁，应该说才刚刚走向生活，可人生的一切奥秘和吸引力对我已不复存在，我似乎已走到了人生的尽头。
+任何人，不管是生存还是创造，都是主观为自我，客观为别人......只要每个人都尽量去提高自我存在的价值，那么整个人类社会的向前发展也就成为必然了。
+有人说，时代在前进，可我触不到他有力的臂膀，也有人说，世上有一种宽广的伟大的事业，可我不知道他在哪里。
+人生的路呵，怎么越走越窄？ (<a href="https://book.douban.com/annotation/14444730/">查看原文</a>)
+
+            <div class="blockquote-extra">
+              <div class='blockquote-meta'>
+                <a href="https://www.douban.com/people/34803242/" class="author-avatar">
+                  <img width="20" height="20" src="https://img2.doubanio.com/icon/u34803242-3.jpg">
+                </a>
+                <a class="author-name" href="https://www.douban.com/people/34803242/">Guoxinyu</a>
+                  <span>1 回复</span>
+                  <span>1赞</span>
+                <datetime>2011-09-08 21:22:49</datetime>
+              </div>
+
+              
+              <figcaption title="引自第28页">
+                —— 引自第28页
+              </figcaption>
+            </div>
+          </figure>
+        </li>
+    </ul>
+
+      <p class="pl"> &gt; <a href="blockquotes">全部原文摘录</a> </p>
+  </div>
+</div>
+
+
+
+  
+      
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+    <div id="rec-ebook-section" class="block5 subject_show">
+    
+
+    
+  
+
+  <h2>
+    <span>喜欢读&#34;蚁族&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="tips-mod">
+        支持 Web、iPhone、iPad、Android 阅读器
+    </div>
+    <div class="content clearfix">
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/282537/?dcs=subject-rec&amp;dcm=douban&amp;dct=3995799" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/282537.1653694255.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/282537/" target="_blank">重新发现社会</a>
+            </div>
+            <div class="price">
+                
+    12.00元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/315192/?dcs=subject-rec&amp;dcm=douban&amp;dct=3995799" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/315192.1653694182.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/315192/" target="_blank">浮生取义</a>
+            </div>
+            <div class="price">
+                
+    21.00元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/407582/?dcs=subject-rec&amp;dcm=douban&amp;dct=3995799" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/407582.1653693572.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/407582/" target="_blank">少年PI的奇幻漂流（插图珍藏版）</a>
+            </div>
+            <div class="price">
+                
+    18.00元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/316702/?dcs=subject-rec&amp;dcm=douban&amp;dct=3995799" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/316702.1653713784.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/316702/" target="_blank">论文艺女青年如何培养女王气场</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+        
+        <dl>
+            <dt>
+            <a href="https://read.douban.com/ebook/803216/?dcs=subject-rec&amp;dcm=douban&amp;dct=3995799" target="_blank">
+                <span class="cover-outer">
+                <img src="https://pic.arkread.com/cover/ebook/f/803216.1653698460.jpg!cover_default.jpg">
+                </span>
+            </a>
+            </dt>
+            <dd>
+            <div class="title">
+                <a href="https://read.douban.com/ebook/803216/" target="_blank">在富士康</a>
+            </div>
+            <div class="price">
+                
+    1.99元
+
+            </div>
+            </dd>
+        </dl>
+    </div>
+    </div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span>喜欢读&#34;蚁族&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1777823/" onclick="moreurl(this, {'total': 10, 'clicked': '1777823', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img9.doubanio.com/view/subject/s/public/s1794585.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1777823/" onclick="moreurl(this, {'total': 10, 'clicked': '1777823', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            八十年代访谈录
+          </a>
+          <span class="subject-rate">8.2</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4872671/" onclick="moreurl(this, {'total': 10, 'clicked': '4872671', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s4397779.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4872671/" onclick="moreurl(this, {'total': 10, 'clicked': '4872671', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            佛祖在一号线
+          </a>
+          <span class="subject-rate">8.2</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1051363/" onclick="moreurl(this, {'total': 10, 'clicked': '1051363', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s34080450.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1051363/" onclick="moreurl(this, {'total': 10, 'clicked': '1051363', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            中国农民调查
+          </a>
+          <span class="subject-rate">8.6</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3662230/" onclick="moreurl(this, {'total': 10, 'clicked': '3662230', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s3908803.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3662230/" onclick="moreurl(this, {'total': 10, 'clicked': '3662230', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            七十年代
+          </a>
+          <span class="subject-rate">8.6</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2380307/" onclick="moreurl(this, {'total': 10, 'clicked': '2380307', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s2879952.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2380307/" onclick="moreurl(this, {'total': 10, 'clicked': '2380307', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            激荡三十年（下）
+          </a>
+          <span class="subject-rate">8.8</span>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5414385/" onclick="moreurl(this, {'total': 10, 'clicked': '5414385', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s4575839.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5414385/" onclick="moreurl(this, {'total': 10, 'clicked': '5414385', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            不分东西
+          </a>
+          <span class="subject-rate">7.7</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/21458706/" onclick="moreurl(this, {'total': 10, 'clicked': '21458706', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img2.doubanio.com/view/subject/s/public/s26149652.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/21458706/" onclick="moreurl(this, {'total': 10, 'clicked': '21458706', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            出梁庄记
+          </a>
+          <span class="subject-rate">8.3</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5416832/" onclick="moreurl(this, {'total': 10, 'clicked': '5416832', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img9.doubanio.com/view/subject/s/public/s4598765.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5416832/" onclick="moreurl(this, {'total': 10, 'clicked': '5416832', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            辛亥：摇晃的中国
+          </a>
+          <span class="subject-rate">7.5</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5401989/" onclick="moreurl(this, {'total': 10, 'clicked': '5401989', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s6336700.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5401989/" onclick="moreurl(this, {'total': 10, 'clicked': '5401989', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            自由在高处
+          </a>
+          <span class="subject-rate">8.0</span>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4238362/" onclick="moreurl(this, {'total': 10, 'clicked': '4238362', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/view/subject/s/public/s4243447.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4238362/" onclick="moreurl(this, {'total': 10, 'clicked': '4238362', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            送你一颗子弹
+          </a>
+          <span class="subject-rate">8.6</span>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+      
+
+
+
+
+<div id="comments-section">
+    <link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/lib/subject-comments/comments-section.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span>短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/3995799/comments/">全部 1279 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+                <a class="short-comment-tabs on-tab"
+                    href="https://book.douban.com/subject/3995799/comments?sort=score" 
+                    data-tab="score">热门</a>
+                <span>/</span>
+                <a class="short-comment-tabs "
+                    href="https://book.douban.com/subject/3995799/comments?sort=time" 
+                    data-tab="time">最新</a>
+                <span>/</span>
+                <a class="j a_show_login "
+                    href="https://book.douban.com/subject/3995799/comments?sort=follows" 
+                    data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+  
+  <div class="comment-list score show" id="score">
+      <ul>
+          
+  <li class="comment-item" data-cid="563591832">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-563591832" class="vote-count">16</span>
+              <a id="btn-563591832" href="" class="j a_show_login" data-cid="563591832">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/yusuf/">羊肉烤黄皮子</a>
+            <span class="user-stars allstar10 rating" title="很差"></span>
+          <a class="comment-time" href="/comment/563591832">2012-08-02 22:41:26</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">看到常用标签“社会学”笑了。这种作品是报告文学的精品，社会科学的垃圾</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=563591832"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="232211751">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-232211751" class="vote-count">0</span>
+              <a id="btn-232211751" href="" class="j a_show_login" data-cid="232211751">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/youzitou/">月经初潮喜感妹</a>
+            <span class="user-stars allstar40 rating" title="推荐"></span>
+          <a class="comment-time" href="/comment/232211751">2010-03-23 00:12:47</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">永远不要忘记，在上帝揭露人的未来以前，人类的一切智慧是包含在这四个字里面的：&#39;等待&#39;和&#39;希望&#39;。 
+</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=232211751"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="197543457">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-197543457" class="vote-count">2</span>
+              <a id="btn-197543457" href="" class="j a_show_login" data-cid="197543457">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/mizongzxz/">迷踪</a>
+            <span class="user-stars allstar30 rating" title="还行"></span>
+          <a class="comment-time" href="/comment/197543457">2010-01-02 13:02:47</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">如果作为报告文学：故事性还不足。
+如果作为社会问题调查：问题性不突出，也无有效方法。
+如果作为混合型学书著作：并没有考虑到阅读者接受度和感觉。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=197543457"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="554149980">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-554149980" class="vote-count">2</span>
+              <a id="btn-554149980" href="" class="j a_show_login" data-cid="554149980">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/fencius/">務-虛-眞-人</a>
+            <span class="user-stars allstar40 rating" title="推荐"></span>
+          <a class="comment-time" href="/comment/554149980">2012-07-09 21:39:55</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">是什麽給了這麼多人這樣的信念：未來會更美好
+</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=554149980"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="220710264">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-220710264" class="vote-count">24</span>
+              <a id="btn-220710264" href="" class="j a_show_login" data-cid="220710264">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/wenzel/">文泽尔</a>
+            <span class="user-stars allstar20 rating" title="较差"></span>
+          <a class="comment-time" href="/comment/220710264">2010-02-23 07:11:42</a>
+          <span class="comment-location"></span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">只有现象，没有出路，且现象亦浅薄..文字无根，欠缺报告文学的严肃语境，完全不能承载一个居于北京郊区的特定族群..说是一份社会学报告，却既不专业也不严谨，只是选取了新鲜的题材，不过却无法令向着题材而去的读者满意..或许以2小时纪录片的形式来表现，收到的效果要好得多吧..不过也有可能，是因为我离这个世界太远了，远到不能了解那种底层的苦难：我想我应该去试着感受一下绝境中的底层的苦难..为了我自身的纯粹.</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=220710264"></div>
+    </div>
+  </li>
+
+      </ul>
+  </div>
+
+        
+  
+  <div class="comment-list time noshow" id="time">
+      <ul>
+          
+  <li class="comment-item" data-cid="3966782545">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3966782545" class="vote-count">0</span>
+              <a id="btn-3966782545" href="" class="j a_show_login" data-cid="3966782545">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/126805225/">小小屋</a>
+            <span class="user-stars allstar40 rating" title="推荐"></span>
+          <a class="comment-time" href="/comment/3966782545">2023-10-21 22:39:37</a>
+          <span class="comment-location">江西</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">主题可以，值得关注。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=3966782545"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3930439173">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3930439173" class="vote-count">0</span>
+              <a id="btn-3930439173" href="" class="j a_show_login" data-cid="3930439173">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/180615175/">克卜勒</a>
+            <span class="user-stars allstar30 rating" title="还行"></span>
+          <a class="comment-time" href="/comment/3930439173">2023-09-13 01:02:32</a>
+          <span class="comment-location">湖北</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">是很好的题材，可是书没有达到我看前的期待。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=3930439173"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3885700501">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3885700501" class="vote-count">0</span>
+              <a id="btn-3885700501" href="" class="j a_show_login" data-cid="3885700501">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/Gyc30777/">Mr.Blackhat</a>
+            <span class="user-stars allstar30 rating" title="还行"></span>
+          <a class="comment-time" href="/comment/3885700501">2023-08-09 20:06:33</a>
+          <span class="comment-location">中国台湾</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">05后，耐着性子看完的，本书应该是那时候最先一批关注相关社会议题的，对于那个年代确实很新鲜，以现在的视角确实很难有共鸣。作者文笔和让我有一种中学生写作文的感觉。书中80年代大学生大都认为以后还是有希望的，00后现在大都可能都看不到希望。by有趣的点：原来千禧年就有北大青鸟了。</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=3885700501"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3844350198">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3844350198" class="vote-count">0</span>
+              <a id="btn-3844350198" href="" class="j a_show_login" data-cid="3844350198">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/183435776/">明天還是得學着</a>
+            <span class="user-stars allstar10 rating" title="很差"></span>
+          <a class="comment-time" href="/comment/3844350198">2023-07-24 23:39:29</a>
+          <span class="comment-location">福建</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">很难相信这玩意能够叫做调查报告</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=3844350198"></div>
+    </div>
+  </li>
+
+          
+  <li class="comment-item" data-cid="3858498903">
+    <div class="comment">
+      <h3>
+        <span class="comment-vote">
+            <span id="c-3858498903" class="vote-count">0</span>
+              <a id="btn-3858498903" href="" class="j a_show_login" data-cid="3858498903">有用</a>
+
+        </span>
+        <span class="comment-info">
+          <a href="https://www.douban.com/people/48643182/">喵呜喵呜呸</a>
+            <span class="user-stars allstar50 rating" title="力荐"></span>
+          <a class="comment-time" href="/comment/3858498903">2023-07-21 09:37:47</a>
+          <span class="comment-location">福建</span>
+        </span>
+      </h3>
+      <p class="comment-content">
+      
+        <span class="short">还是十多年前看的，五星给当年理想主义的我们，世异时移，作者变了，我也变了</span>
+      </p>
+        <div class="report-comment" data-url="https://book.douban.com/subject/3995799/?comment_id=3858498903"></div>
+    </div>
+  </li>
+
+      </ul>
+  </div>
+
+        
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/3995799/comments/">更多短评 1279 条</a></p>
+    <script src="https://img1.doubanio.com/cuphead/book-static/lib/subject-comments/comments-section.js"></script>
+    <script>
+     (function () {
+            if (window.SUBJECT_COMMENTS_SECTION) {
+                // tab handler
+                SUBJECT_COMMENTS_SECTION.createTabHandler();
+                // expand handler
+                SUBJECT_COMMENTS_SECTION.createExpandHandler({
+                    root: document.getElementById('comment-list-wrapper'),
+                });
+                SUBJECT_COMMENTS_SECTION.createVoteHandler({
+                    api: '/j/comment/:id/vote',
+                    root: document.getElementById('comment-list-wrapper'),
+                    voteSelector: '.vote-comment',
+                    textSelector: '.vote-count',
+                    afterVote: function (elem) {
+                        var parentNode = elem.parentNode;
+                        var successElem = document.createElement('span');
+                        successElem.innerHTML = '已投票';
+                        parentNode.removeChild(elem);
+                        parentNode.appendChild(successElem);
+                    }
+                });
+            }
+        })()
+    </script>
+</div>
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/610438fbda6eb614.css">
+
+    <section id="reviews-wrapper" class="reviews mod book-content">
+        <header>
+            
+                <a href="new_review" rel="nofollow" class="create-review redbutt rr "
+                    data-isverify="False"
+                    data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/3995799/new_review">
+                    <span>我要写书评</span>
+                </a>
+            <h2>
+                    蚁族的书评 · · · · · ·
+
+                    <span class="pl">( <a href="reviews">全部 245 条</a> )</span>
+            </h2>
+        </header>
+        
+            
+            <div class="review_filter">
+                            <a href="javascript:;;" class="cur" data-sort="">热门</a>
+                            <a href="javascript:;;" data-sort="time">最新</a>
+                            <a href="javascript:;;" data-sort="follow">好友</a>
+            </div>
+            <script>
+                var cur_sort = '';
+                $('#reviews-wrapper .review_filter a').on('click', function () {
+                    var sort = $(this).data('sort');
+                    if(sort === cur_sort) return;
+
+                    if(sort === 'follow' && true){
+                        window.location.href = '//www.douban.com/accounts/login?source=movie';
+                        return;
+                    }
+
+                    if($('#reviews-wrapper .review_filter').data('doing')) return;
+                    $('#reviews-wrapper .review_filter').data('doing', true);
+
+                    cur_sort = sort;
+
+                    $('#reviews-wrapper .review_filter a').removeClass('cur');
+                    $(this).addClass('cur');
+
+                    $.getJSON('reviews', { sort: sort }, function(res) {
+                        $('#reviews-wrapper .review-list').remove();
+                        $('#reviews-wrapper [href="reviews?sort=follow"]').parent().remove();
+                        $('#reviews-wrapper .review_filter').after(res.html);
+                        $('#reviews-wrapper .review_filter').data('doing', false);
+                        $('#reviews-wrapper .review_filter').removeData('doing');
+
+                        if (res.count === 0) {
+                            $('#reviews-wrapper .review-list').html('<span class="no-review">你关注的人还没写过长评</span>');
+                        }
+                    });
+                });
+            </script>
+
+
+            
+
+
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="2782588">
+        <div class="main review-item" id="2782588">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/1349681/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1349681-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/1349681/" class="name">行走的笔尖</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-11-23" class="main-meta">2009-11-23 00:08:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2782588/">迷惘的一代和城市梦</a></h2>
+
+                <div id="review_2782588_short" class="review-short" data-rid="2782588">
+                    <div class="short-content">
+
+                         1、谁会是这本书的读者呢？曾经的蚁族，现在的蚁族，抑或是其他？  2、我曾在为某楼盘所做的提案中，大致描述了这部分人的生活状态、和购房需求。 城市地位：处于城市的中下层，正在为留在城市而奋斗；他们是白领、职员，离城市中坚还很远；他们的事业刚刚起步，正在追逐着更...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2782588-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2782588_full" class="hidden">
+                    <div id="review_2782588_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2782588" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2782588">
+                                393
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2782588" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2782588">
+                                15
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2782588/#comments" class="reply ">136回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2734310">
+        <div class="main review-item" id="2734310">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/jjrry/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u21741057-6.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/jjrry/" class="name">以罗伊</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2009-11-10" class="main-meta">2009-11-10 19:01:46</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2734310/">吃得苦中苦，方便人上人</a></h2>
+
+                <div id="review_2734310_short" class="review-short" data-rid="2734310">
+                    <div class="short-content">
+
+                        最近出了一本书，叫蚁族，最近流行一个词，叫杯具，用一个词概括这本书的段落大意和中心思想，就是杯具。       不是我们不明白，这世界变化快，所谓的天之骄子变成了地上蝼蚁，堕落了这么久的大学，终于从天上落到了地下。大学生在现在，已经配不上骄傲之类的词，无奈和酸楚才...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2734310-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2734310_full" class="hidden">
+                    <div id="review_2734310_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2734310" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2734310">
+                                80
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2734310" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2734310">
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2734310/#comments" class="reply ">34回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2332665">
+        <div class="main review-item" id="2332665">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/3673003/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u3673003-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/3673003/" class="name">古文观止</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-09-14" class="main-meta">2009-09-14 16:55:52</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2332665/">唐家岭的“保护费”</a></h2>
+
+                <div id="review_2332665_short" class="review-short" data-rid="2332665">
+                    <div class="short-content">
+
+                        唐家岭的“保护费”    清晨的北京安静祥和，路旁的灯光在晨雾中散射，融化了平日的喧嚣。窗外的气温是-13℃，即使躲在车里，也能感受到窗外的凉气。我们三个把自己裹得严严实实，沉默着赶往唐家岭。 廉思师兄专心看路，冯丹仔细查看着地图，而我则在摆弄三台照相机，检查着电...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2332665-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2332665_full" class="hidden">
+                    <div id="review_2332665_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2332665" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2332665">
+                                19
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2332665" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2332665">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2332665/#comments" class="reply ">24回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2568612">
+        <div class="main review-item" id="2568612">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/monster1000/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1564786-9.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/monster1000/" class="name">Sundance小千</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-10-19" class="main-meta">2009-10-19 21:21:02</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2568612/">...</a></h2>
+
+                <div id="review_2568612_short" class="review-short" data-rid="2568612">
+                    <div class="short-content">
+
+                        一个多钟头的时间 认真翻完了这篇像论文一样的采访纪实 心情很沉重   本该拥有的年轻和快乐被生活跟现实剥夺 那是一种多么可怕多么可悲的事情   理想被生活所践踏 这是整个教育制度的可怕与可悲 这是整个国家的可怕与可悲   我们又何尝不是 干着不痛不痒不伤害国家也没有造福社...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2568612-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2568612_full" class="hidden">
+                    <div id="review_2568612_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2568612" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2568612">
+                                12
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2568612" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2568612">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2568612/#comments" class="reply ">13回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2962892">
+        <div class="main review-item" id="2962892">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/doloresel/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1060790-40.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/doloresel/" class="name">海洋小饼干🍪</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2010-01-29" class="main-meta">2010-01-29 10:15:27</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2962892/">对话廉思：青年现况——从蜗居到蚁族</a></h2>
+
+                <div id="review_2962892_short" class="review-short" data-rid="2962892">
+                    <div class="short-content">
+
+                        0086：你创造了一个流行的新词——蚁族，虽然可能你的本意跟并不在此，但它引起了人们极大的关注。“蚁族”这个词火了，当然同时还有一部电视剧应该一提《蜗居》您看过嘛？ 廉思：好多人把蚁族和《蜗居》联系起来。《蜗居》里边的海萍和她老公，从某种意义上可以算作蚁族：他们...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2962892-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2962892_full" class="hidden">
+                    <div id="review_2962892_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2962892" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2962892">
+                                42
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2962892" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2962892">
+                                6
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2962892/#comments" class="reply ">30回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2694612">
+        <div class="main review-item" id="2694612">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/sunjinlong/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u2983548-21.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/sunjinlong/" class="name">闻道</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2009-11-03" class="main-meta">2009-11-03 15:57:11</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2694612/">“这个国家的年轻人要更有冲劲”</a></h2>
+
+                <div id="review_2694612_short" class="review-short" data-rid="2694612">
+                    <div class="short-content">
+
+                                          读《蚁族》（大学毕业生聚居村实录）小记     在常逛的网易读书文艺排行榜榜首看到这本书，书序专家推荐名单就让人眼前一亮：周其凤，纪宝成，王绍光，丁宁宁，汪晖，温铁军，唐骏等，且荐语真挚恳切，对80后“蚁族”殷殷深情令人触动。这两天抽空看完此书，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2694612-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2694612_full" class="hidden">
+                    <div id="review_2694612_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2694612" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2694612">
+                                12
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2694612" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2694612">
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2694612/#comments" class="reply ">5回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2824051">
+        <div class="main review-item" id="2824051">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/toyman_28/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1929415-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/toyman_28/" class="name">toyman_28</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2009-12-06" class="main-meta">2009-12-06 13:32:34</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2824051/">那些忧伤的年轻人</a></h2>
+
+                <div id="review_2824051_short" class="review-short" data-rid="2824051">
+                    <div class="short-content">
+
+                               盗用许知远的一本书的题目作为此读书笔记的标题，蚁族最近被炒得很热的两个字，它也是颇为敏感的字眼，对于社会，对于个人而言，80后和高房价、经济不景气。用蚁族并不十分贴切，对于聚集村生活在城市边缘生存的大学毕业生，曾经的“天之骄子”，蚂蚁是团结协作的群体，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2824051-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2824051_full" class="hidden">
+                    <div id="review_2824051_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2824051" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2824051">
+                                13
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2824051" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2824051">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2824051/#comments" class="reply ">3回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2314066">
+        <div class="main review-item" id="2314066">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/10563932/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u10563932-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/10563932/" class="name">无情无义</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-09-09" class="main-meta">2009-09-09 10:54:24</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://book.douban.com/review/2314066/">他们在小月河</a></h2>
+
+                <div id="review_2314066_short" class="review-short" data-rid="2314066">
+                    <div class="short-content">
+
+                        他们在小月河  在北京有一个地方叫小月河 小月河，跟著名的奥运村，只隔着一条高速公路 这里，是无数追梦的外地孩子，梦开始的地方 这里有一边唱歌一边卖东西的贫嘴男人，还有跳河自杀的小姑娘……  没人知道离奥运村就两站地不到，还有这样的地方 跳河的小妹妹也没活过来 卖东...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2314066-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2314066_full" class="hidden">
+                    <div id="review_2314066_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2314066" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2314066">
+                                41
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2314066" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2314066">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://book.douban.com/review/2314066/#comments" class="reply ">48回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script type="text/javascript">
+        (function() {
+            if (window.__init_review_list) return;
+            __init_review_list = true;
+        })();
+        window.useful_icon = "https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png";
+        window.usefuled_icon = "https://img1.doubanio.com/f/zerkalo/635290bb14771c97270037be21ad50514d57acc3/pics/up-full.png";
+        window.useless_icon = "https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png";
+        window.uselessed_icon = "https://img1.doubanio.com/f/zerkalo/23cee7343568ca814238f5ef18bf8aadbe959df2/pics/down-full.png";
+    </script>
+
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/zerkalo/3aeb281ab0e4f2c7050458684acfeb6838441de9/css/review/editor/ng/setting_standalone.css">
+    <script src="https://img1.doubanio.com/f/zerkalo/938cdbe2e223a3117cbbcb4929cae2001b402c20/js/review/editor/ng/manifest.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/296cd5fec472a78add5fee958c58d72f47d91586/js/review/editor/ng/vendor.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8a6f99feb702ed3c956a552c1b978285dcfdf7d9/js/review/editor/ng/setting_standalone.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8941af7854ddad9561648b706cdb49f3d1534ff3/js/review/editor/ng/render_gif.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/ad32b4b739a59a90e9e3437fd2fba797dd7c26f2/js/review/actions.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/7196bdec780f03785f55b06fda34999595057f65/js/review/unfold.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+                <p class="pl">
+                    &gt;
+                        <a href="reviews">
+                            更多书评
+                                245篇
+                        </a>
+                </p>
+    </section>
+<!-- COLLECTED JS -->
+
+  
+<div class="annotation">
+</div>
+
+<script>
+  $('document').ready(function () {
+    $.get(`/subject/3995799/annotation_html`, function (r) {
+      $('.annotation').html(r.html);
+    });
+  });
+</script>
+
+  
+    
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+    
+  
+
+  <h2>
+    <span>论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/3995799/discussion/20790478/" title="廉思这人真垃圾">廉思这人真垃圾</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/JN/">Major LJ</a></td>
+            <td class="pl"><span>72 回应</span></td>
+            <td class="pl"><span>2016-08-03 15:14:08</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/3995799/discussion/58387071/" title="【民间观察】看央视调查北京新蚁族聚集地报道舆论为拆迁造势">【民间观察】看央视调查北京新蚁族聚集地报道舆论...</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/wangzhongyin/">菏泽民间观察</a></td>
+            <td class="pl"><span></span></td>
+            <td class="pl"><span>2014-07-29 21:29:47</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/3995799/discussion/20073497/" title="wsj导引至此">wsj导引至此</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/1876521/">水母</a></td>
+            <td class="pl"><span>15 回应</span></td>
+            <td class="pl"><span>2012-10-14 18:06:24</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/3995799/discussion/20182071/" title="其实生活本就如此">其实生活本就如此</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/xfei2/">非我非非我</a></td>
+            <td class="pl"><span>4 回应</span></td>
+            <td class="pl"><span>2012-10-14 17:46:48</span></td>
+        </tr>
+        
+        <tr>
+            <td class="pl"><a href="https://book.douban.com/subject/3995799/discussion/21380124/" title="感觉这本书是给☭写的.....">感觉这本书是给☭写的.....</a></td>
+            <td class="pl"><span>来自</span><a href="https://www.douban.com/people/elvis_tang/">小百</a></td>
+            <td class="pl"><span>1 回应</span></td>
+            <td class="pl"><span>2012-09-17 13:40:03</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/3995799/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+
+  
+</div>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+  <link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/cart/presale.3f3fa.css">
+  <link rel="stylesheet" href="https://img2.doubanio.com/cuphead/book-static/cart/buyinfo.c90fe.css">
+
+  <div class="gray_ad buyinfo" id="buyinfo">
+      <div class="buyinfo-printed" id="buyinfo-printed">
+        
+
+
+          
+  
+
+  <h2>
+    <span>购买二手书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+          
+  <ul class="secondhand-books-list bs">
+    
+    <li class="impression_track_mod_buyinfo"
+      data-track="https://frodo.douban.com/rohirrim/tracking/impression?subject_id=3995799&amp;isbn=7563390065&amp;source=manyoujing&amp;user_id=&amp;bid=j_WaZ5kMdE0&amp;platform=pc&amp;location=vendor_subject">
+
+        <div class='flex-wrap'>
+          <div class="cell vendor-name">
+            <a target="_blank" href="https://www.manyoujing.net/book/sale/00356409531738235?ent=1&amp;vft=11" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=3995799&amp;isbn=7563390065&amp;source=manyoujing&amp;user_id=&amp;bid=j_WaZ5kMdE0&amp;platform=pc&amp;location=vendor_subject')">
+              <span>漫游鲸</span>
+            </a>
+          </div>
+
+          <div class="cell">
+            <a target="_blank" href="https://www.manyoujing.net/book/sale/00356409531738235?ent=1&amp;vft=11" class="buylink-price" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=3995799&amp;isbn=7563390065&amp;source=manyoujing&amp;user_id=&amp;bid=j_WaZ5kMdE0&amp;platform=pc&amp;location=vendor_subject')">
+              <span>
+                9.36元
+              </span>
+            </a>
+          </div>
+          <div class="cell">
+            <a target="_blank" href="https://www.manyoujing.net/book/sale/00356409531738235?ent=1&amp;vft=11" class="buy-book-btn secondhand-book-btn" onclick="track('https://frodo.douban.com/rohirrim/tracking/click?subject_id=3995799&amp;isbn=7563390065&amp;source=manyoujing&amp;user_id=&amp;bid=j_WaZ5kMdE0&amp;platform=pc&amp;location=vendor_subject')">
+              <span>购买二手书</span>
+            </a>
+          </div>
+        </div>
+
+        
+  
+
+
+
+    </li>
+</ul>
+
+      </div>
+      
+  <div class="add2cartContainer no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/accounts/passport/login?source=book" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+
+<script>
+  $(document).ready(function() {
+    $('.impression_track_mod_buyinfo').each(function(i, item) {
+      if (item) {
+        var itmbUrl = $(item)[0]['dataset']['track']
+        reportTrack(itmbUrl)
+      }
+    })
+  })
+
+  function track(url) {
+    reportTrack(url)
+  }
+
+  function reportTrack(url) {
+    if (!url) { return false }
+    $.ajax({ url: url, dataType: 'text/html' })
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/book-static/subject/works.4fdcb.css">
+
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span>在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-5633-9006-9&amp;subject=7563390065&amp;type=borrow&amp;library=10007&amp;link2key=00e8e225e2" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787563390069&amp;subject=7563390065&amp;type=borrow&amp;library=10012&amp;link2key=00e8e225e2" target="_blank">上海市中心图书馆(39)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787563390069%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7563390065&amp;type=borrow&amp;library=10023&amp;link2key=00e8e225e2" target="_blank">广州其他馆藏(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7563390065%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7563390065&amp;subject=7563390065&amp;type=borrow&amp;library=10003&amp;link2key=00e8e225e2" target="_blank">江阴市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D978-7-5633-9006-9&amp;subject=7563390065&amp;type=borrow&amp;library=10006&amp;link2key=00e8e225e2" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-5633-9006-9%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7563390065&amp;type=borrow&amp;library=10010&amp;link2key=00e8e225e2" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac3.wzlib.cn%2Fopac%2Fsearch%3FsearchWay%3Disbn%26q%3D978-7-5633-9006-9%26booktype%3D%26marcformat%3D%26sortWay%3Dscore%26sortOrder%3Ddesc%26startPubdate%3D%26endPubdate%3D%26rows%3D10&amp;subject=7563390065&amp;type=borrow&amp;library=10020&amp;link2key=00e8e225e2" target="_blank">温州市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D978-7-5633-9006-9%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7563390065&amp;type=borrow&amp;library=10021&amp;link2key=00e8e225e2" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  
+    
+
+
+
+  
+  
+
+  <h2>
+    <span>以下书单推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/3995799/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+  <div id="db-doulist-section" class="indent">
+    <ul class="bs">
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/436036/" target="_blank">你好好睡，我好好读书。等你醒了我们聊柏拉图。</a>
+                <span class="pl">(琼斯黄)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/1868931/" target="_blank">《罗辑思维》第一季推荐书籍</a>
+                <span class="pl">(怪刺)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/38519/" target="_blank">《新周刊》的书架（2007年～2009年）(2010.08.28)</a>
+                <span class="pl">(絮佩维埃尔)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/1756190/" target="_blank">优酷 罗辑思维 2013(第一季) 介绍的书籍</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          
+            <li class=""><a class="" href="https://www.douban.com/doulist/288664/" target="_blank">电影学院四年个人读书清单</a>
+                <span class="pl">(杜扬Seatory)</span>
+            </li>
+    </ul>
+  </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+    
+
+
+
+
+
+  
+  
+
+  <h2>
+    <span>谁读这本书?</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div id="collector">
+  
+
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/161678029/"><img src="https://img9.doubanio.com/icon/u161678029-5.jpg" alt="289星球" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/161678029/">289星球</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/aolifucc/"><img src="https://img9.doubanio.com/icon/u154671060-6.jpg" alt="Moon" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/aolifucc/">Moon</a><br/>
+      <div class="pl ll">          10月23日          读过      </div>
+
+        <span class="allstar30" title="还行"></span>
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/newberber/"><img src="https://img9.doubanio.com/icon/u233564667-4.jpg" alt="μάγμα" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/newberber/">μάγμα</a><br/>
+      <div class="pl ll">          10月22日          想读      </div>
+
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div>
+    
+    <div class="ll"><a href="https://www.douban.com/people/153787301/"><img src="https://img1.doubanio.com/icon/u153787301-8.jpg" alt="ooooo" /></a></div>
+    <div style="padding-left:60px"><a href="https://www.douban.com/people/153787301/">ooooo</a><br/>
+      <div class="pl ll">          10月21日          想读      </div>
+
+      <br/>
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/3995799/comments?status=N">1000人在读</a></p>
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/3995799/comments?status=P">6169人读过</a></p>
+      <p class="pl">&gt; <a href="https://book.douban.com/subject/3995799/comments?status=F">11582人想读</a></p>
+
+</div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+    
+
+
+
+
+
+
+<h2>
+  
+  
+
+  <h2>
+    <span>二手市场</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+</h2>
+<div class="indent">
+  <ul class="bs">
+  <li class="">
+      <a class=" " href="https://book.douban.com/subject/3995799/offers">42本二手书欲转让</a>
+        <span class="">
+          (2.00
+              至 29.00元)
+        </span>
+    </li>
+    <li>
+        <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>在豆瓣转让</span></a>
+
+      有11582人想读，手里有一本闲着?
+    </li>
+  </ul>
+</div>
+
+  
+<p class="pl">订阅关于蚁族的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/3995799/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2023 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+      
+
+    <script type="text/javascript">
+    $(function(){
+      $('.add2cartWidget').each(function() {
+        var add2CartBtn = $(this).find('.add2cart');
+        var inCartHint = $(this).find('.book-in-cart');
+        var deleteBtn = inCartHint.find('.delete-cart-item');
+
+        deleteBtn.click(function(e) {
+          e.preventDefault();
+          $.post_withck('/cart', {remove: this.rel}, function() {
+            add2CartBtn.show();
+            inCartHint.hide();
+          });
+        });
+      });
+    });
+  </script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'j_WaZ5kMdE0',
+            criteria = '7:社会学|7:蚁族|7:80后|7:社会|7:报告文学|7:中国|7:调查|7:社科|7:廉思|7:职场|3:/subject/3995799/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/aHF4dWV0OC9mL2FkanMvYzQyYzU5YWEwNWM4YTkyOTE3Y2UzM2RkZGEwZDk0OWYwZGM0YjVjNC9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+  <script src="https://img1.doubanio.com/f/vendors/8d311a1defb6b721d73cfb891924c13c06af631b/js/ui/fix_aside.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $().fixSide(200, 52);
+    });
+  </script>
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dae-web-book--default-8648d6889f-xz8lz-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
