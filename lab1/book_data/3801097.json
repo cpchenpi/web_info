@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 20571,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 乙一"
+    ],
+    "pubdate": "2009-6",
+    "tags": [
+        {
+            "count": 5856,
+            "name": "乙一",
+            "title": "乙一"
+        },
+        {
+            "count": 2748,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 2007,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 1994,
+            "name": "黑暗系",
+            "title": "黑暗系"
+        },
+        {
+            "count": 1464,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 1401,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1181,
+            "name": "夏天·烟火·我的尸体",
+            "title": "夏天·烟火·我的尸体"
+        },
+        {
+            "count": 647,
+            "name": "日本推理小说",
+            "title": "日本推理小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3840924.jpg",
+    "binding": "平装",
+    "translator": [
+        "王华懋"
+    ],
+    "catalog": "夏天·烟火·我的尸体\n优子",
+    "pages": "148",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3840924.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3840924.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3840924.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3801097/",
+    "id": "3801097",
+    "publisher": "当代世界出版社",
+    "isbn10": "7509005167",
+    "isbn13": "9787509005163",
+    "title": "夏天·烟火·我的尸体",
+    "url": "https://api.douban.com/v2/book/3801097",
+    "alt_title": "",
+    "author_intro": "乙一（Otsuichi），1978年10月21日出生于日本福冈县，本名安达宽高。被誉为日本文坛新一代“恐怖小说精英”，日本评论家盛赞其为难得一见的天才。其作品在日本国内多次获奖。深受日本和港台地区读者喜爱。",
+    "summary": "那年夏天，我九岁，然后，我死了。幼小的凶手惊恐地、沉着地奔忙于藏匿 我的尸体在与死亡的游戏中，孩子们究竟是更加狡黠，还是更加天真？",
+    "series": {
+        "id": "1401",
+        "title": "乐读文库"
+    },
+    "price": "20.00"
+}

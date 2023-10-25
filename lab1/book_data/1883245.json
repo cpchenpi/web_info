@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 27890,
+        "average": "9.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "孔丘 编订"
+    ],
+    "pubdate": "2006-7",
+    "tags": [
+        {
+            "count": 4486,
+            "name": "诗经",
+            "title": "诗经"
+        },
+        {
+            "count": 3777,
+            "name": "古典文学",
+            "title": "古典文学"
+        },
+        {
+            "count": 2604,
+            "name": "诗歌",
+            "title": "诗歌"
+        },
+        {
+            "count": 2259,
+            "name": "古典诗词",
+            "title": "古典诗词"
+        },
+        {
+            "count": 2216,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 1648,
+            "name": "古典",
+            "title": "古典"
+        },
+        {
+            "count": 1471,
+            "name": "古籍",
+            "title": "古籍"
+        },
+        {
+            "count": 1337,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1979223.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "国风·周南\n关雎\n葛覃\n卷耳\n楞木\n螽斯\n桃天\n兔置\n茉苡\n汉广\n汝坟\n麟之趾\n国风·召南\n鹊巢\n采蘩\n草虫\n采苹\n甘棠\n行露\n羔羊\n股其雷\n摞有梅\n小星\n江有汜\n野有死唐\n何彼穰矣\n驺虞\n国风·邶风\n柏舟\n绿衣\n燕燕\n日月\n终风\n击鼓\n凯风\n雄雉\n匏有苦叶\n谷风\n式微\n旄丘\n简兮\n泉水\n北门\n北风\n静女\n新台\n二子乘舟\n国风·都风\n柏舟\n墙有茨\n君子偕老\n桑中\n鹑之奔奔\n定之方中\n啜虫东\n相鼠\n干旄\n载驰\n国风·卫风\n淇奥\n考磐\n硕人\n氓\n竹竿\n芄兰\n河广\n伯兮\n有狐\n木瓜\n国风·王风\n黍离\n君子于役\n君子阳阳\n扬之水\n中谷有蒋\n兔爰\n葛菔\n采葛\n大车\n丘中有麻\n国风·郑风\n缁衣\n将仲子\n叔于田\n大叔于出\n清人\n羔裘\n遵大路\n女日鸡鸣\n有女同车\n山有扶苏\n捧兮\n狡童\n褰裳\n丰\n东门之蝉\n风雨\n子衿\n扬之水\n出其东门\n野有蔓草\n溱洧\n国风·齐风\n鸡鸣\n还\n著\n东方之日\n东方未明\n南山\n甫田\n卢令\n敝笱\n载驱\n猗嗟\n国风·魏风\n葛屦\n汾沮洳\n园有桃\n陟岵\n十亩之间\n伐檀\n硕鼠\n国风·唐风\n蟋蟀\n山有枢\n扬之水\n椒聊\n绸缪\n杖杜\n羔裘\n鸨羽\n无衣\n渭阳\n权舆\n国风·陈风\n宛丘\n东门之粉\n衡门\n东门之池\n东门之杨\n墓门\n防有鹊巢\n月出\n株林\n泽陂\n国风·桧风\n羔裘\n素冠\n隰有苌楚\n匪风\n国风·曹风\n蜉蝣\n候人\n鸬鸠\n下泉\n国风·豳风\n七月\n鸱鹗\n东山\n破斧\n伐柯\n九段\n狼跋\n小雅·鹿鸣之什\n鹿鸣\n四牡\n皇皇者华\n常棣\n伐木\n天保\n采薇\n出车\n扶杜\n鱼丽\n小雅·南有嘉鱼之什\n南有嘉鱼\n南山有台\n蓼萧\n湛露\n彤弓\n菁菁者莪\n六月\n采芑\n车攻\n吉日\n小雅·鸿雁之什\n鸿雁\n庭燎\n沔水\n鹤鸣\n祈父\n白驹\n黄鸟\n我行其野\n小雅·甫田之什\n甫田\n大田\n瞻彼洛矣\n裳裳者华\n桑扈\n鸳鸯\n颊弁\n车牵\n青蝇\n宾之初筵\n小雅·鱼藻之什\n鱼藻\n采菽\n角弓\n菀柳\n都人士\n采绿\n黍苗\n隰桑\n白华\n绵蛮\n瓠叶\n渐渐之石\n苕之华\n何草不黄\n大雅·文王之什\n文王\n大明\n绵\n域朴\n旱麓\n思齐\n皇矣\n灵台\n下武\n文王有声\n大雅·生民之什\n生民\n行苇\n既醉\n凫骘\n假乐\n公刘\n删酌\n卷阿\n民劳\n板\n大雅·荡之什\n荡\n抑\n桑柔\n云汉\n崧高\n蒸民\n韩奕\n江汉\n常武\n瞻印\n召曼\n周颂·清庙之什\n清庙\n维天之命\n维清\n烈文\n天作\n昊天有成命\n我将\n时迈\n执竞\n思文\n周颂·臣工之什\n臣工\n噫嘻\n振鹭\n丰年\n有瞽\n潜\n雍\n载见\n有客\n武\n周颂·闵予小子之什\n闵予小子\n访落\n敬之\n小毖\n载芟\n良耜\n丝衣\n酌\n桓\n赉\n般\n鲁颂·马同之什\n驷\n有秘\n泮水\n阂宫\n商颂\n那\n烈祖\n玄鸟\n长发\n殷武",
+    "pages": "363",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1979223.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1979223.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1979223.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1883245/",
+    "id": "1883245",
+    "publisher": "北京出版社",
+    "isbn10": "720006503X",
+    "isbn13": "9787200065039",
+    "title": "诗经",
+    "url": "https://api.douban.com/v2/book/1883245",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "这本《诗经》收录全部305篇，每篇诗歌都配有相应的解释及译文，使读者更容易理解。",
+    "series": {
+        "id": "10592",
+        "title": "家庭书架·传世经典读库"
+    },
+    "price": "19.90元"
+}

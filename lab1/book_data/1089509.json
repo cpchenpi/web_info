@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6346,
+        "average": "7.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "古龙"
+    ],
+    "pubdate": "2005-8",
+    "tags": [
+        {
+            "count": 1638,
+            "name": "古龙",
+            "title": "古龙"
+        },
+        {
+            "count": 1260,
+            "name": "武侠",
+            "title": "武侠"
+        },
+        {
+            "count": 488,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 362,
+            "name": "武侠小说",
+            "title": "武侠小说"
+        },
+        {
+            "count": 339,
+            "name": "圆月弯刀",
+            "title": "圆月弯刀"
+        },
+        {
+            "count": 176,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 140,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 105,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2157318.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "弯刀圆月第一章 出类拔萃第二章 棋高一筹第三章 天外流星第四章 弯刀第五章 又是圆月第六章 借刀第七章 救星第八章 圆月山庄第九章 骇人听闻第一○章 铁燕夫人第一一章 双刀合璧第一二章 征途第一三章 恐惧第一四章 决斗第一五章 秘屋第一六章 解脱第一七章 鼠辈第一八章 别有用心第一九章 小香第二○章 狡兔之穴第二一章 钓饵第二二章 脱出困厄第二三章 吃瘪第二四章 降龙第二五章 追索第二六章 调虎离山第二七章 屠刀第二八章 死亡之谷第二九章 逆袭第三○章 兵解第三一章 神刀传人第三二章 尾声",
+    "pages": "578",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2157318.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2157318.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2157318.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1089509/",
+    "id": "1089509",
+    "publisher": "珠海出版社",
+    "isbn10": "7806070931",
+    "isbn13": "9787806070932",
+    "title": "圆月弯刀",
+    "url": "https://api.douban.com/v2/book/1089509",
+    "alt_title": "",
+    "author_intro": "古龙，本名熊耀华，原籍江西。古龙毕业于台湾淡江大学外文系，是台湾著名新派武侠小说作家。他从1960年创作《苍穹神剑》始，一生共写了近70部武侠小说，影响巨大。其代表作有《风云第一刀》、《绝代双骄》、《楚留香传奇》系列、《陆小凤传奇》、《七种武器》系列、《白玉老虎》、《流星·蝴蝶·剑》等。",
+    "summary": "江湖少年丁鹏漂流到“忘忧岛”，获岛主传授弯刀刀法，决定问鼎武林，但是他后来却发现弯刀乃魔教武功，自己竟是“魔教之子”，他该正邪相冲的煎熬，他该何去何从呢？",
+    "series": {
+        "id": "4356",
+        "title": "古龙作品集"
+    },
+    "price": "25.00元"
+}

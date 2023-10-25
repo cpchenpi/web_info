@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 294730,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "黑暗森林",
+    "author": [
+        "刘慈欣"
+    ],
+    "pubdate": "2008-5",
+    "tags": [
+        {
+            "count": 34136,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 33567,
+            "name": "刘慈欣",
+            "title": "刘慈欣"
+        },
+        {
+            "count": 22684,
+            "name": "三体",
+            "title": "三体"
+        },
+        {
+            "count": 16612,
+            "name": "黑暗森林",
+            "title": "黑暗森林"
+        },
+        {
+            "count": 16172,
+            "name": "科幻小说",
+            "title": "科幻小说"
+        },
+        {
+            "count": 13626,
+            "name": "中国科幻",
+            "title": "中国科幻"
+        },
+        {
+            "count": 13337,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 12301,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3078482.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "序章\n上部 面壁者\n中部 咒语\n下部 黑暗森林",
+    "pages": "470",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3078482.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3078482.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3078482.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3066477/",
+    "id": "3066477",
+    "publisher": "重庆出版社",
+    "isbn10": "7536693966",
+    "isbn13": "9787536693968",
+    "title": "三体Ⅱ",
+    "url": "https://api.douban.com/v2/book/3066477",
+    "alt_title": "",
+    "author_intro": "刘慈欣，祖籍河南，长于山西，中国科普作家协会会员，山西省作家协会会员，高级工程师。\n自1999年处女作《鲸歌》问世以来，刘慈欣已发表短篇科幻小说三十余篇、出版长篇科幻小说六部，并创下连续八年荣获中国科幻最高奖“银河奖”的纪录。他的长篇作品《三体》开创《科幻世界》月刊连载原创作品的先例，成为2006年度最受关注、最畅销的科幻小说。",
+    "summary": "三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的\n“黑暗森林”究竟意味着什么？",
+    "series": {
+        "id": "38",
+        "title": "科幻世界·中国科幻基石丛书"
+    },
+    "price": "32.00"
+}

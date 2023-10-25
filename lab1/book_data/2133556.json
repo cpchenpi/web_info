@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 29712,
+        "average": "6.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "韩寒"
+    ],
+    "pubdate": "2007-6",
+    "tags": [
+        {
+            "count": 7269,
+            "name": "韩寒",
+            "title": "韩寒"
+        },
+        {
+            "count": 2727,
+            "name": "光荣日",
+            "title": "光荣日"
+        },
+        {
+            "count": 2656,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 987,
+            "name": "批判",
+            "title": "批判"
+        },
+        {
+            "count": 855,
+            "name": "现实主义",
+            "title": "现实主义"
+        },
+        {
+            "count": 810,
+            "name": "80后",
+            "title": "80后"
+        },
+        {
+            "count": 645,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 437,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2567655.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "12345",
+    "pages": "186",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2567655.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2567655.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2567655.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2133556/",
+    "id": "2133556",
+    "publisher": "二十一世纪出版社",
+    "isbn10": "7539137657",
+    "isbn13": "9787539137650",
+    "title": "光荣日（第一季）",
+    "url": "https://api.douban.com/v2/book/2133556",
+    "alt_title": "",
+    "author_intro": "韩寒，1982年9月23日生。作家，赛车手。已出版作品：《三重门》、《零下一度》、《像少年啦飞驰》、《通稿2003》、《毒》、《韩寒五年文集》、《长安乱》、《就这么漂来漂去》、《一座城池》、《寒》、《光荣日》或有其他，则为伪作。",
+    "summary": "韩寒首部魔幻现实主义作品。一部讽刺意味很浓的小说。\n七个青年人，大麦、王智、万和平、石山、洪中、米旗、娄梯，大学毕业后主动放弃分配，不想进外企，不想当白领，而是学古代的竹林七贤，来到边远的一个叫“和平凤凰”的小村中，他们自愿到村小学支教，同时运用自己的特长实现自己的理想，他们研究枪支炸药，盖房种菜，还收留了被称为“精神病”的歌手哈蕾，三陪女麦片，还有年迈的植物学研究员刘小力以及他两条腿的狗，这些看似不正常的一群人，建立了一个属于他们自己的离奇世界，发生了很多奇怪的事情。看似荒诞不经，却有着种种思考。随着故事的深入，他们在自己的世界里寻找未来……",
+    "price": "21.00元"
+}

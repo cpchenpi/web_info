@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6596,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "篠原千絵"
+    ],
+    "pubdate": "1992-4-24",
+    "tags": [
+        {
+            "count": 1318,
+            "name": "筱原千绘",
+            "title": "筱原千绘"
+        },
+        {
+            "count": 1049,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 565,
+            "name": "苍之封印",
+            "title": "苍之封印"
+        },
+        {
+            "count": 460,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 351,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 312,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 131,
+            "name": "篠原千絵",
+            "title": "篠原千絵"
+        },
+        {
+            "count": 71,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s29986672.jpg",
+    "binding": "新書判",
+    "translator": [],
+    "catalog": "",
+    "pages": "192",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s29986672.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s29986672.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s29986672.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1947471/",
+    "id": "1947471",
+    "publisher": "小学館",
+    "isbn10": "409134321X",
+    "isbn13": "9784091343215",
+    "title": "蒼の封印 1",
+    "url": "https://api.douban.com/v2/book/1947471",
+    "alt_title": "Ao No Fuuin",
+    "author_intro": "篠原千絵 Chie Shinohara しのはら ちえ\n生 日：2月15日\n出 生 地：神奈川县\n血 型：O型\n星 座：水瓶座\n兴 趣：开车兜风、打高尔夫球\n出道作品：《红色传说》（刊登于1981年《皇冠》冬季号）\n获奖经历：作品《魔影紫光》获第32回小学馆漫画大赏。\n作品《天是红河岸》获第46回小学馆漫画大赏。\n作品：\n海の闇、月の影\n闇のパープルアイ\n逃亡急行\n海に堕ちるツバメ\n水に棲む花\n訪問者は真夜中に\n天は赤い河のほとり\n蒼の封印\n陵子の心霊事件",
+    "summary": "蒼子（そうこ）は高校１年生。転校初日から気分が優れない蒼子だが、美しい彼女は学校 の不良のボス・香椎（かしい）に目をつけられる。保健室で香椎に襲われた蒼子は気を失 ってしまうのだが、気がつくと香椎の姿は見えず、彼の服だけが残されていた。翌日、心 配しつつ学校に来た蒼子は、香椎が見知らぬ男に替わっていることに気づく。だが、クラ スメートはいつもと変わらぬ様子。怖くなる蒼子に、姿の変わった香椎が近づく。彼の本 当の名は彬（あきら）。「西家」の“白虎\"なのだという。彼は、鬼門復活を目指す「東 家」の“蒼龍\"を倒すために生まれたと告白する。自分がその蒼龍という人喰い鬼だと言われた蒼子だが…!?",
+    "series": {
+        "id": "45431",
+        "title": "蒼の封印"
+    },
+    "price": "JPY 398"
+}

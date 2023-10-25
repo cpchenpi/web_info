@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11570,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "北岛"
+    ],
+    "pubdate": "2008-1",
+    "tags": [
+        {
+            "count": 4419,
+            "name": "北岛",
+            "title": "北岛"
+        },
+        {
+            "count": 2668,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 1376,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 887,
+            "name": "青灯",
+            "title": "青灯"
+        },
+        {
+            "count": 845,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 587,
+            "name": "诗歌",
+            "title": "诗歌"
+        },
+        {
+            "count": 552,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 509,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s10344348.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "辑一\n听风楼记\n青灯\n我的日本朋友\n芥末\n如果天空不死\n与死亡干杯\n话说周氏兄弟\n艾基在柏罗依特\n远行\n\n辑二\n智利笔记\n革命与雏菊\n忆柏林\n在中国这幅画的空白处\n多情的仙人掌\n三张唱\n旅行记\n西风",
+    "pages": "148",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s10344348.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s10344348.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s10344348.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2988943/",
+    "id": "2988943",
+    "publisher": "江苏文艺出版社",
+    "isbn10": "753992747X",
+    "isbn13": "9787539927473",
+    "title": "青灯",
+    "url": "https://api.douban.com/v2/book/2988943",
+    "alt_title": "",
+    "author_intro": "北岛（1949-  ）， 原名赵振开，祖籍浙江，生于北京。80年代末移居国外。北岛的诗歌创作开始于十年动乱后期，反映了从迷惘到觉醒的一代青年的心声。清醒的思辨与直觉思维产生的隐喻、象征意象相结合，是北岛诗显著的艺术特征，具有高度概括力的悖论式警句，造成了北岛诗独有的振聋发聩的艺术力量。著有诗集《太阳城札记》、《北岛诗选》以及散文集《失败之书》等。",
+    "summary": "《青灯》是诗人北岛的散文集，收录了他新近完成的十一篇作品。第一部分是忆念，主角是熊秉明、蔡其矫、魏斐德、冯亦代等故人，青灯素帐，烛影惶惶；第二部分则是游历，足迹遍及世界各地，作者在漂泊中怀揣着家园。\n《青灯》：“故国残月/沉入深潭中/重如那些石头你把词语垒进历史/让河道转弯//花开几度/ 催动朝代盛衰/乌鸦即鼓声/帝王们如蚕吐丝/为你织成长卷//美女如云/护送内心航程/靑灯掀开梦的一角/你顺手挽住火焰/化作漫天大雪//把酒临风/你和中国一起老去/长廊贯穿春秋/大门口的陌生人正砸响门环”这是北岛献给汉学家魏斐德（Fred Wakeman）的诗，为纪念其退休而作。",
+    "series": {
+        "id": "12771",
+        "title": "北岛作品系列"
+    },
+    "price": "16.00"
+}

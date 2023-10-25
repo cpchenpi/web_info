@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 76131,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "美国当代政治观察随笔",
+    "author": [
+        "刘瑜"
+    ],
+    "pubdate": "2009-6",
+    "tags": [
+        {
+            "count": 19450,
+            "name": "刘瑜",
+            "title": "刘瑜"
+        },
+        {
+            "count": 17614,
+            "name": "民主",
+            "title": "民主"
+        },
+        {
+            "count": 16126,
+            "name": "政治",
+            "title": "政治"
+        },
+        {
+            "count": 12111,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 8149,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 6930,
+            "name": "社会学",
+            "title": "社会学"
+        },
+        {
+            "count": 6633,
+            "name": "政治学",
+            "title": "政治学"
+        },
+        {
+            "count": 5088,
+            "name": "社会",
+            "title": "社会"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s4146437.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "托克维尔的那场旅行\n权力制衡篇\n选谁都差不多\n哪怕只增百分之一的税\n比道德制高点更高的\n所谓秘诀\n动什么，不能动宪法\n君让臣下，臣可以不下\n耳朵上的记号\n咱们美国工人有力量\n金融危机里的左中右\n公民社会篇\n至少还有记忆\n就这样被你笑话\n怎样保护弱势群体\n对你骂骂骂不完\n从问题到议题\n他人瓦上霜\n哗众取宠主义\n大学向左，草根向右\n大家好才是真的好\n当美国要建柏林墙\n控制石油的什么\n敌人的权利\n民主现实主义\n美国大选贵不贵\n福利—平等篇\n他人眼中的刺\n美国的“社会主义”\n民主请客谁买单？\n建设世界一流中小学\n怎样悼念死者\n有病的政治与治病的政治\n有钱人该交多少税？\n越民主，越低效？\n病了你得管\n美国的“四项基本原则”\n谁有特权上大学\n法治-自由篇\n不告白不告\n你有什么科学依据\n你管得着吗\n先天下之急而急\n自由社会就是责任社会\n人物篇\n人民公敌在裸奔\n你好死，我赖活\n“愤青”的下场\n敢飞\n新保守主义的“哲学王”\n“美奸”克拉克\n为什么是他\n奥巴马的言与麦凯恩的行\n奥巴马会成为罗斯福第二吗？\n告别布什：新保守主义的兴衰\n后记",
+    "pages": "293",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s4146437.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s4146437.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s4146437.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3813669/",
+    "id": "3813669",
+    "publisher": "上海三联书店",
+    "isbn10": "7542629581",
+    "isbn13": "9787542629586",
+    "title": "民主的细节",
+    "url": "https://api.douban.com/v2/book/3813669",
+    "alt_title": "",
+    "author_intro": "刘瑜，哥伦比亚大学政治学博士，哈佛大学博士后，剑桥大学讲师。现任教于清华大学政治系，担任副教授。",
+    "summary": "这本书是作者过去几年给一些期刊报纸写的专栏文章结集，其中主要是给《南方人物周刊》的文章。全书中以讲故事的形式，把“美国的民主”这样一个概念性的东西拆解成点点滴滴的事件、政策和人物去描述。",
+    "series": {
+        "id": "12374",
+        "title": "刘瑜作品系列"
+    },
+    "price": "25.00"
+}

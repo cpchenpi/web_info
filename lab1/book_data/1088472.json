@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 2984,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [],
+    "pubdate": "1999-10",
+    "tags": [
+        {
+            "count": 469,
+            "name": "新概念",
+            "title": "新概念"
+        },
+        {
+            "count": 340,
+            "name": "新概念作文大赛获奖作品选",
+            "title": "新概念作文大赛获奖作品选"
+        },
+        {
+            "count": 234,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 200,
+            "name": "萌芽",
+            "title": "萌芽"
+        },
+        {
+            "count": 197,
+            "name": "新概念作文",
+            "title": "新概念作文"
+        },
+        {
+            "count": 163,
+            "name": "80后",
+            "title": "80后"
+        },
+        {
+            "count": 149,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 132,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1358117.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "初赛获奖作品选 第一辑 人生况味 离家的日子 / 面对成功 / 你讨厌这个世界吗？…… 第二辑 斑谰一季 梵高的后裔 / 我的广西之行 / 一个真实的故事…… 第三辑 初恋情怀 微微的困惑 / 早恋/ 东京爱情故事…… 第四辑 渴望天堂树 窗外有棵天堂树 / 小狂人日记 / 忍耐的一天…… 第五辑 热爱生命 假如我只有十天可活 / 翅膀的痕迹 / 永远的微笑…… 第六辑 环保话题 第七辑 世间百态\n",
+    "pages": "441；485",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1358117.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1358117.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1358117.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1088472/",
+    "id": "1088472",
+    "publisher": "作家出版社",
+    "isbn10": "7506317222",
+    "isbn13": "9787506317221",
+    "title": "首届全国新概念作文大赛获奖作品选（全二册）",
+    "url": "https://api.douban.com/v2/book/1088472",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "首届全国“新概念作文大赛”由北京大学、复旦大学、南京大学、南开大学、山东大学、厦门大学、华东师范大学七所全国重点大学和上海《萌芽》杂志社联合举办，被媒体称之为“中国语文教学制度改革的第一道曙光”。\n这套书汇集了这次大赛中获奖的优秀作品180篇，分AB二卷编辑，附有著名作家、高校教授、中学语文特级教师的精辟点评。",
+    "series": {
+        "id": "907",
+        "title": "新概念作文大赛获奖作品选"
+    },
+    "price": "35.00元"
+}

@@ -1,0 +1,76 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3919,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "pubdate": "1982",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s4413863.jpg",
+    "binding": "平装",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s4413863.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s4413863.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s4413863.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1963786/",
+    "id": "1963786",
+    "title": "怎样鉴别黄色歌曲",
+    "author_intro": "牛人牛人，都是牛人。",
+    "tags": [
+        {
+            "count": 1498,
+            "name": "怎样鉴别黄色歌曲",
+            "title": "怎样鉴别黄色歌曲"
+        },
+        {
+            "count": 1016,
+            "name": "音乐",
+            "title": "音乐"
+        },
+        {
+            "count": 737,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 505,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 435,
+            "name": "社会",
+            "title": "社会"
+        },
+        {
+            "count": 349,
+            "name": "中国音乐",
+            "title": "中国音乐"
+        },
+        {
+            "count": 317,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 246,
+            "name": "艺术",
+            "title": "艺术"
+        }
+    ],
+    "origin_title": "",
+    "price": "0.22元",
+    "translator": [],
+    "catalog": "一种精神腐蚀剂——对我国三十、四十年代黄色歌曲的认识\n怎样看待港台“流行歌曲”\n关于“流行音乐”的对话\n分清轻音乐与靡靡之音\n从衡量靡靡之音的尺寸谈起\n因势利导，循循善诱——谈港澳流行庸俗歌曲的渗入\n还历史本来面目——关于《何日君再来》的答问\n也谈《何日君再来》问世经过\n《蔷薇处处开》是一首什么样的歌曲？\n资本主义世界的“流行音乐”",
+    "pages": "60",
+    "publisher": "人民音乐出版社",
+    "isbn10": "SH8026-4045",
+    "alt_title": "",
+    "url": "https://api.douban.com/v2/book/1963786",
+    "author": [
+        "《人民音乐》编辑部"
+    ],
+    "summary": "目录\n一种精神腐蚀剂.......................伍雍谊\n—对我国三十、四十年代黄色歌曲的认识\n怎样看待港台“流行歌曲”..............周荫昌\n关于“流行音乐”的对话.................瞿维\n分清轻音乐与靡靡之音..................丁善德\n从衡量靡靡之音的尺寸谈起..............王云阶\n因势利导，循循善诱...................周大风\n——谈港澳流行庸俗歌曲的渗入\n还历史本来面目........................南咏\n——关于《何日君再来》的答问\n也谈《何日君再来》问世经过.............应国靖\n《蔷薇处处开》是一首什么样的歌曲？........陆维\n资本主义世界的“流行音乐”.............伍雍谊"
+}

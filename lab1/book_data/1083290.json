@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4330,
+        "average": "7.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "蔡智恒",
+        "郭莉玲"
+    ],
+    "pubdate": "2004-7-1",
+    "tags": [
+        {
+            "count": 724,
+            "name": "蔡智恒",
+            "title": "蔡智恒"
+        },
+        {
+            "count": 450,
+            "name": "爱尔兰咖啡",
+            "title": "爱尔兰咖啡"
+        },
+        {
+            "count": 395,
+            "name": "痞子蔡",
+            "title": "痞子蔡"
+        },
+        {
+            "count": 322,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 231,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 204,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 161,
+            "name": "网络小说",
+            "title": "网络小说"
+        },
+        {
+            "count": 77,
+            "name": "清新小说",
+            "title": "清新小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1404535.jpg",
+    "binding": "平装(无盘)",
+    "translator": [],
+    "catalog": "第一部分 客户流失：为什么要提高客户忠诚度第二部分 了解忠诚：如何开始行动第三部分 机遇与挑战并存第四部分 客户体验具有决定意义\n",
+    "pages": "102",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1404535.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1404535.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1404535.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1083290/",
+    "id": "1083290",
+    "publisher": "知识出版社",
+    "isbn10": "7501540470",
+    "isbn13": "9787501540471",
+    "title": "爱尔兰咖啡",
+    "url": "https://api.douban.com/v2/book/1083290",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "蔡智恒，网络上的昵称是痞子蔡。 \n1969年生，台湾成功大学水利工程博士。 \n1998年于BBS发表第一部小说《第一次的亲密接触》，造成全球华文地区的痞子蔡热潮。自此以后，左脑创作小说，右脑书写学术论文，独树一格。 \n现于成大担任博士后研究员，及兼任助理教授之职。 \n\n绘者简介： \n郭莉玲，出生于1969年。 \n1993年考上伦敦大学—史莱艺术学校（University College London—The Slade School Of Fine-Art）。 \n1998年，英国独立报（the Independent on Sunday）的专栏作家—Michael Bywater，爱上了她的作品，让她有机会参与伦敦PROUD艺廊的展览。 \n1998年9月回到台湾。",
+    "price": "25.00元"
+}

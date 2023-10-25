@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 2849,
+        "average": "7.5",
+        "min": 0
+    },
+    "subtitle": "一则童话三百年的演变",
+    "author": [
+        "[美] 凯瑟琳·奥兰丝汀"
+    ],
+    "pubdate": "2006-10",
+    "tags": [
+        {
+            "count": 614,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 606,
+            "name": "文化研究",
+            "title": "文化研究"
+        },
+        {
+            "count": 434,
+            "name": "百变小红帽",
+            "title": "百变小红帽"
+        },
+        {
+            "count": 344,
+            "name": "三联",
+            "title": "三联"
+        },
+        {
+            "count": 311,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 189,
+            "name": "独立观点",
+            "title": "独立观点"
+        },
+        {
+            "count": 188,
+            "name": "小红帽",
+            "title": "小红帽"
+        },
+        {
+            "count": 188,
+            "name": "外国文学",
+            "title": "外国文学"
+        }
+    ],
+    "origin_title": "Little Red Riding Hood Uncloaked: Sex, Morality, and the Evolution of a Fairy Tale",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1946845.jpg",
+    "binding": "平装",
+    "translator": [
+        "杨淑智"
+    ],
+    "catalog": "",
+    "pages": "206",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1946845.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1946845.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1946845.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1915337/",
+    "id": "1915337",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108025299",
+    "isbn13": "9787108025296",
+    "title": "百变小红帽",
+    "url": "https://api.douban.com/v2/book/1915337",
+    "alt_title": "Little Red Riding Hood Uncloaked: Sex, Morality, and the Evolution of a Fairy Tale",
+    "author_intro": "凯瑟琳·奥兰丝汀，哈佛大学毕业，哥伦比亚大学国际关系学硕士，现为自由作家，专门撰写有关女性问题，拉西美洲和海地的文章，《百变小红帽》的构思源于她的毕业论文。\n其作品常见于美国《华盛顿邮报》、《纽约时报》、《仕女杂志》、《旧金山侦查者周日杂志》和其他刊物。目前定居纽约。",
+    "summary": "1697年一个穿红色连帽披肩的小女孩，在森林里遇见一只狼之后，就在各个时代幻化出不同的角色：她是被保护、被训诫的纯洁女孩儿；却又曾经勾搭大野狼；或摇身一变在好莱坞夜总会大跳艳舞；搽密丝佛陀口红，喷上香奈儿五号香水，开红色敞篷车，到处卖弄风情；甚至掏出武器将危害她的家伙干掉……她的演技毫不含糊，她永远是世人心目中的百变女主角——小红帽。\n一则看似简单的童话，为何引起文人，艺术家，心理学家，民俗学家，女性主义者，广告人等诸多人们的兴趣，不断地在各种媒体上被改编再造？\n这本书充满了有趣的历史典故，通过具有洞察力的分析与解构，为读者揭开红色连帽被肩下的所有秘密。",
+    "series": {
+        "id": "782",
+        "title": "文化生活译丛（新版）"
+    },
+    "price": "15.00元"
+}

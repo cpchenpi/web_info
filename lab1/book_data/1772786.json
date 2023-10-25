@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5969,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "英美最佳中篇科幻小说选",
+    "author": [
+        "[美] 弗诺·文奇 等"
+    ],
+    "pubdate": "2006-2",
+    "tags": [
+        {
+            "count": 2254,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 743,
+            "name": "科幻小说",
+            "title": "科幻小说"
+        },
+        {
+            "count": 625,
+            "name": "弗诺·文奇",
+            "title": "弗诺·文奇"
+        },
+        {
+            "count": 593,
+            "name": "真名实姓",
+            "title": "真名实姓"
+        },
+        {
+            "count": 586,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 362,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 281,
+            "name": "短篇",
+            "title": "短篇"
+        },
+        {
+            "count": 220,
+            "name": "科幻世界",
+            "title": "科幻世界"
+        }
+    ],
+    "origin_title": "True Names",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1643920.jpg",
+    "binding": "平装",
+    "translator": [
+        "罗布顿珠 等",
+        "李克勤"
+    ],
+    "catalog": "过去·现在·未来\n美国制\n霜与火\n沙王\n大机器要停止运转了\n真名实姓",
+    "pages": "320",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1643920.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1643920.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1643920.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1772786/",
+    "id": "1772786",
+    "publisher": "四川科学技术出版社",
+    "isbn10": "7536457936",
+    "isbn13": "9787536457935",
+    "title": "真名实姓",
+    "url": "https://api.douban.com/v2/book/1772786",
+    "alt_title": "True Names",
+    "author_intro": "",
+    "summary": "百年科幻史留下无数的经典，这本中从中精选六篇。选定这六篇的理由，不是因为它们出自名家，也不是因为它们获奖，而是因为它们对后来的科幻乃至现实产生了巨大的影响——回顾科幻史，没有人能够回避它们的存在。当然，还有另一个理由：它们从不同的侧面最大程度地呈现了科幻小说独有的魅力，让人读过便永难忘怀。\n《过去·现在·未来》，美国的纳特·沙克纳著，单伟健译。\n《美国制》，美国的杰·梯·麦金托什著，朱荣键译。\n《霜与火》，美国的雷·布雷德伯里著，陈珏译。\n《沙王》，美国的乔治·马丁著，凌寒译。\n《大机器要停止运转了》，英国的E.M.福斯特著，何明译。\n《真名实姓》，美国的弗诺·文奇著，罗布顿珠译。",
+    "price": "20.00元"
+}

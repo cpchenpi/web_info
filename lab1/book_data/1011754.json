@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 45280,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "海子"
+    ],
+    "pubdate": "1999-04",
+    "tags": [
+        {
+            "count": 7173,
+            "name": "海子",
+            "title": "海子"
+        },
+        {
+            "count": 5500,
+            "name": "诗歌",
+            "title": "诗歌"
+        },
+        {
+            "count": 3458,
+            "name": "海子的诗",
+            "title": "海子的诗"
+        },
+        {
+            "count": 2489,
+            "name": "现代诗歌",
+            "title": "现代诗歌"
+        },
+        {
+            "count": 2178,
+            "name": "诗",
+            "title": "诗"
+        },
+        {
+            "count": 2030,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 1926,
+            "name": "生命",
+            "title": "生命"
+        },
+        {
+            "count": 1515,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1067491.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "亚洲铜\n阿尔的太阳\n历史\n新娘\n民间艺人\n主人\n夏天的太阳\n活在珍贵的人间\n熟了麦子\n你的手\n写给脖子上的菩萨\n无题\n麦地\n十四行：夜晚的月亮\n房屋\n打钟\n春天\n哑脊背\n明天醒来我会在哪一只鞋子里\n九月\n九月的云\n给母亲\n大自然\n……\n",
+    "pages": "292",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1067491.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1067491.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1067491.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1011754/",
+    "id": "1011754",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020026451",
+    "isbn13": "9787020026456",
+    "title": "海子的诗",
+    "url": "https://api.douban.com/v2/book/1011754",
+    "alt_title": "",
+    "author_intro": "海子，原名查海生，1964年3月生于安徽怀宁县高河查湾。1979年考入北京大学法律系，1983年毕业后任教于中国政法大学。1989年3月26日卒于河北山海关。已出版作品有长诗《土地》（1990年，春风文艺出版社）和短诗选集《海子、骆一禾作品集》（1991年，南京大学出版社）。",
+    "summary": "本书收录了已故诗人海子的诗作精华，其诗以独特的风格深受读者的喜爱，从这些诗中反映出诗人那对于一切美好事物的眷恋之情，对于生命的世俗和崇高的激动和关怀。",
+    "series": {
+        "id": "2588",
+        "title": "蓝星诗库"
+    },
+    "price": "15.40"
+}

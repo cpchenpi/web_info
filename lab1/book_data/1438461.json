@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4510,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 妹尾河童"
+    ],
+    "pubdate": "2005-11",
+    "tags": [
+        {
+            "count": 1784,
+            "name": "妹尾河童",
+            "title": "妹尾河童"
+        },
+        {
+            "count": 1443,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 963,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 496,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 378,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 320,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 293,
+            "name": "游记",
+            "title": "游记"
+        },
+        {
+            "count": 217,
+            "name": "窥视日本",
+            "title": "窥视日本"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1456260.jpg",
+    "binding": "平装",
+    "translator": [
+        "陶振孝"
+    ],
+    "catalog": "京都地铁工程\n桦户集治监狱\n在盲人长谷川清的身边\n导盲机器人和盲文印刷\n“搬山节”\n建议你去法庭旁听\n钥匙和锁\n皇居探秘\n停运的东方快车\n刺青与文身\n电视广告制作的背后\n红帐篷和黑帐篷\n刑务所",
+    "pages": "158",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1456260.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1456260.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1456260.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1438461/",
+    "id": "1438461",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "710802330X",
+    "isbn13": "9787108023308",
+    "title": "窥视日本",
+    "url": "https://api.douban.com/v2/book/1438461",
+    "alt_title": "",
+    "author_intro": "妹尾河童，日本当代具代表性的舞台设计家，1930年生于神户，1954年因舞台设计而崭露头角，此后活跃于戏剧、歌剧、芭蕾舞、音乐剧、电视等表演艺术领域，曾获“纪伊国屋演剧”、“山多利音乐”、“艺术祭优秀”、“兵库县文化”等众多奖项。",
+    "summary": "《窥视日本》是妹尾河童继《窥视印度》、《河童旅行素描本》之后，又一部构思新奇，视角独特的画书。作者这一次将视线聚集于自己的祖国——日本，从皇居到监狱，从锁具到文身，从豪华舒适的东方快车到日本的新干线……边写边画，巨细靡遗，其孩童般的好奇心跃然纸上。",
+    "series": {
+        "id": "589",
+        "title": "妹尾河童作品系列"
+    },
+    "price": "15.00元"
+}

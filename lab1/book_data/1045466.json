@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 2503,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "奥威尔"
+    ],
+    "pubdate": "1998-3",
+    "tags": [
+        {
+            "count": 529,
+            "name": "奥威尔",
+            "title": "奥威尔"
+        },
+        {
+            "count": 383,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 339,
+            "name": "反乌托邦",
+            "title": "反乌托邦"
+        },
+        {
+            "count": 291,
+            "name": "一九八四",
+            "title": "一九八四"
+        },
+        {
+            "count": 229,
+            "name": "政治",
+            "title": "政治"
+        },
+        {
+            "count": 183,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 159,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 111,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "Nineteen Eighty-Four",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3331316.jpg",
+    "binding": "平装",
+    "translator": [
+        "董乐山"
+    ],
+    "catalog": "",
+    "pages": "279",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3331316.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3331316.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3331316.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1045466/",
+    "id": "1045466",
+    "publisher": "辽宁教育出版社",
+    "isbn10": "7538250859",
+    "isbn13": "9787538250855",
+    "title": "一九八四",
+    "url": "https://api.douban.com/v2/book/1045466",
+    "alt_title": "Nineteen Eighty-Four",
+    "author_intro": "",
+    "summary": "",
+    "series": {
+        "id": "5008",
+        "title": "新世纪万有文库·外国文化书系"
+    },
+    "price": "11.10元"
+}

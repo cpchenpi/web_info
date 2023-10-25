@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9321,
+        "average": "7.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "薄迦丘"
+    ],
+    "pubdate": "1994-7",
+    "tags": [
+        {
+            "count": 1638,
+            "name": "薄迦丘",
+            "title": "薄迦丘"
+        },
+        {
+            "count": 1295,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1182,
+            "name": "文艺复兴",
+            "title": "文艺复兴"
+        },
+        {
+            "count": 1127,
+            "name": "十日谈",
+            "title": "十日谈"
+        },
+        {
+            "count": 1082,
+            "name": "意大利",
+            "title": "意大利"
+        },
+        {
+            "count": 717,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 529,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 513,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "The Decameron",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s23736079.jpg",
+    "binding": "平装",
+    "translator": [
+        "钱鸿嘉",
+        "泰和庠",
+        "田青"
+    ],
+    "catalog": "序\n第一天\n第二天\n第三天\n第四天\n第五天\n第六天\n第七天\n第八天\n第九天\n第十天\n作者结语",
+    "pages": "684",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s23736079.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s23736079.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s23736079.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1279212/",
+    "id": "1279212",
+    "publisher": "译林出版社",
+    "isbn10": "780567325X",
+    "isbn13": "9787805673257",
+    "title": "十日谈",
+    "url": "https://api.douban.com/v2/book/1279212",
+    "alt_title": "The Decameron",
+    "author_intro": "",
+    "summary": "１３４８年，意大利一城市瘟疫流行，１０名青年男女在乡村一所别墅里避难。他们终日游玩，欢宴，每人每天讲一个故事，１０天讲了１００个故事。这些故事批判天主教会，嘲讽教会的黑暗和罪恶；赞美爱情是才智和高尚情操的源泉，谴责禁欲主义；无情暴露和鞭挞封建贵族的堕落和腐败，体现了人文主义思想\n    本书是从意大利文直接翻译的全译本，保留了原著古朴、精练、生动的语言风格。",
+    "price": "19.50元"
+}

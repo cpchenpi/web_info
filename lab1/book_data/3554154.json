@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 34243,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "hans"
+    ],
+    "pubdate": "2009-1",
+    "tags": [
+        {
+            "count": 8706,
+            "name": "阿狸",
+            "title": "阿狸"
+        },
+        {
+            "count": 6984,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 3574,
+            "name": "温暖",
+            "title": "温暖"
+        },
+        {
+            "count": 3486,
+            "name": "童话绘本",
+            "title": "童话绘本"
+        },
+        {
+            "count": 3091,
+            "name": "梦之城堡",
+            "title": "梦之城堡"
+        },
+        {
+            "count": 2647,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 1907,
+            "name": "感动",
+            "title": "感动"
+        },
+        {
+            "count": 1744,
+            "name": "爱",
+            "title": "爱"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3721175.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "228",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3721175.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3721175.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3721175.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3554154/",
+    "id": "3554154",
+    "publisher": "上海锦绣文章出版社",
+    "isbn10": "7545202260",
+    "isbn13": "9787545202267",
+    "title": "阿狸·梦之城堡",
+    "url": "https://api.douban.com/v2/book/3554154",
+    "alt_title": "",
+    "author_intro": "徐瀚，笔名hans。2005年考入清华大学美术学院，攻读硕士研究生学位，期间正式开始创作阿狸。先后在猫扑，天涯等网站发表阿狸的童话和四格漫画，帖子的点击总量达到三百万,阿狸的qq表情同时在网络上广为流传。后在《女友》《漫友.新蕾》杂志连载阿狸绘本，广受欢迎。",
+    "summary": "阿狸童话绘本为纯手绘创作，画风成熟稳定，颜色精美靓丽。阿狸绘本的文字脚本立足于挖掘人们内心深处的柔软与坚强，围绕亲情、爱情、友情主题，风格温暖，有发人深省的力量。",
+    "price": "36.80元"
+}

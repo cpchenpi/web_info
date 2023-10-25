@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 83872,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "张爱玲"
+    ],
+    "pubdate": "1996-06",
+    "tags": [
+        {
+            "count": 17117,
+            "name": "张爱玲",
+            "title": "张爱玲"
+        },
+        {
+            "count": 9788,
+            "name": "红玫瑰与白玫瑰",
+            "title": "红玫瑰与白玫瑰"
+        },
+        {
+            "count": 6623,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 5849,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4542,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 4145,
+            "name": "張愛玲",
+            "title": "張愛玲"
+        },
+        {
+            "count": 3839,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 2808,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3695882.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "314",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3695882.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3695882.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3695882.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1014278/",
+    "id": "1014278",
+    "publisher": "花城出版社",
+    "isbn10": "7536021445",
+    "isbn13": "9787536021440",
+    "title": "红玫瑰与白玫瑰",
+    "url": "https://api.douban.com/v2/book/1014278",
+    "alt_title": "",
+    "author_intro": "张爱玲（1920-1995），中国女作家。祖籍河北丰润，生于上海。1943年开始发表作品，代表作有中篇小说《倾城之恋》、《金锁记》、短篇小说《红玫瑰与白玫瑰》和散文《烬余录》等。1952年离开上海，1955年到美国，创作英文小说多部。1969年以后主要从事古典小说的研究，著有红学论集《红楼梦魇》。已出版作品有中短篇小说集《传奇》、散文集《流言》、散文小说合集《张看》以及长篇小说《十八春》、《赤地之恋》等。",
+    "summary": "“也许每一个男子全都有过这样的两个女人，至少两个。娶了红玫瑰，久而久之，红的变了墙上的一抹蚊子血，白的还是\"床前明月光\"；娶了白玫瑰，白的便是衣服上沾的一粒饭黏子，红的却是心口上一颗朱砂痣”。因为《红玫瑰与白玫瑰》这句话成了脍炙人口的名言……本书收录了张爱玲1944年的中短篇小说作品。",
+    "series": {
+        "id": "751",
+        "title": "三四十年代中国婚恋小说系列"
+    },
+    "price": "12.80元"
+}

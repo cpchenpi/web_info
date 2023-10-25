@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 18525,
+        "average": "7.3",
+        "min": 0
+    },
+    "subtitle": "揭秘不可思议的日常现象",
+    "author": [
+        "[英] 理查德·怀斯曼"
+    ],
+    "pubdate": "2009-07-01",
+    "tags": [
+        {
+            "count": 8365,
+            "name": "心理学",
+            "title": "心理学"
+        },
+        {
+            "count": 4282,
+            "name": "怪诞心理学",
+            "title": "怪诞心理学"
+        },
+        {
+            "count": 2020,
+            "name": "心理",
+            "title": "心理"
+        },
+        {
+            "count": 1381,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 1148,
+            "name": "实验",
+            "title": "实验"
+        },
+        {
+            "count": 1107,
+            "name": "好奇心",
+            "title": "好奇心"
+        },
+        {
+            "count": 1019,
+            "name": "社科",
+            "title": "社科"
+        },
+        {
+            "count": 643,
+            "name": "搞怪",
+            "title": "搞怪"
+        }
+    ],
+    "origin_title": "Quirkology: The Curious Science of Everyday Lives",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3895410.jpg",
+    "binding": "平装",
+    "translator": [
+        "路本福"
+    ],
+    "catalog": "神奇的Q测试\n序\n第1章　你的生日到底隐含着怎样的秘密——时间心理学\n第2章　相信别人，不过别忘了切牌——撒谎与欺骗心理学\n第3章　一切皆有可能——灵异心理学\n第4童　下定决心——决策心理学\n第5章　以科学的方式搜寻全球最爆笑的笑话——幽默心理学\n第6章　是罪人还是圣人——自私心理学\n结束语\n化解遍布全球的“宴会枯燥症”\n大型秘密实验\n致谢\n附注",
+    "pages": "268 页",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3895410.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3895410.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3895410.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3908032/",
+    "id": "3908032",
+    "publisher": "天津教育出版社",
+    "isbn10": "7530957554",
+    "isbn13": "9787530957554",
+    "title": "怪诞心理学",
+    "url": "https://api.douban.com/v2/book/3908032",
+    "alt_title": "Quirkology: The Curious Science of Everyday Lives",
+    "author_intro": "理查德·怀斯曼（Richard Wiseman），拥有“英国大众心理学传播第一教授”的头衔，他在包括欺骗、运气、幽默和超自然等不寻常领域的研究享誉国际，他是英国媒体最常引用的心理学家，他的研究在英国超过150个电视节目上播出。他定期出现在英国广播公司第四电台做节目，有关他工作的专题报道更是频频出现在英国各大出版社和报刊杂志上。",
+    "summary": "你走路的方式会透露出你的哪些性格？为什么女性的征婚广告最好由男性来写？全世界最好笑的笑话是什么？为什么有些人竟然会回忆起不曾发生过的事情？为什么女性驾驶员更容易超速行驶？夏天出生的人和冬天出生的人谁的运气更好一些？真心的笑容和虚假的笑容都打着哪些难以掩饰的烙印？……\n本书是作者和诸多卓越心理学家研究成果的结晶。它为读者打开了一扇重新认识自己和他人的窗户，书中的实验让我们意识到：其实人类的行为并不像我们想象的那么难以预测。这些独具匠心的实验读来一定会让你回味无穷、拍案叫绝，如果将其作为茶余饭后的谈资或用来搞活聚会气氛也会是一个不错的选择。",
+    "price": "25.00元"
+}

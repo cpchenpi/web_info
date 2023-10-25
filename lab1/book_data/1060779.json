@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6317,
+        "average": "7.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "庄羽"
+    ],
+    "pubdate": "2004-01",
+    "tags": [
+        {
+            "count": 1144,
+            "name": "庄羽",
+            "title": "庄羽"
+        },
+        {
+            "count": 759,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 716,
+            "name": "圈里圈外",
+            "title": "圈里圈外"
+        },
+        {
+            "count": 240,
+            "name": "现代小说",
+            "title": "现代小说"
+        },
+        {
+            "count": 203,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 189,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 177,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 151,
+            "name": "青春",
+            "title": "青春"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1046776.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "302",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1046776.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1046776.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1046776.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1060779/",
+    "id": "1060779",
+    "publisher": "中国文联出版社",
+    "isbn10": "750594259X",
+    "isbn13": "9787505942592",
+    "title": "圈里圈外",
+    "url": "https://api.douban.com/v2/book/1060779",
+    "alt_title": "",
+    "author_intro": "庄羽，七十年代生人，当过记者，做过编剧，出版作品涉及小说和散文，近期作品作品包括：小说《半张脸》 、《愿赌服输》、《圈里圈外》，剧本《愿赌服输》，曾在海外留学两年，现回国就职于�望东方周刊。",
+    "summary": "2003年11月，以《幻城》一书一举成名的郭敬明以30万册的首印数出版新作《梦里花落知多少》，书出版后疯 卖，没多久销售突破50万册，就在郭敬明掀起新一轮热潮时，在《东方周刊》供职的女作家庄羽站出来指称：《梦里花落知多少》有超过7处情节与她的作品《圈里圈外》雷同，有些语言和人物性格完全模仿《圈里圈外》。孰是孰非，并不重要，对读者来说，这文字才是最重要的。",
+    "price": "18.00元"
+}

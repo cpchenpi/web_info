@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 24099,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "苏小懒"
+    ],
+    "pubdate": "2008-6",
+    "tags": [
+        {
+            "count": 3698,
+            "name": "苏小懒",
+            "title": "苏小懒"
+        },
+        {
+            "count": 2661,
+            "name": "全世爱",
+            "title": "全世爱"
+        },
+        {
+            "count": 1668,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 1321,
+            "name": "搞笑",
+            "title": "搞笑"
+        },
+        {
+            "count": 985,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 878,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 560,
+            "name": "青春文学",
+            "title": "青春文学"
+        },
+        {
+            "count": 428,
+            "name": "love",
+            "title": "love"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3907322.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "207",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3907322.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3907322.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3907322.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3108829/",
+    "id": "3108829",
+    "publisher": "长江文艺出版社",
+    "isbn10": "753543763X",
+    "isbn13": "9787535437631",
+    "title": "全世爱",
+    "url": "https://api.douban.com/v2/book/3108829",
+    "alt_title": "",
+    "author_intro": "苏小懒：1982年5月生，《青年文摘》前编辑、自由撰稿人。法定晚婚，80后早婚一族。\n曾出版《他们的肥皂剧》（2008年3月）和《我们的最终曲》2008年3月）。",
+    "summary": "这部半自传体和半虚构的小说以情景剧的形式，讲述了一对情侣发生的各类趣事以及对婚前婚后幸福生活的经营。每个故事均独立成篇，完全生活化的语言，语句简单轻快，没有过多的华丽修饰，读起来轻松诙谐，让人忍俊不禁。\n作者以真实幽默的笔调向读者展示了一对情侣的幸福生活，不论是俩人婚前交往时的温馨和浪漫，还是在充满了柴米油盐酱醋繁杂但平淡生活中出现的摩擦和争吵，全篇文字均充满智慧性和饱含哲理的语句。",
+    "series": {
+        "id": "8710",
+        "title": "全世爱"
+    },
+    "price": "18.80元"
+}

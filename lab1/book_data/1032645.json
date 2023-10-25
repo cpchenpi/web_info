@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8282,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "妹尾河童"
+    ],
+    "pubdate": "2004-10",
+    "tags": [
+        {
+            "count": 2802,
+            "name": "妹尾河童",
+            "title": "妹尾河童"
+        },
+        {
+            "count": 2344,
+            "name": "印度",
+            "title": "印度"
+        },
+        {
+            "count": 2059,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 1509,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1129,
+            "name": "游记",
+            "title": "游记"
+        },
+        {
+            "count": 777,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 582,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 405,
+            "name": "窥视印度",
+            "title": "窥视印度"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1244655.jpg",
+    "binding": "平装",
+    "translator": [
+        "姜淑玲"
+    ],
+    "catalog": "加尔各答\n圣河\n圣牛\n性的欢愉――卡朱拉侯的神庙\n“世上最美丽的陵墓”\n泰姬玛哈陵快车\n首都德里\n种姓制度\n再访德里\n孟买\n巨石环绕的城镇――海德拉巴\n南印度最大的城市――马德拉斯\n神庙之城――“甘吉普拉姆”与“马哈巴里普拉姆”\n在“马杜拉”鸟瞰\n铁道之旅\n印度大陆的最南端\n在科钦吃鱼・观舞\n始于一八九七年藩王宫――迈索尔宫\n烈日下的耆那神庙\n发现于一八一九年的印度奇迹\n湖上王宫饭店\n粉红城市斋蒲尔\n飘雪的斯利那加\n\n后记\n索引\n参考书目",
+    "pages": "281",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1244655.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1244655.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1244655.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1032645/",
+    "id": "1032645",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108021420",
+    "isbn13": "9787108021427",
+    "title": "窥视印度",
+    "url": "https://api.douban.com/v2/book/1032645",
+    "alt_title": "",
+    "author_intro": "妹尾河童\n日本当代具代表性的舞台设计家，1930年生于神户，1954年因舞台设计而崭露头角，此后活跃于戏剧、歌剧、芭蕾舞、音乐剧、电视等表演艺术领域，曾获“纪伊国屋演剧”、“山多利音乐”、“艺术祭优秀”、“兵库县文化”等众多奖项。",
+    "summary": "印度，这个古老的国度，充斥着太多的神秘，也与我们华夏民族有着千丝万屡的联系——有着几千年的政治、经济、文化、宗教等方面的交往。与我们一样，印度有屈辱的近代，在风风雨雨中走到了今天。而她的民族风情、宗教文化、经济政治等等到底是一个什么样子呢？\n日本著名舞台设计家妹尾河童情趣盎然的印度游记。在游走印度的途中，他以别样的好奇、韧性和深究底里的脾性边走边看边绘，展现一个另类日本人眼中的印度建筑、宗教、历史和文化。其独特细致的文字和绘画让你身临其境。",
+    "series": {
+        "id": "589",
+        "title": "妹尾河童作品系列"
+    },
+    "price": "18.00"
+}

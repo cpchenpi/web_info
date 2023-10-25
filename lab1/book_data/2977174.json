@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8715,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "年年",
+        "郭敬明"
+    ],
+    "pubdate": "2007-12",
+    "tags": [
+        {
+            "count": 1639,
+            "name": "年年",
+            "title": "年年"
+        },
+        {
+            "count": 1430,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1086,
+            "name": "N世界",
+            "title": "N世界"
+        },
+        {
+            "count": 916,
+            "name": "郭敬明",
+            "title": "郭敬明"
+        },
+        {
+            "count": 269,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 172,
+            "name": "N.世界",
+            "title": "N.世界"
+        },
+        {
+            "count": 167,
+            "name": "小四",
+            "title": "小四"
+        },
+        {
+            "count": 128,
+            "name": "小说",
+            "title": "小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s5874147.jpg",
+    "binding": "平装16开",
+    "translator": [],
+    "catalog": "",
+    "pages": "154",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s5874147.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s5874147.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s5874147.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2977174/",
+    "id": "2977174",
+    "publisher": "长江文艺出版社",
+    "isbn10": "7535435602",
+    "isbn13": "9787535435606",
+    "title": "N.世界",
+    "url": "https://api.douban.com/v2/book/2977174",
+    "alt_title": "",
+    "author_intro": "年年，niNNin。1月20日出生的中国大陆青涩广州人。个性如电影《家庭招待会（Open House）》的男主角。相信心和旅行能比身体到达更远的地方，一直相信。情愿一个人无聊，也不要喧闹中寂寞。中意有存在感，讨厌没存在感。",
+    "summary": "混沌记忆的开篇，在最初的斑杂绿色里四散开去，头顶密云是沉重的叹息，你有听见胸口里沉闷的震动和哽咽吗？那是此生漫长的抒情和追忆。\n10年前，年幼的Noah因害怕与人接触而从Joey面前消失，逃避到名为志留的地方以另一个身份开始生活，而Joey则踏上了寻找Noah的旅途。当Joey终于遇见失去记忆的Noah时，原本想过平静生活的Noah，逐渐因为Joey而了解到成长的意义。从此，少年时代独自任性的妄想世界消失，他们一起迎来了属于自己的未来……",
+    "price": "38.00"
+}

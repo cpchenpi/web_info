@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11017,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "荒川弘"
+    ],
+    "pubdate": "2005-02-01",
+    "tags": [
+        {
+            "count": 1399,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1379,
+            "name": "鋼之練金術師",
+            "title": "鋼之練金術師"
+        },
+        {
+            "count": 670,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 619,
+            "name": "荒川弘",
+            "title": "荒川弘"
+        },
+        {
+            "count": 499,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 362,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 359,
+            "name": "少年漫画",
+            "title": "少年漫画"
+        },
+        {
+            "count": 254,
+            "name": "炼金术",
+            "title": "炼金术"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s24937679.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "第１話　兩個煉金術師\n第２話　生命的代價\n第３話　炭礦之城\n第４話　車上的戰鬥",
+    "pages": "180",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s24937679.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s24937679.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s24937679.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1364773/",
+    "id": "1364773",
+    "publisher": "玉皇朝",
+    "isbn10": "9628864017",
+    "isbn13": "9789628864010",
+    "title": "鋼之鍊金術師 1",
+    "url": "https://api.douban.com/v2/book/1364773",
+    "alt_title": "钢炼",
+    "author_intro": "荒川弘（あらかわひろむ、1973年5月8日－）是日本的女性漫画家。 本名荒川弘美。",
+    "summary": "背景设定在炼金术相当发达的世界。\n爱德华·爱力克和他的弟弟阿尔冯斯十分思念亡故的母亲，为了再次见到母亲的微笑，而进行炼金术中最大的禁忌“人体炼成”──亦即让死者复活的炼成术──可是炼成失败时的反弹效应，爱德付出“通行费”左脚、阿尔则失去全身。\n为救回弟弟，爱德牺牲自己的右臂作为代价，将弟弟的灵魂固定在一副铠甲上；而失去的右臂和左腿则由钢制义肢“机械铠”来替代，因此在取得国家炼金术师资格时、大总统给予“钢”的称号，人们称之为“钢之炼金术师”。\n大陆历1911年，爱力克兄弟为取回他们所失去的一切，开始踏上了旅程。",
+    "series": {
+        "id": "16953",
+        "title": "鋼之鍊金術師（玉皇朝）"
+    },
+    "price": "HK$28"
+}

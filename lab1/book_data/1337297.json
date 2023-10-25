@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10546,
+        "average": "9.6",
+        "min": 0
+    },
+    "subtitle": "男兒當入樽",
+    "author": [
+        "井上雄彥"
+    ],
+    "pubdate": "1996-3-30",
+    "tags": [
+        {
+            "count": 1567,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1298,
+            "name": "井上雄彦",
+            "title": "井上雄彦"
+        },
+        {
+            "count": 1026,
+            "name": "灌篮高手",
+            "title": "灌篮高手"
+        },
+        {
+            "count": 584,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 474,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 460,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 402,
+            "name": "篮球",
+            "title": "篮球"
+        },
+        {
+            "count": 241,
+            "name": "男兒當入樽",
+            "title": "男兒當入樽"
+        }
+    ],
+    "origin_title": "Slam Dunk 20",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1367125.jpg",
+    "binding": "平装",
+    "translator": [
+        "张成淼"
+    ],
+    "catalog": "",
+    "pages": "185",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1367125.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1367125.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1367125.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1337297/",
+    "id": "1337297",
+    "publisher": "文化傳訊",
+    "isbn10": "9625856579",
+    "isbn13": "9789625856575",
+    "title": "篮球飞人",
+    "url": "https://api.douban.com/v2/book/1337297",
+    "alt_title": "Slam Dunk 20",
+    "author_intro": "",
+    "summary": "中学3年間で50人もの女性にフラれた高校1年の不良少年・桜木花道は背の高さと身体能力からバスケットボール部の主将の妹、赤木晴子にバスケット部への入部を薦められる。彼女に一目惚れした「初心者」花道は彼女目当てに入部するも、練習・試合を通じて徐々にバスケットの面白さに目覚めていき、才能を開花させながら、全国制覇を目指していく。",
+    "series": {
+        "id": "16856",
+        "title": "SLAM DUNK 男兒當入樽"
+    },
+    "price": "HK$32.00"
+}

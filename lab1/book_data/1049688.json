@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 15059,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "一个父亲的札记",
+    "author": [
+        "周国平"
+    ],
+    "pubdate": "2003-01",
+    "tags": [
+        {
+            "count": 3334,
+            "name": "周国平",
+            "title": "周国平"
+        },
+        {
+            "count": 1682,
+            "name": "亲情",
+            "title": "亲情"
+        },
+        {
+            "count": 1666,
+            "name": "妞妞-一个父亲的札记",
+            "title": "妞妞-一个父亲的札记"
+        },
+        {
+            "count": 1323,
+            "name": "生命",
+            "title": "生命"
+        },
+        {
+            "count": 1028,
+            "name": "爱",
+            "title": "爱"
+        },
+        {
+            "count": 826,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 604,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 596,
+            "name": "随笔",
+            "title": "随笔"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s4683399.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "新版自序\n诞生/新大陆（札记之一）/祸从天降/哭不是懦弱\n绝望的亲情（札记之二）/因果无凭/要有光\n寻常的苦难（札记之三）/妞妞小词典/紫色标记\n无可选择/磕着了/艰难的诀别\n应该有天堂（札记之四）/让妞妞再生\n死是不存在的/后记/生命中的无奈",
+    "pages": "390",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s4683399.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s4683399.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s4683399.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1049688/",
+    "id": "1049688",
+    "publisher": "广西师范大学出版社",
+    "isbn10": "7563330461",
+    "isbn13": "9787563330461",
+    "title": "妞妞",
+    "url": "https://api.douban.com/v2/book/1049688",
+    "alt_title": "kdjakj",
+    "author_intro": "周国平，当代著名学者、作家。1945年生于上海。1967年毕业于北京大学哲学系，1981年毕业于中国社会科学院研究生院哲学系，现为中国社会科学院哲学研究所研究员。\n著有学术专著《尼采：在世纪的转折点上》、《尼采与形而上学》，散文集《守望的距离》、《各自的朝圣路》、《安静》、《善良·丰富·高贵》，纪实作品《妞妞：一个父亲的札记》、《岁月与性情——我的心灵自传》、《偶尔远行》，以及《人生哲思录》、《周国平人文讲演录》等，译有《尼采美学文选》、《尼采诗集》、《偶像的黄昏》等。",
+    "summary": "妞妞出生后不久就被诊断患有绝症，带着这绝症极可爱也极可怜地度过了短促的一岁半时间。在这本书中，周国平写下了女儿妞妞的可爱和可怜，他和妻子在死亡阴影笼罩下抚育女儿的爱哀交加的心境，在摇篮旁兼墓畔的思考。对于作者夫妇来说，妞妞的故事是他们生命中最美丽也最悲惨的故事，",
+    "price": "24.80"
+}

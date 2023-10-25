@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11767,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "三毛全集(13)",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "2003-4-1",
+    "tags": [
+        {
+            "count": 3553,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 1139,
+            "name": "我的宝贝",
+            "title": "我的宝贝"
+        },
+        {
+            "count": 756,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 641,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 484,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 323,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 303,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 244,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1343317.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1 十字架\n2 别针\n3 双鱼\n4 老别针\n5 项链\n6 锁\n7 还是锁住了\n8 秋水伊人\n9 五更灯\n10 林妹妹的裙子\n……",
+    "pages": "312",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1343317.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1343317.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1343317.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1065239/",
+    "id": "1065239",
+    "publisher": "哈尔滨出版社",
+    "isbn10": "7806399097",
+    "isbn13": "9787806399095",
+    "title": "我的宝贝",
+    "url": "https://api.douban.com/v2/book/1065239",
+    "alt_title": "",
+    "author_intro": "三毛\n台湾著名作家，1943年3月26付\n出生于重庆，浙江省定海县人。本名为阵懋平1946年改名陈平，笔名“三毛”。1964年进入文化大学哲学系，肄业后曾留学欧洲，婚后定居西属撒哈拉沙漠加那利岛，并以当地的生活为背景，写出一连串情感真挚的作品。 1981年回到台湾，留证文化大学任教， 1984年辞去教职，专职从事写作和演讲。1991 年1月4回去世，享年48岁。\n三毛的足迹遍及世界各地，平生著作、译作十分丰富，其中《撒哈拉的故事》、《雨季不再来》、《哭泣的骆驼》、《我的宝贝》、《闹学记》、《滚滚红尘》等散文、小说、剧本更是脍炙人口，在全球华人社会广为流传，在大陆风靡一对，影响了整整一代人。\n\n\n",
+    "summary": "每一个细腻且充满爱心的女人，都会把一大堆“破铜烂铁”当做宝贝收藏，因为每一件都有着特殊的故事。三毛也是这样的女人，这里有她珍爱的80余件“小东西”的图片，加上三毛娓娓道来的细语，成为一本绝佳的“枕边书”。重读三毛，读到的是浓情蜜意，读她对丈夫的情深意切，读她对父母的依依不舍，读她对友人眷眷情谊……",
+    "series": {
+        "id": "744",
+        "title": "三毛全集（华文天下2003版）"
+    },
+    "price": "16.60"
+}

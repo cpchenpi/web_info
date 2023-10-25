@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3797,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 苏珊·桑塔格"
+    ],
+    "pubdate": "2008-1",
+    "tags": [
+        {
+            "count": 2273,
+            "name": "摄影",
+            "title": "摄影"
+        },
+        {
+            "count": 1694,
+            "name": "苏珊・桑塔格",
+            "title": "苏珊・桑塔格"
+        },
+        {
+            "count": 753,
+            "name": "艺术",
+            "title": "艺术"
+        },
+        {
+            "count": 606,
+            "name": "论摄影",
+            "title": "论摄影"
+        },
+        {
+            "count": 479,
+            "name": "文化研究",
+            "title": "文化研究"
+        },
+        {
+            "count": 280,
+            "name": "苏珊·桑塔格",
+            "title": "苏珊·桑塔格"
+        },
+        {
+            "count": 273,
+            "name": "攝影",
+            "title": "攝影"
+        },
+        {
+            "count": 264,
+            "name": "批评",
+            "title": "批评"
+        }
+    ],
+    "origin_title": "On Photography",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s31459979.jpg",
+    "binding": "平装",
+    "translator": [
+        "黄灿然"
+    ],
+    "catalog": "",
+    "ebook_url": "https://read.douban.com/ebook/10168320/",
+    "pages": "211",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s31459979.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s31459979.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s31459979.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2381950/",
+    "id": "2381950",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532744108",
+    "isbn13": "9787532744107",
+    "title": "论摄影",
+    "url": "https://api.douban.com/v2/book/2381950",
+    "alt_title": "On Photography",
+    "author_intro": "苏珊·桑塔格，1933年生于美国纽约，毕业于芝加哥大学。1993年当选为美国文学艺术学院院士。她是美国声名卓著的“新知识分子”，和西蒙娜·波伏瓦、汉娜·阿伦特并称为西方当代最重要的女知识分子，被誉为“美国公众的良心”。2000年获美国国家图书奖，2001年获耶路撒冷国际文学奖，2003年获德国书业和平奖。2004年12月28日病逝于纽约。",
+    "summary": "《论摄影》不仅是一本论述摄影者的经典著作，而且是一本论述广泛意义上的现代文化的经典著作。它不是一本专业著作，书中也没有多少摄影术语，尽管有志于摄影者，应人手一册。它的对象主要是知识分子、作家和文化人。\n桑塔格深入探讨摄影的本质，包括摄影是不是艺术，摄影与绘画的相互影响，摄影与真实世界的关系，摄影的捕食性和侵略性。摄影表面上是反映现实，但实际上摄影影像自成一个世界，一个影像世界，企图取代真实世界。\n对读者而言，这本书的丰富性和深刻性不在于桑塔格得出什么结论，而在于她的论述过程和解剖方法。这是一种抽丝剥茧的论述，一种冷静而锋利的解剖。精彩纷呈，使人目不暇接。桑塔格一向以庄严的文体著称，但她的挖苦和讽刺在这本著作中亦得到了充分的发挥。\n《论摄影》出版于一九七七年，轰动一时，引起广泛的讨论，并荣获当年的全国图书批评界奖，至今仍被誉为“摄影界的《圣经》”。",
+    "ebook_price": "38.99",
+    "series": {
+        "id": "568",
+        "title": "苏珊·桑塔格文集"
+    },
+    "price": "22.00元"
+}

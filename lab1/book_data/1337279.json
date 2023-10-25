@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3610,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "伊藤潤二"
+    ],
+    "pubdate": "2005-6-29",
+    "tags": [
+        {
+            "count": 875,
+            "name": "伊藤润二",
+            "title": "伊藤润二"
+        },
+        {
+            "count": 608,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 341,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 288,
+            "name": "恐怖",
+            "title": "恐怖"
+        },
+        {
+            "count": 267,
+            "name": "恐怖漫画",
+            "title": "恐怖漫画"
+        },
+        {
+            "count": 187,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 180,
+            "name": "伊藤潤二",
+            "title": "伊藤潤二"
+        },
+        {
+            "count": 104,
+            "name": "暗之声",
+            "title": "暗之声"
+        }
+    ],
+    "origin_title": "闇の声",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2552098.jpg",
+    "binding": "平裝",
+    "translator": [
+        "張芳馨"
+    ],
+    "catalog": "",
+    "pages": "238",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2552098.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2552098.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2552098.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1337279/",
+    "id": "1337279",
+    "publisher": "東立",
+    "isbn10": "9861169024",
+    "isbn13": "9789861169026",
+    "title": "闇之聲",
+    "url": "https://api.douban.com/v2/book/1337279",
+    "alt_title": "闇の声",
+    "author_intro": "",
+    "summary": "中文版目录： \r\n第一话：吸血之闇 \r\n第二话：黄金时段的幽灵 \r\n第三话：轰声 \r\n第四话：鬼屋之谜 \r\n第五话：三酸甘油酯 \r\n第六话：地缚者 \r\n第七话：死囚的呼唤灵",
+    "price": "新台币110元"
+}

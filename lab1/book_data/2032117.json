@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3402,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "保罗·奥斯特"
+    ],
+    "pubdate": "2007-3",
+    "tags": [
+        {
+            "count": 1567,
+            "name": "保罗·奥斯特",
+            "title": "保罗·奥斯特"
+        },
+        {
+            "count": 824,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 742,
+            "name": "纽约三部曲",
+            "title": "纽约三部曲"
+        },
+        {
+            "count": 579,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 354,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 283,
+            "name": "美国小说",
+            "title": "美国小说"
+        },
+        {
+            "count": 190,
+            "name": "Paul_Auster",
+            "title": "Paul_Auster"
+        },
+        {
+            "count": 173,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2343821.jpg",
+    "binding": "平装",
+    "translator": [
+        "文敏"
+    ],
+    "catalog": "",
+    "pages": "334",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2343821.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2343821.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2343821.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2032117/",
+    "id": "2032117",
+    "publisher": "浙江文艺出版社",
+    "isbn10": "753392455X",
+    "isbn13": "9787533924553",
+    "title": "纽约三部曲",
+    "url": "https://api.douban.com/v2/book/2032117",
+    "alt_title": "",
+    "author_intro": "保罗·奥斯特(Paul Auster) 集小说家、诗人、剧作家、译者、电影导演等多重身份于一身，被视为是美国当代最勇于创新的小说家之一。1947年生于新泽西州的纽渥克市。在哥伦比亚大学念英文暨比较文学系，并获同校硕士学位。年轻时过着漂泊无定的生活，不断尝试各种工作，甚至曾参加舞团的排练，只为了“观看男男女女在空间中移动让他充满了陶醉感”。",
+    "summary": "《玻璃城》、《幽灵》、《锁闭的房间》被称为纽约三部曲。它不是传统意义上的侦探小说，奥斯特通过营造哥特式的紧张气氛，设置一个又一个悬念来诱使读者与之一起踏上追寻身份和存在意义的心灵之旅。\n玻璃城：深更半夜，一个陌生电话打到侦探小说作家奎恩家里，这让他陷入了比任何侦探小说更为扑朔迷离的案情之中。\n幽灵：布鲁受雇于怀特去监视布莱克。监视，跟踪，一年过去了，他一无所获，布鲁几近崩溃。\n锁闭的房间：一封不期而至的信，告诉“我”——范肖的童年好友，范肖失踪了，留下妻儿和一堆非同寻常的手稿。按照范肖以前的意愿，“我”被要求处理这些手稿。起初一切很顺利，范肖的手稿得以出版。与此同时，我娶了范肖漂亮的妻子，做了范肖儿子的父亲。然而，“我”突然发现范肖竟然还活着！",
+    "series": {
+        "id": "10203",
+        "title": "保罗·奥斯特作品"
+    },
+    "price": "28.00元"
+}

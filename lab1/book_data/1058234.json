@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 37798,
+        "average": "7.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "安妮宝贝"
+    ],
+    "pubdate": "2004-1",
+    "tags": [
+        {
+            "count": 10512,
+            "name": "安妮宝贝",
+            "title": "安妮宝贝"
+        },
+        {
+            "count": 4472,
+            "name": "二三事",
+            "title": "二三事"
+        },
+        {
+            "count": 2931,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1024,
+            "name": "安妮",
+            "title": "安妮"
+        },
+        {
+            "count": 998,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 740,
+            "name": "颓废",
+            "title": "颓废"
+        },
+        {
+            "count": 708,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 575,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1157535.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "自序\n1.良生\n2.莲安\n3.沿见\n4.恩和\n5.盈年\n6.又及",
+    "pages": "234",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1157535.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1157535.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1157535.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1058234/",
+    "id": "1058234",
+    "publisher": "南海出版公司",
+    "isbn10": "7544226743",
+    "isbn13": "9787544226745",
+    "title": "二三事",
+    "url": "https://api.douban.com/v2/book/1058234",
+    "alt_title": "",
+    "author_intro": "安妮宝贝，自由作家，现居北京。曾任职金融广告网络等行业。已出版短篇小说集《告别薇安》，散文及短篇小说集《八月未央》，长篇小说《彼岸花》，摄影图文集《蔷薇岛屿》。",
+    "summary": "《二三事》讲述了一个关于遗忘和记得的故事。爱与恩慈。从欲望纠缠直到无爱的淡薄和甘心承担。对另一个人的付出和牺牲，试图获得对自我的救赎。生之繁华直至荒芜。书中的每一个人都在做出选择。但这选择里没有对错的道理，也无幸福的标准。只是代表生命的时间，不断行进，并终究走向静默。\n小说的5个大部分，均是书里主要人物的名字。纯粹安妮宝贝清淡风格的名字：良生、莲安、沿见、恩和、盈年。安妮宝贝摆弄她小说里的人物，如同摆弄一枚枚沉默不语的棋子，他们随波逐流，却总是一往无前，自有一种凛冽意志。不容多加解释。",
+    "price": "20.00元"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 23206,
+        "average": "7.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "蔡智恒"
+    ],
+    "pubdate": "2001-12",
+    "tags": [
+        {
+            "count": 3563,
+            "name": "蔡智恒",
+            "title": "蔡智恒"
+        },
+        {
+            "count": 2925,
+            "name": "痞子蔡",
+            "title": "痞子蔡"
+        },
+        {
+            "count": 2115,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1925,
+            "name": "槲寄生",
+            "title": "槲寄生"
+        },
+        {
+            "count": 1390,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 1198,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 921,
+            "name": "网络小说",
+            "title": "网络小说"
+        },
+        {
+            "count": 728,
+            "name": "青春",
+            "title": "青春"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1981784.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "一 第一支烟\r\n二 第二支烟\r\n三 第三支烟\r\n四 第四支烟\r\n五 第五支烟\r\n六 第六支烟\r\n七 第七支烟\r\n八 第八支烟\r\n九 第九支烟\r\n十 第十支烟",
+    "pages": "293",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1981784.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1981784.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1981784.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1012203/",
+    "id": "1012203",
+    "publisher": "中国戏剧出版社",
+    "isbn10": "7104014446",
+    "isbn13": "9787104014447",
+    "title": "檞寄生",
+    "url": "https://api.douban.com/v2/book/1012203",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《槲寄生》延续了蔡智恒小说一贯的浪漫气氛，描述“我”实在不是故意，但仍旧不小心同时爱上两个女孩的“三角恋”故事：在台北担任研究助理的“我”，打开抽屉，随手拿出一根烟抽，要把烟拧息时，发现烟上有字……\n每抽一根烟，便忆起一段往事。最让他心动的是她，那个在烟上写字的女孩；可另一个她也叫他痛苦，那是让他重拾信心的女孩。当你令两个女孩心痛，你就不得不做一个选择；当两个女孩令你忆起左肩右肩痛，你就知道自己中毒太深，要细细分辨，什么是真爱，什么是一生所爱……\n爱抽MILD SEVEN的蔡智恒，用十根烟串起一个浓淡相宜的爱情故事，就像《第一次的亲密接触》一样，其中或多或少难免糅进自己切身的情感经历。",
+    "series": {
+        "id": "10421",
+        "title": "小说E时代丛书"
+    },
+    "price": "19.80元"
+}

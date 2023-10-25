@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 12792,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "从史前史到21世纪",
+    "author": [
+        "[美] 斯塔夫里阿诺斯"
+    ],
+    "pubdate": "2005-1",
+    "tags": [
+        {
+            "count": 6252,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 4309,
+            "name": "全球通史",
+            "title": "全球通史"
+        },
+        {
+            "count": 2244,
+            "name": "斯塔夫里阿诺斯",
+            "title": "斯塔夫里阿诺斯"
+        },
+        {
+            "count": 2197,
+            "name": "世界史",
+            "title": "世界史"
+        },
+        {
+            "count": 1059,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 839,
+            "name": "人文",
+            "title": "人文"
+        },
+        {
+            "count": 802,
+            "name": "通史",
+            "title": "通史"
+        },
+        {
+            "count": 606,
+            "name": "社科",
+            "title": "社科"
+        }
+    ],
+    "origin_title": "A Global History: From Prehistory to the 21st Century, 7th edition",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s9985895.jpg",
+    "binding": "平装",
+    "translator": [
+        "董书慧",
+        "王昶",
+        "徐正源"
+    ],
+    "catalog": "\n      ",
+    "pages": "801",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s9985895.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s9985895.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s9985895.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1225977/",
+    "id": "1225977",
+    "publisher": "北京大学出版社",
+    "isbn10": "7301074239",
+    "isbn13": "9787301074237",
+    "title": "全球通史（第7版 上册）",
+    "url": "https://api.douban.com/v2/book/1225977",
+    "alt_title": "A Global History: From Prehistory to the 21st Century, 7th edition",
+    "author_intro": "L.S.斯塔夫里阿诺斯是美国加州大学的历史学教授，享誉世界的历史学家，曾获得过古根海姆奖、福特杰出教师奖秒各克菲勒基金奖等一系列学术荣誉。虽然他以《全球通史》享誉世界，但实际上他著述颇丰，除《全球通史》外，斯塔夫里阿诺斯的作品还包括《1453年以来的巴尔干各国》、《奥斯曼帝国：它是欧洲的病人吗？》、《全球分裂：第三世界的历史进程》和《源自我们过去的生命线：新世界史》等。\n斯塔夫里阿诺斯教授于2004年3月23日在美国加州荷亚去世。",
+    "summary": "斯塔夫里阿诺斯的这部潜心力作自1970年初版问世以来，赞誉如潮，被译成多种语言流传于世，可谓经典之中的经典。第7版在保留原文精华的基础上，融入了时新的研究成果，新增了数百幅生动珍贵的图片和脉络清晰的地图，使这部名著在内容和体系上更加完善。",
+    "price": "88.00元"
+}

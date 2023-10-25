@@ -1,0 +1,82 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3109,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "爱丽丝Ⅰ",
+    "author": [
+        "hansey",
+        "落落 主编"
+    ],
+    "pubdate": "2007-11",
+    "tags": [
+        {
+            "count": 1119,
+            "name": "hansey",
+            "title": "hansey"
+        },
+        {
+            "count": 960,
+            "name": "Alice",
+            "title": "Alice"
+        },
+        {
+            "count": 603,
+            "name": "爱丽丝",
+            "title": "爱丽丝"
+        },
+        {
+            "count": 394,
+            "name": "落落",
+            "title": "落落"
+        },
+        {
+            "count": 280,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 229,
+            "name": "Alice,hansey",
+            "title": "Alice,hansey"
+        },
+        {
+            "count": 180,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 133,
+            "name": "私藏书",
+            "title": "私藏书"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2737829.jpg",
+    "binding": "平装16开",
+    "translator": [],
+    "catalog": "",
+    "pages": "184",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2737829.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2737829.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2737829.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2278790/",
+    "id": "2278790",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208073643",
+    "isbn13": "9787208073647",
+    "title": "草木芳华",
+    "url": "https://api.douban.com/v2/book/2278790",
+    "alt_title": "",
+    "author_intro": "hansey，自由创作者。创作志《Alice》& 私享志《HANA》发起人。从事装帧设计，摄影工作。",
+    "summary": "《爱丽丝》系列强调文本价值，是把好看与积极健康的价值观相结合的图文作品。其读者定位在16～26岁之间。在整体感观上，这套系列更注重图文创意、艺术美感，并有另一种新形式的尝试，即从国外引进适合青少年阅读的选题，打造这套系列为关注推广原创与引进两方面相结合的青春文学作品。\n《草本芳华》收录了：《影　hansey MiMzii》、《卢丽莉 爱的流刑地》、《天宫雁 津坂特急》、《DODO The Other Version》、《泠琅 火车拖曳的时光》等。",
+    "series": {
+        "id": "574",
+        "title": "Alice"
+    },
+    "price": "20.00元"
+}

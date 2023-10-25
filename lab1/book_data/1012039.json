@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4038,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "旅德生活十五年",
+    "author": [
+        "王小慧"
+    ],
+    "pubdate": "2001-9",
+    "tags": [
+        {
+            "count": 1211,
+            "name": "王小慧",
+            "title": "王小慧"
+        },
+        {
+            "count": 948,
+            "name": "摄影",
+            "title": "摄影"
+        },
+        {
+            "count": 710,
+            "name": "传记",
+            "title": "传记"
+        },
+        {
+            "count": 427,
+            "name": "女性",
+            "title": "女性"
+        },
+        {
+            "count": 419,
+            "name": "视觉日记",
+            "title": "视觉日记"
+        },
+        {
+            "count": 322,
+            "name": "艺术",
+            "title": "艺术"
+        },
+        {
+            "count": 266,
+            "name": "自传",
+            "title": "自传"
+        },
+        {
+            "count": 120,
+            "name": "生活",
+            "title": "生活"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2102314.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "序\n引子\n1 我们可以飞了\n2 路伸向何方\n3 燃尽的蓝蜡烛\n4 走过我自己\n5 我的二十四小时\n6 远处的光\n7 重返布拉格\n8 莎乐美舞\n9 破碎的月亮\n10 万里魂牵\n11 我的孩子梦\n12 推迟七年的书\n13 关于死亡的联想\n……\n附录一：艺术评论摘要\n附录二：艺术活动年表",
+    "pages": "417",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2102314.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2102314.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2102314.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1012039/",
+    "id": "1012039",
+    "publisher": "学林出版社",
+    "isbn10": "7806680675",
+    "isbn13": "9787806680674",
+    "title": "我的视觉日记",
+    "url": "https://api.douban.com/v2/book/1012039",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "旅德摄影艺术家王小慧以文字伴随摄影的形式——视觉日记，完整地记录了自己旅居德国十五年来的亲身经历。书中的17个章节，既有缠绵的爱的誓言和浓烈的亲情，也有超前的艺术实践，更有无私的超越国界的人道主义关怀……凡此种种，王小慧都用她犀利的目光——照相机镜头永恒固定。",
+    "series": {
+        "id": "8554",
+        "title": "新视觉书坊"
+    },
+    "price": "38.00元"
+}

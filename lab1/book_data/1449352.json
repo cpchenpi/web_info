@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 149250,
+        "average": "9.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "pubdate": "1973-4",
+    "series": {
+        "id": "322",
+        "title": "鲁迅作品集"
+    },
+    "image": "https://img1.doubanio.com/view/subject/m/public/s34099290.jpg",
+    "binding": "平装",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s34099290.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s34099290.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s34099290.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1449352/",
+    "id": "1449352",
+    "title": "朝花夕拾",
+    "author_intro": "",
+    "tags": [
+        {
+            "count": 17256,
+            "name": "鲁迅",
+            "title": "鲁迅"
+        },
+        {
+            "count": 9142,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 7743,
+            "name": "朝花夕拾",
+            "title": "朝花夕拾"
+        },
+        {
+            "count": 7595,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 6793,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 4852,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 4781,
+            "name": "现代文学",
+            "title": "现代文学"
+        },
+        {
+            "count": 4142,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "price": "0.25元",
+    "translator": [],
+    "catalog": "",
+    "pages": "92",
+    "publisher": "人民文学出版社",
+    "isbn10": "SH10019-1985",
+    "alt_title": "",
+    "url": "https://api.douban.com/v2/book/1449352",
+    "author": [
+        "鲁迅"
+    ],
+    "summary": "《小引》\n《狗·猫·鼠》\n《阿长与山海经》\n《二十四孝图》\n《五猖会》\n《无常》\n《从百草园到三味书屋》\n《父亲的病》\n《琐记》\n《藤野先生》\n《范爱农》\n《后记》"
+}

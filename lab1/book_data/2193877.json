@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 19547,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 米奇·阿尔博姆"
+    ],
+    "pubdate": "2007-7",
+    "tags": [
+        {
+            "count": 2838,
+            "name": "你在天堂里遇见的五个人",
+            "title": "你在天堂里遇见的五个人"
+        },
+        {
+            "count": 2588,
+            "name": "米奇·阿尔博姆",
+            "title": "米奇·阿尔博姆"
+        },
+        {
+            "count": 2082,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1957,
+            "name": "心灵",
+            "title": "心灵"
+        },
+        {
+            "count": 1714,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1319,
+            "name": "成长",
+            "title": "成长"
+        },
+        {
+            "count": 1202,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 858,
+            "name": "感动　人情味",
+            "title": "感动　人情味"
+        }
+    ],
+    "origin_title": "The Five People You Meet in Heaven",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2689596.jpg",
+    "binding": "平装",
+    "translator": [
+        "赵晓春"
+    ],
+    "catalog": "",
+    "ebook_url": "https://read.douban.com/ebook/23057923/",
+    "pages": "221",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2689596.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2689596.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2689596.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2193877/",
+    "id": "2193877",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532742717",
+    "isbn13": "9787532742714",
+    "title": "你在天堂里遇见的五个人",
+    "url": "https://api.douban.com/v2/book/2193877",
+    "alt_title": "The Five People You Meet in Heaven",
+    "author_intro": "米奇·阿尔博姆（1959- ），美国著名专栏作冢，电台主持，电视评论员，此外还是活跃的慈善活动家。迄今为止，阿尔博姆已出版九部畅销著作，其中纪实作品《相约星期二》在全美各大图书畅销排行榜上停留四年之久，被译成包括中文在内的三十一种文字，全球累计销量超过一千一百万册。2003年，阿尔博姆六年磨一剑的小说《你在天堂里遇见的五个人》将“星期二神话”继续延伸，迄今已累计售出八百万册。\n米奇·阿尔博姆目前与妻子简宁居住在美国密歇根州。",
+    "summary": "有些故事注定要从结局讲起的——其实，所有的结尾又何尝不是开端呢？ 《相约星期二》随着莫里的阖然长逝而告终。六年后，在米奇·阿尔博姆的全新力作中，纪实换成了虚构；死亡从结局演变成了开端；主角还是一位老人——不是洞明世事的教授，而是到死都对自己的一生心存惶惑的退伍老兵，游乐场维修工。\n他叫爱迪，八十三岁生日那天，为了拯救在突发事故中身处险境的女孩而殒命游乐场。醒来时，爱迪已身处天堂，这才发现：那里并不是牧歌萦绕的伊甸园，而是地球上生活片断的交叠重现。五个被爱迪或铭记或忽略或遗忘的人，轮流登场，引领他寻找逝去的时光，追问人生的谜底。无形间，天地间仿佛有一条巨大的锁链，爱迪只是其中的一环。\n《你在天堂里遇见的五个人》让每一个读完这本书的人都成了锁链中的一环，分享着同一个秘密：天堂里，会有五个人，为了五段不同的记忆，等候你长大、相爱、衰老、死亡，等待着解答你最后的疑问。因为，我们每一个人都会影响到另一个人，世界上各式各样的故事，说到底都是同一个。",
+    "ebook_price": "12.99",
+    "series": {
+        "id": "10823",
+        "title": "米奇·阿尔博姆作品"
+    },
+    "price": "17.00元"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 17575,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "The Moments",
+    "author": [
+        "幾米"
+    ],
+    "pubdate": "2001-6-18",
+    "tags": [
+        {
+            "count": 3163,
+            "name": "几米",
+            "title": "几米"
+        },
+        {
+            "count": 2936,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2195,
+            "name": "幾米",
+            "title": "幾米"
+        },
+        {
+            "count": 1496,
+            "name": "照相本子",
+            "title": "照相本子"
+        },
+        {
+            "count": 681,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 649,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 420,
+            "name": "繪本",
+            "title": "繪本"
+        },
+        {
+            "count": 356,
+            "name": "回忆",
+            "title": "回忆"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s4407663.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "",
+    "pages": "136",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s4407663.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s4407663.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s4407663.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1367458/",
+    "id": "1367458",
+    "publisher": "大塊文化出版公司",
+    "isbn10": "9570316756",
+    "isbn13": "9789570316759",
+    "title": "照相本子",
+    "url": "https://api.douban.com/v2/book/1367458",
+    "alt_title": "The Moments",
+    "author_intro": "幾米，近年來最炙手可熱的繪本作家。1998年8月首度出版個人的繪本創作，1999年以《向左走·向右走》、《聽幾米唱歌》和《月亮忘記了》，2000年2001年更以《我的心中每天開出一朵花》、《地下鐵》，展現出驚人的創作力和多變的敘事風格，在出版市場興起了一陣持續至今熱力不減的繪本創作風潮。\n幾米讓「圖像」成為另一種清新舒潔的文學語言，在他的作品裡營造出流暢詩意的畫面，散發出深情迷人的風采。",
+    "summary": "《照相本子》，幾米是攝影師、主人翁、配角以及佈景， 他是誰不重要，重要的是他玩得很高興，這種高興揉合了許多種記憶元素，歡樂的、憂愁的、哀傷的……但這些記憶經過翻轉進入書中，我們看到的已經不是幾米直接的記憶，而是經過轉折後的動人，而這動人的畫面又揉合了我們自己的記憶，歡樂的、憂愁的、哀傷的……",
+    "series": {
+        "id": "3818",
+        "title": "幾米作品"
+    },
+    "price": "TWD 480"
+}

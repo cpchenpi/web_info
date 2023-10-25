@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6762,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 艾萨克·阿西莫夫"
+    ],
+    "pubdate": "2005-1",
+    "tags": [
+        {
+            "count": 2120,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 1791,
+            "name": "阿西莫夫",
+            "title": "阿西莫夫"
+        },
+        {
+            "count": 876,
+            "name": "基地系列",
+            "title": "基地系列"
+        },
+        {
+            "count": 606,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 486,
+            "name": "科幻小说",
+            "title": "科幻小说"
+        },
+        {
+            "count": 410,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 339,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 268,
+            "name": "基地",
+            "title": "基地"
+        }
+    ],
+    "origin_title": "Second Foundation",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1328658.jpg",
+    "binding": "平装",
+    "translator": [
+        "叶李华"
+    ],
+    "catalog": "序幕\n一 骡的寻找\n1 二人与骡 第一插曲\n2 二人无骡 第二插曲\n3 二人与农夫 第三插曲\n4 二人与长老 第四插曲\n5 一人与骡\n6 一人、骡与第三者 最后插曲\n二 基地的寻找\n……",
+    "pages": "298",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1328658.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1328658.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1328658.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1258489/",
+    "id": "1258489",
+    "publisher": "天地出版社",
+    "isbn10": "780624946X",
+    "isbn13": "9787806249468",
+    "title": "第二基地",
+    "url": "https://api.douban.com/v2/book/1258489",
+    "alt_title": "Second Foundation",
+    "author_intro": "萨克·阿西莫夫（Isaac Asimov, 1920-1992），这个出生在俄国、长在美国的美籍犹太人，是20世纪顶尖的科普巨匠和科幻文学大师，被誉为“国家的奇迹与自然的资源”。他一生中创作了467部作品，涉及数字，天文学、地球科学、化学和生物化学、物理学、生物学、历史、文学、科幻等诸多领域。",
+    "summary": "《第二基地》是“基地”系列三部曲的最后一部。“谜”一般的第二基地的存在成了众矢之的，骡要铲除它，而第一基地的移民为了一个完全不同的理由也必须找到它，但是它究竟在哪里呢？\n骡倾全力寻找并铲除第二基地，却失败了。随后，基地人员也千方百计寻找第二基地，因为他们不愿把建立新帝国的功业拱手让人。谁也没想到，寻找的线索竟维系在一位小女孩身上。十四岁的艾嘉蒂娅怕得要死，她究竟发现了有关第二基地的什么秘密呢？",
+    "series": {
+        "id": "1108",
+        "title": "基地系列"
+    },
+    "price": "20.00元"
+}

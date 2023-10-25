@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4561,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "斯丹达尔"
+    ],
+    "pubdate": "1994-5-1",
+    "tags": [
+        {
+            "count": 516,
+            "name": "红与黑",
+            "title": "红与黑"
+        },
+        {
+            "count": 489,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 374,
+            "name": "斯汤达Stendhal",
+            "title": "斯汤达Stendhal"
+        },
+        {
+            "count": 298,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 295,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 193,
+            "name": "外国名著",
+            "title": "外国名著"
+        },
+        {
+            "count": 191,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 162,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1952460.jpg",
+    "binding": "平装",
+    "translator": [
+        "郭宏安"
+    ],
+    "catalog": "谁是“少数幸福的人”？\n原著出版者的话\n第一章 小城\n第二章 市长\n第三章 穷人的福利\n第四章 父与子\n第五章 谈判\n第六章 烦恼\n第七章 精选的缘分\n第八章 小小的风波\n第九章 乡间一夜\n第十章 雄心和逆境\n第十一章 一个晚上\n第十二章 出门\n第十三章 网眼长袜\n第十四章 英国剪刀\n第十五章 雄鸡一唱\n第十六章 第二天\n第十七章 第一助理\n第十八章 国王在维里埃\n……",
+    "pages": "388",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1952460.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1952460.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1952460.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1205394/",
+    "id": "1205394",
+    "publisher": "译林出版社",
+    "isbn10": "780567308X",
+    "isbn13": "9787805673080",
+    "title": "红与黑",
+    "url": "https://api.douban.com/v2/book/1205394",
+    "alt_title": "",
+    "author_intro": "司汤达是十九世纪法国杰出的批判现实主义作家。司汤达也是19世纪现实主义的先驱，在文艺论著《拉辛与莎士比亚》中提倡浪漫主义，反对古典主义，主张文学应\"艺术的反映当代生活\"，反对因循守旧。他的一生并不长，不到六十年，而且他在文学上起步很晚，三十几岁才开始发表作品。然而，他却给人类留下了巨大的精神遗产:数部长篇，数十个短篇或故事，数百万字的文论、随笔和散文，游记。",
+    "summary": "",
+    "series": {
+        "id": "19745",
+        "title": "译林世界文学名著·古典系列"
+    },
+    "price": "11.00"
+}

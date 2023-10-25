@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8058,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[法国] 小仲马"
+    ],
+    "pubdate": "1994-6",
+    "tags": [
+        {
+            "count": 1190,
+            "name": "小仲马",
+            "title": "小仲马"
+        },
+        {
+            "count": 854,
+            "name": "茶花女",
+            "title": "茶花女"
+        },
+        {
+            "count": 808,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 608,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 564,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 419,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 414,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 322,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "La Dame aux camélias",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1971194.jpg",
+    "binding": "平装",
+    "translator": [
+        "郑克鲁"
+    ],
+    "catalog": "",
+    "pages": "159",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1971194.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1971194.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1971194.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1205372/",
+    "id": "1205372",
+    "publisher": "译林出版社",
+    "isbn10": "7805673063",
+    "isbn13": "9787805673066",
+    "title": "茶花女",
+    "url": "https://api.douban.com/v2/book/1205372",
+    "alt_title": "La Dame aux camélias",
+    "author_intro": "",
+    "summary": "",
+    "price": "6.80元"
+}

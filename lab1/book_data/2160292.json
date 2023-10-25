@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3114,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 保罗·奥斯特"
+    ],
+    "pubdate": "2007-7",
+    "tags": [
+        {
+            "count": 1411,
+            "name": "保罗·奥斯特",
+            "title": "保罗·奥斯特"
+        },
+        {
+            "count": 863,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 610,
+            "name": "神谕之夜",
+            "title": "神谕之夜"
+        },
+        {
+            "count": 509,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 390,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 381,
+            "name": "美国文学",
+            "title": "美国文学"
+        },
+        {
+            "count": 177,
+            "name": "PaulAuster",
+            "title": "PaulAuster"
+        },
+        {
+            "count": 166,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "Oracle Night",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2628659.jpg",
+    "binding": "平装",
+    "translator": [
+        "潘帕"
+    ],
+    "catalog": "",
+    "pages": "216",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2628659.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2628659.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2628659.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2160292/",
+    "id": "2160292",
+    "publisher": "译林出版社",
+    "isbn10": "754470033X",
+    "isbn13": "9787544700337",
+    "title": "神谕之夜",
+    "url": "https://api.douban.com/v2/book/2160292",
+    "alt_title": "Oracle Night",
+    "author_intro": "保罗·奥斯特（Paul Auster），1947生于纽约。小说家、诗人、翻译家和电影编剧。曾和王颖合导电影《烟》。《纽约时报》曾将他形容为“穿上胶鞋的卡夫卡”。其作品《纽约三部曲》、《孤独及其所创造的》曾引起文坛热烈讨论，作品中接合了欧洲风味的前卫、感性，笔端带点忧郁，文体清澈，并擅用嘲讽式的象征主义。此外，他经常运用文学游戏使故事生动，并在每一本新书中鞭策自己彻底重塑风格，是勇于创新的当代作家之一。",
+    "summary": "大病初愈的作家希德尼偶然路过中国人张生开的小店，对其中一本蓝色笔记本爱不释手，这本亲切而魔幻的笔记本把他重新带回写作，故事在纸上快意地流淌，写作是他唯一能够投入的生活方式。然而接下来的九天里，一连串神秘事件的发生却使他开始怀疑：是否字句如谕示，牵引现实与未来……",
+    "series": {
+        "id": "4629",
+        "title": "译林世界文学名著·现当代系列"
+    },
+    "price": "18.50元"
+}

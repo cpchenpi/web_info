@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 34578,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 伊恩·麦克尤恩"
+    ],
+    "pubdate": "2010-2",
+    "tags": [
+        {
+            "count": 10616,
+            "name": "伊恩·麦克尤恩",
+            "title": "伊恩·麦克尤恩"
+        },
+        {
+            "count": 6166,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4856,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 4578,
+            "name": "最初的爱情，最后的仪式",
+            "title": "最初的爱情，最后的仪式"
+        },
+        {
+            "count": 3423,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 3317,
+            "name": "英国文学",
+            "title": "英国文学"
+        },
+        {
+            "count": 1619,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 1068,
+            "name": "IanMcewan",
+            "title": "IanMcewan"
+        }
+    ],
+    "origin_title": "First Love, Last Rites",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3979661.jpg",
+    "binding": "平装",
+    "translator": [
+        "潘帕"
+    ],
+    "catalog": "立体几何\n家庭制造\n夏日里的最后一天\n舞台上的柯克尔\n蝴蝶\n与橱中人的对话\n最初的爱情，最后的仪式\n化装",
+    "ebook_url": "https://read.douban.com/ebook/9189496/",
+    "pages": "199",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3979661.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3979661.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3979661.jpg"
+    },
+    "alt": "https://book.douban.com/subject/4011440/",
+    "id": "4011440",
+    "publisher": "南京大学出版社",
+    "isbn10": "7305063746",
+    "isbn13": "9787305063749",
+    "title": "最初的爱情 最后的仪式",
+    "url": "https://api.douban.com/v2/book/4011440",
+    "alt_title": "First Love, Last Rites",
+    "author_intro": "伊恩·麦克尤恩，1948年生，英国当代著名作家。1975年以处女作短篇小说集《最初的爱情，最后的仪式》成名，并获次年毛姆奖。此后佳作不断，迄今已出版十几部既畅销又获好评的小说，并荣获过包括布克奖在内的多项文学大奖，也是今后诺贝尔文学奖的大热人选。\n译者 潘帕，生化学博士后，后弃研从实业，闲时读书，著有《虚构即真实》博客一处，并译有《芒果街上的小屋》、《神谕之夜》、《圣诞忆旧集》和《沉溺》。",
+    "summary": "全书由八个短篇组成，分别从八个位于童年、青春期和青年等不同阶段的男性视角出发，以意识和潜意识交接地带的经验为揭示对象，有时荒唐，有时伤感，有时温柔，有时骇人，有时魔幻，却都无限接近真实，接近每个人的内心。\n麦克尤恩素来擅长以冷静细腻的笔触打磨幽暗题材，赋予其精妙无双的质感。八个故事各如黑晶棱镜之一面，折射出日常生活中平凡人性所可能误陷的种种魔怔与梦魇。平地与深渊，生与死，真实与玄幻，伦常与变态之间的界限恍若蛛丝般轻薄，看后令人或怅然或倒吸凉气，同时又觉得其魔力不可抗拒。\n以如此短薄篇幅，麦克尤恩却惊才遽现，征服了文坛。所录每一篇都可谓杰作，令人过目难忘。此书是阅读和了解这位天才作家的最佳切入点。\n《最初的爱情，最后的仪式》是麦克尤恩的处女作与成名作。",
+    "ebook_price": "18.00",
+    "price": "22.00元"
+}

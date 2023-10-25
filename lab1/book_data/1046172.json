@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13955,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "（香港）亦舒"
+    ],
+    "pubdate": "1998-06-01",
+    "tags": [
+        {
+            "count": 3709,
+            "name": "亦舒",
+            "title": "亦舒"
+        },
+        {
+            "count": 1209,
+            "name": "流金岁月",
+            "title": "流金岁月"
+        },
+        {
+            "count": 1108,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1021,
+            "name": "友情",
+            "title": "友情"
+        },
+        {
+            "count": 772,
+            "name": "女性",
+            "title": "女性"
+        },
+        {
+            "count": 745,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 497,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 358,
+            "name": "师太",
+            "title": "师太"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1259751.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "192",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1259751.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1259751.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1259751.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1046172/",
+    "id": "1046172",
+    "publisher": "海天出版社",
+    "isbn10": "7806154442",
+    "isbn13": "9787806154441",
+    "title": "流金岁月",
+    "url": "https://api.douban.com/v2/book/1046172",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "朱锁锁和蒋南孙是一对挚友。投入社会后，朱锁锁在红尘中起伏，凭着才智和相貌很快发达起来，蒋南孙则成为一个出色的白领丽人。人事沧桑，岁月无情，她们遍尝了生活的个中滋味，成为最成熟最美丽的女人，然而无论生活怎样变化，她二人始终是患难与共的挚友。\n",
+    "series": {
+        "id": "5510",
+        "title": "亦舒作品系列"
+    },
+    "price": "9.80元"
+}

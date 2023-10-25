@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 111928,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "小仲马"
+    ],
+    "pubdate": "1997-3",
+    "tags": [
+        {
+            "count": 13117,
+            "name": "小仲马",
+            "title": "小仲马"
+        },
+        {
+            "count": 12180,
+            "name": "茶花女",
+            "title": "茶花女"
+        },
+        {
+            "count": 10043,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 9496,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 6809,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 6334,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 5711,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 5457,
+            "name": "名著",
+            "title": "名著"
+        }
+    ],
+    "origin_title": "La Dame aux camélias",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1008927.jpg",
+    "binding": "平装",
+    "translator": [
+        "王振孙"
+    ],
+    "catalog": "",
+    "pages": "272",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1008927.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1008927.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1008927.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1013380/",
+    "id": "1013380",
+    "publisher": "外国文学出版社",
+    "isbn10": "7501600066",
+    "isbn13": "9787501600069",
+    "title": "茶花女",
+    "url": "https://api.douban.com/v2/book/1013380",
+    "alt_title": "La Dame aux camélias",
+    "author_intro": "",
+    "summary": "《茶花女》为我们塑造了一些生动、鲜明的艺术形象，而其中最突出、最令人难忘的自然是女主人公茶花女玛格丽特。读者们切莫把玛格丽特和阿尔丰西娜·普莱西小姐混为一谈，阿尔丰西娜的身世固然值得同情，但她的的确确是个堕落的女人，用小仲马的话来说，她“既是一个纯洁无瑕的贞女，又是_个彻头彻尾的娼妇”。但玛格丽特却不同，她美丽、聪明而又善良j 虽然沦落风尘，但依旧保持着一颗纯洁、高尚的心灵。她充满热情和希望地去追求真正的爱情生活，而当这种希望破灭之后，又甘愿自我牺牲去成全他人。\n这一切都使这位为人们所不齿的烟花女子的形象闪烁着一种圣洁的光辉，以至于人们一提起“茶花女”这三个字的时候，首先想到的不是什么下贱的妓女，而是一位美丽、可爱而又值得同情的女眭。古今中外的文学名著为人们留下了许许多多不朽的艺术形象，而玛格丽特则完全可以跻身其间而毫无愧色。",
+    "price": "9.00元"
+}

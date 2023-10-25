@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10120,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 妹尾河童"
+    ],
+    "pubdate": "2004-10",
+    "tags": [
+        {
+            "count": 3708,
+            "name": "妹尾河童",
+            "title": "妹尾河童"
+        },
+        {
+            "count": 2870,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2013,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 1734,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 905,
+            "name": "河童旅行素描本",
+            "title": "河童旅行素描本"
+        },
+        {
+            "count": 815,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 798,
+            "name": "游记",
+            "title": "游记"
+        },
+        {
+            "count": 688,
+            "name": "素描",
+            "title": "素描"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2009787.jpg",
+    "binding": "平装",
+    "translator": [
+        "姜淑玲"
+    ],
+    "catalog": "制造伪钞\n试吃\n用眼睛吃东西\n自家做荞麦面\n投桃报李的尴尬\n收藏癖\n“病态”？\n立花隆先生也有病\n怪怪优酪乳\n分赠遗物\n将棋和西洋棋\n“请不要再算命了！”\nDNA真恐怖\n猪言猪语\n丧失资格的驾驶\n先试吃再说\n我想一个人独享\n火车餐盒要在波隆那买\n一个人旅行比较好\n会消失的车票\n把行李撒地满地的坏习惯\n钥匙和锁\n一投宿就开始画\n……",
+    "pages": "249",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2009787.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2009787.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2009787.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1056868/",
+    "id": "1056868",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108021560",
+    "isbn13": "9787108021564",
+    "title": "河童旅行素描本",
+    "url": "https://api.douban.com/v2/book/1056868",
+    "alt_title": "",
+    "author_intro": "妹尾河童，日本当代具代表性的舞台设计家，1930年生于神户，1954年因舞台设计而崭露头角，此后活跃于戏剧、歌剧、芭蕾舞、音乐剧、电视等表演艺术领域，曾获“纪伊国屋演剧”、“山多利音乐”、“艺术祭优秀”、“兵库县文化”等众多奖项。",
+    "summary": "内容有《制造伪钞》、《试吃》、《用眼睛吃东西》、《自家做荞麦面》、《投桃报李的尴尬》、《收藏癖》、《“病态”？》等游记作品。",
+    "series": {
+        "id": "589",
+        "title": "妹尾河童作品系列"
+    },
+    "price": "18.00元"
+}

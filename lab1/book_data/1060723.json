@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4525,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "（英）彼得・梅尔"
+    ],
+    "pubdate": "2004-03",
+    "tags": [
+        {
+            "count": 1036,
+            "name": "普罗旺斯",
+            "title": "普罗旺斯"
+        },
+        {
+            "count": 703,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 591,
+            "name": "彼得・梅尔",
+            "title": "彼得・梅尔"
+        },
+        {
+            "count": 467,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 459,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 323,
+            "name": "游记",
+            "title": "游记"
+        },
+        {
+            "count": 305,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 299,
+            "name": "重返普罗旺斯",
+            "title": "重返普罗旺斯"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2009482.jpg",
+    "binding": "平装",
+    "translator": [
+        "何江"
+    ],
+    "catalog": "第1章 山城旧事\n第2章 悬而未决的谋杀案\n第3章 家居指南\n第4章 山居良策\n第5章 行车历程\n第6章 初访马赛\n第7章 培养杰出的鼻子\n第8章 寻找完美的开塞器\n第9章 夏日午后消暑八法\n第10章 长寿的肥鹅肝\n第11章 橄榄油的发现\n第12章 松露人生\n第13章 绿园艺和黑番茄\n第14章 跋",
+    "pages": "232",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2009482.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2009482.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2009482.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1060723/",
+    "id": "1060723",
+    "publisher": "陕西师范大学出版社",
+    "isbn10": "7561327269",
+    "isbn13": "9787561327265",
+    "title": "重返普罗旺斯",
+    "url": "https://api.douban.com/v2/book/1060723",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《重返普罗旺斯》记叙了作者重返普罗旺斯的经历和感受，这里有许多让人耳目一新的精彩之笔，包括在改建后的加油站举行的宴会，一次在马赛的酒店里所尝到的普罗旺斯鱼汤，以及普罗旺斯独有的鼻子学校，种植黑马铃薯的奇怪园丁等等。\n\n逃逸都市，享受慵懒，在普罗旺斯做个时间的盗贼！\n每次的度假都如同去完成公务，全身披佳各种包裹，五天之内豪迈地遍游欧洲，像一群被赶的鸭子，走马观花，行色匆匆，也许只有普罗旺斯——世界上惟一不用做任何事情，就可以玩得非常开心的地方，能让我裹足不前，在这里，时间不受到崇拜，瞬间倒有了独特的意味。",
+    "price": "28.80元"
+}

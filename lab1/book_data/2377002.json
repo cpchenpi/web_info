@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3333,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "王朔"
+    ],
+    "pubdate": "2008-1",
+    "tags": [
+        {
+            "count": 1413,
+            "name": "王朔",
+            "title": "王朔"
+        },
+        {
+            "count": 423,
+            "name": "和我们的女儿谈话",
+            "title": "和我们的女儿谈话"
+        },
+        {
+            "count": 422,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 200,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 141,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 119,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 117,
+            "name": "当代",
+            "title": "当代"
+        },
+        {
+            "count": 91,
+            "name": "当代文学",
+            "title": "当代文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3017712.jpg",
+    "binding": "平装16开",
+    "translator": [],
+    "catalog": "和我们的女儿谈话跋",
+    "pages": "264",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3017712.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3017712.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3017712.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2377002/",
+    "id": "2377002",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020063039",
+    "isbn13": "9787020063031",
+    "title": "和我们的女儿谈话",
+    "url": "https://api.douban.com/v2/book/2377002",
+    "alt_title": "",
+    "author_intro": "王朔，1958年出生，1976年高中毕业。其自谓：“身体发育时适逢三年自然灾害，受教育时赶上文化大革命，所谓全面营养不良。身无一技之长，只粗粗认得三五千字，正是那种志大才疏之辈，理当庸碌一生，做他人脚下之石；也是命不该绝，社会变革，偏安也难，为谋今后立世于一锥之地，故沉潭泛起，舞文弄墨。”",
+    "summary": "《和我们的女儿谈话》是王朔继《致女儿书》之后推出的新作，也是他复出后推出的首部长篇小说。\n一个叫做方言的人自杀死亡了，没有人知道他自杀的原因。若干年后，方言的女儿咪咪方在国外长大成人，结婚生子，但对父亲的自杀始终不能释怀。于是她回国，找到方言生前的挚友老王。已值“风烛残年”的老王，时隔三十多年后终于敞开心扉，向逝去多年的挚友方言的女儿咪咪方说出了她父亲生死的谜底。小说随着老王言不由衷、躲躲闪闪、矢口否认、百般诡辩而渐渐进入到隐秘的深处，由此揭开了一个人痛苦的内心生活和全部人生滋味。两人的谈话变得漫长而艰难。",
+    "price": "26.00元"
+}

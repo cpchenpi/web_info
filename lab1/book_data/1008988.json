@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 117889,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 菲茨杰拉德"
+    ],
+    "pubdate": "2004-06",
+    "tags": [
+        {
+            "count": 13556,
+            "name": "了不起的盖茨比",
+            "title": "了不起的盖茨比"
+        },
+        {
+            "count": 12216,
+            "name": "菲茨杰拉德",
+            "title": "菲茨杰拉德"
+        },
+        {
+            "count": 8849,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 8434,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 8179,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 7164,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 5595,
+            "name": "人性",
+            "title": "人性"
+        },
+        {
+            "count": 5393,
+            "name": "爱情",
+            "title": "爱情"
+        }
+    ],
+    "origin_title": "The Great Gatsby",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1005875.jpg",
+    "binding": "平装",
+    "translator": [
+        "姚乃强"
+    ],
+    "catalog": "",
+    "pages": "192",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1005875.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1005875.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1005875.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1008988/",
+    "id": "1008988",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020046088",
+    "isbn13": "9787020046089",
+    "title": "了不起的盖茨比",
+    "url": "https://api.douban.com/v2/book/1008988",
+    "alt_title": "The Great Gatsby",
+    "author_intro": "《了不起的盖茨比》(名著名译插图本)弗·司各特·菲茨杰拉德（1896-1940），美国二十世纪最杰出的作家之一。《了不起的盖茨比》是他最著名的代表作。二十世纪二十年代的美国，空气里弥漫着欢歌与纵饮的气息。一个偶然的机会，穷职员尼克闯入了挥金如土的大富翁盖茨比隐秘的世界，惊讶地发现，他内心惟一的牵绊竟是对河岸那盏小小的绿灯——灯影婆娑中，住着心爱的黛西。然而，冰冷的现实容不下缥缈的梦，到头来，盖茨比心中的女神只不过是凡尘俗世的物质女郎。当一切真相大白，盖茨比的悲剧人生亦如烟花般，璀璨只是一瞬，幻灭才是永恒。一阕华丽的“爵士时代”的挽歌，在菲茨杰拉德笔下，如诗如梦，在美国当代文学史上留下了墨色浓重的印痕。",
+    "summary": "盖茨比为了久久地抱着的一个梦而付出了很高的代价。他死后，尼克发觉是汤姆暗中挑拨威尔逊去杀死盖茨比。他感到东部鬼影幢幢，世态炎凉，便决定回中西部老家去。这是一个简单的故事，却有着极悲凉的人生况味。",
+    "series": {
+        "id": "1561",
+        "title": "名著名译插图本"
+    },
+    "price": "12.00元"
+}

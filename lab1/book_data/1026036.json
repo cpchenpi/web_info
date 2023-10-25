@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7325,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "北岛"
+    ],
+    "pubdate": "2003-1-1",
+    "tags": [
+        {
+            "count": 2970,
+            "name": "北岛",
+            "title": "北岛"
+        },
+        {
+            "count": 2412,
+            "name": "诗歌",
+            "title": "诗歌"
+        },
+        {
+            "count": 867,
+            "name": "现代诗歌",
+            "title": "现代诗歌"
+        },
+        {
+            "count": 747,
+            "name": "朦胧诗",
+            "title": "朦胧诗"
+        },
+        {
+            "count": 670,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 621,
+            "name": "北岛诗歌集",
+            "title": "北岛诗歌集"
+        },
+        {
+            "count": 586,
+            "name": "诗",
+            "title": "诗"
+        },
+        {
+            "count": 449,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1909326.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1 日子\n2 太阳城札记\n3 回答\n4 走吧\n5 一切\n6 回忆\n7 一束\n8 岸\n9 雨夜\n10 船票\n11 无题（把手伸给我……）\n12 红帆船\n13 习惯\n14 宣告――献给遇罗克\n15 结局湖开始――献给遇罗克\n16 港口的梦\n17 迷途\n18 和弦\n19 界限\n20 明天，不\n……",
+    "pages": "248",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1909326.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1909326.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1909326.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1026036/",
+    "id": "1026036",
+    "publisher": "南海出版公司",
+    "isbn10": "7544222942",
+    "isbn13": "9787544222945",
+    "title": "北岛诗歌集",
+    "url": "https://api.douban.com/v2/book/1026036",
+    "alt_title": "",
+    "author_intro": "北岛，原名赵振开，1949年生于北京\n曾当过建筑工人、编辑\n在欧美多国担任教职及驻校作家，现居美国获瑞典笔会文学奖、美国西部笔会中心自由写作奖\n获古根海姆奖学金\n被选为美国艺术文学院终身荣誉院士\n出版的作品有：\n《陌生的海滩》（1978）\n《波动》及英译本（小说1984）\n《北岛诗选》（1986）\n《归来的陌生人》（小说1987）\n《在天涯》（1993）\n《午夜歌手》（1995）\n《零度以上的风景线》（1996）\n《开锁》（1999）\n《蓝房子》（散文 1999）\n作品被译成二十多种文字出版\n",
+    "summary": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。动荡不安的世界里，诗人的喊声永远是最响亮的，他们的眼睛如锐利的手术刀剥去了世俗的外衣，直入世间万物的本质。",
+    "price": "20.00"
+}

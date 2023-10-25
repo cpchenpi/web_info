@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5509,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "叶鸟螺子"
+    ],
+    "pubdate": "",
+    "tags": [
+        {
+            "count": 780,
+            "name": "樱兰高校男公关部",
+            "title": "樱兰高校男公关部"
+        },
+        {
+            "count": 707,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 344,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 221,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 215,
+            "name": "爆笑",
+            "title": "爆笑"
+        },
+        {
+            "count": 137,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 135,
+            "name": "动漫",
+            "title": "动漫"
+        },
+        {
+            "count": 126,
+            "name": "樱兰",
+            "title": "樱兰"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2360254.jpg",
+    "binding": "",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2360254.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2360254.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2360254.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1814127/",
+    "id": "1814127",
+    "publisher": "天下出版有限公司",
+    "isbn10": "981260863X",
+    "isbn13": "9789812608635",
+    "title": "樱兰高校男公关部 vol.02",
+    "url": "https://api.douban.com/v2/book/1814127",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "",
+    "series": {
+        "id": "6834",
+        "title": "櫻蘭高校男公關部"
+    },
+    "price": ""
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 14744,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[加] 亦舒"
+    ],
+    "pubdate": "2002-10",
+    "tags": [
+        {
+            "count": 4466,
+            "name": "亦舒",
+            "title": "亦舒"
+        },
+        {
+            "count": 1389,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1163,
+            "name": "圆舞",
+            "title": "圆舞"
+        },
+        {
+            "count": 882,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 698,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 573,
+            "name": "言情",
+            "title": "言情"
+        },
+        {
+            "count": 379,
+            "name": "情感",
+            "title": "情感"
+        },
+        {
+            "count": 378,
+            "name": "师太",
+            "title": "师太"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1488134.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "269",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1488134.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1488134.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1488134.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1470158/",
+    "id": "1470158",
+    "publisher": "南海出版公司",
+    "isbn10": "7544222497",
+    "isbn13": "9787544222495",
+    "title": "圆舞",
+    "url": "https://api.douban.com/v2/book/1470158",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "周承钰被父母抛弃后，傅于琛收其为义女，但两人间的感情却是微妙万千。傅一方面对承钰万分关注，一方面不停地结交女友，甚至两次结婚。承钰则牢记傅教给她的圆舞规则，甘心等待，并在继承了继父的遗产之后，摆脱了傅为其安排的生活方式，试图以平等的地位争取爱情的结果。然而，傅仍认为承钰尚未长大而继续回避她。承钰凭着天生丽质，成为国际名模并与经纪人袁祖康结婚。离婚后，袁因藏毒入狱而自杀身亡，等到傅终于决定回到承钰身边的时候，承钰却……",
+    "series": {
+        "id": "5511",
+        "title": "亦舒精选"
+    },
+    "price": "17.00元"
+}

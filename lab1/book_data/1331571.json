@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9094,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "BENJAMIN"
+    ],
+    "pubdate": "2005-6",
+    "tags": [
+        {
+            "count": 2072,
+            "name": "BENJAMIN",
+            "title": "BENJAMIN"
+        },
+        {
+            "count": 1029,
+            "name": "地下室",
+            "title": "地下室"
+        },
+        {
+            "count": 849,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 653,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 573,
+            "name": "摇滚",
+            "title": "摇滚"
+        },
+        {
+            "count": 388,
+            "name": "梦想",
+            "title": "梦想"
+        },
+        {
+            "count": 376,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 222,
+            "name": "BENJIAMIN",
+            "title": "BENJIAMIN"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1366877.jpg",
+    "binding": "平装16开",
+    "translator": [],
+    "catalog": "序一[郭敬明]\n序二[落落]\n一章\n二章\n三章\n四章\n五章\n六章\n七章\n八章\n九章\n十章\n十一章\n十二章\n十三章\n十四章\n十五章\n后记",
+    "pages": "179",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1366877.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1366877.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1366877.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1331571/",
+    "id": "1331571",
+    "publisher": "春风文艺出版社",
+    "isbn10": "7531329247",
+    "isbn13": "9787531329244",
+    "title": "地下室",
+    "url": "https://api.douban.com/v2/book/1331571",
+    "alt_title": "",
+    "author_intro": "BENJAMIN，艺术混子。画家，写小文的。作品是两本画集：《ONE DAY》和《记得》。传统意义上画漫画的，也拿过几个画画的奖，像别人一样。所以也是个艺术家，三流或者二流。只是很迷茫，自己之前的全部人生是否有价值？我的决定是否正确？人生真的没意思么？快乐是什么？理想是什么？我是成熟者里面最优秀的，最锐利的，却是未成熟者里面最可笑的，最笨拙的。 为了那一段不能回头的青春，为了我的遗憾，我生于世，要不停地画不停地写，这就是与大家不尽相同的任务，我要完成它，然后心安理得地死亡。一个个黑夜，从天亮画到天黑，从天黑写到天亮。痛苦无比，聚精会神。一束黄色灯光里独自听着爱听的歌，黑暗里戴着耳机对着电视画和写，那就是我最幸福的时刻。害怕天亮，害怕沸腾的人间。我想，要是永远都是黑夜就好了，我要一个无穷无尽的黑夜，可以不间断地写和画。 这是我的画，这是我的文，这是我的第一本小说，献给你，献给我自己。",
+    "summary": "一群以音乐的名义聚集在北京的年轻人，以地下室为居留地，演绎了一幕幕戏剧。线索人物是小航，他为了追寻摇滚精神，从家乡到北京，参加亚飞的乐队，见证了乐队生存的艰难，并目睹了乐队的解体。小航在音乐理想碰壁之后，远赴新疆，被抢劫后以卖唱为生。在那里他见到初恋女友漫漫，惊讶于漫漫的变化，一气之下，离开她回到家乡。觉得无聊，期间看到了鬼子六的巨大变化，受到刺激，再回到北京，先是做白领，在纪念老泡的天堂酒吧里看到仍然坚持音乐理想的亚飞，受到感召，辞了工作，别了爱他的女孩，重新回到地下室……",
+    "price": "22.00元"
+}

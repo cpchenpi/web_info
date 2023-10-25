@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7177,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "新经典文库",
+    "author": [
+        "张小娴"
+    ],
+    "pubdate": "2002-2",
+    "tags": [
+        {
+            "count": 2171,
+            "name": "张小娴",
+            "title": "张小娴"
+        },
+        {
+            "count": 630,
+            "name": "面包树出走了",
+            "title": "面包树出走了"
+        },
+        {
+            "count": 608,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 504,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 298,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 215,
+            "name": "言情",
+            "title": "言情"
+        },
+        {
+            "count": 112,
+            "name": "面包树",
+            "title": "面包树"
+        },
+        {
+            "count": 111,
+            "name": "爱情小说",
+            "title": "爱情小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1081577.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "一、面包树出走了\n二、流浪的面包树",
+    "pages": "191",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1081577.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1081577.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1081577.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1082173/",
+    "id": "1082173",
+    "publisher": "南海出版公司",
+    "isbn10": "7544220540",
+    "isbn13": "9787544220545",
+    "title": "面包树出走了",
+    "url": "https://api.douban.com/v2/book/1082173",
+    "alt_title": "",
+    "author_intro": "张小娴，香港女作家。1995年推出第一部长篇小说《面包树上的女人》而走红文坛，继亦舒之后，成为香港最受欢迎的言情小说家。她的作品善于描写都市的男欢女爱，深受年轻读者的欢迎，往往新作一出版就会登上畅销榜。",
+    "summary": "在《面包树上的女人》的故事最后，林方文和程韵又在一起了，可是他们是否能继续过着幸福快乐的日子呢？他们太年轻了，这么年轻就开端的爱情，终要面对许多考验和挫败的，距离长相厮守还太遥远。葛米儿和韩星宇介入了他们之间，他们的爱情经得起考验吗？他们真的注定无法长相厮守吗？爱情到底是吞噬还是回吐？有时候，我想把你吞下肚，永不分离；有时候，我却想把你吐出来，还你自由，也还我自由。",
+    "series": {
+        "id": "46105",
+        "title": "张小娴作品集"
+    },
+    "price": "14.00元"
+}
