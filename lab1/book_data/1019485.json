@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4276,
+        "average": "6.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "陈鲁豫"
+    ],
+    "pubdate": "2003-7-1",
+    "tags": [
+        {
+            "count": 975,
+            "name": "陈鲁豫",
+            "title": "陈鲁豫"
+        },
+        {
+            "count": 817,
+            "name": "传记",
+            "title": "传记"
+        },
+        {
+            "count": 380,
+            "name": "自传",
+            "title": "自传"
+        },
+        {
+            "count": 338,
+            "name": "心相约",
+            "title": "心相约"
+        },
+        {
+            "count": 213,
+            "name": "人物传记",
+            "title": "人物传记"
+        },
+        {
+            "count": 170,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 146,
+            "name": "人物",
+            "title": "人物"
+        },
+        {
+            "count": 135,
+            "name": "鲁豫",
+            "title": "鲁豫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1694006.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "序\n1 因英语而改变\n2 我的大学\n3 毕业进行曲\n4 记者“生涯”\n5 早班车\n6 “遭遇”以色列\n7 情陷伊拉克\n8 决战莫斯科\n9 9・11前传\n10 战争“十日谈”\n11 同事\n12 传奇女人\n13 风雨人生\n14 与观众间的趣事\n15 咖啡情缘\n16 我爱三毛\n17 瘦并快乐着\n18 服装\n19 我爱“菲佣”\n20 我爱厨房\n21 结婚记",
+    "pages": "311",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1694006.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1694006.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1694006.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1019485/",
+    "id": "1019485",
+    "publisher": "长江文艺出版社",
+    "isbn10": "753542547X",
+    "isbn13": "9787535425478",
+    "title": "心相约",
+    "url": "https://api.douban.com/v2/book/1019485",
+    "alt_title": "",
+    "author_intro": "陈鲁豫，北京广播学院外语系国际新闻专业毕业。曾在中央电视台《艺苑风景线》做主持人。后加盟凤凰卫视，先后主持《音乐无限》、《一点两岸三地谈》、《凤凰早班车》．《鲁豫有约》等栏目。曾直播大型活动香港回归、澳门回归、戴安娜王妃葬礼、2000年美国总统大选、9・11事件、7・13北京申奥、美英攻打伊拉克等。获2000年中国电视榜年度最佳主持人。",
+    "summary": "陈鲁豫的这部新书记述了她生命历程中有趣的事情。从学生时代凭借骄人的英语能力获得“北京市奥林匹克英语大赛”冠军、主持中央电视台《艺苑风景线》、加盟凤凰台后直播澳门、香港回归，直到“千禧之旅”、“9·11”事件等等。而凤凰的同仁，执著坚韧的闾丘露薇、幽默无羁的窦文涛等在她的笔下也呈现出生动、鲜活的一面。余秋雨为该书作序。",
+    "price": "18.00"
+}

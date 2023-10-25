@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 57343,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 梭罗"
+    ],
+    "pubdate": "2006-8",
+    "tags": [
+        {
+            "count": 10760,
+            "name": "瓦尔登湖",
+            "title": "瓦尔登湖"
+        },
+        {
+            "count": 10493,
+            "name": "梭罗",
+            "title": "梭罗"
+        },
+        {
+            "count": 6833,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 6494,
+            "name": "纯净",
+            "title": "纯净"
+        },
+        {
+            "count": 5994,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 4906,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 4040,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 3610,
+            "name": "美国",
+            "title": "美国"
+        }
+    ],
+    "origin_title": "walden",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1999119.jpg",
+    "binding": "平装",
+    "translator": [
+        "徐迟"
+    ],
+    "catalog": "经济篇\n补充诗篇\n我生活的地方；我为何生活\n阅读\n声\n寂寞\n访客\n种豆\n村子\n湖\n倍克田庄\n更高的规律\n禽兽为邻\n室内的的取暖\n旧居民；冬天的访客\n冬天的禽兽\n冬天的湖\n春天\n结束语",
+    "pages": "292",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1999119.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1999119.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1999119.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1865089/",
+    "id": "1865089",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532739570",
+    "isbn13": "9787532739578",
+    "title": "瓦尔登湖",
+    "url": "https://api.douban.com/v2/book/1865089",
+    "alt_title": "walden",
+    "author_intro": "亨利·戴维·梭罗（1817-1862），美国超验主义作家。他于1845年春天，在老家康科德城的瓦尔登湖边建起一座木屋，过起自耕自食的生活，并在那里写下了著名的《瓦尔登湖》一书。",
+    "summary": "这本书的思想是崇尚简朴生活，热爱大自然的风光，内容丰厚，意义深远，语言生动，意境深邃，就像是个智慧的老人，闪现哲理灵光，又有高山流水那样的境界。\n书中记录了作者隐居瓦尔登湖畔，与大自然水乳交融、在田园生活中感知自然重塑自我的奇异历程。读本书，能引领人进入一个澄明、恬美、素雅的世界。",
+    "series": {
+        "id": "1018",
+        "title": "译文名著文库"
+    },
+    "price": "11.00元"
+}

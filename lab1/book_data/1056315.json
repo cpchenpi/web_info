@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 20764,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "近距离看美国之二",
+    "author": [
+        "林达"
+    ],
+    "pubdate": "2004-08",
+    "tags": [
+        {
+            "count": 6261,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 6047,
+            "name": "林达",
+            "title": "林达"
+        },
+        {
+            "count": 4657,
+            "name": "政治",
+            "title": "政治"
+        },
+        {
+            "count": 3127,
+            "name": "民主",
+            "title": "民主"
+        },
+        {
+            "count": 2381,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 2144,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 2025,
+            "name": "社会",
+            "title": "社会"
+        },
+        {
+            "count": 1651,
+            "name": "随笔",
+            "title": "随笔"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2170316.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "美国总统是什么\n“美国娜拉”的出走\n一个收银机的故事\n一个荒谬的夜晚\n从欲有所为到为所欲为\n马歇尔大法官的远见\n法官西里卡\n国会网住了总统\n谁给罚出了局\n“婴儿潮”的总统来了\n总统先生的麻烦\n传被告总统先生出庭？\n跟着民意走\n扑朔迷离的民意\n大选，阳光下的一滴水\n辛普森案续集\n",
+    "pages": "428",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2170316.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2170316.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2170316.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1056315/",
+    "id": "1056315",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108011360",
+    "isbn13": "9787108011367",
+    "title": "总统是靠不住的",
+    "url": "https://api.douban.com/v2/book/1056315",
+    "alt_title": "",
+    "author_intro": "林达为两名作者合用的笔名。他们都于1952年出生在上海，1978年进入大学。现居美国。作品有“近距离看美国”系列：《历史深处的忧虑》、《总统是靠不住的》、《我也有一个梦想》，以及《带一本书去巴黎》。译著有《汉娜的手提箱》、《克拉拉的战争》、《盖比橱柜的秘密》等。",
+    "summary": "本书是《历史深处的忧虑――近距离看美国》的姊妹篇，作者继续以信件的形式，从“美国总统是什么？”这样一个问题开始，用一连串的故事，层层铺排出美国政治法律制度的基本原理和操作细节，使读者更深刻地了解美国是如何在自身的制度系统中，通过“平衡和制约”去实施对权力的监督和限制。",
+    "series": {
+        "id": "14531",
+        "title": "林达作品系列"
+    },
+    "price": "21.80"
+}

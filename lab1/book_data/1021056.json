@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 40691,
+        "average": "7.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 斯宾塞·约翰逊"
+    ],
+    "pubdate": "2001-9",
+    "tags": [
+        {
+            "count": 5729,
+            "name": "励志",
+            "title": "励志"
+        },
+        {
+            "count": 4818,
+            "name": "谁动了我的奶酪",
+            "title": "谁动了我的奶酪"
+        },
+        {
+            "count": 3124,
+            "name": "管理",
+            "title": "管理"
+        },
+        {
+            "count": 2996,
+            "name": "寓言",
+            "title": "寓言"
+        },
+        {
+            "count": 2909,
+            "name": "哲理",
+            "title": "哲理"
+        },
+        {
+            "count": 1848,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 1637,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1453,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "Who Moved My Cheese?",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1035374.jpg",
+    "binding": "精装",
+    "translator": [
+        "吴立俊"
+    ],
+    "catalog": "代序：变化与困惑\n我们多面的人性\n故事背后的故事\n芝加哥的同学聚会\n“谁动了我的奶酪”的故事\n讨论\n作者简介\n",
+    "pages": "91",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1035374.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1035374.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1035374.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1021056/",
+    "id": "1021056",
+    "publisher": "中信出版社",
+    "isbn10": "7800733661",
+    "isbn13": "9787800733666",
+    "title": "谁动了我的奶酪？",
+    "url": "https://api.douban.com/v2/book/1021056",
+    "alt_title": "Who Moved My Cheese?",
+    "author_intro": "斯宾塞·约翰逊（Spencer Johnson），医学博士，他是全球知名的思想先锋、演说家和畅销书作家。他的许多观点，使成千上万的人发现了生活中的简单真理，使人们的生活更加健康、更成功、更轻松。",
+    "summary": "《谁动了我的奶酪？》是个简单的寓言故事，内容充满了人生中有关变化寓意深长的真理。这是个有趣且能启蒙智慧的故事，内容是在描绘四个住在“迷宫”里的人物，他们竭尽所能地在寻找能滋养他们身心、使他们快乐的“奶酪”的过程。\n这四个小人物中，有两只是名叫“嗅嗅”和“匆匆”的老鼠；其他两位则是身体大小和老鼠差不多的小人，名叫“唧唧”和“哼哼”，而且这两个小人的外型与行为和现今的人类差不多。\n这里所谓的“奶酪”是一种比喻，它可以被当成我们生命中最想得到的东西。它可能是一份工作、人际关系、金钱、财产、健康、心灵的宁静。\n书中所谓的“迷宫”，代表的是一个你花费时间与精力追寻你所欲求的东西的地方，它可以是你所服务的机构或你所居住的社区。\n在故事里，这些人物面临突如其来的变化。最后，他们之中有一个成功地对这些变化做出适当的应变，并在迷宫的墙上写下他改变自己的心路历程及从中所得到的经验。\n当你看到那些墙上的标语时，你就能自己找出处理变化的方法，了解了这些方法，你就不会感到太多压力，并且能够在生活中或工作中得到更多的成就感（不管你怎么定义这些成就感和压力）。",
+    "price": "16.80元"
+}

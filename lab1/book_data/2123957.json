@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8611,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "朱德庸"
+    ],
+    "pubdate": "2007-5",
+    "tags": [
+        {
+            "count": 2015,
+            "name": "朱德庸",
+            "title": "朱德庸"
+        },
+        {
+            "count": 1632,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 979,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 824,
+            "name": "绝对小孩",
+            "title": "绝对小孩"
+        },
+        {
+            "count": 475,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 450,
+            "name": "幽默",
+            "title": "幽默"
+        },
+        {
+            "count": 343,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 207,
+            "name": "小孩",
+            "title": "小孩"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2558491.jpg",
+    "binding": "平装24开",
+    "translator": [],
+    "catalog": "这六个小孩绝对很麻烦！让我们每天再做一次小孩朱德庸这个人目录第1章  自己玩一玩第2章  自己想一想十二小精灵乱七八糟定律第3章  自己在家了第4章  自己在学校第5章  自己在世界你自己心里是不是还住着一个小孩？",
+    "pages": "179",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2558491.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2558491.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2558491.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2123957/",
+    "id": "2123957",
+    "publisher": "上海锦绣文章出版社",
+    "isbn10": "7806857494",
+    "isbn13": "9787806857496",
+    "title": "绝对小孩",
+    "url": "https://api.douban.com/v2/book/2123957",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "这本书以老顽童朱德庸特有的辛辣幽默，描绘出独树一格、令人喷饭的「娃娃看天下」，讽刺成人世界，反思教养问题，以及孩童世界的天真、顽皮与任性。 朱德庸用一贯幽默诙谐的画风和文字描绘出了小孩眼中的世界，以及小孩世界和大人世界的拉拉扯扯，展现了六个古灵精怪、各具特性、出人意表的“绝对小孩”的“绝对生活”。看看绝对小孩之间、他们和大人之间、他们与麻烦之间，有着怎样绝对的精彩故事，怎样绝对的经典对白。通过这群“绝对小孩”的单纯和不加掩饰的视角，折射出了作者对成人世界的反思：大人的世界不再好玩！不再纯粹！",
+    "price": "28.00元"
+}

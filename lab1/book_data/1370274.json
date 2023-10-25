@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6013,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "全三集",
+    "author": [
+        "富樫義博",
+        "Yoshhiro Togashi"
+    ],
+    "pubdate": "1995",
+    "tags": [
+        {
+            "count": 1568,
+            "name": "富坚义博",
+            "title": "富坚义博"
+        },
+        {
+            "count": 1322,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 482,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 442,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 329,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 238,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 217,
+            "name": "富樫義博",
+            "title": "富樫義博"
+        },
+        {
+            "count": 107,
+            "name": "E",
+            "title": "E"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1389662.jpg",
+    "binding": "",
+    "translator": [
+        "蘇錦明"
+    ],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1389662.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1389662.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1389662.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1370274/",
+    "id": "1370274",
+    "publisher": "集英社授權天下出版",
+    "isbn10": "9625858695",
+    "isbn13": "9789625858692",
+    "title": "Level E",
+    "url": "https://api.douban.com/v2/book/1370274",
+    "alt_title": "灵异E接触",
+    "author_intro": "",
+    "summary": "充滿意外和幽默感的外星人王子",
+    "price": ""
+}

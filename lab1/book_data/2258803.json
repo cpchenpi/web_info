@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8699,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 高木直子"
+    ],
+    "pubdate": "2007-9-26",
+    "tags": [
+        {
+            "count": 2981,
+            "name": "高木直子",
+            "title": "高木直子"
+        },
+        {
+            "count": 2390,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1048,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 1039,
+            "name": "一个人旅行",
+            "title": "一个人旅行"
+        },
+        {
+            "count": 659,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 548,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 405,
+            "name": "一個人去旅行",
+            "title": "一個人去旅行"
+        },
+        {
+            "count": 328,
+            "name": "生活",
+            "title": "生活"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2740797.jpg",
+    "binding": "平装",
+    "translator": [
+        "陳怡君"
+    ],
+    "catalog": "",
+    "pages": "144",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2740797.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2740797.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2740797.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2258803/",
+    "id": "2258803",
+    "publisher": "大田出版有限公司",
+    "isbn10": "9861790721",
+    "isbn13": "9789861790725",
+    "title": "一個人去旅行",
+    "url": "https://api.douban.com/v2/book/2258803",
+    "alt_title": "",
+    "author_intro": "高木直子\n1974年出生於日本三重縣。插畫家。\n大田出版高木直子全作品《150cm Life 1~3》、《一個人住第5年》、《一個人上東京》、《一個人泡澡》、《一個人的第一次》、《一個人去旅行》。高木直子專屬網站 http://hokusoem.com/",
+    "summary": "日光的煎餃達人，做出全宇宙最好吃的煎餃，超感激→美味指數五顆星\n鎌倉的歐巴桑，泡完溫泉的下雨天謝謝你們的傘→感動指數五顆星\n搭上日本最長的夜行巴士，司機先生辛苦了→緊張指數五顆星\n嘗試京都舞妓大變身，生平首次的無敵熟女氣質→新鮮指數五顆星\n多虧帥教練讓我拿到C級潛水執照，沖繩啤酒！乾杯……\n一個人去旅行，好玩嗎？一個人去旅行，能學到什麼呢？\n幹嘛想那麼多，愛去哪兒就去哪吧。\n不折不扣，用一年的時間，完成菜鳥單人旅行的我，\n藉著單獨旅行認識自己，試試看，一個人去旅行！\n這本書五味心情五顆星為你加油，Go！出發囉！",
+    "price": "新台币250元"
+}

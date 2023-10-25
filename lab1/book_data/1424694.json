@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8282,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "矢澤愛"
+    ],
+    "pubdate": "2002",
+    "tags": [
+        {
+            "count": 1920,
+            "name": "矢泽爱",
+            "title": "矢泽爱"
+        },
+        {
+            "count": 1283,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1047,
+            "name": "天堂之吻",
+            "title": "天堂之吻"
+        },
+        {
+            "count": 517,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 380,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 337,
+            "name": "矢澤愛",
+            "title": "矢澤愛"
+        },
+        {
+            "count": 240,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 210,
+            "name": "少女",
+            "title": "少女"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1436184.jpg",
+    "binding": "",
+    "translator": [
+        "詹慧娟"
+    ],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1436184.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1436184.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1436184.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1424694/",
+    "id": "1424694",
+    "publisher": "玉皇朝出版集團",
+    "isbn10": "9629972204",
+    "isbn13": "9789629972202",
+    "title": "天堂之吻 (Vol. 1)",
+    "url": "https://api.douban.com/v2/book/1424694",
+    "alt_title": "",
+    "author_intro": "矢泽爱，1967年3月7日生于日本兵库县，现居住于神奈川县。处女作为《那个夏天》（1985年集英社ribon杂志）。",
+    "summary": "",
+    "series": {
+        "id": "10538",
+        "title": "天堂之吻"
+    },
+    "price": "港币38元"
+}

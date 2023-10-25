@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3923,
+        "average": "7.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "hansey 主编"
+    ],
+    "pubdate": "2008-5",
+    "tags": [
+        {
+            "count": 1371,
+            "name": "HANA",
+            "title": "HANA"
+        },
+        {
+            "count": 806,
+            "name": "hansey",
+            "title": "hansey"
+        },
+        {
+            "count": 526,
+            "name": "全年龄私享浪潮",
+            "title": "全年龄私享浪潮"
+        },
+        {
+            "count": 330,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 308,
+            "name": "杂志",
+            "title": "杂志"
+        },
+        {
+            "count": 162,
+            "name": "mimzii",
+            "title": "mimzii"
+        },
+        {
+            "count": 102,
+            "name": "艺术",
+            "title": "艺术"
+        },
+        {
+            "count": 76,
+            "name": "爱丽丝",
+            "title": "爱丽丝"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3108655.jpg",
+    "binding": "平装48开",
+    "translator": [],
+    "catalog": "",
+    "pages": "229",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3108655.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3108655.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3108655.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3088496/",
+    "id": "3088496",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208077533",
+    "isbn13": "9787208077539",
+    "title": "HANA",
+    "url": "https://api.douban.com/v2/book/3088496",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《HANA》是继《爱丽丝》后，MiMZii和世纪文景推出的又一书系：不是文学的，而是生活的，充满乐趣的。\n“无封面”外观——线胶后不沾封面，外加圆角护封——目的是便于读者把书180度摊平。\n全年龄私享浪潮，2008年更精彩的生活从你的分享开始。\n衣食、玩物、去处、影音、阅读、人物、回忆……来自每一个人的真实体验。\n王贻兴、罗中旭、张超、吴建飞、李易峰、李皆乐；榛生、沈星妤、于是、夏无桀、程功、11、BIR、小隐于林……各行业人士倾情加盟，分享你可能还不知道的乐趣……",
+    "series": {
+        "id": "573",
+        "title": "HANA"
+    },
+    "price": "15.00"
+}

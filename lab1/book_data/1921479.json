@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6871,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "贫穷贵公子",
+    "author": [
+        "[日] 森永あい",
+        "森永爱"
+    ],
+    "pubdate": "2001",
+    "tags": [
+        {
+            "count": 1144,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 990,
+            "name": "森永爱",
+            "title": "森永爱"
+        },
+        {
+            "count": 636,
+            "name": "贫穷贵公子",
+            "title": "贫穷贵公子"
+        },
+        {
+            "count": 474,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 394,
+            "name": "搞笑",
+            "title": "搞笑"
+        },
+        {
+            "count": 342,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 231,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 83,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "山田太郎ものがたり",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s28377586.jpg",
+    "binding": "",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s28377586.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s28377586.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s28377586.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1921479/",
+    "id": "1921479",
+    "publisher": "东立出版社",
+    "isbn10": "7204075382",
+    "isbn13": "9787204075386",
+    "title": "貧窮貴公子",
+    "url": "https://api.douban.com/v2/book/1921479",
+    "alt_title": "山田太郎ものがたり",
+    "author_intro": "森永爱（????-04-28-），日本漫画家。大学时代开始创作《灌篮高手》的同人志。1993年在增刊《COMIC_DX》上发表《第十一年的女神》，出道后发表的作品中，以1996年开始在月刊《ASUKA》上连载的《贫穷贵公子》最为有名。作品选择了少女漫画中罕见的“贫穷”为主题无论故事情节还是绘画都极尽夸张搞笑之能事，同时人物又不失美形，受到读者的热烈欢迎。《贫穷贵公子》完结后，于2001年在《ASUKA》3月号上连载的《丑小鸭王子》，同样是一部夸张暴笑的作品。目前正在《动漫前线》上连载的《闪亮亮之星》同意是一部夸张有趣的作品。",
+    "summary": "有一位两年前只留下一句「我出去一下」就失踪的父亲；一位无论把钱藏在哪都一定会被找出来而且会被花在最无用的地方的母亲；再加上六位在上小学的弟妹……\n身为名门「一宫高校」的特优生兼校园偶像的山田太郎，住在外观像仓库的房子过着一个月伙食费三万日币的日子。然而！如此贫困的生活却依然难以磨灭他那天生高贵的气质，并因此引发了一连串的故事……",
+    "price": ""
+}

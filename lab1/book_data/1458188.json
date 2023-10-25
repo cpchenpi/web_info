@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3659,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "日本小學館正式授權臺灣中文版",
+    "author": [
+        "高橋留美子"
+    ],
+    "pubdate": "2004 年 06 月 24 日",
+    "tags": [
+        {
+            "count": 765,
+            "name": "高桥留美子",
+            "title": "高桥留美子"
+        },
+        {
+            "count": 637,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 317,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 229,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 227,
+            "name": "人鱼之森",
+            "title": "人鱼之森"
+        },
+        {
+            "count": 148,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 92,
+            "name": "高橋留美子",
+            "title": "高橋留美子"
+        },
+        {
+            "count": 52,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s29970062.jpg",
+    "binding": "平裝 /  32K",
+    "translator": [
+        "湧太"
+    ],
+    "catalog": "",
+    "pages": "264",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s29970062.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s29970062.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s29970062.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1458188/",
+    "id": "1458188",
+    "publisher": "尖端",
+    "isbn10": "0614369703",
+    "isbn13": "9780614369700",
+    "title": "人魚之森",
+    "url": "https://api.douban.com/v2/book/1458188",
+    "alt_title": "人鱼之森",
+    "author_intro": "",
+    "summary": "人魚系列之一。\n目錄：\n人魚不再笑\n斗魚之里\n人魚之森",
+    "series": {
+        "id": "25500",
+        "title": "人鱼系列"
+    },
+    "price": "NT120元"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6350,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "伦敦市集16位艺术家/设计师访谈录",
+    "author": [
+        "王怡颖"
+    ],
+    "pubdate": "2005-7",
+    "tags": [
+        {
+            "count": 2450,
+            "name": "创意市集",
+            "title": "创意市集"
+        },
+        {
+            "count": 2072,
+            "name": "设计",
+            "title": "设计"
+        },
+        {
+            "count": 1435,
+            "name": "创意",
+            "title": "创意"
+        },
+        {
+            "count": 951,
+            "name": "艺术",
+            "title": "艺术"
+        },
+        {
+            "count": 810,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 573,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 468,
+            "name": "design",
+            "title": "design"
+        },
+        {
+            "count": 353,
+            "name": "访谈",
+            "title": "访谈"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2058053.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "159",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2058053.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2058053.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2058053.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1396339/",
+    "id": "1396339",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "710802280X",
+    "isbn13": "9787108022806",
+    "title": "创意市集",
+    "url": "https://api.douban.com/v2/book/1396339",
+    "alt_title": "",
+    "author_intro": "王怡颖，中央圣马丁艺术学院视觉传播系硕士，noodoll品牌设计师，freelance graphic designer，目前居住于伦敦。",
+    "summary": "作者周游英国，寻访16位艺术家与设计师，看人，寻找灵感，感受气氛……《创意市集》中16位艺术家将向读者展示他们别样的创意生活，与众不同的设计方式，这里总有让您目瞪口呆的创意，这里也总能启迪您的智慧！希望您翻开本书时，即使只看图片，也能感受到它给您带来的灵感！\n伦敦的市集五花八门，创意无限。充分反映出这里自由平等的艺术风气。就连70岁的老公公把自己家中不能用的旧插头拿出来卖，也可以反映出某种程度的刨创意和自由。市集不但是当地人休闲生活的一部分，也是许多才华横溢的设计师或艺术家事业的起点。在市集蛰居多年而终于获得肯定，闯出一片天空的例子层出不穷：有人因两拥有自己的店，或是产品上百货专柜，有人因此而声名大噪，工作接不完……",
+    "series": {
+        "id": "14239",
+        "title": "创意市集"
+    },
+    "price": "25.00元"
+}

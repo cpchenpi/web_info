@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11975,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "郑渊洁童话丛书",
+    "author": [
+        "郑渊洁"
+    ],
+    "pubdate": "1996-10-1",
+    "tags": [
+        {
+            "count": 2229,
+            "name": "郑渊洁",
+            "title": "郑渊洁"
+        },
+        {
+            "count": 1940,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 802,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 756,
+            "name": "舒克",
+            "title": "舒克"
+        },
+        {
+            "count": 718,
+            "name": "贝塔",
+            "title": "贝塔"
+        },
+        {
+            "count": 535,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 416,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 376,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1147114.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1、第1集\n2、第2集\n3、第3集\n4、第4集\n5、第5集\n6、第6集\n7、第7集\n8、第8集\n9、第9集\n10、第10集\n11、第11集\n12、第12集\n13、第13集\n14、第14集\n15、第15集\n16、第16集\n17、第17集\n18、第18集\n19、第19集\n20、第20集",
+    "pages": "442",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1147114.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1147114.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1147114.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1028270/",
+    "id": "1028270",
+    "publisher": "学苑出版社",
+    "isbn10": "750771196X",
+    "isbn13": "9787507711967",
+    "title": "舒克和贝塔历险记",
+    "url": "https://api.douban.com/v2/book/1028270",
+    "alt_title": "",
+    "author_intro": "郑渊洁，1955年6月15日出生天河北石家庄，原籍山西临汾，现定居北京。1977年开始文学创作。主要作品：《郑渊洁童话全集》（30卷）和《郑渊洁与皮皮鲁对话录》。1985年创刊至今的《童话大王》杂志是专门刊登他的作品的月刊。作品中的人物皮皮鲁、鲁西西、罗克、舒克和贝塔已成为注册商标。1993年当选首届北京十大杰出青年。",
+    "summary": "舒克是一个飞行员，他热心帮助朋友，贝塔是一名坦克兵，他和舒克是朋友，他们在一起不断地帮助朋友解决困难，他们因此也不断的身临险境，在他们的聪明机智和朋友们的帮助下，他们每次都能化险为夷，他们认识了人类朋友��皮皮鲁，于是，和皮皮鲁的故事又开始了，最后，小老鼠舒克和贝塔能不能找到自己的归处和幸福呢，请看《舒克和贝塔历险记》。",
+    "series": {
+        "id": "10580",
+        "title": "郑渊洁童话"
+    },
+    "price": "15.00"
+}

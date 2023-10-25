@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11484,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "迈向优质便便的幸福生活",
+    "author": [
+        "[日] 寄藤文平",
+        "[日] 藤田纮一郎"
+    ],
+    "pubdate": "2008-10",
+    "tags": [
+        {
+            "count": 2250,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2143,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 1958,
+            "name": "健康",
+            "title": "健康"
+        },
+        {
+            "count": 1776,
+            "name": "大便书",
+            "title": "大便书"
+        },
+        {
+            "count": 1230,
+            "name": "科普",
+            "title": "科普"
+        },
+        {
+            "count": 805,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 616,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 287,
+            "name": "杂七杂八",
+            "title": "杂七杂八"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3330898.jpg",
+    "binding": "精装",
+    "translator": [
+        "吴锵煌"
+    ],
+    "catalog": "",
+    "pages": "190",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3330898.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3330898.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3330898.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3181927/",
+    "id": "3181927",
+    "publisher": "北方文艺出版社",
+    "isbn10": "7531723107",
+    "isbn13": "9787531723103",
+    "title": "大便书",
+    "url": "https://api.douban.com/v2/book/3181927",
+    "alt_title": "UNCOCORO for NATURAL UNCO LIFE",
+    "author_intro": "寄藤文平，1973年生，插画艺术家、艺术设计总监、广告出版业畅销大师。主要作品有JT《成人香烟养成讲座》，以及同属JT的《重视礼仪》广告等等。2000年12月成立个人工作室“文平银座”，从事书籍装帧等设计工作。\n藤田纮一郎，1939年出生于中国东北，东京医科齿科大学医学部毕业，东京大学医学系研究所工作。其后担任长崎大学教授等职务，1989年担任东京医科齿科大学医学部教授，现为该大学名誉教授。主要研究寄生虫学、热带医学及感染免疫病学。1994年发表著作《微笑蛔虫》（讲谈社），荣获讲谈社出版文化奖科学出版奖。藤田纮一郎为日本寄生虫研究第一把交椅，素有“寄生虫博士”之美称。另有《爱上寄生虫》（讲谈社）、《霍乱降临街头》（朝日新闻社）等多部著作。",
+    "summary": "《大便书》是一本借由绘画了解便便的健康丛书。以插画家寄藤文平的风趣图文，融合“寄生虫博士”藤田纮一郎专业独到的医学见解，在愉悦惊喜的阅读中认识便便的生成环境、反思对便便的定义及误解，重新正视便便在生活中的重要性……无论对人类身体或地球环境，都将有更多不同以往的体会。",
+    "price": "29.00"
+}

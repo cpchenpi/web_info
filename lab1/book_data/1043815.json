@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 203630,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "老舍"
+    ],
+    "pubdate": "2000-3-1",
+    "tags": [
+        {
+            "count": 22935,
+            "name": "老舍",
+            "title": "老舍"
+        },
+        {
+            "count": 13555,
+            "name": "骆驼祥子",
+            "title": "骆驼祥子"
+        },
+        {
+            "count": 13461,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 12191,
+            "name": "社会",
+            "title": "社会"
+        },
+        {
+            "count": 11971,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 9642,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 8788,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 8559,
+            "name": "人生",
+            "title": "人生"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1146040.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "224",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1146040.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1146040.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1146040.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1043815/",
+    "id": "1043815",
+    "publisher": "人民文学出版社",
+    "isbn10": "702002811X",
+    "isbn13": "9787020028115",
+    "title": "骆驼祥子",
+    "url": "https://api.douban.com/v2/book/1043815",
+    "alt_title": "",
+    "author_intro": "老舍（1899―1966），现代著名作家。出身北京贫民家庭，1924年赴英国教书，1930年回国后长期在青岛大学等校任教授。擅长表现北京下层人民的贫苦生活及其悲惨命运。主要作品有《骆驼祥子》、《四世同堂》、《月牙儿》等小说。解放后热情歌颂新社会，创作了《龙须沟》、《茶馆》等二十多个剧本以及大量的小说、散文、荣获“人民艺术家”称号。曾任全国人大代表、中国文联副主席等职。",
+    "summary": "《骆驼祥子》是老舍用同情的笔触描绘的一幕悲剧：二十年代的北京，一个勤劳、壮实的底层社会小人物怀着发家、奋斗的美好梦想，却最终为黑暗的暴风雨所吞噬。它揭示了当时“小人物”的奴隶心理和希望的最终破灭。随着祥子心爱的女人小福子的自杀，祥子熄灭了个人奋斗的最后一朵火花。这是旧中国老北京贫苦市民的典型命运。",
+    "price": "12.00"
+}

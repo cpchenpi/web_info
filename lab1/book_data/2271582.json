@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4038,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 安迪·莱利"
+    ],
+    "pubdate": "2007-9",
+    "tags": [
+        {
+            "count": 902,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 660,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 407,
+            "name": "小白兔自杀手册",
+            "title": "小白兔自杀手册"
+        },
+        {
+            "count": 373,
+            "name": "找死的兔子",
+            "title": "找死的兔子"
+        },
+        {
+            "count": 311,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 310,
+            "name": "黑色幽默",
+            "title": "黑色幽默"
+        },
+        {
+            "count": 225,
+            "name": "安迪·莱利",
+            "title": "安迪·莱利"
+        },
+        {
+            "count": 135,
+            "name": "创意",
+            "title": "创意"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s8969043.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "",
+    "pages": "96",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s8969043.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s8969043.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s8969043.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2271582/",
+    "id": "2271582",
+    "publisher": "南海出版公司",
+    "isbn10": "7544238482",
+    "isbn13": "9787544238489",
+    "title": "又来了，找死的兔子",
+    "url": "https://api.douban.com/v2/book/2271582",
+    "alt_title": "",
+    "author_intro": "安迪·莱利（Andy Riley），电视电影编剧、漫画家，在《观察家杂志》上每周连载漫画，被誉为“英国的盖瑞·拉森”。他曾为Black Book、Trigger Happy TV、So Graham Norton、Smack the Pony撰写剧本。1995年至2001年，他的10多部作品在英国BBC电视台播放，其中与人合作的Robbie the Reindeer获得英国电影电视艺术学院奖（BAFTA）。他还撰写了迪斯尼动画电影《罗密欧与朱丽叶》（Gnomeo and Juliet）的剧本。",
+    "summary": "这本书是图画故事书《找死的兔子》的续集，继续保持黑色幽默。一脸无辜的小白兔千方百计地寻找结束生命的方式，它躺在电熨斗下，然后打开电源开关；它坐在滑板上，跟旅鼠一起冲下悬崖；它坐在食人鱼缸里慢慢等待；它迎大白鲨而上；它把硫酸倒进浇花的喷壶里，自己冒充向日葵；它对着许愿井许愿，希望自己早日归西；它设计了无数个连锁反应装置，目的都是为了结束生命……作者用幽默的自杀情境，高明地反讽自杀行为，展现了“寻死的荒谬”这一主题，使人读过之后更懂得热爱生活，珍惜生命。",
+    "series": {
+        "id": "664",
+        "title": "新经典文库"
+    },
+    "price": "18.00元"
+}

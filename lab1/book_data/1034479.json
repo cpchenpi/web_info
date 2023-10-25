@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13336,
+        "average": "6.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "解嬿嬿",
+        "曾炜",
+        "卢颖"
+    ],
+    "pubdate": "2001-7",
+    "tags": [
+        {
+            "count": 1196,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 1110,
+            "name": "我为歌狂",
+            "title": "我为歌狂"
+        },
+        {
+            "count": 1083,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 830,
+            "name": "曾炜",
+            "title": "曾炜"
+        },
+        {
+            "count": 606,
+            "name": "校园",
+            "title": "校园"
+        },
+        {
+            "count": 382,
+            "name": "青春小说",
+            "title": "青春小说"
+        },
+        {
+            "count": 274,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 211,
+            "name": "80后",
+            "title": "80后"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1775842.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "261",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1775842.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1775842.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1775842.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1034479/",
+    "id": "1034479",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208038589",
+    "isbn13": "9787208038585",
+    "title": "我为歌狂",
+    "url": "https://api.douban.com/v2/book/1034479",
+    "alt_title": "",
+    "author_intro": "解嬿嬿，70年代生于上海，1998年毕业于上海戏剧学院戏剧文学系，现为上海美术电影制片厂编剧。 曾获第二十届中国金鹰奖最佳动画片编剧奖、第一届中国动画协会奖最佳编剧奖。其作品主要有：《一光年的距离有多远》（漫画版）、《心的1/2》、《一光年的距离有多远》、《心的1/2》、《爱上爱情》、《我为歌狂》、《喜欢你》、《星星的记号》、《米奇的甜心屋》。其他作品：26集电视动画系列片《咕噜先生》编剧；52集电视动画长片《我为歌狂》策划、编剧；24集电视剧《后天美女》编剧；话剧《我为歌狂》编剧。",
+    "summary": "《我为歌狂》是一部校园青春偶像小说。反映校园生活及流行音乐、流行乐队、流行歌手的喜怒哀乐；表现青年生活中所欠缺而又内心热切渴望追求的悲欢离合。\n小说中的主人公是南华高中的一群帅哥靓女，故事围绕他们组建男生乐队\"OPEN”和女生乐队\"HAPPY”展开，校园生活、流行音乐、偶像崇拜、少男少女的恋情、学生与老师的冲突……\n小说与同名电视卡通片于2001年8月1日同步亮相。",
+    "price": "15.00元"
+}

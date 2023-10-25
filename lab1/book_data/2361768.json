@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10613,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "海豚绘本花园系列",
+    "author": [
+        "[丹麦]金·弗珀兹·艾克松/文",
+        "[瑞典]爱娃·艾瑞克松/图"
+    ],
+    "pubdate": "2007-12",
+    "tags": [
+        {
+            "count": 3566,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1560,
+            "name": "爷爷变成了幽灵",
+            "title": "爷爷变成了幽灵"
+        },
+        {
+            "count": 1057,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 1014,
+            "name": "丹麦",
+            "title": "丹麦"
+        },
+        {
+            "count": 889,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 755,
+            "name": "感人",
+            "title": "感人"
+        },
+        {
+            "count": 483,
+            "name": "国外绘本",
+            "title": "国外绘本"
+        },
+        {
+            "count": 362,
+            "name": "瑞典",
+            "title": "瑞典"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3446498.jpg",
+    "binding": "平装",
+    "translator": [
+        "彭懿"
+    ],
+    "catalog": "",
+    "pages": "25",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3446498.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3446498.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3446498.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2361768/",
+    "id": "2361768",
+    "publisher": "湖北美术出版社",
+    "isbn10": "7539420898",
+    "isbn13": "9787539420899",
+    "title": "爷爷变成了幽灵",
+    "url": "https://api.douban.com/v2/book/2361768",
+    "alt_title": "",
+    "author_intro": "金‧富兹‧阿肯森 (Kim Fupz Aakenson)，丹麦人，1958年生。除了为报章杂志画插画外，出版超过40本作品，包括漫画、童书、小说和短篇故事，作品屡得大奖，包括1990年丹麦文化部童书奖及1992年北欧最佳青少年小说奖。1996年毕业于电影学院后，近年成为丹麦最重要的电影编剧之一。\n伊娃‧艾瑞克森（Eva Eriksson），瑞典人，1949年生于Halmstad。1979年起致力图文书创作，是瑞典最受喜爱的插画家之一，也是2004年安徒生绘本大奖的瑞典提名人。其作品多半以色铅笔作昼，画风幽默，人物表情相当细腻。国内可见的作品有「和钱宁共度的一天」，「爸爸带我看见宇宙」。",
+    "summary": "《爷爷变成了幽灵》以平淡的语气表达浓浓的祖孙之情。书中朴实、淡彩的图画，不但感受不到死亡的可怕，反而从中找到了渲泻感情的出口。在感动之余，我们能感受到的是更多的对亲情的怀念与感悟。",
+    "series": {
+        "id": "7823",
+        "title": "海豚绘本花园"
+    },
+    "price": "23.00元"
+}

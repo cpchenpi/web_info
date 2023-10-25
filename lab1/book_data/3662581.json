@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4092,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "朱天文"
+    ],
+    "pubdate": "2009-5",
+    "tags": [
+        {
+            "count": 2039,
+            "name": "朱天文",
+            "title": "朱天文"
+        },
+        {
+            "count": 747,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 722,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 471,
+            "name": "台湾文学",
+            "title": "台湾文学"
+        },
+        {
+            "count": 363,
+            "name": "巫言",
+            "title": "巫言"
+        },
+        {
+            "count": 166,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 157,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 135,
+            "name": "当代文学",
+            "title": "当代文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3767647.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "第一章 巫看  巫看 菩萨低眉 世纪初 不结伴的旅行者  不结伴的旅行者第二章 巫时  不结伴的旅行者  巫时 E界 第三章 巫事  巫事  email和V8 萤光妹 巫事第四章 巫途  巫途  不结伴的旅行者  巫途第五章 巫界  二二九 二二九，浣衣日 巫界  巫界  巫界关于《巫言》 唐诺附录",
+    "pages": "385",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3767647.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3767647.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3767647.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3662581/",
+    "id": "3662581",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208083126",
+    "isbn13": "9787208083127",
+    "title": "巫言",
+    "url": "https://api.douban.com/v2/book/3662581",
+    "alt_title": "",
+    "author_intro": "朱天文，小说家，散文家，编剧。祖籍山东，一九五六年生，淡江大学英文系毕业。曾主编《三三集刊》《三三杂志》，并任三三书坊发行人。“写龄”三十六年，著有电影剧本《童年往事》《恋恋风尘》《悲情城市》《戏梦人生》《千禧曼波》《最好的时光》《红气球的旅行》等，散文集《淡江记》《小毕的故事》《花忆前身》等，小说集《乔太守新记》《传说》《最想念的季节》《炎夏之都》《世纪末的华丽》等，长篇小说《荒人手记》。\n曾以《荒人手记》荣获首届时报文学百万小说奖，短篇小说《世纪末的华丽》位列“二十世纪中文小说百强”。关于写作的经典名言是：“写作是奢靡的实践。”",
+    "summary": "《巫言》是作家朱天文耗时七年写就的长篇作品。作者完全摒弃了小说的虚构技巧，用田野调查的方法收集了当下生活中的一个个活生生的标本，用写实的手法，记录了一个时代种种景象（包括物质的，也包括内心的），可以说是“给下一轮太平盛世作了一个女性的、实物的备忘录。”",
+    "series": {
+        "id": "14345",
+        "title": "华语文学系列"
+    },
+    "price": "35.00"
+}

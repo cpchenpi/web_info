@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9466,
+        "average": "7.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "张悦然"
+    ],
+    "pubdate": "2004-07",
+    "tags": [
+        {
+            "count": 2505,
+            "name": "张悦然",
+            "title": "张悦然"
+        },
+        {
+            "count": 973,
+            "name": "红鞋",
+            "title": "红鞋"
+        },
+        {
+            "count": 789,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 402,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 311,
+            "name": "80后",
+            "title": "80后"
+        },
+        {
+            "count": 245,
+            "name": "青春文学",
+            "title": "青春文学"
+        },
+        {
+            "count": 182,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 106,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1161604.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1  红鞋\n2  红鞋的内里或背后",
+    "pages": "125",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1161604.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1161604.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1161604.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1080812/",
+    "id": "1080812",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532734943",
+    "isbn13": "9787532734948",
+    "title": "红鞋",
+    "url": "https://api.douban.com/v2/book/1080812",
+    "alt_title": "",
+    "author_intro": "张悦然，青春玉女作家，“新概念作家”中最杰出的代表人物之一。1982年出生于山东济南，2001年毕业于山东省实验中学，后考入山东大学英语、法律双学位班，现在新加坡国立大学攻读理科。2002年被《萌芽》网站评为“最富才情的女作家”、“最受欢迎的女作家”，2003年八月获得第五届“新加坡最高文学奖”第二名。2003年10月获得《上海文学》“文学新人大大奖赛”二等奖。",
+    "summary": "《红鞋》是一部精致的图文长篇小说，讲述的是一个杀手和一个女孩的故事，其中红鞋作为一个意象和依托贯穿全文始终，而且还有作者亲自设计的以红鞋为主题的诸多美妙妩媚的图片，与文字水乳般交融得恰倒好处。看似背离了自己一贯观照的青少年成长主题，但实际在惊悚的故事背后，张悦然依然在为这样一个群体写作，依然流泻着一种执着的关怀，关乎成长的幸福与残酷，关乎情感的挣扎和抉择，关乎人性的善良与卑劣，关乎灵魂的堕落与救赎，由华美的简短句式编织的故事给人心灵无比的震撼。",
+    "price": "18.00元"
+}

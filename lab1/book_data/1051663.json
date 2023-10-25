@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3661,
+        "average": "7.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "王文华"
+    ],
+    "pubdate": "2002-6",
+    "tags": [
+        {
+            "count": 824,
+            "name": "王文华",
+            "title": "王文华"
+        },
+        {
+            "count": 485,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 382,
+            "name": "61*57",
+            "title": "61*57"
+        },
+        {
+            "count": 347,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 330,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 112,
+            "name": "爱情小说",
+            "title": "爱情小说"
+        },
+        {
+            "count": 86,
+            "name": "暖心的细节",
+            "title": "暖心的细节"
+        },
+        {
+            "count": 67,
+            "name": "青春",
+            "title": "青春"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1168850.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "61 × 57",
+    "pages": "303",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1168850.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1168850.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1168850.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1051663/",
+    "id": "1051663",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208041202",
+    "isbn13": "9787208041202",
+    "title": "61×57",
+    "url": "https://api.douban.com/v2/book/1051663",
+    "alt_title": "",
+    "author_intro": "王文华，台湾畅销书作家。台湾大学外文系毕业，美国斯坦福大学MBA，后在好莱坞研修电影，曾为美国迪斯尼公司台湾分公司企划经理。著有《寂寞芳心俱乐部》、《天使宝贝》、《旧金山下雨了》等多部小说，电影剧本《如何变成美人》、《天使》获得台湾优良电影剧本奖。",
+    "summary": "书中描写4名单身职业都市男女的工作与爱情，他们对爱、性、生活、婚姻有着截然不同的观念和做法，于是在交会时激发出猛烈的火花。他们都有梦想、美德、矛盾和弱点，爱情将这些特质加速并放大，让他们彼此启发，也互相惩罚。他们的爱充满了创意和惊喜，也不乏卑微与恶意。这是最甜蜜的爱情，也是最悲伤的爱情。王文华秉持一贯敏锐的观察力，描写爱情中的期待、不安、甜蜜．绝望，深刻而细腻，配合幽默、聪明的对白，让读者在悲、喜间摇摆，和故事中人一起去追赶爱的节拍。",
+    "price": "19.00元"
+}

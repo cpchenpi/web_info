@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3000,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "命运交叉的城堡 看不见的城市 宇宙奇趣",
+    "author": [
+        "[意大利] 卡尔维诺"
+    ],
+    "pubdate": "2001-9",
+    "tags": [
+        {
+            "count": 1310,
+            "name": "卡尔维诺",
+            "title": "卡尔维诺"
+        },
+        {
+            "count": 510,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 490,
+            "name": "意大利",
+            "title": "意大利"
+        },
+        {
+            "count": 292,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 250,
+            "name": "命运交叉的城堡",
+            "title": "命运交叉的城堡"
+        },
+        {
+            "count": 196,
+            "name": "伊塔洛・卡尔维诺",
+            "title": "伊塔洛・卡尔维诺"
+        },
+        {
+            "count": 187,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 115,
+            "name": "看不见的城市",
+            "title": "看不见的城市"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1673247.jpg",
+    "binding": "精装",
+    "translator": [
+        "张宓"
+    ],
+    "catalog": "\n      ",
+    "pages": "383",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1673247.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1673247.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1673247.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1052360/",
+    "id": "1052360",
+    "publisher": "译林出版社",
+    "isbn10": "7806571663",
+    "isbn13": "9787806571668",
+    "title": "卡尔维诺文集（第四卷）",
+    "url": "https://api.douban.com/v2/book/1052360",
+    "alt_title": "",
+    "author_intro": "伊塔洛·卡尔维诺（1923-1985）是意大利当代最有世界影响的作家。他在四十年的创作实践中，不断探索和创新，力求以最贴切的方法和形式表现当今的社会和现代人的精神，以及他对人生的感悟和信念。他的作品风格多样，每一部都达到极高的水准，表现了时代，更超越了时代。他于1985年猝然逝世，而与当年的诺贝尔文学奖失之交臂，但他在国际文坛上的影响与日俱增，他的创作日益受到人们的关注。",
+    "summary": "《交叉命运的城堡》产生于15世纪的纸牌，卡尔维诺从两套牌中抽牌重组，竟然拼出了叙事文学史上一个又一个巨匠原型：俄迪普斯王、疯狂的奥兰朵、神曲、莎士比亚四大悲剧。卡尔维诺的小说混合了各种各样的奇怪的知识，他把这些知识用自己的智慧又变成了趣味盎然的文本，像短篇小说系列《宇宙奇趣》，实现了科学幻想和现实世界的跨越；中篇小说《看不见的城市》通过对马可·波罗当年的旅行，暗合人体的九个部分，把小说分成九章，把一个旅行者全身的感受和想象都汇聚成一个物质的世界，创造了一个奇特的文本。",
+    "series": {
+        "id": "4629",
+        "title": "译林世界文学名著·现当代系列"
+    },
+    "price": "20.30元"
+}

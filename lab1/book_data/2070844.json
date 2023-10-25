@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 96480,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "2007-6",
+    "tags": [
+        {
+            "count": 16592,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 7263,
+            "name": "梦里花落知多少",
+            "title": "梦里花落知多少"
+        },
+        {
+            "count": 5251,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 4904,
+            "name": "这样一个神奇女子",
+            "title": "这样一个神奇女子"
+        },
+        {
+            "count": 3791,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 3195,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 2862,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 2845,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2393243.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "背影\n荒山之夜\n克里斯\n不死鸟\n明日又天涯\n归\n梦里梦外\n不飞的天使\n似曾相识燕归来\n梦里花落知多少\n一生的战役\n狼来了\n夏日烟愁\n你从哪里来\n如果教室像游乐场\n春天不是读书天\n我先走了\n求婚\n星石\n吉屋出售\n随风而去\nE.T.回家\n重建家园\n编后记",
+    "pages": "312",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2393243.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2393243.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2393243.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2070844/",
+    "id": "2070844",
+    "publisher": "北京十月文艺出版社",
+    "isbn10": "7530208926",
+    "isbn13": "9787530208922",
+    "title": "梦里花落知多少",
+    "url": "https://api.douban.com/v2/book/2070844",
+    "alt_title": "",
+    "author_intro": "三毛，台湾著名作家，1943年3月26日出生于重庆，浙江省定海县人。本名为陈懋平，1946年改名陈平，笔名“三毛”，1964年进入文化大学哲学系，肄业后曾留学欧洲，婚后定居西属撒哈拉沙漠加那利岛，并以当地的生活为背景，写出一连串情感真挚的作品。1981年回到台湾，曾在文化大学任教，1984年辞去教职，专职从事写作和演讲，1991年1月4日去世，享年48岁。",
+    "summary": "《梦里花落知多少》记录了荷西过世后三毛的生活，共23篇。内容均为台湾皇冠出版社81年至88年的初版。\n荷西的死对三毛又是一场劫难，因此由《背影》到这本书，在文学、心情上都与早期大不相同，说情叙事极其内敛，但在曲折的空间之余，读者当能感受到三毛哀而不伤的笔调里，更多的其实是三毛对人生的坚定。",
+    "series": {
+        "id": "438",
+        "title": "三毛集"
+    },
+    "price": "28.00元"
+}

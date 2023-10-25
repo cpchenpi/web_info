@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 12293,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "踏上征途",
+    "author": [
+        "冨樫義博"
+    ],
+    "pubdate": "1998-10",
+    "tags": [
+        {
+            "count": 1776,
+            "name": "富坚义博",
+            "title": "富坚义博"
+        },
+        {
+            "count": 1632,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1015,
+            "name": "猎人",
+            "title": "猎人"
+        },
+        {
+            "count": 685,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 481,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 389,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 376,
+            "name": "少年",
+            "title": "少年"
+        },
+        {
+            "count": 215,
+            "name": "富堅義博",
+            "title": "富堅義博"
+        }
+    ],
+    "origin_title": "HUNTER X HUNTER",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s6564219.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "183",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s6564219.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s6564219.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s6564219.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1424555/",
+    "id": "1424555",
+    "publisher": "文化傳信有限公司",
+    "isbn10": "9626916273",
+    "isbn13": "9789626916278",
+    "title": "HUNTER X HUNTER 1",
+    "url": "https://api.douban.com/v2/book/1424555",
+    "alt_title": "HUNTER X HUNTER",
+    "author_intro": "",
+    "summary": "《幽遊白書》作者另一受歡迎力作！每一期都掀起極大搶購熱潮！\n為了尋找多年不見的爸爸，小岡決定成為父親一般優秀的獵人。為了達成心願，他開始踏上崎旅程，與他的同伴一起接受被認為是超級難關的獵人測試！\n極度熱賣之作，與《幽遊白書》一樣同屬佳作！",
+    "series": {
+        "id": "11904",
+        "title": "HUNTER X HUNTER"
+    },
+    "price": "HKD 30.00"
+}

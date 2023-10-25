@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 115273,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "修订版",
+    "author": [
+        "今何在"
+    ],
+    "pubdate": "2001-4",
+    "tags": [
+        {
+            "count": 14125,
+            "name": "悟空传",
+            "title": "悟空传"
+        },
+        {
+            "count": 13663,
+            "name": "今何在",
+            "title": "今何在"
+        },
+        {
+            "count": 8495,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 6769,
+            "name": "网络小说",
+            "title": "网络小说"
+        },
+        {
+            "count": 5982,
+            "name": "网络文学",
+            "title": "网络文学"
+        },
+        {
+            "count": 4474,
+            "name": "西游记",
+            "title": "西游记"
+        },
+        {
+            "count": 3404,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 3105,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s9026255.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "网友说\n悟空传\n百年孤独\n花果山\n评论\n",
+    "pages": "300",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s9026255.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s9026255.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s9026255.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1003000/",
+    "id": "1003000",
+    "publisher": "光明日报出版社",
+    "isbn10": "7801453646",
+    "isbn13": "9787801453648",
+    "title": "悟空传",
+    "url": "https://api.douban.com/v2/book/1003000",
+    "alt_title": "",
+    "author_intro": "今何在，网络文学作家，1977年生人。《悟空传》、《诺星汉天空》作者。做过网站管理，游戏策划，影视编剧。",
+    "summary": "猪八戒和孙悟空虽然都神通广大，但在命运面前终究是软弱无力的小人物。顶天立地的美猴王实际上仍然是那个充满惊恐的小猴子，而决心与命运抗争的天蓬若非紧急也终究不肯以猪的面目见阿月。神仙尚且如此，何况吾辈生来渺小的小人物呢？随着年纪的增长，少年时素怀的“愿乘长风破万里浪”的豪情 壮志早已经烟消云散，只剩下一个行尸走肉的家伙还在苟延残喘。自己何尝不是一只因为知道自己身份而在午夜对月痛哭的猪啊！但他们最终战胜了命运，而我呢？",
+    "series": {
+        "id": "53497",
+        "title": "网络人文书"
+    },
+    "price": "14.80元"
+}

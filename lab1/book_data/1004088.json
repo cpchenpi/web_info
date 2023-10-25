@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13750,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[瑞典] 阿斯特丽德·林格伦"
+    ],
+    "pubdate": "1999-3",
+    "tags": [
+        {
+            "count": 1777,
+            "name": "长袜子皮皮",
+            "title": "长袜子皮皮"
+        },
+        {
+            "count": 1699,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 1579,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 933,
+            "name": "瑞典",
+            "title": "瑞典"
+        },
+        {
+            "count": 755,
+            "name": "林格伦",
+            "title": "林格伦"
+        },
+        {
+            "count": 661,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 619,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 489,
+            "name": "童书",
+            "title": "童书"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1290828.jpg",
+    "binding": "精装",
+    "translator": [
+        "李之义"
+    ],
+    "catalog": "目录\n总序\n林格伦和她创造的儿童世界\n皮皮搬进维拉・维洛古拉\n皮皮捡破烂并和别人打架\n皮皮和警察玩拍人游戏\n皮皮上学了\n皮皮坐在大门上和爬树\n皮皮组织一次野游\n皮皮看马戏\n皮皮接待小偷拜访\n皮皮过生日\n皮皮去商店买东西\n皮皮玩海上遇险\n皮皮接受一次难忘的访问\n皮皮举行告别宴会\n皮皮去航海\n皮皮寻找斯彭克\n皮皮组织问答比赛\n皮皮赴咖啡宴\n皮皮接到一封信\n皮皮再次去航海\n皮皮上岸\n皮皮劝告鲨鱼\n皮皮劝告基姆和伯克\n皮皮对基姆和伯克不耐烦了\n皮皮离开霍屯督岛\n长袜子皮皮不愿意长大\n",
+    "pages": "288",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1290828.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1290828.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1290828.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1004088/",
+    "id": "1004088",
+    "publisher": "中国少年儿童出版社",
+    "isbn10": "7500742584",
+    "isbn13": "9787500742586",
+    "title": "长袜子皮皮",
+    "url": "https://api.douban.com/v2/book/1004088",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "一位小姑娘一个人住在一栋小房子里，生活完全自理，富得像一位财神，壮得像一匹马，他的爸爸是南海一个岛上的国王。她所做的一切几乎都违背了成年人的意志，不去学校上学，满嘴的瞎话，与警察开玩笑，戏弄流浪汉。但是，她花钱买一大堆糖果，分发给所有的孩子，这就是长袜子皮皮。",
+    "series": {
+        "id": "7534",
+        "title": "文学大师林格伦作品集"
+    },
+    "price": "17.80元"
+}

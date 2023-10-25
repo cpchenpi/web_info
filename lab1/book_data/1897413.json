@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6488,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "亦舒"
+    ],
+    "pubdate": "2006-9",
+    "tags": [
+        {
+            "count": 2452,
+            "name": "亦舒",
+            "title": "亦舒"
+        },
+        {
+            "count": 642,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 592,
+            "name": "一点旧一点新",
+            "title": "一点旧一点新"
+        },
+        {
+            "count": 317,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 219,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 174,
+            "name": "师太",
+            "title": "师太"
+        },
+        {
+            "count": 150,
+            "name": "言情",
+            "title": "言情"
+        },
+        {
+            "count": 53,
+            "name": "寂寞",
+            "title": "寂寞"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1974962.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "190",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1974962.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1974962.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1974962.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1897413/",
+    "id": "1897413",
+    "publisher": "新世界出版社",
+    "isbn10": "7801879341",
+    "isbn13": "9787801879349",
+    "title": "一点旧一点新",
+    "url": "https://api.douban.com/v2/book/1897413",
+    "alt_title": "",
+    "author_intro": "亦舒，言情文学作家。原名倪亦舒，兄长是香港作家倪匡。亦舒1946年生于上海，祖籍浙江镇海，五岁时定居香港。中学毕业后，曾在《明报》任职记者，及担任电影杂志采访和编辑等。1973年，亦舒赴英国修读酒店食物管理课程，三年后回港，任职富丽华酒店公关部，后进入政府新闻处担任新闻官，也曾当过电视台编剧。现为专业作家，并已移居加拿大。",
+    "summary": "一点旧一点新，一点借来一点蓝色，从这样的装束看，洋化的妙宜是想结婚的，为什么却纵身跃下了三十层的高楼？关遂心督察为了勘破此案，不惜代入妙宜的生活，从学生、心理病人、到浪迹天涯的游人，遂心对她的了解与日俱增：心动、心醉、心伤、心碎、心死，就在这一刹那，真相赤裸裸地大白于天下……",
+    "series": {
+        "id": "5782",
+        "title": "亦舒新经典"
+    },
+    "price": "18.00元"
+}

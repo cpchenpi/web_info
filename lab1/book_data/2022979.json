@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 70153,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "亦舒"
+    ],
+    "pubdate": "2007-2",
+    "tags": [
+        {
+            "count": 16999,
+            "name": "亦舒",
+            "title": "亦舒"
+        },
+        {
+            "count": 6443,
+            "name": "喜宝",
+            "title": "喜宝"
+        },
+        {
+            "count": 6250,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4876,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 3462,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 3046,
+            "name": "金钱",
+            "title": "金钱"
+        },
+        {
+            "count": 2825,
+            "name": "成长",
+            "title": "成长"
+        },
+        {
+            "count": 2430,
+            "name": "言情",
+            "title": "言情"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s5813979.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "304",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s5813979.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s5813979.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s5813979.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2022979/",
+    "id": "2022979",
+    "publisher": "新世界出版社",
+    "isbn10": "7802282675",
+    "isbn13": "9787802282674",
+    "title": "喜宝",
+    "url": "https://api.douban.com/v2/book/2022979",
+    "alt_title": "",
+    "author_intro": "亦舒，生于上海。曾在《明报》任职记者及担任电影杂志采访记者和编辑。后赴英国留学，任职酒店公关部。进入香港政府新闻处担任新闻官，七年后辞职。现为全职作家及家庭主妇，并移居加拿大。",
+    "summary": "读书就是这样好，无论心不在焉，板着长脸，只要考试及格，就是一个及格的人。你试着拉长脸到社会去试一试。这是一个卖笑的社会。除非能够找到高贵的职业，而高贵的职业需要高贵的学历支持，高贵的学历需要金钱，始终兜回来。\n富家女勖聪慧热情地邀请刚认识的剑桥高材生姜喜宝参加自己的家宴，有意制造机会以撮合她和哥哥勋聪恕。聪慧的父亲勋存姿，也向喜宝展开追求。喜宝在其父亲、儿子的双双夹击下，非常现实地选择了父亲，她得到了想得到的一切甚至更多。喜宝做了勖存姿的女人后，虽然得到了金钱与物质上的满足，但却耐不住感情与生理上的寂寞和空虚。勖存姿发现喜宝另有所爱，竟冷酷地当着喜宝的面，枪杀了她的男友。喜宝绝望了，但她怎么也逃不脱勖存姿的牢笼。几年后，勖存姿去世，喜宝变成最富有的女人，但是……",
+    "series": {
+        "id": "5782",
+        "title": "亦舒新经典"
+    },
+    "price": "22.00元"
+}

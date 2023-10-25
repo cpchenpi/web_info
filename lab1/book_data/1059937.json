@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 15240,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "幾米"
+    ],
+    "pubdate": "2004-7",
+    "tags": [
+        {
+            "count": 3130,
+            "name": "几米",
+            "title": "几米"
+        },
+        {
+            "count": 2816,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2053,
+            "name": "幾米",
+            "title": "幾米"
+        },
+        {
+            "count": 1621,
+            "name": "微笑的鱼",
+            "title": "微笑的鱼"
+        },
+        {
+            "count": 731,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 695,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 402,
+            "name": "繪本",
+            "title": "繪本"
+        },
+        {
+            "count": 302,
+            "name": "童话",
+            "title": "童话"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1046024.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "【该商品所属分类】\n",
+    "pages": "100",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1046024.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1046024.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1046024.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1059937/",
+    "id": "1059937",
+    "publisher": "辽宁教育出版社",
+    "isbn10": "7538269517",
+    "isbn13": "9787538269512",
+    "title": "微笑的鱼",
+    "url": "https://api.douban.com/v2/book/1059937",
+    "alt_title": "",
+    "author_intro": "畿米，台湾文化大学美术系设计组毕业，曾在广告公司担任美术指导12年。\n畿米住在台北，在家工作，为报纸、杂志、各种出版品提供图画，目前全心投入自己喜欢的绘本创作。1998年开始绘本创作，1999年以《向左走·向右走》一举成名，掀起港台绘本热潮。目前有多本广受欢迎的作品，卖出美、德、法、希腊、日、韩等多种版本。\n作品：1998年《森林里的秘密》、《微笑的鱼》；1999年《向左走·向右走》、《月亮忘记了》、《听畿米唱歌》；2000年《黑白异境》、《森林唱游》、《我的心中每天开一朵花》；2001年《地下铁》、《照相本子》。",
+    "summary": "“我拥有一条像狗一样忠心，像猫一样贴心，像爱人一样深情的鱼。她始终带着微笑的表情……”几米绘出一个男子深泓如海一样的幽闭内心，这是献给全世界所有大人和孩子的温柔礼物。《微笑的鱼》曾获联合报读书人最佳童书。",
+    "series": {
+        "id": "3934",
+        "title": "幾米作品精选集"
+    },
+    "price": "20.00元"
+}

@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 16199,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "珍藏限量版",
+    "author": [
+        "韩寒"
+    ],
+    "pubdate": "2010-9",
+    "tags": [
+        {
+            "count": 2736,
+            "name": "韩寒",
+            "title": "韩寒"
+        },
+        {
+            "count": 962,
+            "name": "我想和这个世界谈谈",
+            "title": "我想和这个世界谈谈"
+        },
+        {
+            "count": 737,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 515,
+            "name": "公路小说",
+            "title": "公路小说"
+        },
+        {
+            "count": 501,
+            "name": "1988",
+            "title": "1988"
+        },
+        {
+            "count": 284,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 280,
+            "name": "80后",
+            "title": "80后"
+        },
+        {
+            "count": 273,
+            "name": "成长",
+            "title": "成长"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s4485867.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "215",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s4485867.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s4485867.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s4485867.jpg"
+    },
+    "alt": "https://book.douban.com/subject/5292912/",
+    "id": "5292912",
+    "publisher": "国际文化出版公司",
+    "isbn10": "7512501080",
+    "isbn13": "9787512501089",
+    "title": "1988：我想和这个世界谈谈",
+    "url": "https://api.douban.com/v2/book/5292912",
+    "alt_title": "",
+    "author_intro": "韩寒：赛车手、作家、青年意见领袖。",
+    "summary": "作品以一部旅行车为载体，通过在路上的见闻、过去的回忆、扑朔迷离的人物关系等各种现实场景，以韩寒本人对路上所见、所闻引发自己的观点。这场真正的旅途在精神层面，如果说似乎逾越了部分法律和道德的界限，但出发点也仅仅是希望在另一侧找到信仰。韩寒是“叛逆的”，他“试图用能给世界一些新意的眼光来看世界。试图寻找令人信服的价值”。",
+    "price": "988.00元"
+}

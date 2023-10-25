@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 23452,
+        "average": "7.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 丹·布朗"
+    ],
+    "pubdate": "2004-9",
+    "tags": [
+        {
+            "count": 4392,
+            "name": "丹·布朗",
+            "title": "丹·布朗"
+        },
+        {
+            "count": 3388,
+            "name": "悬疑",
+            "title": "悬疑"
+        },
+        {
+            "count": 2565,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1956,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 1359,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 1333,
+            "name": "数字城堡",
+            "title": "数字城堡"
+        },
+        {
+            "count": 947,
+            "name": "丹・布朗",
+            "title": "丹・布朗"
+        },
+        {
+            "count": 945,
+            "name": "外国文学",
+            "title": "外国文学"
+        }
+    ],
+    "origin_title": "Digital Fortress",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2414085.jpg",
+    "binding": "平装",
+    "translator": [
+        "朱振武",
+        "赵永健",
+        "信艳"
+    ],
+    "catalog": "",
+    "pages": "371",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2414085.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2414085.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2414085.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1057206/",
+    "id": "1057206",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020048145",
+    "isbn13": "9787020048144",
+    "title": "数字城堡",
+    "url": "https://api.douban.com/v2/book/1057206",
+    "alt_title": "Digital Fortress",
+    "author_intro": "丹·布朗（Dan Brown）是美国当今最著名的畅销书作家之一。他2003年3月出版的《达·芬奇密码》创造了一个书市奇迹，旋风般地横扫了美国各大畅销书榜，连续数十周高居《纽约时报》畅销书榜首，全球销量已超过800万册。丹·布朗也凭这部小说而大红大紫。《数字城堡》是丹·布朗的长篇悬念惊悚小说处女作，其创作灵感来自于一个真实的事件。丹·布朗还创作了《天使与魔鬼》、《圈套》等小说，可以说本本都很叫座。\n译者朱振武，1963年生，英美文学博士，世界文学博士后。也是《达·芬奇密码》和《破解》的主要译者。",
+    "summary": "世界上最隐秘的情报部门——美国国家安全局（NSA）斥巨资建造了一台可以破解一切密码的机器——万能解密机。这台超级电脑帮助NSA挫败了无数恐怖分子的阴谋，但这台电脑也能截获普通人的电子邮件。这个世界已没有隐私和秘密可言！\nNSA前程序设计师远诚友加针锋相对地推出了“数字城堡”，他声称这是具有不可破解的密码的加密软件，并以此要挟NSA，要求他们向世人宣布万能解密机的存在。不料，远诚友加在西班牙意外死亡，而刻有口令的戒指却神秘失踪。\nNSA首席密码破解专家苏珊·弗莱切与男友——语言学家戴维·贝克猝不及防地被卷入了这一事件中。两人各自在扑朔迷离的情境中经历了险象环生的一幕幕……",
+    "series": {
+        "id": "10200",
+        "title": "99畅销文库"
+    },
+    "price": "25.00元"
+}

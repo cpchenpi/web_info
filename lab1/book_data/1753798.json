@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5701,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "Brone1989",
+    "author": [
+        "尾崎南"
+    ],
+    "pubdate": "2000-11",
+    "tags": [
+        {
+            "count": 809,
+            "name": "尾崎南",
+            "title": "尾崎南"
+        },
+        {
+            "count": 701,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 669,
+            "name": "耽美",
+            "title": "耽美"
+        },
+        {
+            "count": 488,
+            "name": "绝爱",
+            "title": "绝爱"
+        },
+        {
+            "count": 318,
+            "name": "bl",
+            "title": "bl"
+        },
+        {
+            "count": 292,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 214,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 81,
+            "name": "爱情",
+            "title": "爱情"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2656738.jpg",
+    "binding": "ペーパーバック",
+    "translator": [
+        "Nina Olligschläger"
+    ],
+    "catalog": "",
+    "pages": "192",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2656738.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2656738.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2656738.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1753798/",
+    "id": "1753798",
+    "publisher": "Carlsen Verlag GmbH",
+    "isbn10": "3551747768",
+    "isbn13": "9783551747761",
+    "title": "Zetsuai 01",
+    "url": "https://api.douban.com/v2/book/1753798",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "足球天才少年泉拓人在雨夜偶遇醉酒滩在路边的偶像歌手南条晃司，出于善心把他捡回家。从那一刻起，命运的红线把他们紧紧捆绑在一起……",
+    "price": "JPY 9.75"
+}

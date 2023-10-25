@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 14839,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 秋乃茉莉"
+    ],
+    "pubdate": "2004-5",
+    "tags": [
+        {
+            "count": 2358,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 2066,
+            "name": "恐怖宠物店",
+            "title": "恐怖宠物店"
+        },
+        {
+            "count": 1903,
+            "name": "秋乃茉莉",
+            "title": "秋乃茉莉"
+        },
+        {
+            "count": 916,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 870,
+            "name": "D伯爵",
+            "title": "D伯爵"
+        },
+        {
+            "count": 637,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 439,
+            "name": "人性",
+            "title": "人性"
+        },
+        {
+            "count": 195,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1242919.jpg",
+    "binding": "平装",
+    "translator": [
+        "高燕凤"
+    ],
+    "catalog": "第1话 离别\n第2话 消失\n第3话 复制\n第4话 D伯爵\n宠物目录\nD伯爵的戏服讲座",
+    "pages": "208",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1242919.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1242919.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1242919.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1180102/",
+    "id": "1180102",
+    "publisher": "哈尔滨出版社",
+    "isbn10": "7806991999",
+    "isbn13": "9787806991992",
+    "title": "恐怖宠物店（10）",
+    "url": "https://api.douban.com/v2/book/1180102",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《恐怖宠物店》是秋乃的成名作。故事讲述了在美国的中华街上有一家神秘的宠物商店，它引起了当地警察雷恩的警惕心，因为有许多离奇死亡案的被害人都是这间店的客人。身手敏捷但头脑多少有点单纯的雷恩决定要深入虎穴挖出那家宠物店主人，人称D伯爵的狐狸尾巴。\n和雷恩想象的不同，D伯爵不但并非穷凶急恶之辈，而且人长的娇艳美丽貌比潘安。平时虽然有许多神秘的地方而且有非常机智，但是一看见甜食便两眼心心没有抵抗能力了？这样，象是个黑社会的人吗？不过雷恩总是很固执于自己的直觉，一方面抵抗着D伯爵对他的“诱惑”一方面干涉一件又一件的动物买卖寻找线索。可是仍然一头雾水，而且还不由自主的和D伯爵越来越亲近，在次期间，他的确发现了许多奇怪的事情，千奇百怪的动物和千奇百怪的人，有花妖，有吸血鬼，有无法解脱的自责，有难以到手的梦想，有突然的死亡，有奇怪的恋爱，有暗杀，有绑架……最后所有的危险总能在D伯爵的解决下化险为夷。那个神秘而又美丽的中国人，他的真正面目到底是什么呢？",
+    "series": {
+        "id": "2613",
+        "title": "恐怖宠物店"
+    },
+    "price": "12.00元"
+}

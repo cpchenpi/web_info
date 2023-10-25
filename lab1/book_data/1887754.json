@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6299,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "寂寞上场了",
+    "author": [
+        "幾米"
+    ],
+    "pubdate": "2006-10",
+    "tags": [
+        {
+            "count": 1213,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1202,
+            "name": "几米",
+            "title": "几米"
+        },
+        {
+            "count": 998,
+            "name": "幾米",
+            "title": "幾米"
+        },
+        {
+            "count": 593,
+            "name": "寂寞上场了",
+            "title": "寂寞上场了"
+        },
+        {
+            "count": 272,
+            "name": "失乐园",
+            "title": "失乐园"
+        },
+        {
+            "count": 248,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 226,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 110,
+            "name": "繪本",
+            "title": "繪本"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1830092.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "眼镜上乖和粉红小象\n她摸出了苹果的颜色像彩虹一般\n包子头\n每个人在他面前都是天才\n小樱子\n天上一朵朵的白云到底在说些什么\n帅哥彼得\n帅哥的寂莫比一般人的寂寞更寂寞\n驴头妹\n明天让我变漂亮一点好吗\n大树人\n谁会在乎一棵树的寂寞呢\n度啦啦\n他戴上了眼镜却依然看不清楚\n纸片人\n观看世界的角度可以随时翻转\n小天使娜娜\n每个人总是忍不住对她说出心中的烦恼\n失乐园里还有好多其他的朋友",
+    "pages": "159",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1830092.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1830092.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1830092.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1887754/",
+    "id": "1887754",
+    "publisher": "现代出版社",
+    "isbn10": "7801888022",
+    "isbn13": "9787801888020",
+    "title": "失乐园1",
+    "url": "https://api.douban.com/v2/book/1887754",
+    "alt_title": "",
+    "author_intro": "幾米，绘本作家。\n1998年开始创作。作品风靡两岸三地、美、法、德、希腊、韩、日、泰等国皆有译本。学界和媒体多次以“几米现象”为主题分析讨论，《Studio Voice》杂志选为亚洲最有创新的五十五人之。",
+    "summary": "幾米在《失乐园》里创造了数十位小朋友，以各种独特的方式为受伤的心发声。这些角色中，有的害羞寂寞，有的世故早熟，有的遗失了童年，有的终日寻求不可知的答案……他们天真的话语表达了我们内心曾有的困惑，所有不被理解的情绪，在失乐园里都得到了抚慰。\n如果我们安静倾听，就可以感受到失乐园里温柔的光，看到彩虹以微笑的姿势出现。",
+    "series": {
+        "id": "3840",
+        "title": "幾米作品"
+    },
+    "price": "26.00元"
+}

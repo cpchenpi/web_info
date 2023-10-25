@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10127,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "龙应台"
+    ],
+    "pubdate": "2005-8",
+    "tags": [
+        {
+            "count": 3544,
+            "name": "龙应台",
+            "title": "龙应台"
+        },
+        {
+            "count": 1253,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 1084,
+            "name": "孩子你慢慢来",
+            "title": "孩子你慢慢来"
+        },
+        {
+            "count": 1042,
+            "name": "教育",
+            "title": "教育"
+        },
+        {
+            "count": 772,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 627,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 611,
+            "name": "孩子",
+            "title": "孩子"
+        },
+        {
+            "count": 492,
+            "name": "生活",
+            "title": "生活"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1434759.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "孩子你慢慢来\n初识\n龙\n那是什么？\n终于嫁给了王子\n野心\n欧嬷\n写给怀孕的女人\n他的名字叫做“人”\n啊！洋娃娃\n寻找幼稚园\n神话・迷信・信仰\n男子汉大丈夫\n渐行渐远\n读《水浒》的小孩\n一只老鼠\n葛格和底笛\n高玩\n放学\n什么事也没有发生\n触电的小牛\n跋\n我这样长大\n放手",
+    "pages": "168",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1434759.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1434759.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1434759.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1420862/",
+    "id": "1420862",
+    "publisher": "文汇出版社",
+    "isbn10": "7806767231",
+    "isbn13": "9787806767238",
+    "title": "孩子你慢慢来",
+    "url": "https://api.douban.com/v2/book/1420862",
+    "alt_title": "",
+    "author_intro": "龙应台，1952年出生于高雄县大寮乡，1974年毕业于台南成功大学外文系，后获美国堪萨斯州立大学英文博士学位，曾任教于美国、台湾、德国的多所大学，曾任台北市文化局局长，现任教于香港大学。",
+    "summary": "“谁能告诉我做女人和做个人怎么平衡？我爱极了做母亲，只要把孩子的头放在我胸口，就能使我觉得幸福。可是使我觉得幸福。可是我也是个需要极大的内在空间的个人……女性主义者，如果你不曾体验过生养的喜悦和痛苦，你究竟能告诉我些什么呢？”\n作为华人世界最有影响的一支笔，龙应台的文章有万丈豪气，然而《孩子你慢慢来》却令人惊叹，她的文字也可以有万丈深情。这本书里的龙应台是一个母亲，与生命的本质和起点素面相对，做最深刻的思索，最不思索的热爱。它不是传统的母职的歌颂，是对生命的实景写生，只有真正懂得爱的作家才写得出的生活散文。",
+    "series": {
+        "id": "7364",
+        "title": "龙应台作品系列"
+    },
+    "price": "22.00元"
+}

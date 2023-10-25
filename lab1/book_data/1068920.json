@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 207830,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美国] 玛格丽特·米切尔"
+    ],
+    "pubdate": "2000-9",
+    "tags": [
+        {
+            "count": 27439,
+            "name": "飘",
+            "title": "飘"
+        },
+        {
+            "count": 24732,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 24490,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 23310,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 15672,
+            "name": "外国名著",
+            "title": "外国名著"
+        },
+        {
+            "count": 14955,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 13761,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 13008,
+            "name": "名著",
+            "title": "名著"
+        }
+    ],
+    "origin_title": "Gone with the Wind",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1078958.jpg",
+    "binding": "精装",
+    "translator": [
+        "李美华"
+    ],
+    "catalog": "",
+    "pages": "1235",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1078958.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1078958.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1078958.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1068920/",
+    "id": "1068920",
+    "publisher": "译林出版社",
+    "isbn10": "7806570926",
+    "isbn13": "9787806570920",
+    "title": "飘",
+    "url": "https://api.douban.com/v2/book/1068920",
+    "alt_title": "Gone with the Wind",
+    "author_intro": "米切尔（Margaret Mitchell, 1900-1949）美国女作家。出生于美国南部佐治亚州亚特兰大市。父亲是个律师，曾任亚特兰大历史协会主席。米切尔曾就读于华盛顿神学院、马萨诸塞州的史密斯学院。其后，她曾担任地方报纸《亚特兰大报》的记者。1925年与约翰·马尔什结婚，婚后辞去报职，潜心写作。\n米切尔一生中只发表了《飘》这部长篇巨著。她从1926年开始着力创作《飘》，10 年之后，作品问世，一出版就引起了强烈的反响。\n由于家庭的熏陶，米切尔对美国历史，特别是南北战争时期美国南方的历史产生了浓厚的兴趣。她在家乡听闻了大量有关内战和战后重建时期的种种轶事和传闻，接触并阅读了大量有关内战的书籍。她自幼在南部城市亚特兰大成长，耳濡目染了美国南方的风土人情，这里的自然环境和社会环境成了米切尔文思纵横驰骋的背景和创作的源泉。",
+    "summary": "小说中的故事发生在1861年美国南北战争前夕。生活在南方的少女郝思嘉从小深受南方文化传统的熏陶，可在她的血液里却流淌着野性的叛逆因素。随着战火的蔓廷和生活环境的恶化，郝思嘉的叛逆个性越来越丰满，越鲜明，在一系列的的挫折中她改造了自我，改变了个人甚至整个家族的命运，成为时代时势造就的新女性的形象。\n作品在描绘人物生活与爱情的同时，勾勒出南北双方在政治，经济，文化各个层次的异同，具有浓厚的史诗风格，堪称美国历史转折时期的真实写照，同时也成为历久不衰的爱情经典。",
+    "price": "40.00元"
+}

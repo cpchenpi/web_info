@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5732,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "彭浩翔"
+    ],
+    "pubdate": "2009-6",
+    "tags": [
+        {
+            "count": 1923,
+            "name": "彭浩翔",
+            "title": "彭浩翔"
+        },
+        {
+            "count": 754,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 690,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 421,
+            "name": "短篇小说",
+            "title": "短篇小说"
+        },
+        {
+            "count": 368,
+            "name": "破事儿",
+            "title": "破事儿"
+        },
+        {
+            "count": 231,
+            "name": "香港文学",
+            "title": "香港文学"
+        },
+        {
+            "count": 96,
+            "name": "2009",
+            "title": "2009"
+        },
+        {
+            "count": 79,
+            "name": "电影",
+            "title": "电影"
+        }
+    ],
+    "origin_title": "Trivial matters",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3824563.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "自序\n推荐序/宁浩：为《破事儿》写的序\n推荐序/林一峰：不要怪彭浩翔\n推荐序/杜汶泽：有这样的一件破事儿\n推荐序/金培达：破事不破\n推荐序/卓韵芝：彭氏守则\n男的女的\n指甲钳人魔\nHOme Alone\n一毫子暴力\n悲剧的诗\n德雅星历史课第一章\n大头阿慧\n11\n复仇\n悲哀的安全套\n抽奖\n让我爱你下半身\n节日庆祝活动\n公德心\n关于蓝白红的三部曲\n身躯·男·女\n不想拥抱我的人\n增值\n后记",
+    "pages": "187",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3824563.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3824563.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3824563.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3776157/",
+    "id": "3776157",
+    "publisher": "国际文化出版公司",
+    "isbn10": "7801738799",
+    "isbn13": "9787801738790",
+    "title": "破事儿",
+    "url": "https://api.douban.com/v2/book/3776157",
+    "alt_title": "Trivial matters",
+    "author_intro": "彭浩翔，当今华语影坛最瞩目、创作力最澎湃之青年导演。1973年生于香港。五岁时因被家人认为患有轻度智障，险些入读特殊小学，但却在智力测验中证实智商高达135分。自十二岁起，即与兄长用摄录机自导自演枪战片。1993年到台湾升学，半年后辍学回港，随即加入电视台担任编剧，同时亦兼写小说及影评。",
+    "summary": "短篇小说集，收有18篇短篇小说，故事无外乎城中那些饮食男女快意恩仇的破事儿。彭浩翔一如既往地捉住男女基因里对峙，制造巧合与偶然，恶作剧般地把这份尴尬摆上台面：情侣因为方言把“诗”听作“屎”，导致情缘破裂；遭遇分手的上班族因为1角钱和出租车司机大打出手，还上了电视新闻；交易结束，嫖客在为妓女手机充值时，突然暗生情愫……",
+    "price": "22.00"
+}

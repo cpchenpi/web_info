@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11656,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "安妮宝贝"
+    ],
+    "pubdate": "2007-11",
+    "tags": [
+        {
+            "count": 2329,
+            "name": "安妮宝贝",
+            "title": "安妮宝贝"
+        },
+        {
+            "count": 1007,
+            "name": "素年锦时",
+            "title": "素年锦时"
+        },
+        {
+            "count": 742,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 582,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 269,
+            "name": "散文随笔",
+            "title": "散文随笔"
+        },
+        {
+            "count": 171,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 167,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 143,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3625432.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "",
+    "pages": "264",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3625432.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3625432.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3625432.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2317973/",
+    "id": "2317973",
+    "publisher": "作家出版社",
+    "isbn10": "7506341603",
+    "isbn13": "9787506341608",
+    "title": "素年锦时",
+    "url": "https://api.douban.com/v2/book/2317973",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《素年锦时》是安妮宝贝小说散文新作集。\n全书以春夏秋冬分章。作者以文字探索自我与外在环境及内心世界的关系，以及与之保持的疏离感。这种疏离感使她得以对照记忆与真实之间细微层次，沉着谈论身世，家庭，童年，回忆中消失的南方，流失，生命的客观性。剥离回忆的黑暗和光亮之处，将之呈现在多年新旧读者的面前。并且关注点由早期书写偏重的情感主题，逐渐转移到知识和思省的层面。坦直讨论写作和作品，涉及天分，交际，孤立，圈子，争议，价值观，读书，世相，人情，个人态度等等。风格清淡洗练，观点直率深入。\n这本书所呈现的心灵疆域和思考力，“深林人不知，明月来相照”，文字如同穿越月光夜色的清越笛声。一个素颜女童和始终执守边缘的写作者，身份分裂交错。出入自如，似漫游无人之境。\n书中另有一篇最新三万字小说《月棠记》，内容首次涉及都市男女婚姻主题。作者称之为“讲述成人的故事，属于孩子的心。",
+    "price": "29.00元"
+}

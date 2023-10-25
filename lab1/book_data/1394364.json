@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 22011,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 道格拉斯·亚当斯"
+    ],
+    "pubdate": "2005-6",
+    "tags": [
+        {
+            "count": 7811,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 3934,
+            "name": "银河系漫游指南",
+            "title": "银河系漫游指南"
+        },
+        {
+            "count": 3457,
+            "name": "道格拉斯・亚当斯",
+            "title": "道格拉斯・亚当斯"
+        },
+        {
+            "count": 2644,
+            "name": "科幻小说",
+            "title": "科幻小说"
+        },
+        {
+            "count": 2524,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 2338,
+            "name": "幽默",
+            "title": "幽默"
+        },
+        {
+            "count": 2189,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1369,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "The Hitchhiker's Guide to the Galaxy",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3696740.jpg",
+    "binding": "平装",
+    "translator": [
+        "徐百柯"
+    ],
+    "catalog": "\n      ",
+    "pages": "191",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3696740.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3696740.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3696740.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1394364/",
+    "id": "1394364",
+    "publisher": "四川科学技术出版社",
+    "isbn10": "753645757X",
+    "isbn13": "9787536457577",
+    "title": "银河系漫游指南",
+    "url": "https://api.douban.com/v2/book/1394364",
+    "alt_title": "The Hitchhiker's Guide to the Galaxy",
+    "author_intro": "道格拉斯·亚当斯（1952—2001），英国作家，毕业于剑桥大学。主要作品就是银河系漫游五部曲。包括《银河系漫游指南》、《宇宙尽头餐馆》、《生命、宇宙及一切》、《再见，谢谢鱼》和《基本无害》。这个系列被西方科幻读者奉为“科幻圣经”之一。由于银河系漫游系列小说的突出成就，国际小行星管理委员会甚至还将一颗小行星命名为阿瑟·邓特——该系列的主人公。\n2001年，亚当斯因心脏病猝发离世——此前正在与好莱坞制片商合作，共同将《银河系漫游指南》搬上银幕。2005年4月29日，由迪斯尼公司拍摄的《银河系漫游指南》正式公映。首映周便获得二千一百七十多万美元，成为当周北美票房冠军。",
+    "summary": "地球被毁灭了，因为要在它所在的地方修建一条超空间快速通道。主人公阿瑟·邓特活下来了，因为他有一位名叫福特·长官的朋友。这位朋友表面上是个找不着工作的演员，其实是个外星人，是名著《银河系漫游指南》派赴地球的研究员。两人开始了一场穿越银河的冒险，能够帮助他们的只有《银河系漫游指南》一书中所包括的无限智慧。\n旅途中，他们遇上了一批非常有趣的同伴：\n赞福德·毕博布鲁克斯：长着两个头、三条胳膊的银河大盗，他的另一个身份是银河帝国总统。\n崔莉恩：赞福德的同伙，除阿瑟·邓特之外惟一一个幸存下来的地球人。事实上，阿瑟从前认识崔莉恩，而且曾经试图勾搭人家，可惜没有成功。\n马文：天才机器人，疑心病极其重，极其沮丧，极其唠叨。\n这些人物结成一个小团队，他们将揭开一个骇人听闻的大秘密……",
+    "series": {
+        "id": "129",
+        "title": "世界科幻大师丛书"
+    },
+    "price": "16.00元"
+}

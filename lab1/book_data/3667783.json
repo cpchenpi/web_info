@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7066,
+        "average": "6.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "安妮宝贝"
+    ],
+    "pubdate": "2009-5",
+    "tags": [
+        {
+            "count": 2146,
+            "name": "安妮宝贝",
+            "title": "安妮宝贝"
+        },
+        {
+            "count": 667,
+            "name": "hansey",
+            "title": "hansey"
+        },
+        {
+            "count": 602,
+            "name": "月",
+            "title": "月"
+        },
+        {
+            "count": 378,
+            "name": "闫月",
+            "title": "闫月"
+        },
+        {
+            "count": 294,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 152,
+            "name": "文学与艺术",
+            "title": "文学与艺术"
+        },
+        {
+            "count": 145,
+            "name": "安妮",
+            "title": "安妮"
+        },
+        {
+            "count": 145,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3816658.jpg",
+    "binding": "平装16开",
+    "translator": [],
+    "catalog": "",
+    "pages": "123",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3816658.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3816658.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3816658.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3667783/",
+    "id": "3667783",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208084092",
+    "isbn13": "9787208084094",
+    "title": "月",
+    "url": "https://api.douban.com/v2/book/3667783",
+    "alt_title": "",
+    "author_intro": "安妮宝贝，自由作家。98年开始发表小说，2000年起出版小说集《告别薇安》，《八月未央》，长篇小说《彼岸花》《二三事》《莲花》等。",
+    "summary": "青春艺文类创作志《Alice》主编hansey力邀安妮宝贝、闫月，全力打造《Alice》09年特别版——《月》。《月》由安妮宝贝主笔，07年快乐男声音乐总监、09年超女评委闫月创作音乐和hansey摄影并装帧设计，打破音乐、文字、影像领域的疆域，通过三种不同的艺术表现形式，互相渗透着诠释“月”这个主题所有的延伸。CD里四首如诗般的音乐，是闫月对爱情的感悟。安妮宝贝说：“音乐虽然和我想象中的不太一致，我却能感受到这几个音乐作品表达的东西。”因此，她用了一个中短篇的篇幅，和不同以往写作风格的自然冷静，表达了对生命历程的反省。\n而hansey则为音乐和小说赋予了一个完美的容器：书的尺寸为15厘米宽24厘米长，取自满月日为“十五”和月球轨道周长“240万公里”这两个数字。更特别是，当读者从外盒中抽取书的时候，外盒的镂空和封面上的图案会浮现月亮阴晴圆缺的变化……",
+    "price": "29.80"
+}

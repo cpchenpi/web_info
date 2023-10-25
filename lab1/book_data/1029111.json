@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 56512,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "2003-6",
+    "tags": [
+        {
+            "count": 14630,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 5545,
+            "name": "哭泣的骆驼",
+            "title": "哭泣的骆驼"
+        },
+        {
+            "count": 3960,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 2429,
+            "name": "流浪",
+            "title": "流浪"
+        },
+        {
+            "count": 2318,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 2229,
+            "name": "游记",
+            "title": "游记"
+        },
+        {
+            "count": 1960,
+            "name": "沙漠",
+            "title": "沙漠"
+        },
+        {
+            "count": 1893,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1020454.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "尘缘（代序）\n收魂记\n沙巴军曹\n搭车客\n哭泣的骆驼\n逍遥七岛游\n一个陌生人的死\n大胡子与我\n哑奴\n三毛一生大事记\n",
+    "pages": "222",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1020454.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1020454.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1020454.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1029111/",
+    "id": "1029111",
+    "publisher": "哈尔滨出版社",
+    "isbn10": "7806399070",
+    "isbn13": "9787806399071",
+    "title": "哭泣的骆驼",
+    "url": "https://api.douban.com/v2/book/1029111",
+    "alt_title": "",
+    "author_intro": "三毛（1943-1991），台湾作家。1943年3月26日出生于重庆，浙江省定海县人。本名为陈惠平，1946年改名陈平，笔名“三毛”。1964年入中国文化大学哲学系，肄业后曾留学欧洲，婚后定居西属撒哈拉沙漠加那利岛并以当地的生活为背景，写出一连串情感真挚的作品。1981年回到台湾，在中国文化大学任教，1984年辞去教职，专职从事写作和演讲。1991年1月4日自杀而死，终年48岁。\n三毛的足迹遍及世界各地，平生著作、译作十分丰富，其中《撒哈拉的故事》《雨季不再来》《哭泣的骆驼》《我的宝贝》《闹学记》《滚滚红尘》等散文、小说、剧本更是脍炙人口，在全球华人社会广为流传，在中国大陆风靡一时，影响了整整一代人。",
+    "summary": "在《哭泣的骆驼》中，三毛依然恋恋着墨沙漠生活周遭的人与事，《收魂记》、《搭车客》、《逍遥七岛游》、《一个陌生人的死》、《大胡子与我》等篇，情趣盎然；《沙巴军曹》与《哑奴》所刻画的主角，给人留下了难以磨灭的印象；而压轴的《哭泣的骆驼》，以游击战事为背景，细细铺写一对沙漠情鸳的生死盟，竟犹如史诗般的磅礴。",
+    "series": {
+        "id": "744",
+        "title": "三毛全集（华文天下2003版）"
+    },
+    "price": "15.80元"
+}

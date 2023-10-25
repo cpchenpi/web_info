@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 24329,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "福楼拜"
+    ],
+    "pubdate": "2003-01",
+    "tags": [
+        {
+            "count": 4337,
+            "name": "福楼拜",
+            "title": "福楼拜"
+        },
+        {
+            "count": 2720,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2540,
+            "name": "包法利夫人",
+            "title": "包法利夫人"
+        },
+        {
+            "count": 1988,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 1857,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1653,
+            "name": "法国文学",
+            "title": "法国文学"
+        },
+        {
+            "count": 1309,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 1279,
+            "name": "经典",
+            "title": "经典"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1153177.jpg",
+    "binding": "平装",
+    "translator": [
+        "李健吾"
+    ],
+    "catalog": "出版说明\n前言\n第一部\n第二部\n第三部",
+    "pages": "321",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1153177.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1153177.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1153177.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1083477/",
+    "id": "1083477",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020038999",
+    "isbn13": "9787020038992",
+    "title": "包法利夫人",
+    "url": "https://api.douban.com/v2/book/1083477",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "长篇小说《包法利夫人》是福楼拜的代表作。作者以简洁而细腻的文笔，通过一个富有激情的女子爱玛的经历，再现了１９世纪中期法国的社会生活。《包法利夫人》的艺术形式使它成为近代小说的一个新转机。这不仅是一部模范小说，也是一篇模范散文。其书被翻译成多国文字、多次再版，经典永远是经典。小说是阅读量极大、受众范围极为广泛的一种文学体裁。它以其文学性和故事性的紧密结合，吸引文学及文学以外的大量读者。小说往往将现实压缩，以文学的形式反映真实的、深刻的社会现象、社会背景，或者反映某种思想、某种哲学观念甚至某种宗教信仰。",
+    "series": {
+        "id": "1561",
+        "title": "名著名译插图本"
+    },
+    "price": "12.00"
+}

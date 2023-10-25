@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7403,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "张小娴"
+    ],
+    "pubdate": "2002-2",
+    "tags": [
+        {
+            "count": 2135,
+            "name": "张小娴",
+            "title": "张小娴"
+        },
+        {
+            "count": 636,
+            "name": "流浪的面包树",
+            "title": "流浪的面包树"
+        },
+        {
+            "count": 615,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 520,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 297,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 191,
+            "name": "言情",
+            "title": "言情"
+        },
+        {
+            "count": 157,
+            "name": "面包树",
+            "title": "面包树"
+        },
+        {
+            "count": 100,
+            "name": "爱情小说",
+            "title": "爱情小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1081579.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "209",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1081579.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1081579.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1081579.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1096118/",
+    "id": "1096118",
+    "publisher": "南海出版公司",
+    "isbn10": "7544220559",
+    "isbn13": "9787544220552",
+    "title": "流浪的面包树",
+    "url": "https://api.douban.com/v2/book/1096118",
+    "alt_title": "",
+    "author_intro": "张小娴，香港女作家。1995年推出第一部长篇小说《面包树上的女人》而走红文坛，继亦舒之后，成为香港最受欢迎的言情小说家。她的作品善于描写都市的男欢女爱，深受年轻读者的欢迎，往往新作一出版就会登上畅销榜。",
+    "summary": "在第二集里，林方文在斐济潜水失踪，而后程韵便孤独地开着她的“面包树”书店，同时因为和小学同学杜卫平重逢，接受开“渡渡餐厅”的杜卫平收留，而成为室友；而歌手葛米儿的脑部发觉长了肿瘤，就在程韵陪她回家乡斐济时，见到了一个酷似林方文的男子，究竟林方文是否还在人间？而程韵又会情归何处？是杜卫平温暖的怀抱，还是另有其人？",
+    "series": {
+        "id": "46105",
+        "title": "张小娴作品集"
+    },
+    "price": "15.00元"
+}

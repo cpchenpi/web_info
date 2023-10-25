@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6063,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "J.K. 羅琳"
+    ],
+    "pubdate": "2001-1",
+    "tags": [
+        {
+            "count": 1004,
+            "name": "哈利波特",
+            "title": "哈利波特"
+        },
+        {
+            "count": 591,
+            "name": "J.K.罗琳",
+            "title": "J.K.罗琳"
+        },
+        {
+            "count": 455,
+            "name": "魔幻",
+            "title": "魔幻"
+        },
+        {
+            "count": 401,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 374,
+            "name": "HarryPotter",
+            "title": "HarryPotter"
+        },
+        {
+            "count": 303,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 204,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 165,
+            "name": "奇幻",
+            "title": "奇幻"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1432811.jpg",
+    "binding": "平装",
+    "translator": [
+        "彭倩文"
+    ],
+    "catalog": "",
+    "pages": "396",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1432811.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1432811.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1432811.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1419882/",
+    "id": "1419882",
+    "publisher": "皇冠文化出版公司",
+    "isbn10": "9573317583",
+    "isbn13": "9789573317586",
+    "title": "消失的密室",
+    "url": "https://api.douban.com/v2/book/1419882",
+    "alt_title": "",
+    "author_intro": "J.K.羅琳：全世界最會說故事的魔法媽媽。一九九〇年，二十四歲的羅琳，坐在前往倫敦的誤點火車上，『哈利波特』咻地闖進了她的生命。透過車窗，彷彿看見了一個黑髮瘦弱、戴著眼鏡的小巫師在對她微笑。十年後，『哈利波特』成了風靡全球的童話人物。從小就喜歡寫作的羅琳，是個單親媽媽，因為找不到工作，只能靠著微薄的失業救濟金養活自已和女兒。為了逃離又小又冷的房間，她總是窩在住家附近的尼可森咖啡館裡寫作；因為沒錢點餐，所以每次只點上一杯卡布奇諾，一字一字的寫下『哈利波特』的故事。結果，《哈利波特》才一出版，便以驚人的魔力風靡全球，羅琳在一夕之間，就從不為人知的貧單親媽媽，一躍成為蜚聲國際的暢銷作家。《哈利波特》在全世界所折起閱讀風潮，更被譽為『文學界的披頭四狂熱』。羅琳說，《哈利波特》是一本會帶給她快樂的書，顯然毫無疑問的，對讀者來說也是一樣的！",
+    "summary": "『密室已經打開了。傳人的仇敵們，當心了……』\n這到底是什麼樣的預警？密室又究竟在哪裡？\n才一開學，魔法學校裡卻怪事連連：先是管理員飛七的貓，不知道為什麼竟然被『石化』！然後學校裡的學生，也一個接一個慘遭毒手……難道這些慘劇都和密室的預警有關？而傳言中『毀滅麻種』的恐怖事件，是否正在祕密進行？為了解開這一連串駭人聽聞的謎團，哈利波特勢必得找到密室，但他也正一步步接近致命的危機……",
+    "series": {
+        "id": "6683",
+        "title": "哈利波特"
+    },
+    "price": "新台币280元"
+}

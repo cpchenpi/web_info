@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4582,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "蔡康永"
+    ],
+    "pubdate": "2012-3-12",
+    "tags": [
+        {
+            "count": 1646,
+            "name": "蔡康永",
+            "title": "蔡康永"
+        },
+        {
+            "count": 591,
+            "name": "LA流浪记",
+            "title": "LA流浪记"
+        },
+        {
+            "count": 430,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 354,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 172,
+            "name": "求学记",
+            "title": "求学记"
+        },
+        {
+            "count": 151,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 139,
+            "name": "洛杉矶",
+            "title": "洛杉矶"
+        },
+        {
+            "count": 83,
+            "name": "台灣",
+            "title": "台灣"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s8885536.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "256",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s8885536.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s8885536.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s8885536.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1343089/",
+    "id": "1343089",
+    "publisher": "皇冠文化出版有限公司",
+    "isbn10": "9573319969",
+    "isbn13": "9789573319962",
+    "title": "LA流浪記",
+    "url": "https://api.douban.com/v2/book/1343089",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "你不想流浪嗎？你不想從現在的生活逃離嗎？哪怕是一下下也好？如果這樣的機會來了，你會不會真的去流浪？……我知道有些人的流浪不快樂，有些人的流浪是不得已。我的人生裡，當然也有些小規模的流浪是不得已、不快樂的。但是在 L.A. 的這幾年，我都很暢快、很自在。我遇見跟我很不一樣的人們，跟著他們做很多我一個人時不會做的事，我有時被輕視，有時被重視；有時被耍，有時耍人；有時狡猾，有時天真。我很懷念那段日子、那些朋友，我把他們寫出來，讓你也一起逛逛我的夢中城堡，陪我回味那麼靠近夢想時的滋味。但願我的人生，都還會有更靠近夢想的時刻會到來。  ─ 蔡康永\r\n作者簡介\r\n蔡康永\r\n蔡康永是橫跨藝文、影劇界的天王才子。\r\n主持電視節目有『真情指數』、『兩代電力公司』、『觀點360』、『周二不讀書』。廣播節目有『台北黑眼圈』、『蔡康永台北秀』。做過的雜誌有『ＧＱ』。著有《痛快日記》、《你睡不著我受不了》、《不乖蔡康永 ─ 同情我可以親我》《再錯也要談戀愛》。有聲書作品有《歡樂三國志》、《頑童三部曲》!",
+    "price": "NT$250"
+}

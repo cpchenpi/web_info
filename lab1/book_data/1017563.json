@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6975,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[法] 蒂皮·德格雷 著",
+        "阿兰·德格雷 茜尔维·罗伯特 图"
+    ],
+    "pubdate": "2002-6",
+    "tags": [
+        {
+            "count": 1616,
+            "name": "摄影",
+            "title": "摄影"
+        },
+        {
+            "count": 1274,
+            "name": "自然",
+            "title": "自然"
+        },
+        {
+            "count": 1121,
+            "name": "我的野生动物朋友",
+            "title": "我的野生动物朋友"
+        },
+        {
+            "count": 738,
+            "name": "人与自然",
+            "title": "人与自然"
+        },
+        {
+            "count": 700,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 659,
+            "name": "动物",
+            "title": "动物"
+        },
+        {
+            "count": 324,
+            "name": "热爱跳跃的生命",
+            "title": "热爱跳跃的生命"
+        },
+        {
+            "count": 292,
+            "name": "影集",
+            "title": "影集"
+        }
+    ],
+    "origin_title": "Mon livre d'Afrique",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2157875.jpg",
+    "binding": "平装",
+    "translator": [
+        "黄天源"
+    ],
+    "catalog": "致中国小朋友\n译本前言：远方的榜样\n1 我好想写一些野外生活的故事\n2 我会跟动物说话\n3 阿布，我的大象哥哥\n4 皮肤的颜色根本不应该算什么\n5 坐在驼鸟背上真开心\n6 豹子很危险，但我照样跟它玩\n7 鳄鱼心里只装着一件事：吃\n8 野生动物就像我家里人一样\n9 长颈鹿安详地朝我走来\n10 同狒孩儿难舍难分\n11 动物世界复杂得很\n12 温柔的小狮子――穆法萨\n13 大象有很强的记忆力\n14 谁替我拿主意，我会受不了的\n15 动物来自好人这一边",
+    "pages": "148",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2157875.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2157875.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2157875.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1017563/",
+    "id": "1017563",
+    "publisher": "云南教育出版社",
+    "isbn10": "7541520713",
+    "isbn13": "9787541520716",
+    "title": "我的野生动物朋友",
+    "url": "https://api.douban.com/v2/book/1017563",
+    "alt_title": "Mon livre d'Afrique",
+    "author_intro": "蒂皮·德格雷（Tippi Degre）是一个法国女孩，她1990年出生在非洲纳米比亚。她的父母阿兰·德格雷和茜尔维·罗伯特是专业的野生动物摄影师。蒂皮出生后就跟随父母辗转于非洲南部的沙漠、丛林，接触过许多野生动物。",
+    "summary": "《我的野生动物朋友》是蒂皮10岁回到巴黎后写下的她与非洲各种野生动物生活在一起的动人故事和亲身感受，同时编入她父母在非洲拍下的130多幅野生动物照片，文字和照片不仅值得欣赏，而且能唤起人们保护自然野生动物的意识。",
+    "series": {
+        "id": "9950",
+        "title": "人与自然文库"
+    },
+    "price": "29.00元"
+}

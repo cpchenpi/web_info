@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6095,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "曹禺"
+    ],
+    "pubdate": "1994-9-1",
+    "tags": [
+        {
+            "count": 1090,
+            "name": "曹禺",
+            "title": "曹禺"
+        },
+        {
+            "count": 1030,
+            "name": "戏剧",
+            "title": "戏剧"
+        },
+        {
+            "count": 647,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 313,
+            "name": "剧本",
+            "title": "剧本"
+        },
+        {
+            "count": 288,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 284,
+            "name": "雷雨",
+            "title": "雷雨"
+        },
+        {
+            "count": 280,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 220,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1716768.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "196",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1716768.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1716768.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1716768.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1044772/",
+    "id": "1044772",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020031889",
+    "isbn13": "9787020031887",
+    "title": "雷雨",
+    "url": "https://api.douban.com/v2/book/1044772",
+    "alt_title": "",
+    "author_intro": "曹禺（1910年-1996年），原名万家宝，字小石，祖籍湖北潜江，中国现代杰出的戏剧家，著有《雷雨》、《日出》、《原野》、《北京人》等著名作品，他一生共写过8部剧本。",
+    "summary": "本书具有一种诗意之美。这不单单得自文辞的优美，许多段落被人们反复背诵，也不仅是得自剧中人物诗意的性格，或者也可以说，是所有这一切，包括舞台提示、角色分析，汇总而后升发出的一种形而上的气质和品位。历来有研究者将本书定义为“诗剧”。\n  几十年来，本书被一代又一代人阅读，被一批又一批演员排演，时光的淘洗不曾减褪它的华彩，它已成为中国现代文学的经典之作，被译成多种文学，进入世界文学之林。",
+    "series": {
+        "id": "4492",
+        "title": "中学生课外文学名著必读"
+    },
+    "price": "8.80"
+}

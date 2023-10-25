@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11321,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "在斯万家那边",
+    "author": [
+        "[法] M·普鲁斯特"
+    ],
+    "pubdate": "1989-6",
+    "tags": [
+        {
+            "count": 4903,
+            "name": "追忆似水年华",
+            "title": "追忆似水年华"
+        },
+        {
+            "count": 3859,
+            "name": "普鲁斯特",
+            "title": "普鲁斯特"
+        },
+        {
+            "count": 2835,
+            "name": "意识流",
+            "title": "意识流"
+        },
+        {
+            "count": 1923,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1728,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 1452,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1120,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 842,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "A la recherche du temps perdu",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s26041911.jpg",
+    "binding": "精装",
+    "translator": [
+        "李恒基",
+        "徐继曾"
+    ],
+    "catalog": "编者的话\n安德烈・莫罗亚序\n试论《追忆似水年华》（代序）\n普鲁斯物色谱\n第一卷 贡布雷\n第二卷 斯万之恋\n第三卷 地名：那个姓氏\n",
+    "pages": "422",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s26041911.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s26041911.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s26041911.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1082584/",
+    "id": "1082584",
+    "publisher": "译林出版社",
+    "isbn10": "7805670196",
+    "isbn13": "9787805670195",
+    "title": "追忆似水年华 Ⅰ",
+    "url": "https://api.douban.com/v2/book/1082584",
+    "alt_title": "A la recherche du temps perdu",
+    "author_intro": "",
+    "summary": "《追忆似水年华》以独特的艺术形式，表现出文学创作上的新观念和新技巧。小说以追忆的手段，借助超越时空概念的潜在意识，不时交叉地重现已逝去的岁月，从中抒发对故人、往事的无限怀念和难以排遣的惆怅。普鲁斯特的这种写作技巧，不仅对当时小说写作的传统模式是一种突破，而且对日后形形色色新小说流派的出现，也产生了深远的影响。",
+    "series": {
+        "id": "6023",
+        "title": "追忆似水年华"
+    },
+    "price": "5.80元"
+}

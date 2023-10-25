@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 29052,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[奥] 斯蒂芬·茨威格"
+    ],
+    "pubdate": "2004-8",
+    "tags": [
+        {
+            "count": 7713,
+            "name": "茨威格",
+            "title": "茨威格"
+        },
+        {
+            "count": 5981,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 4749,
+            "name": "传记",
+            "title": "传记"
+        },
+        {
+            "count": 2767,
+            "name": "人物传记",
+            "title": "人物传记"
+        },
+        {
+            "count": 2614,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1750,
+            "name": "奥地利",
+            "title": "奥地利"
+        },
+        {
+            "count": 1737,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 1375,
+            "name": "人物",
+            "title": "人物"
+        }
+    ],
+    "origin_title": "Sternstunden der Menschheit: Vierzehn historische Miniaturen",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1134166.jpg",
+    "binding": "平装",
+    "translator": [
+        "舒昌善"
+    ],
+    "catalog": "序言\n到不朽的事业中寻求庇护\n拜占庭的陷落\n韩德尔的复活\n一夜之间的天才\n滑铁卢的一分钟\n玛丽恩巴德悲歌\n黄金国的发现\n英雄的瞬间\n越过大洋的第一次通话\n逃向苍天\n夺以南极的斗争\n封闭的列车\n第一版译者后记\n第二版译者后记",
+    "pages": "231",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1134166.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1134166.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1134166.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1083762/",
+    "id": "1083762",
+    "publisher": "广西师范大学出版社",
+    "isbn10": "756334912X",
+    "isbn13": "9787563349128",
+    "title": "人类的群星闪耀时",
+    "url": "https://api.douban.com/v2/book/1083762",
+    "alt_title": "Sternstunden der Menschheit: Vierzehn historische Miniaturen",
+    "author_intro": "斯蒂芬·茨威格（Stefan Zweig，1881一1942），奥地利著名小说家，传记作家，出身于富裕的犹太人家庭。主要作品有《三大师传》《象棋的放事》《昨日的世界》等。青年时代游历世界各地，结识罗曼·罗兰和罗丹等人，并受到他们的影响。第一次世界大战时从事反战工作，成为著 名的和平主义者，鼓吹欧洲的统一。20世纪20年代赴苏联，认识了高尔基。1934年遭纳粹驱逐，先后流亡英国、巴西。1942年在孤寂和理想幻灭中与妻子双双自杀。",
+    "summary": "《人类群星闪耀时》由奥地利著名小说家创作。《人类群星闪耀时》内容：涌动着匪徒、探险家、叛乱者兼英雄血液的巴尔沃亚成为第一个看到太平洋的欧洲人；仅仅一秒钟的优柔寡断，格鲁希元帅就决定了拿破仑在滑铁卢之战中失败的命运；七十多岁的歌德像情窦初开的男孩爱上了十几岁的少女，求婚未遂之后，老人在萧萧秋色中一气呵成地创作了《玛丽恩巴德悲歌》；流亡国外的列宁不顾自己的荣辱毁誉，乘坐一列铅封的火车取道德国返回俄国，十月革命就这样开启了历史的火车头……",
+    "series": {
+        "id": "534",
+        "title": "影响过一代人的书"
+    },
+    "price": "18.00元"
+}

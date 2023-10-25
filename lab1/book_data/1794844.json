@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 19677,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "蔡康永"
+    ],
+    "pubdate": "2006-7",
+    "tags": [
+        {
+            "count": 6193,
+            "name": "蔡康永",
+            "title": "蔡康永"
+        },
+        {
+            "count": 2163,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 2004,
+            "name": "有一天啊，宝宝……",
+            "title": "有一天啊，宝宝……"
+        },
+        {
+            "count": 1476,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 904,
+            "name": "感悟",
+            "title": "感悟"
+        },
+        {
+            "count": 826,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 713,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 273,
+            "name": "宝宝",
+            "title": "宝宝"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1755696.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "出生地\n插座\n树\n没有听见的歌\n二选一\n锁和钥匙\n剪刀\n诗\n没画到的地方\n猪肉罐头\n路过\n水球\n床\n影子\n星期一\n一个月一次\n那张照片\n误会\n会笑的动物\n秘密\n铁血恋爱\n这种新闻\n谁在整我们\n唯一的蜘蛛\n典礼\n还是曲礼\n书人\n找深度\n误解\n文字\n玩偶\n医院不是我的家\n算命\n那一题\n镜子\n……",
+    "pages": "223",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1755696.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1755696.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1755696.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1794844/",
+    "id": "1794844",
+    "publisher": "当代世界出版社",
+    "isbn10": "7509000815",
+    "isbn13": "9787509000816",
+    "title": "有一天啊，宝宝……",
+    "url": "https://api.douban.com/v2/book/1794844",
+    "alt_title": "",
+    "author_intro": "蔡康永，觉得所有宝宝都和他无关，又觉得所有宝宝都和他有关。 有关小时候的事，可参考《痛快日记》。求学的事，可参考《LA流浪记》。交朋友的事，可参考《那些男孩教我的事》。 蔡康永从20世纪到21世纪，渐渐花越来越多时间在电视节目上，电视上的他到底能有多少灵魂，是他很爱嘀咕的事。 蔡康永，抵达地点是台北，离开地点还不知道。",
+    "summary": "这是蔡康永在节目搭档小S怀孕期间，以和小S未出生的宝宝聊天的语气写作并结集出版的随笔集。篇篇短小精湛，充满着智慧与禅机，早已超越了对特定人和物的看法，而上升到了对人生的感悟。\n蔡康永对生活的态度，有时轻松有时庄重；蔡康永看见的世界，有时荒谬有时缤纷。透过蔡康永最深情最温柔的文字，你将发现，原来人生是这么精彩好玩的！",
+    "series": {
+        "id": "11151",
+        "title": "蔡康永作品"
+    },
+    "price": "22.00元"
+}

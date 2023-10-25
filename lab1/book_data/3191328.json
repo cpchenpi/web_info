@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 73386,
+        "average": "6.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "郭敬明"
+    ],
+    "pubdate": "2008-10",
+    "tags": [
+        {
+            "count": 11925,
+            "name": "郭敬明",
+            "title": "郭敬明"
+        },
+        {
+            "count": 5931,
+            "name": "小时代1.0折纸时代",
+            "title": "小时代1.0折纸时代"
+        },
+        {
+            "count": 4921,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4229,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 3157,
+            "name": "青春文学",
+            "title": "青春文学"
+        },
+        {
+            "count": 2473,
+            "name": "小时代",
+            "title": "小时代"
+        },
+        {
+            "count": 1518,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 1336,
+            "name": "小四",
+            "title": "小四"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3251696.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "Chapter 01\nChapter 02\nChapter 03\nChapter 04\nChapter 05\nChapter 06\nChapter 07\nChapter 08\nChapter 09\nChapter 10\nChapter 11\nChapter 12\nChapter 13\nChapter 14\nChapter 15\nChapter 16",
+    "pages": "301",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3251696.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3251696.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3251696.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3191328/",
+    "id": "3191328",
+    "publisher": "长江文艺出版社",
+    "isbn10": "7535438172",
+    "isbn13": "9787535438171",
+    "title": "小时代1.0折纸时代",
+    "url": "https://api.douban.com/v2/book/3191328",
+    "alt_title": "菊花酵母华丽丽45°最新力作",
+    "author_intro": "郭敬明，网名：第四维；别名：小四，四崽，四维。2001年因作品《剧本》获得第三届全国新概念作文大赛一等奖，2002年因作品《我们最后的校园民谣》获得第四届全国新概念作文大赛一等奖。\n主要作品：《爱与痛的边缘》《幻城》《左手倒影右手年华》《梦里花落知多少》《猜火车》《1995－2005夏至未至》 音乐小说《迷藏》、主编《岛》系列《无极》《悲伤逆流成河》主编《最小说》《N世界》等。",
+    "summary": "故事以经济飞速发展的上海这座风光而时尚的城市为背景，讲述了林萧、南湘、顾里、唐宛如四个从小感情深厚、有着不同价值观和人生观的女生，先后所经历的友情、爱情，乃至亲情的巨大转变，是一部当下时尚年轻人生活的真实写照。\n在一个宿舍朝夕相处的四个女生，开始了找工作实习的忙碌生活，面对巨大生存压力，在看似平静的校园生活相继发生着让她们措手不及、不知如何面对、抉择的事情。\n郭敬明在本书中，采用全新的叙述笔调，加入大量时尚元素，随处可见轻松搞笑的对话与内容，时而让人捧腹大笑，时而令人扼腕叹息。",
+    "series": {
+        "id": "9973",
+        "title": "小时代"
+    },
+    "price": "29.80元"
+}

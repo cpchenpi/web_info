@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 47637,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "安妮宝贝"
+    ],
+    "pubdate": "2004-10",
+    "tags": [
+        {
+            "count": 13837,
+            "name": "安妮宝贝",
+            "title": "安妮宝贝"
+        },
+        {
+            "count": 6545,
+            "name": "清醒纪",
+            "title": "清醒纪"
+        },
+        {
+            "count": 3888,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 2809,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 1389,
+            "name": "安妮",
+            "title": "安妮"
+        },
+        {
+            "count": 1130,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 826,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 790,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1071442.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "一 一日。日光照耀\n1 一日 栀子\n2 二日 海啸\n3 三日 朋友\n4 四日 诗句\n5 五日 蝴蝶\n6 六日 做梦\n7 七日 疑问\n8 八日 醒来\n9 九日 关系\n10 十日 阅读\n11 十一日 北京\n12 十二日 手表\n13 十三日 空谷幽兰\n14 十四日 吸烟及小电影\n15 十五日 拥抱\n16 十六日 出现\n17 十七日 STAY\n18 十八日 自省\n19 十九日 日光照耀\n20 二十日 贝蒂的生活\n21 二十一日 拍照\n22 二十二日 说话\n23 二十三日 春耻\n24 二十四日 JUDY的鞋子\n25 二十五日 爱人\n26 二十六日 抚摸\n27 二十七日 弟弟\n28 二十八日 电视\n29 二十九日 文森特\n30 三十日 夜色\n31 三十一日 唱片\n二 又一日。醒来\n……\n三 再一日。记得\n……\nSo..如此\n……",
+    "pages": "240",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1071442.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1071442.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1071442.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1030052/",
+    "id": "1030052",
+    "publisher": "天津人民出版社",
+    "isbn10": "7201048848",
+    "isbn13": "9787201048840",
+    "title": "清醒纪",
+    "url": "https://api.douban.com/v2/book/1030052",
+    "alt_title": "",
+    "author_intro": "安妮宝贝，自由作家，现居北京。曾任职金融广告网络等行业。已出版短篇小说集《告别薇安》，散文及短篇小说集《八月未央》，长篇小说《彼岸花》，摄影图文集《蔷薇岛屿》。",
+    "summary": "《清醒纪》是安妮宝贝的随笔、小说集。",
+    "series": {
+        "id": "58858",
+        "title": "新经典文库·安妮宝贝作品"
+    },
+    "price": "22.00元"
+}

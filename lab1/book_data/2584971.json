@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6420,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "池袋西口公园2",
+    "author": [
+        "石田衣良"
+    ],
+    "pubdate": "2008-03",
+    "tags": [
+        {
+            "count": 1772,
+            "name": "石田衣良",
+            "title": "石田衣良"
+        },
+        {
+            "count": 915,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 624,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 543,
+            "name": "计数器少年：池袋西口公园2",
+            "title": "计数器少年：池袋西口公园2"
+        },
+        {
+            "count": 512,
+            "name": "池袋西口公园",
+            "title": "池袋西口公园"
+        },
+        {
+            "count": 510,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 481,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 300,
+            "name": "青春",
+            "title": "青春"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2869704.jpg",
+    "binding": "平装",
+    "translator": [
+        "千日"
+    ],
+    "catalog": "1、妖精之庭\n2、计数器少年\n3、银十字\n4、水中之眼",
+    "pages": "260",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2869704.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2869704.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2869704.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2584971/",
+    "id": "2584971",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208075409",
+    "isbn13": "9787208075405",
+    "title": "计数器少年",
+    "url": "https://api.douban.com/v2/book/2584971",
+    "alt_title": "",
+    "author_intro": "石田衣良（Ishida Ira）\n日本当代最具人气的畅销小说作家，作品大多具有很强的话题性，针对对应现代生活的某个侧面，以引人入胜的故事展开都市新一代的生活感受，被日本文坛誉为“现代感觉の妙手”。\n生于东京，成蹊大学经济系毕业。做过地下铁工人、保安、仓库管理，也曾任职日本广告公司。患有轻微的交际恐惧症。写作时热爱聆听古典音乐，作品音乐性极强，流畅起伏，高潮迭起。",
+    "summary": "你曾经数过斑马线的白线吗？\n以马路的对面为目标，一边数着有点厚度、被冬日太阳晒到发亮的白线，一边穿越它。极其慎重地移动脚步，深怕自己跌落黑色柏油的谷底似的。白线有十七条。绝妙的质数。除了自己和一以外，再无法被其他数字整除。他说，这是没有朋友的，代表孤独的好数字。\n藉由将世界替换成数字，那小子才能安心。为了确认自己是谁，整日数着自己的心跳和呼吸次数。那小子说，自己不是人类。自己只是计数器，不是人。",
+    "series": {
+        "id": "1989",
+        "title": "池袋西口公园系列"
+    },
+    "price": "19.0"
+}

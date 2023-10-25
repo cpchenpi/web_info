@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8712,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "富江 1",
+    "author": [
+        "伊藤潤二"
+    ],
+    "pubdate": "1998-9-5",
+    "tags": [
+        {
+            "count": 1943,
+            "name": "伊藤润二",
+            "title": "伊藤润二"
+        },
+        {
+            "count": 1342,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 832,
+            "name": "恐怖漫画",
+            "title": "恐怖漫画"
+        },
+        {
+            "count": 723,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 694,
+            "name": "恐怖",
+            "title": "恐怖"
+        },
+        {
+            "count": 494,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 460,
+            "name": "伊藤潤二",
+            "title": "伊藤潤二"
+        },
+        {
+            "count": 431,
+            "name": "富江",
+            "title": "富江"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s26095969.jpg",
+    "binding": "平裝",
+    "translator": [
+        "何力"
+    ],
+    "catalog": "",
+    "pages": "254",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s26095969.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s26095969.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s26095969.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1442680/",
+    "id": "1442680",
+    "publisher": "東立",
+    "isbn10": "9573469154",
+    "isbn13": "9789573469155",
+    "title": "伊藤潤二恐怖漫畫精選【1】",
+    "url": "https://api.douban.com/v2/book/1442680",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "難以形容的恐懼！死後不斷再生的【富江】，她如妖女般的神奇魅力，吸引你我的目光！由伊藤潤二執筆的恐怖女王淒絕的微笑！（來源：博客來書籍館）",
+    "series": {
+        "id": "4438",
+        "title": "伊藤润二恐怖漫画精选"
+    },
+    "price": "新台币100元"
+}

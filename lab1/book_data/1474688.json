@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10975,
+        "average": "9.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "鳥山明"
+    ],
+    "pubdate": "1993年01月15日",
+    "tags": [
+        {
+            "count": 1603,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1597,
+            "name": "鸟山明",
+            "title": "鸟山明"
+        },
+        {
+            "count": 1477,
+            "name": "阿拉蕾",
+            "title": "阿拉蕾"
+        },
+        {
+            "count": 674,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 408,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 207,
+            "name": "有趣",
+            "title": "有趣"
+        },
+        {
+            "count": 173,
+            "name": "动漫",
+            "title": "动漫"
+        },
+        {
+            "count": 135,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2380421.jpg",
+    "binding": "平裝",
+    "translator": [
+        "陳慧如"
+    ],
+    "catalog": "",
+    "pages": "192頁",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2380421.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2380421.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2380421.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1474688/",
+    "id": "1474688",
+    "publisher": "時報文化",
+    "isbn10": "9571306037",
+    "isbn13": "9789571306032",
+    "title": "機器娃娃(1)",
+    "url": "https://api.douban.com/v2/book/1474688",
+    "alt_title": "阿拉蕾",
+    "author_intro": "",
+    "summary": "這部漫畫讓鳥山明風靡全日本這部漫畫讓機器娃娃阿拉蕾成為日本人的最愛。幽默的經典，讓你爆笑到最頂點。",
+    "series": {
+        "id": "10536",
+        "title": "機器娃娃"
+    },
+    "price": "NT$75"
+}

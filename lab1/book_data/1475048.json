@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8927,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "高木直子"
+    ],
+    "pubdate": "2006年1月25日",
+    "tags": [
+        {
+            "count": 2693,
+            "name": "高木直子",
+            "title": "高木直子"
+        },
+        {
+            "count": 2167,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 906,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 776,
+            "name": "150cm",
+            "title": "150cm"
+        },
+        {
+            "count": 531,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 335,
+            "name": "Life",
+            "title": "Life"
+        },
+        {
+            "count": 289,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 249,
+            "name": "繪本",
+            "title": "繪本"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1492718.jpg",
+    "binding": "",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1492718.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1492718.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1492718.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1475048/",
+    "id": "1475048",
+    "publisher": "大田",
+    "isbn10": "9574559513",
+    "isbn13": "9789574559510",
+    "title": "150cm Life 2",
+    "url": "https://api.douban.com/v2/book/1475048",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "依然只有150cm，\n進入游泳池只敢停在130 公分處；\n依然只有150cm,\n開車椅背一定要保持90 度直角;\n依然只有150cm，\n看牙總被醫師師說：再坐上來一點、再坐上來一點……\n依然只有150cm，\n不能改變身高，就改變心情吧！",
+    "price": "新台币88元"
+}

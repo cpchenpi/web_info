@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9210,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "峰仓和也"
+    ],
+    "pubdate": "2002-9",
+    "tags": [
+        {
+            "count": 1306,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1249,
+            "name": "峰仓和也",
+            "title": "峰仓和也"
+        },
+        {
+            "count": 879,
+            "name": "最游记",
+            "title": "最游记"
+        },
+        {
+            "count": 546,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 340,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 192,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 128,
+            "name": "动漫",
+            "title": "动漫"
+        },
+        {
+            "count": 89,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s9923209.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s9923209.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s9923209.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s9923209.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1193821/",
+    "id": "1193821",
+    "publisher": "河南大学出版社",
+    "isbn10": "7810419803",
+    "isbn13": "9787810419802",
+    "title": "最游记",
+    "url": "https://api.douban.com/v2/book/1193821",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "负面波动袭击了人类与妖怪，化学与妖术共存的“桃源乡”，导致妖怪暴走打破了世界的均衡。为了阻止这次灾难的元凶——牛魔王的复活实验，三藏一行人踏上了前往西方天竺国的旅途。\n在雪山中遇难的三藏一行被未受异变影响的妖怪耶云所救，并得知他在山中抚养了许多幸免遇难的妖怪们的孩子，而然，耶云却面临着巨大的矛盾和苦恼。三藏一行来到了一个小镇上，独自留在旅馆中的三藏面前突然出现了一个和他一模一样的人。\n与此同时，外出购物的八戒等人面前也出了与自已一模一样的敌人……",
+    "price": ""
+}

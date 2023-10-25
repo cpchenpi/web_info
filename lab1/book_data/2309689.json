@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9777,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "战局篇",
+    "author": [
+        "王强"
+    ],
+    "pubdate": "2006-1",
+    "tags": [
+        {
+            "count": 2719,
+            "name": "职场",
+            "title": "职场"
+        },
+        {
+            "count": 1663,
+            "name": "商战",
+            "title": "商战"
+        },
+        {
+            "count": 1398,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1028,
+            "name": "销售",
+            "title": "销售"
+        },
+        {
+            "count": 906,
+            "name": "圈子圈套",
+            "title": "圈子圈套"
+        },
+        {
+            "count": 737,
+            "name": "职场小说",
+            "title": "职场小说"
+        },
+        {
+            "count": 506,
+            "name": "营销",
+            "title": "营销"
+        },
+        {
+            "count": 428,
+            "name": "商业",
+            "title": "商业"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3023830.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "252",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3023830.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3023830.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3023830.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2309689/",
+    "id": "2309689",
+    "publisher": "清华大学出版社",
+    "isbn10": "7302163650",
+    "isbn13": "9787302163657",
+    "title": "圈子圈套1",
+    "url": "https://api.douban.com/v2/book/2309689",
+    "alt_title": "",
+    "author_intro": "王强，在清华大学获得工科硕士学位后，出人意料地到联想集团做了一名最底层的销售员，然后先后在SSA中国公司、西门子中国有限公司、Siebel Systems和SAS Institute等多家知名外企工作。短短七年间，从国内企业的一名普通员工飙升到外企在华机构的的最高层，先后担任两家跨国软件巨头在中国区的总经理，堪称职场精英，有着令人称奇的丰富经历。\n自2005年开始，王强将自己十数载的商海经历和职场体悟以小说的形式发表于网上，旋即引起哄动，为广大读者所热棒，开创了商界精英创作专业题材小说的先河。",
+    "summary": "虽然没有硝烟，却比战场更血腥；虽然并未战死，却比死亡更痛苦。 洪钧从一个底层的销售人员，成为一家著名的跨国公司的中国区代理首席代表，在即将被扶正，事业情感都志得意满的时候，掉入俞威设计的圈套，跌入职场与情场的双重深渊。两个昔日好友因为同在一个圈子，两成为夙敌……",
+    "series": {
+        "id": "10719",
+        "title": "圈子圈套"
+    },
+    "price": "28.00元"
+}

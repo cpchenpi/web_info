@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 11142,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "我的情感历程",
+    "author": [
+        "胡兰成"
+    ],
+    "pubdate": "2003-9",
+    "tags": [
+        {
+            "count": 4450,
+            "name": "胡兰成",
+            "title": "胡兰成"
+        },
+        {
+            "count": 1862,
+            "name": "今生今世",
+            "title": "今生今世"
+        },
+        {
+            "count": 1485,
+            "name": "张爱玲",
+            "title": "张爱玲"
+        },
+        {
+            "count": 1168,
+            "name": "回忆录",
+            "title": "回忆录"
+        },
+        {
+            "count": 1089,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 797,
+            "name": "传记",
+            "title": "传记"
+        },
+        {
+            "count": 630,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 467,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s4368388.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "目录\n序/止庵\n韶华胜极\n桃花\n胡村月令\n桐阴委羽\n古镜新记\n怨东风\n展开牡丹\n有凤来仪\n凤兮凤兮\n世上人家\n民国女子\n汉皋解佩\n天涯道路\n永嘉佳日\n雁荡兵气\n瀛海三浅",
+    "pages": "345",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s4368388.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s4368388.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s4368388.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1015403/",
+    "id": "1015403",
+    "publisher": "中国社会科学出版社",
+    "isbn10": "7500438842",
+    "isbn13": "9787500438847",
+    "title": "今生今世",
+    "url": "https://api.douban.com/v2/book/1015403",
+    "alt_title": "",
+    "author_intro": "胡兰成（1906-1981），生于浙江嵊县（今嵊州），1927年从燕京大学中途退学。抗战时期，曾任汪精卫政权掌控下的《中华日报》总主笔，抗战胜利后，经香港逃亡日本。在日本期间开始学习日语，结识数学家风洁、诺贝尔物理学奖得主汤村秀树以及诺贝尔文学奖得主川端康成，遂成就其学问体系。1981年7月25日在东京病逝。著有《今生今世》、《山河岁月》、《禅是一枝花》、《中国礼乐》、《中国文学史话》、《今日何日兮》。",
+    "summary": "《今生今世》是胡兰成坎坷一生的自传，他到日本后写成，书名为张爱玲所取。书中，他多情地描述了自己的生活和爱情。",
+    "price": "23.80元"
+}

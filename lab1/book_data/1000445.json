@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6159,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "从大爆炸到黑洞",
+    "author": [
+        "史蒂芬・霍金"
+    ],
+    "pubdate": "2003-01",
+    "tags": [
+        {
+            "count": 1450,
+            "name": "科普",
+            "title": "科普"
+        },
+        {
+            "count": 1017,
+            "name": "霍金",
+            "title": "霍金"
+        },
+        {
+            "count": 792,
+            "name": "时间简史",
+            "title": "时间简史"
+        },
+        {
+            "count": 758,
+            "name": "物理",
+            "title": "物理"
+        },
+        {
+            "count": 576,
+            "name": "科学",
+            "title": "科学"
+        },
+        {
+            "count": 542,
+            "name": "宇宙",
+            "title": "宇宙"
+        },
+        {
+            "count": 505,
+            "name": "自然科学",
+            "title": "自然科学"
+        },
+        {
+            "count": 429,
+            "name": "史蒂芬.霍金",
+            "title": "史蒂芬.霍金"
+        }
+    ],
+    "origin_title": "A brief history of time : from the Big Bang to black holes",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3437737.jpg",
+    "binding": "平装",
+    "translator": [
+        "吴忠超",
+        "许明贤"
+    ],
+    "catalog": "前言\n第一章 我们的宇宙图像\n第二章 空间和时间\n第三章 膨胀的宇宙\n第四章 不确定性原理\n第五章 基本粒子和自然的力\n第六章 黑洞\n第七章 黑洞不是这么黑的\n第八章 宇宙的起源和命运\n第九章 时间箭头\n第十章 虫洞和时间旅行\n第十一章 物理学的统一\n第十二章 结论\n阿尔贝特・爱因斯坦\n伽利略・伽利雷\n伊萨克・牛顿\n小辞典",
+    "pages": "186",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3437737.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3437737.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3437737.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1000445/",
+    "id": "1000445",
+    "publisher": "湖南科学技术出版社",
+    "isbn10": "7535710654",
+    "isbn13": "9787535710659",
+    "title": "时间简史",
+    "url": "https://api.douban.com/v2/book/1000445",
+    "alt_title": "A brief history of time : from the Big Bang to black holes",
+    "author_intro": "史蒂芬·霍金（Stephen W.Hawking），1942年出生于伽利略逝世的三百周年纪念日。他现任剑桥大学卢卡斯数学教授（一度曾为牛顿所任），并广被尊崇为继爱因斯坦以来最杰出的理论物理学家。",
+    "summary": "本书是“第一推动丛书”第一辑的一种。 时间有初始吗？它又将在何地终结呢？宇宙是无限的还是有限的？ 霍金教授遨游到外层空间奇异领域，对遥远星系、黑洞、夸克、大统一理论、“带味”粒子和“自旋”粒子、反物质、“时间箭头”等进行了深入探讨--其出乎意外的含义引起了人们的极大兴趣。他揭示了当日益膨胀的宇宙崩溃时，时间倒溯引起人们不安的可能性，那时宇宙分裂成11维空间，一种“没有边界”的宇宙理论可能取代大爆炸理论和上帝，上帝--也许曾是造万物时主要推动者，也会因这些新发现而日渐范围变窄。\n《时间简史》对我们这些喜用言语表达甚于方程式表达的读者而言是一本里程碑式的佳书。她出于一个对人类思想有杰出贡献者之手，这是一本对知识无限追求之作，是对时空本质之谜不懈探讨之作。",
+    "series": {
+        "id": "1700",
+        "title": "第一推动丛书"
+    },
+    "price": "15.00"
+}

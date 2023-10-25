@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 12647,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "亦舒"
+    ],
+    "pubdate": "1996",
+    "tags": [
+        {
+            "count": 4042,
+            "name": "亦舒",
+            "title": "亦舒"
+        },
+        {
+            "count": 1649,
+            "name": "喜宝",
+            "title": "喜宝"
+        },
+        {
+            "count": 1208,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 686,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 639,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 386,
+            "name": "言情",
+            "title": "言情"
+        },
+        {
+            "count": 273,
+            "name": "师太",
+            "title": "师太"
+        },
+        {
+            "count": 172,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1041805.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "252",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1041805.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1041805.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1041805.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1051797/",
+    "id": "1051797",
+    "publisher": "海天出版社",
+    "isbn10": "7806154248",
+    "isbn13": "9787806154243",
+    "title": "喜宝",
+    "url": "https://api.douban.com/v2/book/1051797",
+    "alt_title": "",
+    "author_intro": "亦舒1946年生于上海，祖籍浙江镇海，五岁時来港定居，中学毕业后，曾在《明报》任职记者，及担任电影杂志采访和编辑等。1973年，亦舒赴英国修读酒店食物管理課程，三年后回港，任职富丽华酒店公关部，后进入政府新闻处担任新闻官，也曾当过电视台编剧。现为专业作家，并已移居加拿大。",
+    "summary": "富家女勖聪慧热情地邀请刚认识的剑桥高材生——姜喜宝，参加自己的订婚家宴，是有意制造机会以撮合她和哥哥勋聪恕。在家宴上，聪慧的父亲勋存姿，为喜宝的才智、谈吐以及美貌所征服，于是也向喜宝展开追求。喜宝在其父亲、儿子的双双夹击下，非常现实地选择了父亲，于是她得到了想得到的一切，甚至更多。喜宝做了勖存姿的女人后，虽然得到了金钱与物质上的满足，但却耐不住感情与生理上的寂寞和空虚，她需要更为实在的爱情和属于自己的生活。勖存姿发现喜宝另有所爱，竟冷酷地当着喜宝的面，枪杀了她的男友。喜宝绝望了，但她怎么也逃不脱勖存姿的牢笼。\n几年后，勖存姿去世，喜宝变成最富有的女人，但她明白，她得到了金钱，却失去了一切，青春、爱情、生命力……",
+    "series": {
+        "id": "5510",
+        "title": "亦舒作品系列"
+    },
+    "price": "18.00元"
+}

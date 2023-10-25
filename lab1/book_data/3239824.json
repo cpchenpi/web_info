@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5036,
+        "average": "7.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "格非",
+        "贾樟柯 等"
+    ],
+    "pubdate": "2008-10",
+    "tags": [
+        {
+            "count": 2053,
+            "name": "电影",
+            "title": "电影"
+        },
+        {
+            "count": 1192,
+            "name": "一个人的电影",
+            "title": "一个人的电影"
+        },
+        {
+            "count": 825,
+            "name": "贾樟柯",
+            "title": "贾樟柯"
+        },
+        {
+            "count": 420,
+            "name": "格非",
+            "title": "格非"
+        },
+        {
+            "count": 227,
+            "name": "王小帅",
+            "title": "王小帅"
+        },
+        {
+            "count": 212,
+            "name": "王朔",
+            "title": "王朔"
+        },
+        {
+            "count": 184,
+            "name": "田壮壮",
+            "title": "田壮壮"
+        },
+        {
+            "count": 157,
+            "name": "散.文",
+            "title": "散.文"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3318564.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "乡村电影普普通通的愿望一九八四年的夏天我们对往事总有一种伤怀士为知己者死的过程最动人电影改变人生独特的叙述者和记录者电影人的尴尬全世界的导演都在解决时间问題朴素的构成中国电影的现实忧愁每部电影都有一部传奇转换于演员导演之间我内心有无限的黑暗和光亮",
+    "pages": "332",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3318564.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3318564.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3318564.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3239824/",
+    "id": "3239824",
+    "publisher": "中信出版社",
+    "isbn10": "750861271X",
+    "isbn13": "9787508612713",
+    "title": "一个人的电影",
+    "url": "https://api.douban.com/v2/book/3239824",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "这本书是著名导演、著名作家对电影的情感和感觉记录。\n张艺谋、贾樟柯、田壮壮等内地导演，台湾电影教母焦雄屏，作家格非、王朔、李陀，毛尖，在书中讲述他们各自的影像生活、那些在他们生命中留下痕迹的电影以及由此唤醒的已然流逝的青春流年。读者可从中窥见一个时代隐约的背影。这是十年来《收获》杂志的经典专栏《一个人的电影》首次结集出版。",
+    "price": "26.00"
+}

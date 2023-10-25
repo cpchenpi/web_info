@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8192,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "韩寒"
+    ],
+    "pubdate": "2006-9",
+    "tags": [
+        {
+            "count": 1767,
+            "name": "韩寒",
+            "title": "韩寒"
+        },
+        {
+            "count": 600,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 563,
+            "name": "像少年啦飞驰",
+            "title": "像少年啦飞驰"
+        },
+        {
+            "count": 334,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 172,
+            "name": "80后",
+            "title": "80后"
+        },
+        {
+            "count": 138,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 133,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 114,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2027539.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "218",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2027539.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2027539.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2027539.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1914083/",
+    "id": "1914083",
+    "publisher": "二十一世纪出版社",
+    "isbn10": "753913531X",
+    "isbn13": "9787539135311",
+    "title": "像少年啦飞驰",
+    "url": "https://api.douban.com/v2/book/1914083",
+    "alt_title": "",
+    "author_intro": "韩寒，1982年9月23日生。作家。赛车手。已出版著作《三重门》、《零下一度》、《像少年啦飞驰》、《通稿2003》、《毒》、《韩寒五年文集》、《长安乱》、《就这么漂来漂去》、《一座城池》。",
+    "summary": "小说以第一人称的写作手法讲述了“我”的生活，为读者展示了一个颇具叛逆性的人物。\n初涉社会，人物成长的过程中体会了社会的复杂和现实的残酷以及人心的不可探测，所以许多是作者的真实感受，是渗透阅历的写作。有失望、迷惘，但不断追求。",
+    "series": {
+        "id": "55401",
+        "title": "韩寒文集（2006版）"
+    },
+    "price": "18.00元"
+}

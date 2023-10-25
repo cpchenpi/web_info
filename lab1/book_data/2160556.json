@@ -1,0 +1,74 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 18953,
+        "average": "9.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "pubdate": "1962",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2619779.jpg",
+    "binding": "平装",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2619779.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2619779.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2619779.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2160556/",
+    "id": "2160556",
+    "title": "十万个为什么",
+    "author_intro": "暂缺",
+    "tags": [
+        {
+            "count": 2337,
+            "name": "科普",
+            "title": "科普"
+        },
+        {
+            "count": 1952,
+            "name": "十万个为什么",
+            "title": "十万个为什么"
+        },
+        {
+            "count": 1174,
+            "name": "小时候的书",
+            "title": "小时候的书"
+        },
+        {
+            "count": 1032,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 992,
+            "name": "启蒙",
+            "title": "启蒙"
+        },
+        {
+            "count": 645,
+            "name": "儿童",
+            "title": "儿童"
+        },
+        {
+            "count": 552,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 458,
+            "name": "小时候",
+            "title": "小时候"
+        }
+    ],
+    "origin_title": "",
+    "price": "30.00元",
+    "translator": [],
+    "catalog": "",
+    "pages": "14册",
+    "publisher": "少年儿童出版社",
+    "isbn10": "SH13024-22",
+    "alt_title": "",
+    "url": "https://api.douban.com/v2/book/2160556",
+    "author": [],
+    "summary": "1980年《十万个为什么》开始进行第三次大修订，推出第四版。这次大修订，肯定了初版本的特色，否定了“文革”版本，大体上保持第二版的规模和创作特色，仍是14分册，仍是保持通俗易懂、生动活泼、引人入胜的风格。第四版仍为14个分册，包括数学1、物理2、化学2、动物2、植物2、地学1、天文1、气象1、医学2。自1980年4月起至1981年10月出齐。这一版除拨乱反正了第3版受“阶级斗争”、“路线斗争”影响的内容外，还根据科学技术的发展，增加了许多新的内容。\n1990年初，又着手编辑10个分册的“续编本”，于1993年3月一次出齐，同前14个分册合在一起，至此，《十万个为什么》第四版共计24个分册，包括数学2、物理3、化学3、动物3、植物3、地学2、天文2、气?2、医学4。"
+}

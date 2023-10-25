@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 1895,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "マグナス (写真)"
+    ],
+    "pubdate": "2005-11-30",
+    "tags": [
+        {
+            "count": 598,
+            "name": "宫崎葵",
+            "title": "宫崎葵"
+        },
+        {
+            "count": 478,
+            "name": "写真",
+            "title": "写真"
+        },
+        {
+            "count": 347,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 263,
+            "name": "写真集",
+            "title": "写真集"
+        },
+        {
+            "count": 213,
+            "name": "宮崎あおい",
+            "title": "宮崎あおい"
+        },
+        {
+            "count": 210,
+            "name": "摄影",
+            "title": "摄影"
+        },
+        {
+            "count": 135,
+            "name": "光―宮崎あおい写真集",
+            "title": "光―宮崎あおい写真集"
+        },
+        {
+            "count": 84,
+            "name": "宮崎あおい写真集",
+            "title": "宮崎あおい写真集"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2897438.jpg",
+    "binding": "大型本",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2897438.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2897438.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2897438.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1914127/",
+    "id": "1914127",
+    "publisher": "ネコ・パブリッシング",
+    "isbn10": "4777051226",
+    "isbn13": "9784777051229",
+    "title": "宮崎あおい写真集 20TH ANNIVERSARY 「光」",
+    "url": "https://api.douban.com/v2/book/1914127",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "出版社/著者からの内容紹介\nカメラマンにマグナス・ウナー、スタイリングにニコラ・フォルミケッティという世界のファッション業界で活躍する2人のア＼＼\nーティストを迎え、神秘的な世界がいまも残る中国・雲南の地を舞台に長期撮影を敢行。これまでにない彼女の表情がたくさん詰まっています＼＼\n。\nまた、A３という大判サイズに収めることにより、まるでポスターを一冊の本にまとめたようなアーティスティックな魅力に溢れた作品に仕上＼\nがっています。\n内容（「MARC」データベースより）\n20歳になる前に見た、光。中国のやわらかい、光。心に射し込む、光。未来に放つ、光。いろんな色に変化する、光-。「光」をテーマにして撮影した宮崎あおいのポートレート写真集。",
+    "price": "JPY 10000"
+}

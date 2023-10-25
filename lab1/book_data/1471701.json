@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3455,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "三毛散文全编",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "1993-07",
+    "tags": [
+        {
+            "count": 1070,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 335,
+            "name": "梦里花落知多少",
+            "title": "梦里花落知多少"
+        },
+        {
+            "count": 256,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 162,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 95,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 83,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 69,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 53,
+            "name": "爱情",
+            "title": "爱情"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3029289.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "179",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3029289.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3029289.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3029289.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1471701/",
+    "id": "1471701",
+    "publisher": "湖南文艺出版社",
+    "isbn10": "7540411600",
+    "isbn13": "9787540411602",
+    "title": "梦里花落知多少",
+    "url": "https://api.douban.com/v2/book/1471701",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "\n      ",
+    "series": {
+        "id": "2082",
+        "title": "三毛散文全编"
+    },
+    "price": "4.20"
+}

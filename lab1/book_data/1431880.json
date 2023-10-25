@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 2914,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "CLAMP"
+    ],
+    "pubdate": "1998/01/01",
+    "tags": [
+        {
+            "count": 663,
+            "name": "clamp",
+            "title": "clamp"
+        },
+        {
+            "count": 568,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 296,
+            "name": "clover",
+            "title": "clover"
+        },
+        {
+            "count": 207,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 172,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 83,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 81,
+            "name": "唯美",
+            "title": "唯美"
+        },
+        {
+            "count": 66,
+            "name": "CLAMP",
+            "title": "CLAMP"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1445707.jpg",
+    "binding": "平裝",
+    "translator": [
+        "Connie"
+    ],
+    "catalog": "",
+    "pages": "124頁",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1445707.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1445707.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1445707.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1431880/",
+    "id": "1431880",
+    "publisher": "東販",
+    "isbn10": "9576436370",
+    "isbn13": "9789576436376",
+    "title": "CLOVER(01)",
+    "url": "https://api.douban.com/v2/book/1431880",
+    "alt_title": "CLOVER",
+    "author_intro": "",
+    "summary": "超級情報員所被委托的極機密任務，竟只是護送一位少女到她所想去的地方，但半途上所遇到的阻擾讓他開始懷疑……\n若能找到有四瓣葉片的苜蓿草，就能得到幸福。不過，請保密。苜蓿草的白色花朵綻放於何處，而它又有幾瓣葉片，四片葉的苜蓿草，我想使你幸福，卻無法屬於你。\n我想得到幸福，我想得到幸福，想和你一起得到幸福，我想成為你的「幸福」，所以請帶我走，到遙遠的地方，到不是「這裏」的地方，請帶我走，解不開的魔法，沒有終止的熱吻，無法清醒的夢境，永不消失的幸福，鳥兒們在歌唱，那是我不懂的語言之歌，即使擁有翅膀，也無法飛向天空，那是獨自一人無法到達的地方，所以請帶我走，到不是「這裏」的地方，濡濕的翅膀，相互交纏的手指，融化的軀體，重疊相映的心，請帶我走，我想得到幸福，比你的「過去」，我更想得幸福，將那細如絲線的未來用雙手逐漸拉近，請帶我走，我想得到幸福。",
+    "series": {
+        "id": "541",
+        "title": "CLOVER"
+    },
+    "price": "140元"
+}
