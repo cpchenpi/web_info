@@ -15,7 +15,7 @@ class InvertedIndex:
 
     def build_from_idlist(self, idlist: str):
         with open(idlist, "r") as idlist_file:
-            for id in [s.strip() for s in idlist_file.readlines()]:
+            for id in [int(s.strip()) for s in idlist_file.readlines()]:
                 self.update_from_id(id)
 
     def save(self, path: str):
@@ -113,4 +113,6 @@ class InvertedIndex:
 if __name__ == "__main__":
     l = InvertedIndex()
     l.build_from_idlist("lab1/Book_id.csv")
-    print(l.query("(法国 or 新疆) and (大仲马 or 李娟) and (复仇 or 日常)"))
+    # top39 基督山伯爵
+    # top139 阿勒泰的角落
+    print(l.query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 生活)"))
