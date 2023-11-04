@@ -1,5 +1,27 @@
 from split_words import split_words, synonym_pivot
 from math import sqrt
+import struct
+
+
+def varilen_encode(x: int) -> list:
+    s = bin(x)[2:]
+    ret = bytearray()
+    if len(s) % 7 != 0:
+        ret.append(int(s[0 : len(s) % 7], base=2))
+    for i in range(len(s) % 7, len(s), 7):
+        ret.append(int(s[i : i + 7], base=2))
+    ret[-1] += 1 << 7
+    return ret
+
+
+def varilen_decode(ls: list) -> int:
+    ret = 0
+    for x in ls:
+        if x >= 1 << 7:
+            ret = (ret << 7) + x - (1 << 7)
+        else:
+            ret = (ret << 7) + x
+    return ret
 
 
 class InvertedIndex:
@@ -21,16 +43,75 @@ class InvertedIndex:
         print("Build inverted index succeed!")
 
     def save(self, path: str):
-        pass
+        # 1.22 MB 1,287,056 bytes
+        with open(path, "wb") as file:
+            for word, ls in self.table.items():
+                bytes = word.encode(encoding="utf-8")
+                file.write(struct.pack(">h", len(bytes)))
+                file.write(bytes)
+                file.write(struct.pack(">i", len(ls)))
+                for x in ls:
+                    file.write(struct.pack(">i", x))
+        print("Save to file " + path + " succeed!")
 
     def save_compressed(self, path):
-        pass
+        # 951 KB 974,417 bytes
+        with open(path, "wb") as file:
+            for word, ls in self.table.items():
+                bytes = word.encode(encoding="utf-8")
+                file.write(struct.pack(">h", len(bytes)))
+                file.write(bytes)
+                file.write(struct.pack(">i", len(ls)))
+                last = 0
+                for x in ls:
+                    file.write(varilen_encode(x - last))
+                    last = x
+        print("Save(compressed) to file " + path + " succeed!")
 
     def load(self, path: str):
-        pass
+        table = dict()
+        with open(path, "rb") as file:
+            while True:
+                name_len_raw = file.read(2)
+                if len(name_len_raw) == 0:
+                    break
+                name_len = struct.unpack(">h", name_len_raw)[0]
+                bytes = file.read(name_len)
+                key = bytes.decode(encoding="utf8")
+                ls_len = struct.unpack(">i", file.read(4))[0]
+                ls = [struct.unpack(">i", file.read(4))[0] for _ in range(ls_len)]
+                table[key] = ls
+        # assert self.table == table  # for testing correctness
+        self.table = table
+        print("Load from file " + path + " succeed!")
 
     def load_compressed(self, path: str):
-        pass
+        table = dict()
+        with open(path, "rb") as file:
+            while True:
+                name_len_raw = file.read(2)
+                if len(name_len_raw) == 0:
+                    break
+                name_len = struct.unpack(">h", name_len_raw)[0]
+                bytes = file.read(name_len)
+                key = bytes.decode(encoding="utf8")
+                ls_len = struct.unpack(">i", file.read(4))[0]
+                last = 0
+                ls = []
+                while ls_len > 0:
+                    bytes = bytearray()
+                    while True:
+                        bytes.append(file.read(1)[0])
+                        if bytes[-1] >= 1 << 7:
+                            break
+                    x = last + varilen_decode(bytes)
+                    ls.append(x)
+                    last = x
+                    ls_len -= 1
+                table[key] = ls
+        assert self.table == table  # for testing correctness
+        self.table = table
+        print("Load(compressed) from file " + path + " succeed!")
 
     def query_word(self, word: str):
         return self.table[word] if word in self.table else []
@@ -115,6 +196,10 @@ class InvertedIndex:
 if __name__ == "__main__":
     l = InvertedIndex(genre="book")
     l.build_from_idlist("lab1/Book_id.csv")
+    # l.save("lab1/Book_inverted.bin")
+    # l.load("lab1/Book_inverted.bin")
+    l.save_compressed("lab1/Book_inverted_compressed.bin")
+    l.load_compressed("lab1/Book_inverted_compressed.bin")
     # top39 基督山伯爵
     # top139 阿勒泰的角落
     print(l.query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 生活)"))
