@@ -3,11 +3,12 @@ from math import sqrt
 
 
 class InvertedIndex:
-    def __init__(self) -> None:
+    def __init__(self, genre="book") -> None:
         self.table = dict()
+        self.genre = genre
 
     def update_from_id(self, id: int):
-        for word in split_words(id, method="jieba"):
+        for word in split_words(id, method="jieba", genre=self.genre):
             if word in self.table:
                 self.table[word].append(id)
             else:
@@ -17,6 +18,7 @@ class InvertedIndex:
         with open(idlist, "r") as idlist_file:
             for id in [int(s.strip()) for s in idlist_file.readlines()]:
                 self.update_from_id(id)
+        print("Build inverted index succeed!")
 
     def save(self, path: str):
         pass
@@ -111,7 +113,7 @@ class InvertedIndex:
 
 
 if __name__ == "__main__":
-    l = InvertedIndex()
+    l = InvertedIndex(genre="book")
     l.build_from_idlist("lab1/Book_id.csv")
     # top39 基督山伯爵
     # top139 阿勒泰的角落

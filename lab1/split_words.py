@@ -36,7 +36,7 @@ def synonym_pivot(word: str):
         return word
 
 
-def split_words(id: int, method="jieba"):
+def split_words_book(id: int, method="jieba"):
     data = json.load(open("lab1/book_data/" + str(id) + ".json", "r", encoding="utf-8"))
     ret = set()
     for s in [data["title"], data["author_intro"], data["summary"]]:
@@ -58,6 +58,13 @@ def split_words(id: int, method="jieba"):
         )
     )
     return ret - stopwords_set
+
+
+def split_words(id: int, method="jieba", genre="book"):
+    if genre == "book":
+        return split_words_book(id, method)
+    else:
+        pass
 
 
 if __name__ == "__main__":
