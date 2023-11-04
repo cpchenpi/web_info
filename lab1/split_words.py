@@ -29,6 +29,13 @@ def get_synonyms():
 synonym_dict = get_synonyms()
 
 
+def synonym_pivot(word: str):
+    if word in synonym_dict:
+        return synonym_dict[word]
+    else:
+        return word
+
+
 def split_words(id: int, method="jieba"):
     data = json.load(open("lab1/book_data/" + str(id) + ".json", "r", encoding="utf-8"))
     ret = set()
@@ -46,7 +53,7 @@ def split_words(id: int, method="jieba"):
             ret.add(name)
     ret = set(
         map(
-            lambda word: synonym_dict[word] if word in synonym_dict else word,
+            synonym_pivot,
             ret,
         )
     )
