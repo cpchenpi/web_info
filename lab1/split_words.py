@@ -1,21 +1,32 @@
 import jieba, json, thulac
 
-stopwords_set = set({"\n", " "})
 
-with open("lab1/cn_stopwords.txt", "r", encoding="utf-8") as stopwords_file:
-    for line in stopwords_file.readlines():
-        stopwords_set.add(line.strip())
+def get_stopwords():
+    stopwords_set = set({"\n", " "})
+    with open("lab1/cn_stopwords.txt", "r", encoding="utf-8") as stopwords_file:
+        for line in stopwords_file.readlines():
+            stopwords_set.add(line.strip())
+    return stopwords_set
+
+
+stopwords_set = get_stopwords()
+
 
 thulac = thulac.thulac(seg_only=True, filt=True)
 
-synonym_dict = dict()
 
-with open("lab1/dict_synonym.txt", "r", encoding="utf-8") as synonym_file:
-    for line in synonym_file.readlines():
-        ls = line.split()[1:]
-        if len(ls) >= 2:
-            for i in range(1, len(ls)):
-                synonym_dict[ls[i]] = ls[0]
+def get_synonyms():
+    synonym_dict = dict()
+    with open("lab1/dict_synonym.txt", "r", encoding="utf-8") as synonym_file:
+        for line in synonym_file.readlines():
+            ls = line.split()[1:]
+            if len(ls) >= 2:
+                for i in range(1, len(ls)):
+                    synonym_dict[ls[i]] = ls[0]
+    return synonym_dict
+
+
+synonym_dict = get_synonyms()
 
 
 def split_words(id: int, method="jieba"):
