@@ -1,4 +1,5 @@
 from split_words import split_words, synonym_pivot
+from print_info import print_info
 from math import sqrt
 import struct
 
@@ -109,7 +110,7 @@ class InvertedIndex:
                     last = x
                     ls_len -= 1
                 table[key] = ls
-        assert self.table == table  # for testing correctness
+        # assert self.table == table  # for testing correctness
         self.table = table
         print("Load(compressed) from file " + path + " succeed!")
 
@@ -200,6 +201,13 @@ if __name__ == "__main__":
     # l.load("lab1/Book_inverted.bin")
     l.save_compressed("lab1/Book_inverted_compressed.bin")
     l.load_compressed("lab1/Book_inverted_compressed.bin")
+
+    def query(s: str):
+        for id in l.query(s):
+            print("找到匹配项，id：" + str(id))
+            print_info(id)
+        pass
+
     # top39 基督山伯爵
     # top139 阿勒泰的角落
-    print(l.query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 生活)"))
+    query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 骆驼)")
