@@ -1,10 +1,10 @@
-'''
+"""
 Author: Ashton
 Date: 2023-11-04 19:10:12
 LastEditors: Ashton
 LastEditTime: 2023-11-04 19:44:17
 Description: 
-'''
+"""
 import jieba, json, thulac
 from movie_ex import movie_ex
 
@@ -71,7 +71,10 @@ def split_words_book(id: int, method="jieba"):
 def split_words_movie(id: int, method="jieba"):
     data = movie_ex(str(id))
     ret = set()
-    for s in [data["title"], data["summary"], data["类型"], data["又名"], data["语言"], data["制片国家/地区"]]:
+    for key in ["title", "summary", "类型", "又名", "语言", "制片国家/地区"]:
+        if key not in data:
+            continue
+        s = data[key]
         if method == "jieba":
             for word in jieba.cut_for_search(s):
                 ret.add(word)
@@ -80,8 +83,9 @@ def split_words_movie(id: int, method="jieba"):
                 ret.add(word)
     for name in data["author"]:
         ret.add(name)
-    ret.add(data['导演'])
-    ret.add(data['编剧'])
+    for key in ["导演", "编剧"]:
+        if key in data:
+            ret.add(data[key])
     ret = set(
         map(
             synonym_pivot,
@@ -101,5 +105,5 @@ def split_words(id: int, method="jieba", genre="book"):
 if __name__ == "__main__":
     print(split_words(1000280, method="jieba"))
     print(split_words(1000280, method="thulac"))
-    print(split_words(1291543, method="jieba", genre = 'movie'))
-    print(split_words(1291543, method="thulac", genre = 'movie'))
+    print(split_words(1291543, method="jieba", genre="movie"))
+    print(split_words(1291543, method="thulac", genre="movie"))

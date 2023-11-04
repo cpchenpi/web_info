@@ -181,7 +181,7 @@ class InvertedIndex:
             res = self.or_combine(res, ls[i])
         return res
 
-    def query(self, s: str):
+    def inner_query(self, s: str):
         # requires statements like "(A or B) and (C or D or E or ...) and F and ..."
         or_items = [w.strip() for w in s.split("and")]
         or_items = [w[1:-1] if w[0] == "(" else w for w in or_items]
@@ -193,21 +193,32 @@ class InvertedIndex:
         ]
         return self.and_combine_list(and_items)
 
+    def query(self, s: str):
+        for id in self.inner_query(s):
+            print("找到匹配项，id：" + str(id))
+            print_info(id, genre=self.genre)
+        pass
+
 
 if __name__ == "__main__":
     l = InvertedIndex(genre="book")
-    l.build_from_idlist("lab1/Book_id.csv")
+    # l.build_from_idlist("lab1/Book_id.csv")
     # l.save("lab1/Book_inverted.bin")
     # l.load("lab1/Book_inverted.bin")
-    l.save_compressed("lab1/Book_inverted_compressed.bin")
+    # l.save_compressed("lab1/Book_inverted_compressed.bin")
     l.load_compressed("lab1/Book_inverted_compressed.bin")
-
-    def query(s: str):
-        for id in l.query(s):
-            print("找到匹配项，id：" + str(id))
-            print_info(id)
-        pass
 
     # top39 基督山伯爵
     # top139 阿勒泰的角落
-    query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 骆驼)")
+    l.query("(法国 or 新疆 or 北京) and (大仲马 or 李娟 or 老舍) and (复仇 or 日常 or 骆驼)")
+
+    l = InvertedIndex(genre="movie")
+    # l.build_from_idlist("lab1/Movie_id.csv")
+    # l.save("lab1/Movie_inverted.bin")
+    # l.load("lab1/Movie_inverted.bin")
+    # l.save_compressed("lab1/Movie_inverted_compressed.bin")
+    l.load_compressed("lab1/Movie_inverted_compressed.bin")
+
+    # top37 哈尔的移动城堡
+    # top137 玩具总动员3
+    l.query("(玩具 or 城堡) and 妹妹")
