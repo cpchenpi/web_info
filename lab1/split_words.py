@@ -99,5 +99,7 @@ def split_words(id: int, method="jieba", genre="book"):
 
 
 if __name__ == "__main__":
-    print(split_words(1291543, method="jieba", genre = 'movie'))
+    print(split_words(1000280, method="jieba"))
     print(split_words(1000280, method="thulac"))
+    print(split_words(1291543, method="jieba", genre = 'movie'))
+    print(split_words(1291543, method="thulac", genre = 'movie'))
