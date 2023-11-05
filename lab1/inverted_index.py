@@ -197,7 +197,6 @@ class InvertedIndex:
         for id in self.inner_query(s):
             print("找到匹配项，id：" + str(id))
             print_info(id, genre=self.genre)
-        pass
 
 
 if __name__ == "__main__":
