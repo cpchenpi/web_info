@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 44683,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "高木直子"
+    ],
+    "pubdate": "2004-12-1",
+    "tags": [
+        {
+            "count": 13077,
+            "name": "高木直子",
+            "title": "高木直子"
+        },
+        {
+            "count": 11336,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 5586,
+            "name": "一個人住第5年",
+            "title": "一個人住第5年"
+        },
+        {
+            "count": 5337,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 3814,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 3423,
+            "name": "生活",
+            "title": "生活"
+        },
+        {
+            "count": 2971,
+            "name": "一个人住第5年",
+            "title": "一个人住第5年"
+        },
+        {
+            "count": 2471,
+            "name": "一个人",
+            "title": "一个人"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s7059163.jpg",
+    "binding": "平装",
+    "translator": [
+        "洪俞君"
+    ],
+    "catalog": "",
+    "pages": "44",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s7059163.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s7059163.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s7059163.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1346815/",
+    "id": "1346815",
+    "publisher": "大田",
+    "isbn10": "9574557804",
+    "isbn13": "9789574557806",
+    "title": "一個人住第5年",
+    "url": "https://api.douban.com/v2/book/1346815",
+    "alt_title": "",
+    "author_intro": "高木直子：1974年出生於日本三重縣。以成為插畫家為目標，1998年上東京。一直以來都生活在衛浴設備很狹窄的公寓裡，最近搬了新家而有了較大的浴室，正開心著呢！目前除了插畫小品之外，也用壓克力顏料創作插畫、漫畫等等。",
+    "summary": "一個人住了五年的過來人的日常生活。一個人的生活輕鬆也寂寞，卻又難割捨。\n作者利用可愛的圖畫搭配生活化的文字描寫一個人住的生活點滴，只要你曾經一個人住過，一定會有深刻的感覺。一個人住不用跟家人搶浴室洗澡，愛洗多久就洗多久、一個人住偶爾不小心看了恐怖電視而害怕的睡不著覺、一個人住感冒的時候孤單寂寞的心情如潮水般的湧上心頭、一個人住到超商去買菜還會會貨比三家、一個人住會努力想記帳，卻因為偷懶而想出每天存「50元」的計畫、一個人住常會想變換擺設也是不錯而忙到凌晨三點，有點自由隨性卻又有點苦惱，這就是一個人住的生活。\n作者希望可以透過這本書跟读者分享又寂寞又美好的單身生活。",
+    "price": "NT$220"
+}

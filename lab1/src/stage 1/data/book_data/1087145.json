@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4482,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "安妮宝贝"
+    ],
+    "pubdate": "2001-1",
+    "tags": [
+        {
+            "count": 1681,
+            "name": "安妮宝贝",
+            "title": "安妮宝贝"
+        },
+        {
+            "count": 746,
+            "name": "瞬间空白",
+            "title": "瞬间空白"
+        },
+        {
+            "count": 341,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 194,
+            "name": "安妮",
+            "title": "安妮"
+        },
+        {
+            "count": 134,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 121,
+            "name": "黑色",
+            "title": "黑色"
+        },
+        {
+            "count": 103,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 76,
+            "name": "安",
+            "title": "安"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2464615.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "356",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2464615.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2464615.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2464615.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1087145/",
+    "id": "1087145",
+    "publisher": "知识出版社",
+    "isbn10": "7501527873",
+    "isbn13": "9787501527878",
+    "title": "瞬间空白",
+    "url": "https://api.douban.com/v2/book/1087145",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "收入《空城》、《爱情理想》、《英俊男人》、《永远有多远》、《居住在深海的男人》、《漂亮女孩》、《一个游戏》等35篇作品。",
+    "price": "20.60元"
+}

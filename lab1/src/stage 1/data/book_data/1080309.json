@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 63233,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "阿来著"
+    ],
+    "pubdate": "1998-3-1",
+    "tags": [
+        {
+            "count": 9748,
+            "name": "阿来",
+            "title": "阿来"
+        },
+        {
+            "count": 7448,
+            "name": "西藏",
+            "title": "西藏"
+        },
+        {
+            "count": 6312,
+            "name": "尘埃落定",
+            "title": "尘埃落定"
+        },
+        {
+            "count": 6294,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4737,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 4252,
+            "name": "茅盾文学奖",
+            "title": "茅盾文学奖"
+        },
+        {
+            "count": 3427,
+            "name": "当代文学",
+            "title": "当代文学"
+        },
+        {
+            "count": 2431,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s9140762.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "408",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s9140762.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s9140762.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s9140762.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1080309/",
+    "id": "1080309",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020033644",
+    "isbn13": "9787020033645",
+    "title": "尘埃落定",
+    "url": "https://api.douban.com/v2/book/1080309",
+    "alt_title": "",
+    "author_intro": "阿来，一九五九年生于四川北部阿坝藏区。履历表上列为籍贯的马尔康县俗称“四土”，即四个土司统辖之地。 八十年代中期开始创作。出版过小说集《旧年的血迹》与诗集《梭磨河》。《尘埃落定》是其第一部长篇 小说。",
+    "summary": "一个声势显赫的康巴藏族土司，在酒后和汉族太太生了一个傻瓜儿子。这个人人都认定的傻子与现实生活格格不入，却有着超时代的预感和举止，成为土司制度兴衰的见证人。小说故事精彩曲折动人，以饱含激情的笔墨，超然物外的审视目光，展现了浓郁的民族风情和土司制度的浪漫神秘。",
+    "series": {
+        "id": "4272",
+        "title": "茅盾文学奖获奖书系"
+    },
+    "price": "22.0"
+}

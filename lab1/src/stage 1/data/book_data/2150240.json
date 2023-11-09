@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4612,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "酒井驹子"
+    ],
+    "pubdate": "2007-6",
+    "tags": [
+        {
+            "count": 2323,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 971,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 584,
+            "name": "我讨厌妈妈",
+            "title": "我讨厌妈妈"
+        },
+        {
+            "count": 403,
+            "name": "儿童绘本",
+            "title": "儿童绘本"
+        },
+        {
+            "count": 315,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 297,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 295,
+            "name": "酒井驹子",
+            "title": "酒井驹子"
+        },
+        {
+            "count": 215,
+            "name": "童心",
+            "title": "童心"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s4224052.jpg",
+    "binding": "精装",
+    "translator": [
+        "彭懿"
+    ],
+    "catalog": "",
+    "pages": "32",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s4224052.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s4224052.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s4224052.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2150240/",
+    "id": "2150240",
+    "publisher": "南海出版公司",
+    "isbn10": "7544237184",
+    "isbn13": "9787544237185",
+    "title": "我讨厌妈妈",
+    "url": "https://api.douban.com/v2/book/2150240",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《我讨厌妈妈》表现亲子之爱的独特绘本，让每个孩子都看见自己的影子，让每个妈妈都露出会心的微笑！小兔子对妈妈满腹牢骚：没帮他洗袜子、乱发脾气、一直催他快点、不准他看动画片、礼拜天赖床不起让他饿肚子……最令小兔子不满的是，妈妈不愿和他结婚！小兔子气得想离家出走，但终究还是离不开妈妈的爱。\n　　这个看似“小题大做”实则温馨无比的故事，用可爱的童言童语表达出母子间最真挚的情感。书中画面以大片淡蓝色为主，配合白色、淡黄色、黑色等色块强调重点；颜色的刻意不均匀造成丰富的纹理变化，使画面更显活泼；生动的表情与动作刻画让人物形象跃然纸上。\n　　这个满腹抱怨的小兔子，让每个孩子都看见自己的影子，让每个妈妈都露出会心的微笑，让我们每个人都感受到爱的自私与伟大。",
+    "series": {
+        "id": "5025",
+        "title": "新经典文库·爱心树绘本馆"
+    },
+    "price": "22.00元"
+}

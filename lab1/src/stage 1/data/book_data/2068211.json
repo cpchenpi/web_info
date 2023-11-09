@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 12688,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "2007-5",
+    "tags": [
+        {
+            "count": 3034,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 1005,
+            "name": "撒哈拉的故事",
+            "title": "撒哈拉的故事"
+        },
+        {
+            "count": 682,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 575,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 564,
+            "name": "流浪",
+            "title": "流浪"
+        },
+        {
+            "count": 438,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 360,
+            "name": "三毛，经典，文学，人生",
+            "title": "三毛，经典，文学，人生"
+        },
+        {
+            "count": 326,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2390733.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "沙漠中的饭店\n结婚记\n悬壶济世\n娃娃新娘\n荒山之夜\n沙漠观浴记\n爱的寻求\n芳邻\n素人渔夫\n死果\n天梯\n白手成家\n寂地\n收魂记\n沙巴军曹\n搭车客\n哑奴\n哭泣的骆驼\n书信（撒哈拉·台湾）\n编后记",
+    "pages": "310",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2390733.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2390733.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2390733.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2068211/",
+    "id": "2068211",
+    "publisher": "北京十月文艺出版社",
+    "isbn10": "7530208896",
+    "isbn13": "9787530208892",
+    "title": "撒哈拉的故事",
+    "url": "https://api.douban.com/v2/book/2068211",
+    "alt_title": "",
+    "author_intro": "三毛，台湾著名作家，1943年3月26日出生于重庆，浙江省定海县人。本名为陈懋平，1946年改名陈平，笔名“三毛”，1964年进入文化大学哲学系，肄业后曾留学欧洲，婚后定居西属撒哈拉沙漠加那利岛，并以当地的生活为背景，写出一连串情感真挚的作品。1981年回到台湾，曾在文化大学任教，1984年辞去教职，专职从事写作和演讲，1991年1月4日去世，享年48岁。",
+    "summary": "《撒哈拉的故事》记录了三毛在撒哈拉的生活，共十八篇。《沙漠中的饭店》原名《中国饭店》，最初发表于一九七四年十月六日《联合报》，这是三毛第一次使用笔名“三毛”。",
+    "series": {
+        "id": "438",
+        "title": "三毛集"
+    },
+    "price": "28.00元"
+}

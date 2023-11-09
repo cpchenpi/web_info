@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9885,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 梦枕貘"
+    ],
+    "pubdate": "2005-1",
+    "tags": [
+        {
+            "count": 2501,
+            "name": "阴阳师",
+            "title": "阴阳师"
+        },
+        {
+            "count": 2356,
+            "name": "梦枕貘",
+            "title": "梦枕貘"
+        },
+        {
+            "count": 1634,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 1603,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 1124,
+            "name": "鬼怪",
+            "title": "鬼怪"
+        },
+        {
+            "count": 1123,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1092,
+            "name": "奇幻",
+            "title": "奇幻"
+        },
+        {
+            "count": 562,
+            "name": "灵异",
+            "title": "灵异"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1975474.jpg",
+    "binding": "平装",
+    "translator": [
+        "林青华"
+    ],
+    "catalog": "琵琶之宝玄象为鬼所窃\n栀子女\n黑川主\n蟾蜍\n鬼恋阙纪行\n白比丘尼\n作者后记\n作者年表\n愉悦和美感的追寻",
+    "pages": "286",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1975474.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1975474.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1975474.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1220219/",
+    "id": "1220219",
+    "publisher": "南海出版公司",
+    "isbn10": "7544229416",
+    "isbn13": "9787544229418",
+    "title": "阴阳师",
+    "url": "https://api.douban.com/v2/book/1220219",
+    "alt_title": "",
+    "author_intro": "梦枕貘，当代日本著名作家。1951年生，1973年毕业于东海大学文学部日本文学系。“貘”，指的是一种吃掉噩梦的奇兽，因为想写出梦一般的故事，所以取了这样一个笔名。《阴阳师》是他的代表作。\n林青华，广东人。1983年毕业于国际关系学院。在花城出版社从事编辑工作近二十年，任副编审。现执教于广东工业大学外语学院。曾翻译出版谷崎润一良、三岛由纪夫、东山魅夷等人的作品。",
+    "summary": "《阴阳师》是梦枕貘最负盛名的作品，以幽暗遥远的平安时代为背景，虚构了一个神秘典雅的人鬼共处世界。相传，日本平安时代，世界明暗未分，人鬼妖杂相共处。阴阳师安倍晴明，白衣飘飘，儒雅不羁；武士源博雅腰悬长刀，淳朴耿直。一对挚情好友淡漠生死，游走于阴阳两界，在谈笑之间破解桩桩离奇事件，为人鬼解忧。\n《阴阳师》中的很多章节见于经史典籍，书中多数鬼怪生前都是著名的历史人物，阅读时，可从中找到许多著名人物生前的若干疑团。",
+    "series": {
+        "id": "1372",
+        "title": "新经典文库·阴阳师系列"
+    },
+    "price": "20.00元"
+}

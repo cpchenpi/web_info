@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 17364,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "杨绛"
+    ],
+    "pubdate": "2004-01",
+    "tags": [
+        {
+            "count": 5263,
+            "name": "杨绛",
+            "title": "杨绛"
+        },
+        {
+            "count": 2735,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1900,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 1676,
+            "name": "知识分子",
+            "title": "知识分子"
+        },
+        {
+            "count": 1358,
+            "name": "文革",
+            "title": "文革"
+        },
+        {
+            "count": 1157,
+            "name": "洗澡",
+            "title": "洗澡"
+        },
+        {
+            "count": 847,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 819,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1063491.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "isbn：7020043801\n有2004年2月3印本 累計印8萬冊",
+    "pages": "265",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1063491.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1063491.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1063491.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1078250/",
+    "id": "1078250",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020043801",
+    "isbn13": "9787020043804",
+    "title": "洗澡",
+    "url": "https://api.douban.com/v2/book/1078250",
+    "alt_title": "",
+    "author_intro": "杨绛（1911-2016），原名杨季康，中国社会科学院外国文学研究员，作家、评论家、翻译家。剧本有《称心如意》．《弄真成假》、《风絮》；小说有《倒影集》、《洗澡》；论集有《春泥集》、《关于小说》；译作有《1939年以来的英国散文选》、《小癞子》、《吉尔.布拉斯》、《堂.吉诃德》 等。",
+    "summary": "《洗澡》不是由一个主角贯连全部的小说，而是借一个政治运动作背景，写那个时期形形色色的知识分子。所以是个横断面；既没有史诗性的结构，也没有主角。本书第一部写新中国不拘一格收罗的人才，人物一一出场。第二部写这些人确实需要“洗澡”。第三部写运动中这群人各自不同的表现。“洗澡”没有得到预期的效果，原因是谁都没有自觉自愿。假如说，人是有灵性、有良知的动物，那么，人生一世，无非是认识自己，洗炼自己，自觉自愿地改造自己，除非甘心与禽兽无异。但是这又谈何容易呢？这部小说里，只有一两人自觉自愿地试图超拔自己。读者出于喜爱，往往把他们看作主角。",
+    "price": "16.00"
+}

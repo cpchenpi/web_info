@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7043,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "Remember",
+    "author": [
+        "BENJAMIN",
+        "张彬"
+    ],
+    "pubdate": "2004-10",
+    "tags": [
+        {
+            "count": 2157,
+            "name": "Benjamin",
+            "title": "Benjamin"
+        },
+        {
+            "count": 1150,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 791,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 468,
+            "name": "记得",
+            "title": "记得"
+        },
+        {
+            "count": 396,
+            "name": "remenber",
+            "title": "remenber"
+        },
+        {
+            "count": 295,
+            "name": "中国漫画",
+            "title": "中国漫画"
+        },
+        {
+            "count": 231,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 208,
+            "name": "本土漫画",
+            "title": "本土漫画"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1474376.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "188",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1474376.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1474376.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1474376.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1434525/",
+    "id": "1434525",
+    "publisher": "北方妇女儿童出版社",
+    "isbn10": "7538520325",
+    "isbn13": "9787538520323",
+    "title": "记得",
+    "url": "https://api.douban.com/v2/book/1434525",
+    "alt_title": "REMEMBER",
+    "author_intro": "BENJAMIN,艺术混子、画家、写小文的。 作品是两本画集：《ONE DAY》和《记得》。 一本小说：《地下室》 传统意义上画漫画的，也拿过几个画画的奖，像别人一样，所以也是个艺术家，三流或者二流。只是很迷茫，自己之前的全部人生是否有价值？",
+    "summary": "《记得》\r\n大32K 全彩色 192P/册 28.80元/册\r\n作者：BENJAMIN 策划出品：漫友文化 \r\n出版：北方妇儿 全国总经销：新未来图书\r\n\r\n  讲述“失去”和“追求”的故事，诗意地勾勒出蓝色与红色的碰撞与交融。BENJAMIN，一个在华人动漫圈不可小视的个性青年，他和他的漫画，我们都还记得。\r\n  中国新锐漫画人BENJAMIN作品集，独家收录第一届金龙奖金奖作品《没有人会飞没有人会记得》、实验短篇《那年夏天》以及2002~2004精选彩色插图及插图创作释义。此外附有BENJAMIN随笔、个人写真与完全漫画档案，极具收藏价值。",
+    "price": "28.8"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 58076,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [],
+    "pubdate": "2003-01",
+    "tags": [
+        {
+            "count": 5073,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 4698,
+            "name": "一千零一夜",
+            "title": "一千零一夜"
+        },
+        {
+            "count": 3224,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2765,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 2374,
+            "name": "神话",
+            "title": "神话"
+        },
+        {
+            "count": 1892,
+            "name": "外国名著",
+            "title": "外国名著"
+        },
+        {
+            "count": 1746,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 1565,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        }
+    ],
+    "origin_title": "The Arabian Nights: Tales of 1001 Nights",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1070937.jpg",
+    "binding": "平装",
+    "translator": [
+        "纳训"
+    ],
+    "catalog": "1 国王山鲁亚尔及其兄弟的故事\n2 商人和魔鬼的故事\n3 渔翁的故事\n4 辛伯达航海旅行的故事\n5 阿里巴巴和四十大盗的故事\n6 阿拉丁和神灯的故事\n7 乌木马的故事\n8 艾奈斯和瓦丽黛的故事\n9 脚夫和巴格达三个女人的故事\n10 鸟兽和木匠的故事\n11 牧羊人的故事\n12 阿里・沙琳和祖曼绿蒂的故事\n13 戴藜兰和宰乃白母女的故事\n14 阿里・宰白谷・米斯里的故事\n15 阿卜杜拉・法狄勒和两个哥哥的故事\n……",
+    "pages": "560",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1070937.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1070937.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1070937.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1035848/",
+    "id": "1035848",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020040349",
+    "isbn13": "9787020040346",
+    "title": "一千零一夜",
+    "url": "https://api.douban.com/v2/book/1035848",
+    "alt_title": "The Arabian Nights: Tales of 1001 Nights",
+    "author_intro": "",
+    "summary": "《一千零一夜》被高尔基誉为\"世界民间文学史上最壮丽的一座纪念碑\"。本书故事精彩、妙趣横生、想象丰富、扣人心弦，充满神秘奇幻的色彩，蕴藏瑰丽丰富的风貌，既是儿童幻想的眼睛，又是老年人心灵的慰藉，老少咸宜，令人百读不厌，回味无穷。",
+    "series": {
+        "id": "1561",
+        "title": "名著名译插图本"
+    },
+    "price": "22.00"
+}

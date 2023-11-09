@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 19564,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "蔡康永"
+    ],
+    "pubdate": "2007-3",
+    "tags": [
+        {
+            "count": 6539,
+            "name": "蔡康永",
+            "title": "蔡康永"
+        },
+        {
+            "count": 2469,
+            "name": "那些男孩教我的事",
+            "title": "那些男孩教我的事"
+        },
+        {
+            "count": 1934,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 1890,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 804,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 347,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 290,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 218,
+            "name": "康永",
+            "title": "康永"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2352916.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "第一号男孩\n第四号男孩\n第三号男孩\n第二十七号男孩\n第二号男孩\n第五号男孩\n第六号男孩\n第八号男孩\n第十八号男孩\n第三十二号男孩\n第十号男孩\n第二十一号男孩\n第十九号男孩\n第十七号男孩\n第二十号男孩\n第三十号男孩\n第二十五号男孩\n第三十四号男孩\n第三十八号男孩\n第六十号男孩\n第六十二号男孩\n第五十五号男孩\n第七十二号男孩\n第四十三号男孩\n第四十八号男孩\n第七十六号男孩\n第七十八号男孩\n第八十号男孩\n第九十七号男孩\n第八十五号男孩\n第九十八号男孩\n第九十一号男孩\n第九十二号男孩",
+    "pages": "125",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2352916.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2352916.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2352916.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2034893/",
+    "id": "2034893",
+    "publisher": "当代世界出版社",
+    "isbn10": "7509001110",
+    "isbn13": "9787509001110",
+    "title": "那些男孩教我的事",
+    "url": "https://api.douban.com/v2/book/2034893",
+    "alt_title": "",
+    "author_intro": "蔡康永--\n相信爱，相信正义，相信文明，相信宇宙是值得的。\n面对欲望时会软弱，面对邪恶时会软弱。\n从上个世纪的尾巴，开始参加公共活动，比方说，主持一些节目，写一些东西，讲些话，安慰或者伤害一些别人。\n根据地是台北，血统有时被认为是上海。\n但不管怎么说，很确定自己是不重要的，很确定自己是不重要的，很确定自己是不重要的。\n可乐王--\n艺术工作者，在九O年末掀起图文书风潮，为台湾新一代最重要创意人之一。\n著有《旋转花木马》、《可乐王AD/CD俱乐》、《战争》、《快乐的远足》等多种，在跨越领域艺术中曼妙航行。",
+    "summary": "这本书由一个个小故事串起来，用插画家可乐王的插图和搞怪才子蔡康永的文字，描述曾经让蔡康永留下深刻记忆的30多个男孩故事。没有炫彩华丽的词藻，只是淡淡地讲述，就像是同窗的学友跟你说着一些轻涩往事，就这样构成了这本饶有趣味的作品。",
+    "series": {
+        "id": "11151",
+        "title": "蔡康永作品"
+    },
+    "price": "28.00元"
+}

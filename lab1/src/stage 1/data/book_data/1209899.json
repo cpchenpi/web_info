@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 101429,
+        "average": "9.2",
+        "min": 0
+    },
+    "subtitle": "史铁生代表作",
+    "author": [
+        "史铁生"
+    ],
+    "pubdate": "2002-5",
+    "tags": [
+        {
+            "count": 11949,
+            "name": "史铁生",
+            "title": "史铁生"
+        },
+        {
+            "count": 6594,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 6417,
+            "name": "我与地坛",
+            "title": "我与地坛"
+        },
+        {
+            "count": 6231,
+            "name": "人生",
+            "title": "人生"
+        },
+        {
+            "count": 4661,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 4298,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 3525,
+            "name": "中国当代文学",
+            "title": "中国当代文学"
+        },
+        {
+            "count": 3524,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1151479.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "编辑例言\n前言\n1 午餐半小时\n2 我的遥远的清平湾\n3 关于詹牧师的报告文学\n4 命若琴弦\n5 毒药\n6 原罪・宿命\n7 第一人称\n8 老屋小记\n9 我与地坛\n10 墙下短记\n11 好运设计\n12 病隙碎笔（5）\n13 两个故事\n14 往事\n15 记忆与印象",
+    "pages": "399",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1151479.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1151479.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1151479.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1209899/",
+    "id": "1209899",
+    "publisher": "春风文艺出版社",
+    "isbn10": "7531324369",
+    "isbn13": "9787531324362",
+    "title": "我与地坛",
+    "url": "https://api.douban.com/v2/book/1209899",
+    "alt_title": "",
+    "author_intro": "史铁生，1951年生于北京。1967年初中毕业。1969年去陕北农村插队，三年后双腿瘫痪转回北京。回京后在一家街道工厂做临时工，七年后因病情加重回家疗养。1979年始有小说、散文、剧本等作品发表。主要作品有：短篇小说《我的遥远的清平湾》、《命若琴弦》、《老屋小记》；散文《我与地坛》、《好运设计》、《病隙碎笔》；中篇小说《关于詹牧师的报告文学》、《中篇1或短篇4》；长篇小说《务虚笔记》、《我的丁一之旅》等。",
+    "summary": "收有“午餐半小时”、“我的遥远的清平湾”、“命若琴弦”、“第一人称”、“两个故事”等15篇史铁生的代表作。",
+    "series": {
+        "id": "7502",
+        "title": "春风文艺社·新经典文库"
+    },
+    "price": "25.00元"
+}

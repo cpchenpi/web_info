@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 14152,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "寂地"
+    ],
+    "pubdate": "2008-2",
+    "tags": [
+        {
+            "count": 4576,
+            "name": "寂地",
+            "title": "寂地"
+        },
+        {
+            "count": 3820,
+            "name": "踮脚张望的时光",
+            "title": "踮脚张望的时光"
+        },
+        {
+            "count": 2352,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1465,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1318,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 536,
+            "name": "半自传体小说",
+            "title": "半自传体小说"
+        },
+        {
+            "count": 438,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 324,
+            "name": "童话",
+            "title": "童话"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2985971.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "一、林晓路的城堡与花园\n二、就算全世界与我为敌\n三、彪悍的人生不需要解释\n四、你永无止境地坠落，需要音乐取暖\n五、生活每天发生新的悲剧，这其中也许有我和你\n六、你是我的红药水，他只是杯黑咖啡\n七、等待是白色的烟雾，飘散在记忆的最深处\n八、当你在穿山越岭的另一边，我在孤独的路上没有尽头\n九、在动物园里散步才是正经事\n十、比较五花八门宿命也缤纷的事，还是想想刚刚又听到的解释\n十一、我们练习微笑，终于变成不敢哭的人\n十二、你不要失望，荡气回肠是为了最美的平凡\n终 我能够了解你为何灰心，但请你在最后不要放弃",
+    "pages": "255",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2985971.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2985971.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2985971.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2980812/",
+    "id": "2980812",
+    "publisher": "人民文学出版社",
+    "isbn10": "702006647X",
+    "isbn13": "9787020066476",
+    "title": "踮脚张望的时光",
+    "url": "https://api.douban.com/v2/book/2980812",
+    "alt_title": "",
+    "author_intro": "寂地，女。双子巨蟹座。绘本漫画家。作品有绘本漫画《我的路》系列。",
+    "summary": "主角林晓路是一个普通女孩，生长在一个单亲的贫穷家庭。有些自卑跟内向，但内心却充满各种奇思妙想。林晓路用她单纯的目光看待成人世界里的感情纠葛，找寻着爱情与幸福的答案，找寻着属于自己的坚强力量。",
+    "price": "25.00"
+}

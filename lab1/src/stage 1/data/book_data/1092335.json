@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 39880,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美]马里奥·普佐"
+    ],
+    "pubdate": "1997-8",
+    "tags": [
+        {
+            "count": 5611,
+            "name": "教父",
+            "title": "教父"
+        },
+        {
+            "count": 4676,
+            "name": "黑帮",
+            "title": "黑帮"
+        },
+        {
+            "count": 3397,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 2984,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 2912,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2794,
+            "name": "马里奥·普佐",
+            "title": "马里奥·普佐"
+        },
+        {
+            "count": 2205,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 1716,
+            "name": "美国文学",
+            "title": "美国文学"
+        }
+    ],
+    "origin_title": "The Godfather",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2832939.jpg",
+    "binding": "平装",
+    "translator": [
+        "周汉林"
+    ],
+    "catalog": "",
+    "pages": "493",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2832939.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2832939.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2832939.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1092335/",
+    "id": "1092335",
+    "publisher": "译林出版社",
+    "isbn10": "7805674272",
+    "isbn13": "9787805674278",
+    "title": "教父",
+    "url": "https://api.douban.com/v2/book/1092335",
+    "alt_title": "The Godfather",
+    "author_intro": "作者马里奥·普佐是土生土长的美国人，而且是长期生活在资本主义现代文明的心脏——纽约的美国人。第二次世界大战期间，曾在美军中服役。复员后，先在哥伦比亚大学研究文艺创作，后来又在社会调查学院专门研究美国社会的各个方面。他的第一部小说《明争暗斗》被认为是描写战后被占领的德国的最佳小说；他的第二部小说《幸运的香客》被《纽约时报》称之为“小经典作品”。《教父》是作者的第三部小说。这部小说一出版就轰动了整个美国，引起了广泛的评论和赞扬。",
+    "summary": "《教父》这部小说的不同凡响的艺术魅力就在于：尽管描写的全是坏蛋，但作者曲尽妙笔，竟然能让读者不痛恨个别坏蛋，而痛恨整个龌龊的社会结构。教父及其继承人——他的小儿子迈克尔本来都是坏透了的坏蛋，但是却并不显得令人痛恨，因为他们杀人是整个不合理的社会逼出来的，因为他们杀的也都是更坏的人，他们同那些在幕后“坐地分赃”的政客比较起来，在“坏”的程度上，可真是小巫见大巫了。\n\n美国纽约五大黑势力集团之一的维托·考利昂一家采用多种极端手段，实现了在整个美国黑暗势力团体中的独尊地位。在这场斗争中有黑团伙之间的火拼；有走私贩毒的嚣张；有赌场的烟云；有红灯区的人欲横流。本书被认为是描写资本主义社会中黑社会现象的最具权威的作品。\n\n \">教父 英文版>>",
+    "series": {
+        "id": "45973",
+        "title": "名著译林"
+    },
+    "price": "23.30元"
+}

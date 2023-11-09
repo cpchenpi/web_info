@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13837,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "幾米"
+    ],
+    "pubdate": "2002-4",
+    "tags": [
+        {
+            "count": 2908,
+            "name": "几米",
+            "title": "几米"
+        },
+        {
+            "count": 2654,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1878,
+            "name": "幾米",
+            "title": "幾米"
+        },
+        {
+            "count": 1026,
+            "name": "听幾米唱歌",
+            "title": "听幾米唱歌"
+        },
+        {
+            "count": 750,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 668,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 347,
+            "name": "繪本",
+            "title": "繪本"
+        },
+        {
+            "count": 312,
+            "name": "听几米唱歌",
+            "title": "听几米唱歌"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1221975.jpg",
+    "binding": "精装",
+    "translator": [],
+    "catalog": "",
+    "pages": "72",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1221975.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1221975.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1221975.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1031575/",
+    "id": "1031575",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108017040",
+    "isbn13": "9787108017048",
+    "title": "听幾米唱歌",
+    "url": "https://api.douban.com/v2/book/1031575",
+    "alt_title": "",
+    "author_intro": "几米\n■从小并没有远大的志向，只是会被派去参加画图比赛，也常得奖\n■毕业后进入广告公司，慢慢的，有了“能否用画来说故事”的念头\n■陆续接一些插画工作，收入还不错\n■1994年，回家过悠闲生活，并坚持创作。\n■1995年，患血癌，开始练习气功至今。\n■1998年8月首度出版个人的绘本创作，1999年以《向左走・向右走》、《听几米唱歌》和《月亮忘记了》三部作品，在台湾出版市场兴起一阵风潮，至今热力不减。\n《向左走・向右走》：诚品年度推荐选书、金石堂十大最具影响力的书\n《听几米唱歌》：金鼎奖推荐优良图书\n《月亮忘记了》：联合报读书人最佳童书、民生报好书大家读年度最佳童书\n《森林里的秘密》：中国时报开卷最佳童书、民生报好书大家读年度最佳童书\n《微笑的鱼》：联合报读书人最佳童书",
+    "summary": "收录了作者于1998年到1999年在《自由时报》“花边新闻”发表的专栏作品。作者以清新的画风，幽默的笔调，唱出他对人生的体验，对都会的观察。",
+    "price": "25.00元"
+}

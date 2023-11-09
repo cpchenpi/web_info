@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 15487,
+        "average": "6.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "何员外"
+    ],
+    "pubdate": "2003-7",
+    "tags": [
+        {
+            "count": 1760,
+            "name": "毕业那天我们一起失恋",
+            "title": "毕业那天我们一起失恋"
+        },
+        {
+            "count": 1665,
+            "name": "青春",
+            "title": "青春"
+        },
+        {
+            "count": 1516,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1089,
+            "name": "何员外",
+            "title": "何员外"
+        },
+        {
+            "count": 876,
+            "name": "校园",
+            "title": "校园"
+        },
+        {
+            "count": 632,
+            "name": "网络小说",
+            "title": "网络小说"
+        },
+        {
+            "count": 602,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 386,
+            "name": "网络文学",
+            "title": "网络文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1041735.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "前言\n毕业那天我们一起失恋\n外七篇\n桃子日记\n没有声卡的电脑\n洛川东路共和新路口\n我的大学\n男生是什么样的？\n侄治痔\n何乐不为\n朋友留言\n后记\n",
+    "pages": "230",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1041735.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1041735.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1041735.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1043201/",
+    "id": "1043201",
+    "publisher": "上海人民出版社",
+    "isbn10": "7208046174",
+    "isbn13": "9787208046177",
+    "title": "毕业那天我们一起失恋",
+    "url": "https://api.douban.com/v2/book/1043201",
+    "alt_title": "",
+    "author_intro": "何员外，真名龚文俊，生于1981年11月3日。上海理工大学电厂热能动力工程本科毕业。",
+    "summary": "收有中短篇小说《毕业那天我们一起失恋》《没有声卡的电脑》《我的大学》《男生是什么样的》等。\n如果一段爱情从一开始就知道它结束的日期，那爱的一路会是什么样子？《毕业那天我们一起失恋》就讲述了这样一个盛开在大学校园里，倒数计时的爱情故事。小说以男女主人公何乐、桃子之间一段纯真纯美的校园恋情为主线，真实再现了温馨浪漫、精彩纷呈的大学校园生活。作者以幽默谐趣的笔调刻画了室友、老师、恋人、学长、校工等等校园角色的众生相：他们的喜怒哀乐、欢笑眼泪、梦想激情……",
+    "price": "15.80元"
+}

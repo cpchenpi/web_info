@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 206832,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 黑柳彻子 著",
+        "岩崎千弘 图"
+    ],
+    "pubdate": "2003-1",
+    "tags": [
+        {
+            "count": 18742,
+            "name": "窗边的小豆豆",
+            "title": "窗边的小豆豆"
+        },
+        {
+            "count": 18235,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 17007,
+            "name": "黑柳彻子",
+            "title": "黑柳彻子"
+        },
+        {
+            "count": 16007,
+            "name": "教育",
+            "title": "教育"
+        },
+        {
+            "count": 14873,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 12911,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 10584,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 10551,
+            "name": "儿童",
+            "title": "儿童"
+        }
+    ],
+    "origin_title": "窓ぎわのトットちゃん",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1067911.jpg",
+    "binding": "平装",
+    "translator": [
+        "赵玉皎"
+    ],
+    "catalog": "第一次来车站\n窗边的小豆豆\n新学校\n我喜欢！\n校长先生\n盒饭\n从今天开始上学\n电车教室\n上课\n海的味道、山的味道\n好好嚼啊！\n散步\n校歌\n放回原处\n名字的由来\n落语\n电车来了！\n游泳池\n成绩单\n暑假开始了！\n大冒险\n试胆量\n排练场\n温泉旅行\n韵律澡\n一生的心愿！\n最差的衣服\n高桥君\n不能跳！\n“然后呢――！”\n只是闹着玩！\n运动会\n小林一茶\n非常奇怪！\n用手说话\n泉岳寺\n正男！\n小辫子\n“Thank You！”\n图书室\n尾巴\n第二个春天\n天鹅湖\n“旱田”老师\n野炊\n“真是一个好孩子！”\n新娘\n破学校\n蝴蝶结\n慰问\n健康树皮\n说英语的孩子\n演出会\n粉笔\n秦明死了\n间谍\n小提琴\n一言为定！\n洛基不见了\n茶话会\n再见，再见\n后记\n文本库后记",
+    "pages": "288",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1067911.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1067911.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1067911.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1007914/",
+    "id": "1007914",
+    "publisher": "南海出版公司",
+    "isbn10": "7544222977",
+    "isbn13": "9787544222976",
+    "title": "窗边的小豆豆",
+    "url": "https://api.douban.com/v2/book/1007914",
+    "alt_title": "窓ぎわのトットちゃん",
+    "author_intro": "黑柳彻子，日本作家、电视节目主持人、联合国儿童基金会亲善大使。\n她的代表作《窗边的小豆豆》1981年出版后，不仅在日本，而且在全球都引起了极大的反响，截至2001年，日文版累计销量达938万册。\n译者赵玉皎  毕业于北京外国语大学日本学研究中心，获日本文学硕士学位。",
+    "summary": "《窗边的小豆豆》讲述了作者上小学时的一段真实的故事。作者因淘气被原学校退学后，来到巴学园。在小林校长的爱护和引导下，让一般人眼里“怪怪”的小豆豆逐渐成了一个大家都能接受的孩子，并奠定了她一生的基础。这本书不仅带给世界几千万读者无数的笑声和感动，而且为现代教育的发展注入了新的活力。",
+    "series": {
+        "id": "1130",
+        "title": "新经典文库·巴学园"
+    },
+    "price": "20.00元"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3977,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "齋藤千穗"
+    ],
+    "pubdate": "1995-7-1",
+    "tags": [
+        {
+            "count": 746,
+            "name": "齐藤千穗",
+            "title": "齐藤千穗"
+        },
+        {
+            "count": 591,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 319,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 247,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 204,
+            "name": "白木兰圆舞曲",
+            "title": "白木兰圆舞曲"
+        },
+        {
+            "count": 162,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 96,
+            "name": "白色圆舞曲",
+            "title": "白色圆舞曲"
+        },
+        {
+            "count": 94,
+            "name": "齐藤千惠",
+            "title": "齐藤千惠"
+        }
+    ],
+    "origin_title": "白木蘭円舞曲",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s25810448.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s25810448.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s25810448.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s25810448.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2170341/",
+    "id": "2170341",
+    "publisher": "大然文化",
+    "isbn10": "9572517171",
+    "isbn13": "9789572517178",
+    "title": "白木蘭圓舞曲 01",
+    "url": "https://api.douban.com/v2/book/2170341",
+    "alt_title": "白木蘭円舞曲",
+    "author_intro": "",
+    "summary": "在動亂的昭和初期，海軍學校的優秀學生－鬼堂院將臣的未婚妻湖都，在英國大使館的派對上，有一場宿命的邂逅。她的對象即是印度獨立運動的鬥士－亞斯。於是，湖都波潮起伏的人生之幕就此展開......",
+    "series": {
+        "id": "8379",
+        "title": "白木蘭圓舞曲"
+    },
+    "price": ""
+}

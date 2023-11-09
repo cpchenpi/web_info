@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 8042,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "幾米"
+    ],
+    "pubdate": "2005-1",
+    "tags": [
+        {
+            "count": 1712,
+            "name": "几米",
+            "title": "几米"
+        },
+        {
+            "count": 1626,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 1286,
+            "name": "幾米",
+            "title": "幾米"
+        },
+        {
+            "count": 895,
+            "name": "遗失了一只猫",
+            "title": "遗失了一只猫"
+        },
+        {
+            "count": 388,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 314,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 201,
+            "name": "猫",
+            "title": "猫"
+        },
+        {
+            "count": 197,
+            "name": "繪本",
+            "title": "繪本"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1167199.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "96",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1167199.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1167199.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1167199.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1003148/",
+    "id": "1003148",
+    "publisher": "现代出版社",
+    "isbn10": "7801884981",
+    "isbn13": "9787801884985",
+    "title": "遗失了一只猫",
+    "url": "https://api.douban.com/v2/book/1003148",
+    "alt_title": "",
+    "author_intro": "幾米，1998年开始个人的绘本创作。1999年以《向左走·向右走》、《听幾米唱歌》和《月亮忘记了》三部作品，展现惊人的创作力和多变的叙事风格。2000年《我的心中每天开出一朵花》风格清新真挚。此后作品的形式更自由多变。2001年创作《地下铁》、《照相本子》、《1、2、3、木头人》。2002年创作《我只能为你画一张小卡片》、《布瓜的世界》。2003年创作《幸运儿》。幾米的创作热情与强烈的创意，让作品的图像空间饶富诗意，深情而迷人，文字节奏简约而自成风格，并迭有新作，令人惊喜连连。作品广受好评，深受读者喜爱，风靡两岸，美、法、德、希腊、韩、日等国皆有译本。",
+    "summary": "她的猫咪不见了……\n幾米这本以猫为画图主题的书，诉说的是一个都会女子的失恋心情。恍惚、惆怅、寻找、失落……，在他诗意的笔下，这些情绪像温暖的潮水，缓慢却气势慑人地袭来。城市中的孤单和彷徨，幾米总是看的透彻。这会儿他进入一人同时失去恋人和宠物的女子心灵，把那种淡淡的哀伤刻画极深。\n“猫咪哪里去了？”路灯上、树影中……，都是，又都不是。每一幅图画中可爱的猫咪，都藏着动人的故事。",
+    "series": {
+        "id": "3840",
+        "title": "幾米作品"
+    },
+    "price": "20.00元"
+}

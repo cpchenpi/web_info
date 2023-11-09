@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 49103,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 莎士比亚"
+    ],
+    "pubdate": "2001-1",
+    "tags": [
+        {
+            "count": 6514,
+            "name": "莎士比亚",
+            "title": "莎士比亚"
+        },
+        {
+            "count": 3950,
+            "name": "戏剧",
+            "title": "戏剧"
+        },
+        {
+            "count": 2801,
+            "name": "哈姆莱特",
+            "title": "哈姆莱特"
+        },
+        {
+            "count": 2738,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2319,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 2124,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 1593,
+            "name": "悲剧",
+            "title": "悲剧"
+        },
+        {
+            "count": 1554,
+            "name": "名著",
+            "title": "名著"
+        }
+    ],
+    "origin_title": "Hamlet",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s27009357.jpg",
+    "binding": "平装",
+    "translator": [
+        "朱生豪"
+    ],
+    "catalog": "第一幕\n第二幕\n第三幕\n第四幕\n第五幕",
+    "pages": "125",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s27009357.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s27009357.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s27009357.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1006197/",
+    "id": "1006197",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020035949",
+    "isbn13": "9787020035946",
+    "title": "哈姆莱特",
+    "url": "https://api.douban.com/v2/book/1006197",
+    "alt_title": "Hamlet",
+    "author_intro": "",
+    "summary": "本书是大学生必读丛书中的一册，书中以教育部全国高等学校中文学科教学指导委员会指定书目为依据，收录了英国著名作家莎士比亚先生的话剧《哈姆莱特》。\n    本书具有很强的经典性及学术性，该书不仅是语言文学专业大学生从事专业学习和学术研究不可缺少的重要书籍，同时也是其他专业大学生加强人文素养、丰富文化底蕴、促进专业学习的重要读物。可供不同专业的大学生阅读收藏。",
+    "series": {
+        "id": "5001",
+        "title": "大学生必读"
+    },
+    "price": "7.00元"
+}

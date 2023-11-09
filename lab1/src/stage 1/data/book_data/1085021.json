@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7984,
+        "average": "8.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 达夫妮·杜穆里埃"
+    ],
+    "pubdate": "2002-3",
+    "tags": [
+        {
+            "count": 1139,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1095,
+            "name": "蝴蝶梦",
+            "title": "蝴蝶梦"
+        },
+        {
+            "count": 792,
+            "name": "悬疑",
+            "title": "悬疑"
+        },
+        {
+            "count": 775,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 738,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 385,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 365,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 323,
+            "name": "外国名著",
+            "title": "外国名著"
+        }
+    ],
+    "origin_title": "Rebecca",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1229533.jpg",
+    "binding": "平装",
+    "translator": [
+        "林智玲 程德 译",
+        "陆谷孙 校"
+    ],
+    "catalog": "1 简・爱\n2 乱世佳人\n3 斯佳丽\n4 鲁滨孙历险记\n5 钢铁是怎样炼成的\n6 童年*在人间*我的大学\n7 雾都孤儿\n8 孤星血泪\n9 格列佛游记\n10 哈克贝里・芬历险记\n11 变色龙\n12 歌剧院幽灵\n13 小妇人\n14 战地钟声\n15 一千零一夜\n16 格林童话\n17 安徒生童话",
+    "pages": "318",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1229533.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1229533.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1229533.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1085021/",
+    "id": "1085021",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532727424",
+    "isbn13": "9787532727421",
+    "title": "蝴蝶梦",
+    "url": "https://api.douban.com/v2/book/1085021",
+    "alt_title": "Rebecca",
+    "author_intro": "",
+    "summary": "《蝴蝶梦》原名“吕蓓卡”，是达夫妮·杜穆里埃的成名作。\n“我”与丧偶后萎靡不振的德温特先生一见钟情。但随他住进著名的曼陀里庄园后，却发现时时处在德温特已故的前妻吕蓓卡的阴影笼罩之下。一个偶然的机会，“我”发现吕蓓卡真正的死因，于是面临情与法的选择。不久，一场神秘的大火将漫陀里化为灰烬……作者通过情景交融的手法，成功地渲染了缠绵悱恻的怀乡忆旧和阴森压抑的绝望恐怖这样两种交叠渗透的气氛，加之全书悬念不断，使之成为一本多年畅销不衰的浪漫主义小说。",
+    "series": {
+        "id": "5129",
+        "title": "世界文学名著普及本（新版）"
+    },
+    "price": "16.00元"
+}

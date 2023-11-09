@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 42184,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 戴尔·卡耐基"
+    ],
+    "pubdate": "2008-1",
+    "tags": [
+        {
+            "count": 11538,
+            "name": "人性的弱点",
+            "title": "人性的弱点"
+        },
+        {
+            "count": 9117,
+            "name": "卡耐基",
+            "title": "卡耐基"
+        },
+        {
+            "count": 8391,
+            "name": "心理学",
+            "title": "心理学"
+        },
+        {
+            "count": 6807,
+            "name": "励志",
+            "title": "励志"
+        },
+        {
+            "count": 5817,
+            "name": "人性",
+            "title": "人性"
+        },
+        {
+            "count": 5490,
+            "name": "心理",
+            "title": "心理"
+        },
+        {
+            "count": 4223,
+            "name": "思维",
+            "title": "思维"
+        },
+        {
+            "count": 3571,
+            "name": "人生",
+            "title": "人生"
+        }
+    ],
+    "origin_title": "How to Win Friends and Influence People",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1083685.jpg",
+    "binding": "平装",
+    "translator": [
+        "袁玲"
+    ],
+    "catalog": "第一篇 与人相处的基本技巧\n第二篇 平安快乐的要诀\n第三篇 如何使人喜欢你\n第四篇 如何赢得他人的赞同\n第五篇 如何更好地说服他人\n第六篇 让你的家庭生活幸福快乐\n第七篇 如何使你变得更加成熟\n第八篇 走出孤独忧虑的人生\n第九篇 不要为工作和金钱而烦恼\n第十篇 防止疲劳，永葆活力",
+    "pages": "496",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1083685.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1083685.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1083685.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1056295/",
+    "id": "1056295",
+    "publisher": "中国发展出版社",
+    "isbn10": "7800875830",
+    "isbn13": "9787800875830",
+    "title": "人性的弱点全集",
+    "url": "https://api.douban.com/v2/book/1056295",
+    "alt_title": "How to Win Friends and Influence People",
+    "author_intro": "戴尔·卡耐基（Dale Carnegie, 1888-1955) ，20世纪最著名的成功学导师，著作有《语言的突破》、《人性的光辉》、《人性的弱点》、《美好的人生》等。这些书和卡耐基的成人教育实践相辅相成，将卡耐基的人生智慧传播到世界各地，影响了千千万万人的思想和心态，激发了他们对生命的无限热忱与信心，勇敢地面对与搏击现实中的困难，追求自己充实美好的人生。",
+    "summary": "《人性的弱点全集》汇集了卡耐基的思想精华和最激动人心的内容，是作者最成功的励志经典，出版后立即获得了广大读者的欢迎，成为西方世界最持久的人文畅销书。主要内容包括：与人相处的基本技巧、平安快乐的要诀、如何使人喜欢你、如何赢得他人的赞同、如何更好地说服他人、让你的家庭生活幸福快乐等十篇。",
+    "price": "25.00元"
+}

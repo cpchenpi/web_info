@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5927,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "朋友",
+    "author": [
+        "浦沢直樹"
+    ],
+    "pubdate": "2000 年",
+    "tags": [
+        {
+            "count": 1399,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1367,
+            "name": "浦泽直树",
+            "title": "浦泽直树"
+        },
+        {
+            "count": 603,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 557,
+            "name": "20世纪少年",
+            "title": "20世纪少年"
+        },
+        {
+            "count": 444,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 267,
+            "name": "青年漫画",
+            "title": "青年漫画"
+        },
+        {
+            "count": 216,
+            "name": "浦沢直樹",
+            "title": "浦沢直樹"
+        },
+        {
+            "count": 196,
+            "name": "浦澤直樹",
+            "title": "浦澤直樹"
+        }
+    ],
+    "origin_title": "20世紀少年01-ともだち",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3148371.jpg",
+    "binding": "平裝 /   32K",
+    "translator": [
+        "磊正傑"
+    ],
+    "catalog": "",
+    "pages": "210",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3148371.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3148371.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3148371.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1459623/",
+    "id": "1459623",
+    "publisher": "東立",
+    "isbn10": "9573498545",
+    "isbn13": "9789573498544",
+    "title": "20世紀少年01",
+    "url": "https://api.douban.com/v2/book/1459623",
+    "alt_title": "20世紀少年01-ともだち",
+    "author_intro": "浦沢直樹\n罗马音：Naoki Urasawa\n出生地：日本东京都府中市\n出生日：1960.1.2\n性别：男\n取得奖项：1990年以《YAWARA！/柔之道/以柔克刚》取得第35回小学馆漫画赏\n履历：\n1982年入选小学馆新人漫画赏，翌年以《BETA！！》（『辣手13』别册刊载）出道，其后曾经当野部利雄的助理。85年在小学馆的漫画杂志《BIG COMIC ORIGINAL》中连载《PINAPPLE ARMY》(原作：工藤和也）。翌年于《BIG COMIC SPIRITS》连载以柔道为题材的漫画《YAWARA！（柔之道）》。由于这作品大受欢迎，所以在89年被改编为TV动画和电影动画。浦泽老师还在《BIG COMIC ORIGINAL》中连载《MASTER KEATON》，这是一套把考古学和推理元素组合而成的作品。93年《YAWARA！》连载完毕之后，开始连载《HAPPY！》。这也是一套由少女当主角的网球漫画。另一方面，他还在《BIG COMIC ORIGINAL》连载《MONSTER》。这作品是以欧洲为舞台，故事讲述一名日本外科医生追踪一名年青杀手，而警察也在追踪这位日本外科医生，此外还有新纳粹党的出现等等。由于故事是由多重结构组成，所以令这作品充满魅力。现在浦泽老师的最新作是改编自\"漫画之神\"手冢治虫<地上最大机器人>的<PLUTO>,<20世纪少年>已经完结。\n作品一览：\nYAWARA！（全29期）（小学馆） 《以柔克刚》\nPINAPPLE ARMY（全8期）（小学馆） 《终极雇兵》\nMASTER KEATON（全18期）（小学馆） 《危险调查员》\n跳舞警官！（全1期）（小学馆）\nHAPPY！（全23期）（小学馆） 《网坛小魔女》\nJIGORO（浦泽直树短篇集）（全1期）（小学馆） 《柔道爷爷》\nN.A.S.A（全1期）（小学馆）\nKEATON动物记（全1期）（小学馆）\nMONSTER（全18期）（小学馆）\n20世纪少年（全22期）21世纪少年(全2册)（小学馆）\nPLUTO （连载中）",
+    "summary": "官方网站：\r\nhttp://www.spi-net.jp/20century/20century.html",
+    "series": {
+        "id": "546",
+        "title": "二十世纪少年/20世纪少年"
+    },
+    "price": "NT$90"
+}

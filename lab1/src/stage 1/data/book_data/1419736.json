@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4983,
+        "average": "9.4",
+        "min": 0
+    },
+    "subtitle": "SURPRISE PARTY",
+    "author": [
+        "浦沢直樹"
+    ],
+    "pubdate": "1999-03-01",
+    "tags": [
+        {
+            "count": 1111,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 1111,
+            "name": "浦泽直树",
+            "title": "浦泽直树"
+        },
+        {
+            "count": 487,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 450,
+            "name": "monster",
+            "title": "monster"
+        },
+        {
+            "count": 315,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 303,
+            "name": "悬疑",
+            "title": "悬疑"
+        },
+        {
+            "count": 200,
+            "name": "青年漫画",
+            "title": "青年漫画"
+        },
+        {
+            "count": 151,
+            "name": "浦沢直樹",
+            "title": "浦沢直樹"
+        }
+    ],
+    "origin_title": "MONSTER",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3148406.jpg",
+    "binding": "平裝",
+    "translator": [],
+    "catalog": "Chapter 1. 海德堡的少女\nChapter 2. 白馬王子\nChapter 3. 失蹤新聞\nChapter 4. 戰慄生日\nChapter 5. 慘案宅第\nChapter 6. 不是你的錯\nChapter 7. 逃亡者\nChapter 8. 老兵與少女",
+    "pages": "210",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3148406.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3148406.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3148406.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1419736/",
+    "id": "1419736",
+    "publisher": "東立",
+    "isbn10": "9573453622",
+    "isbn13": "9789573453628",
+    "title": "MONSTER-怪物-02",
+    "url": "https://api.douban.com/v2/book/1419736",
+    "alt_title": "MONSTER",
+    "author_intro": "",
+    "summary": "《怪物》的作者用上「記憶重組」的敘事手法說故事，把真相以角色的凌碎記憶重組、塑造出來，而且不按時序，但讀者卻能自然重組故事原貌，是漫畫的一種破格。\n《怪物》是一套以東西德為背景的心理驚悚漫畫，醫術高超的主人公天馬醫生救了一個頭部中槍的小孩。小孩後來和妹妹一同失蹤。多年後，連串殺人案發生，兇手──一個叫約翰的年輕人出現在天馬面前，而他就是當年那個被天馬從鬼門關拉回來的小孩。無辜的天馬成為殺人嫌犯被迫逃亡，一路追查約翰的下落。漸漸地，他發現自己當年所救的，是一隻為害人間的怪物……",
+    "series": {
+        "id": "798",
+        "title": "MONSTER"
+    },
+    "price": "100"
+}

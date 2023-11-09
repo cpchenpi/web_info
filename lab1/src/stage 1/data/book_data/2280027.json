@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4143,
+        "average": "7.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 尼克·霍恩比"
+    ],
+    "pubdate": "2007-10",
+    "tags": [
+        {
+            "count": 1763,
+            "name": "自杀俱乐部",
+            "title": "自杀俱乐部"
+        },
+        {
+            "count": 1374,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1202,
+            "name": "尼克·霍恩比",
+            "title": "尼克·霍恩比"
+        },
+        {
+            "count": 1005,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 778,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 369,
+            "name": "自杀",
+            "title": "自杀"
+        },
+        {
+            "count": 312,
+            "name": "NickHornby",
+            "title": "NickHornby"
+        },
+        {
+            "count": 255,
+            "name": "生活",
+            "title": "生活"
+        }
+    ],
+    "origin_title": "a long way down",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2739541.jpg",
+    "binding": "平装",
+    "translator": [
+        "张坤"
+    ],
+    "catalog": "",
+    "pages": "293",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2739541.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2739541.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2739541.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2280027/",
+    "id": "2280027",
+    "publisher": "人民文学出版社",
+    "isbn10": "7020064493",
+    "isbn13": "9787020064496",
+    "title": "自杀俱乐部",
+    "url": "https://api.douban.com/v2/book/2280027",
+    "alt_title": "a long way down",
+    "author_intro": "尼克·霍恩比，英国当代著名作家。生于1957年，毕业于剑桥大学，教过英语，做过记者，先以一部非小说《足球狂热》声誉鹊起，获1992年英国图书奖年度最佳体育类图书，接着第一部小说《高保真》（或译作《失恋排行榜》）又一炮走红。这两部作品，还有后来的《男孩·男人》都被改编成电影，广受好评。1999年，尼克·霍恩比获得美国艺术与人文学院E.M.福斯特奖。2001年的小说《如何是好》入围英国布克奖，并被评为WH史密斯图书奖年度最受读者喜爱的小说。\n尼克·霍恩比定居伦敦北区，他的小说和生活都围绕着这个丰富生动的大都市。",
+    "summary": "在元旦新年的守岁夜，伦敦有四个失意绝望的人：因为跟一个15岁少女上床而声败名裂的电视名人马丁；除了照顾自己严重残疾的成年儿子没有自己生活的中年妇女莫莲；因为姐姐几年前神秘失踪而一直走不出心理阴影的少女杰丝；和乐队解散、女友分手的美国摇滚歌手JJ。他们都想到著名的“礼帽大厦”楼顶跳楼自杀，四人在楼顶不期而遇。他们一起度过了一个晚上，讲述各自不幸的遭遇，第二天一早各自回家，但从此形成了一个奇怪的四人小团体，开始发生各种各样有趣的事情，比如他们试图挽救马丁的婚姻，结果一团糟；他们组成读书会，专门讨论自杀的作家们，他们还计划不周地匆匆去金丝雀群岛旅行……",
+    "price": "21.00元"
+}

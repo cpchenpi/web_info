@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9160,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "郑渊洁"
+    ],
+    "pubdate": "2006-3",
+    "tags": [
+        {
+            "count": 1679,
+            "name": "郑渊洁",
+            "title": "郑渊洁"
+        },
+        {
+            "count": 1247,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 737,
+            "name": "鲁西西",
+            "title": "鲁西西"
+        },
+        {
+            "count": 682,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 330,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 319,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 212,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 170,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2326659.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "鲁西西外传红沙发音乐城罐头小人龙珠风波鲁西西和豆芽兵教室里的隐身人女明星和图钉公主",
+    "pages": "345",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2326659.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2326659.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2326659.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1028404/",
+    "id": "1028404",
+    "publisher": "学苑出版社",
+    "isbn10": "750770999X",
+    "isbn13": "9787507709995",
+    "title": "鲁西西传",
+    "url": "https://api.douban.com/v2/book/1028404",
+    "alt_title": "",
+    "author_intro": "郑渊洁，1955年6月15日出生天河北石家庄，原籍山西临汾，现定居北京。1977年开始文学创作。主要作品：《郑渊洁童话全集》（30卷）和《郑渊洁与皮皮鲁对话录》。1985年创刊至今的《童话大王》杂志是专门刊登他的作品的月刊。作品中的人物皮皮鲁、鲁西西、罗克、舒克和贝塔已成为注册商标。1993年当选首届北京十大杰出青年。",
+    "summary": "鲁西西十二岁了，她是个爱在家里的玩的小女孩，一天，她救了五个小人��罐头小人，她和他们成为了朋友，可是，爸爸妈妈却不知鲁西西为什么变了好多，他们一直在追察，鲁西西尽力的保护着五个小人，他们有没有被爸爸妈妈发现呢？鲁西西和哥哥发现了一个音乐城，它就是他们家中的红沙发下，美妙的音乐吸引住了他们，音乐城不能被人发现，但皮皮鲁为了朋友，将音乐城的音乐录给了朋友听，音乐城的音乐就这样外露了，人们会发现音乐城吗？……请看《鲁西西传》。",
+    "series": {
+        "id": "10580",
+        "title": "郑渊洁童话"
+    },
+    "price": "18.00元"
+}

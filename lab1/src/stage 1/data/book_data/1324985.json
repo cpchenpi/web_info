@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 2943,
+        "average": "8.1",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "连岳"
+    ],
+    "pubdate": "2003-12-1",
+    "tags": [
+        {
+            "count": 1227,
+            "name": "连岳",
+            "title": "连岳"
+        },
+        {
+            "count": 422,
+            "name": "专栏",
+            "title": "专栏"
+        },
+        {
+            "count": 315,
+            "name": "我是鸡汤",
+            "title": "我是鸡汤"
+        },
+        {
+            "count": 314,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 226,
+            "name": "情感",
+            "title": "情感"
+        },
+        {
+            "count": 146,
+            "name": "杂文",
+            "title": "杂文"
+        },
+        {
+            "count": 127,
+            "name": "南方周末",
+            "title": "南方周末"
+        },
+        {
+            "count": 64,
+            "name": "杂文随笔",
+            "title": "杂文随笔"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1699179.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "自序\n1 我愿我是一只鸡\n2 完蛋就完蛋\n3 CK惊魂记\n4 与海森伯格合谋的卫星\n5 安全套不会掷骰子\n6 悬崖上的繁荣生活\n7 不要你报答\n8 他们不让我当牛顿\n9 咪咪的诱惑\n10 为什么不羞愧\n11 一只海龟在冬天\n12 3P不宜\n13 私有财产神圣不可侵犯\n14 睡衣攻防术\n15 炮打小康蚊子\n……",
+    "pages": "187",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1699179.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1699179.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1699179.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1324985/",
+    "id": "1324985",
+    "publisher": "华东师范大学出版社",
+    "isbn10": "7561735596",
+    "isbn13": "9787561735596",
+    "title": "我是鸡汤",
+    "url": "https://api.douban.com/v2/book/1324985",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《我是鸡汤》这本书是《南方周末》专栏“我是鸡汤”的结集，也包括作者在《外滩画报》、《希望》等报刊类似专栏的文章。75篇对话就是75次相遇，内容涉及爱情、婚姻、性、工作、时尚、读书、英语、忠诚、郁闷、孤独、年轻人生活的方方面面，一个女孩怯怯地问：“很想和你聊聊，最近过得特郁闷，为了感情的事……”连岳是解题高手，接招拆招，煞是好看。对话展现了连岳的幽默与机智，恣意横飞的想象力，宽泛得让人咋舌的知识面，但更多的是诚实、干净、自由、不愤世、不媚俗，直指人性中美好的东西。",
+    "price": "16.80元"
+}

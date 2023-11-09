@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 26454,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "（第8版）",
+    "author": [
+        "[美] 戴维·迈尔斯"
+    ],
+    "pubdate": "2006-1",
+    "tags": [
+        {
+            "count": 24315,
+            "name": "心理学",
+            "title": "心理学"
+        },
+        {
+            "count": 19601,
+            "name": "社会心理学",
+            "title": "社会心理学"
+        },
+        {
+            "count": 8303,
+            "name": "心理",
+            "title": "心理"
+        },
+        {
+            "count": 7390,
+            "name": "社会学",
+            "title": "社会学"
+        },
+        {
+            "count": 7103,
+            "name": "社会心理",
+            "title": "社会心理"
+        },
+        {
+            "count": 6215,
+            "name": "认识自己",
+            "title": "认识自己"
+        },
+        {
+            "count": 3492,
+            "name": "专业书",
+            "title": "专业书"
+        },
+        {
+            "count": 2819,
+            "name": "psychology",
+            "title": "psychology"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1670932.jpg",
+    "binding": "平装",
+    "translator": [
+        "张智勇",
+        "乐国安",
+        "侯玉波 等"
+    ],
+    "catalog": "中译版序言\n前言\n第1章 社会心理学导论\n第一编 社会思维\n第2章 社会中的自我\n第3章 社会信念与判断\n第4章 行为和态度\n第二编 社会影响\n第5章 基因、文化和性别\n第6章 从众\n第7章 说服\n第8章 群体影响\n第三编 社会关系\n第9章 偏见：不喜欢他人\n第10章 攻击行为：伤害他人\n第11章 吸引和亲密：喜欢他人和爱他人\n第12章 利他：帮助他人\n第13章 冲突与和解\n第四编 应用社会心理学\n第14章 社会心理学在临床领域中的应用\n第15章 社会心理学在司法领域中的应用\n第16章 社会心理学与可持续发展的未来\n专业术语表\n参考文献",
+    "pages": "504",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1670932.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1670932.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1670932.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1476651/",
+    "id": "1476651",
+    "publisher": "人民邮电出版社",
+    "isbn10": "711513880X",
+    "isbn13": "9787115138804",
+    "title": "社会心理学",
+    "url": "https://api.douban.com/v2/book/1476651",
+    "alt_title": "Social Psychology",
+    "author_intro": "戴维·迈尔斯自从获得爱荷华大学的博±学位之后，就在密歇根的霍普学院工作，成为那里的John Dirk Werkman心理学教授，并且开设了多门社会心理学的课程。霍普学院的学生邀请他在毕业典礼上发言并评选他为“最杰出的教授”。\n迈尔斯曾在30多种科学书籍和期刊上发表过多篇论文，包括《科学》、《美国科学家》、《心理科学》和《美国心理学家》等。除了学术著作和教科书，同时他还致力于把心理科学介绍给广大民众。他在许多杂志上发表过科普类文章，如《今日教育》和《科学美国人》。",
+    "summary": "《社会心理学》这本书被美国700多所大学或学院的心理系所采用，是这一领域的主导教材，已经成为评价其他教材的标准。\n这本书将基础研究与实践应用完美地结合在一起，以富有逻辑性的组织结构引领学生了解人们是如何思索、影响他人并与他人建立联系的。是人们了解自身、了解社会、了解自己与社会之间关系的最佳的指导性书籍。",
+    "series": {
+        "id": "31327",
+        "title": "新曲线·心理学丛书"
+    },
+    "price": "68.00元"
+}

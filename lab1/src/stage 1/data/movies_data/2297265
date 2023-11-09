@@ -1,0 +1,3038 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        浪潮 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2006 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="https://img1.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img1.doubanio.com/f/vendors/02814fbb5bee25484516bd0a642af695f7ec5a83/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/vendors/ee6598d46af0bc554cecec9bcbf525b9b0582cb0/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/movie/cb1cb6aaa244dff6a281d103ff26d445debd130a/dist/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/aa9559674f2476cdc16f755b3cdc4ebc478db669/js/douban.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="浪潮,Die Welle,浪潮影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="浪潮电影简介和剧情介绍,浪潮影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/movie/subject/2297265/"/>
+    <link rel="alternate" href="android-app://com.douban.movie/doubanmovie/subject/2297265/" />
+    <link rel="stylesheet" href="https://img1.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/ea46c1bbb13fe495ccb639fd815b628ba32df4c5/dist/movie/common/show.css">
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "name": "浪潮 Die Welle",
+  "url": "/subject/2297265/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027653/",
+      "name": "丹尼斯·甘塞尔 Dennis Gansel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027653/",
+      "name": "丹尼斯·甘塞尔 Dennis Gansel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019364/",
+      "name": "彼得·图万斯 Peter Thorwarth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281943/",
+      "name": "约翰尼·道金斯 Johnny Dawkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365064/",
+      "name": "罗恩·比恩巴赫 Ron Birnbach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365065/",
+      "name": "罗恩·琼斯 Ron Jones"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048266/",
+      "name": "于尔根·福格尔 Jürgen Vogel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223320/",
+      "name": "弗雷德里克·劳 Frederick Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014166/",
+      "name": "马克思·雷迈特 Max Riemelt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027634/",
+      "name": "詹妮弗·乌尔里希 Jennifer Ulrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032592/",
+      "name": "克里斯蒂安娜·保罗 Christiane Paul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318816/",
+      "name": "雅各布·马琛茨 Jacob Matschenz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177345/",
+      "name": "克里斯蒂娜·度·瑞格 Cristina do Rego"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018334/",
+      "name": "埃利亚斯·穆巴里克 Elyas M&#39;Barek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235160/",
+      "name": "马克西米利安·福尔马尔 Maximilian Vollmar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315530/",
+      "name": "马克斯·毛夫 Max Mauff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284612/",
+      "name": "约翰娜·加斯多夫 Johanna Gastdorf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268233/",
+      "name": " Darvin Schmidt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323582/",
+      "name": "卡罗莉内·特斯卡 Karoline Teska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338327/",
+      "name": "Natascha Paulick Natascha Paulick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321375/",
+      "name": "丽芙·丽莎·弗赖斯 Liv Lisa Fries"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369545/",
+      "name": "Ferdinand Schmidt-Modrow Ferdinand Schmidt-Modrow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369546/",
+      "name": "蒂姆·奥利弗·舒尔茨 Tim Oliver Schultz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231364/",
+      "name": "奥蒂妮·乔尼 Odine Johne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006030/",
+      "name": "莱纳德·博茨巴赫 Lennard Bertzbach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010259/",
+      "name": "莫丽·考依曼 Maren Kroymann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027653/",
+      "name": "丹尼斯·甘塞尔 Dennis Gansel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037371/",
+      "name": "杰拉德·亚历山大·海德 Gerald Alexander Held"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072393/",
+      "name": "Marco Bretscher-Coschignano Marco Bretscher-Coschignano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146610/",
+      "name": "托马斯·萨巴彻尔 Thomas Sarbacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176309/",
+      "name": "Thommy Schwimmer Thommy Schwimmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206111/",
+      "name": "杰米·费基克 Jaime Ferkic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002955/",
+      "name": "缇诺·麦威斯 Tino Mewes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369547/",
+      "name": "Amelie Kiefer Amelie Kiefer"
+    }
+  ]
+,
+  "datePublished": "2008-03-13",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H47M",
+  "description": "赖纳•文格尔（Jürgen Vogel 饰）是德国某所高中的老师，该学校正在进行“国家体制”的主题活动周。由于他最喜欢的“无政府主义”课被另一位老师捷足先登，因此他只能主讲“独裁统治”课程。
+对于自由...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "274771",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.7"
+  }
+}
+</script>
+
+    
+    
+    <meta property="og:title" content="浪潮 Die Welle" />
+    <meta property="og:description" content="赖纳•文格尔（Jürgen Vogel 饰）是德国某所高中的老师，该学校正在进行“国家体制”的主题活动周。由于他最喜欢的“无政府主义”课被另一位老师捷足先登，因此他只能主讲“独裁统治”课程。
+对于自由..." />
+    <meta property="og:site_name" content="豆瓣" />
+    <meta property="og:url" content="https://movie.douban.com/subject/2297265/" />
+    <meta property="og:image" content="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg" />
+    <meta property="og:type" content="video.movie" />
+            <meta property="video:actor" content="于尔根·福格尔" />
+            <meta property="video:actor" content="弗雷德里克·劳" />
+            <meta property="video:actor" content="马克思·雷迈特" />
+            <meta property="video:actor" content="詹妮弗·乌尔里希" />
+            <meta property="video:actor" content="克里斯蒂安娜·保罗" />
+            <meta property="video:actor" content="雅各布·马琛茨" />
+            <meta property="video:actor" content="克里斯蒂娜·度·瑞格" />
+            <meta property="video:actor" content="埃利亚斯·穆巴里克" />
+            <meta property="video:actor" content="马克西米利安·福尔马尔" />
+            <meta property="video:actor" content="马克斯·毛夫" />
+            <meta property="video:actor" content="约翰娜·加斯多夫" />
+            <meta property="video:actor" content="Darvin Schmidt" />
+            <meta property="video:actor" content="卡罗莉内·特斯卡" />
+            <meta property="video:actor" content="Natascha Paulick" />
+            <meta property="video:actor" content="丽芙·丽莎·弗赖斯" />
+            <meta property="video:actor" content="Ferdinand Schmidt-Modrow" />
+            <meta property="video:actor" content="蒂姆·奥利弗·舒尔茨" />
+            <meta property="video:actor" content="奥蒂妮·乔尼" />
+            <meta property="video:actor" content="莱纳德·博茨巴赫" />
+            <meta property="video:actor" content="莫丽·考依曼" />
+            <meta property="video:actor" content="丹尼斯·甘塞尔" />
+            <meta property="video:actor" content="杰拉德·亚历山大·海德" />
+            <meta property="video:actor" content="Marco Bretscher-Coschignano" />
+            <meta property="video:actor" content="托马斯·萨巴彻尔" />
+            <meta property="video:actor" content="Thommy Schwimmer" />
+            <meta property="video:actor" content="杰米·费基克" />
+            <meta property="video:actor" content="缇诺·麦威斯" />
+            <meta property="video:actor" content="Amelie Kiefer" />
+            <meta property="video:director" content="丹尼斯·甘塞尔" />
+        <meta property="video:duration" content="6420" />
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/19e76b48948b8c01.css">
+
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2022?fullscreen=1&source=navigation"
+     >2022年度榜单</a>
+    </li>
+    <li    ><a href="https://standbyme2022.douban.com/?autorotate=false&fullscreen=true&hidenav=true&source=web_navigation"
+            target="_blank"
+     >2022书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2022?fullscreen=1&source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <h1>
+        <span property="v:itemreviewed">浪潮 Die Welle</span>
+            <span class="year">(2008)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="https://movie.douban.com/subject/2297265/photos?type=R" title="点击看更多海报">
+        <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg" title="点击看更多海报" alt="Die Welle" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="/celebrity/1027653/" rel="v:directedBy">丹尼斯·甘塞尔</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="/celebrity/1027653/">丹尼斯·甘塞尔</a> / <a href="/celebrity/1019364/">彼得·图万斯</a> / <a href="/celebrity/1281943/">约翰尼·道金斯</a> / <a href="/celebrity/1365064/">罗恩·比恩巴赫</a> / <a href="/celebrity/1365065/">罗恩·琼斯</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="/celebrity/1048266/" rel="v:starring">于尔根·福格尔</a> / <a href="/celebrity/1223320/" rel="v:starring">弗雷德里克·劳</a> / <a href="/celebrity/1014166/" rel="v:starring">马克思·雷迈特</a> / <a href="/celebrity/1027634/" rel="v:starring">詹妮弗·乌尔里希</a> / <a href="/celebrity/1032592/" rel="v:starring">克里斯蒂安娜·保罗</a> / <a href="/celebrity/1318816/" rel="v:starring">雅各布·马琛茨</a> / <a href="/celebrity/1177345/" rel="v:starring">克里斯蒂娜·度·瑞格</a> / <a href="/celebrity/1018334/" rel="v:starring">埃利亚斯·穆巴里克</a> / <a href="/celebrity/1235160/" rel="v:starring">马克西米利安·福尔马尔</a> / <a href="/celebrity/1315530/" rel="v:starring">马克斯·毛夫</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">惊悚</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 德国<br/>
+        <span class="pl">语言:</span> 德语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2008-03-13(德国)">2008-03-13(德国)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="107">107 分钟</span><br/>
+        <span class="pl">又名:</span> 恶魔教室(台) / 白恤暴潮(港) / 波浪 / 挥手礼 / The Wave<br/>
+        <span class="pl">IMDb:</span> tt1063669<br>
+
+</div>
+
+
+
+
+                </div>
+                
+                    
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/b9636a640b0525c5be0809d093247e12d39aebbe/dist/movie/download-output-image/index.css">
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v:rating">
+        <div class="clearfix">
+            <div class="rating_logo ll">
+                豆瓣评分
+            </div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="https://img1.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">8.7</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar45"></div>
+        <div class="rating_sum">
+                <a href="comments" class="rating_people">
+                    <span property="v:votes">274771</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">48.0%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:55px"></div>
+        <span class="rating_per">41.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:12px"></div>
+        <span class="rating_per">9.4%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:1px"></div>
+        <span class="rating_per">0.8%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:0px"></div>
+        <span class="rating_per">0.2%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&type=11&interval_id=100:90&action=">96% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=惊悚&type=19&interval_id=100:90&action=">98% 惊悚片</a><br/>
+        </div>
+</div>
+<script src="https://img1.doubanio.com/f/movie/d9835c2c116dd65ad5f00817337abbb5445486ca/dist/movie/download-output-image/index.js"></script>
+
+
+                
+            </div>
+            
+                
+
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="https://www.douban.com/reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-2297265-wish">
+                <span>想看</span>
+            </a>
+            <a href="https://www.douban.com/reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-2297265-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img1.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img1.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img1.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-2297265-1">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-2297265-2">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-2297265-3">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-2297265-4">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-2297265-5">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/>
+        </a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                
+                  <li> 
+    <img src="https://img1.doubanio.com/f/movie/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/movie/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写短评</a>
+ </li>
+                  <li> 
+    
+    <img src="https://img1.doubanio.com/f/movie/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/movie/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-2297265">
+    <a href= "#"
+        data-type="电影"
+        data-url="https://movie.douban.com/subject/2297265/"
+        data-desc="电影《浪潮 Die Welle》 (来自豆瓣) "
+        data-title="电影《浪潮 Die Welle》 (来自豆瓣) "
+        data-pic="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/b6e0770163b1da14217b0f1ca39189d47b95f51f/js/lib/sharebutton.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/dist/movie/libs/qrcode.min.js"></script>
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("/blank?sbj_page_click=bn_sharing");
+            });
+        });
+    </script>
+</div>
+
+
+
+
+            
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="/j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="2297265">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="浪潮 Die Welle‎ (2008)">
+                <input type="hidden" name="desc" value="导演 丹尼斯·甘塞尔 主演 于尔根·福格尔 / 弗雷德里克·劳 / 德国 / 8.7分(274771评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg" />
+                <strong>浪潮 Die Welle‎ (2008)</strong>
+                <p>导演 丹尼斯·甘塞尔 主演 于尔根·福格尔 / 弗雷德里克·劳 / 德国 / 8.7分(274771评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="/accounts/register?reason=recommend"  class="j a_show_login lnk-sharing" 
+            share-id="2297265" 
+            data-mode="plain" data-name="浪潮 Die Welle‎ (2008)" 
+            data-type="movie" data-desc="导演 丹尼斯·甘塞尔 主演 于尔根·福格尔 / 弗雷德里克·劳 / 德国 / 8.7分(274771评价)" 
+            data-href="https://movie.douban.com/subject/2297265/" data-image="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg" 
+            data-properties="{}" 
+            data-redir="" data-text="" 
+            data-apikey="" data-curl="" 
+            data-count="10" data-object_kind="1002" 
+            data-object_id="2297265" data-target_type="rec" 
+            data-target_action="0" 
+            data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/2297265\/&#34;,&#34;subject_title&#34;:&#34;浪潮 Die Welle‎ (2008)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_2297265"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">浪潮的剧情简介</i>
+              · · · · · ·
+    </h2>
+
+            <div class="indent" id="link-report-intra">
+                    
+                        <span property="v:summary" class="">
+                                　　赖纳•文格尔（Jürgen Vogel 饰）是德国某所高中的老师，该学校正在进行“国家体制”的主题活动周。由于他最喜欢的“无政府主义”课被另一位老师捷足先登，因此他只能主讲“独裁统治”课程。
+                                    <br />
+                                　　对于自由散漫的学生们来说，任何课程都只是为了学分而上。他们在课上大声聊天，无心听讲。文格尔别出心裁提出假想“独裁”的实验。在为期一周的实验中，文格尔被置于至高无上的地位，学生们对他要绝对服从。从最初的玩乐心态，这些青年男女渐渐沉湎这个名为“浪潮”的组织中，他们体会到集体和纪律的重要性，却在不知不觉中滑向了“独裁”与“纳粹”的深渊……
+                                    <br />
+                                　　本片根据真实事件改编，并荣获2008年德国电影杰出剧情片和最佳男配角奖（Frederick Lau）。
+                        </span>
+                        <span class="pl"><a href="https://movie.douban.com/help/movie#t0-qs">&copy;豆瓣</a></span>
+            </div>
+</div>
+
+
+    <div id="dale_movie_subject_banner_after_intro"></div>
+
+    
+
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/e7bb3fa21985f6e07c027dd984c99f26e54987f9/dist/movie/celebrity/celebrities_section.css">
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">浪潮的演职员</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="/subject/2297265/celebrities">全部 39</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1027653/" title="丹尼斯·甘塞尔 Dennis Gansel" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p9882.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1027653/" title="丹尼斯·甘塞尔 Dennis Gansel" class="name">丹尼斯·甘塞尔</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1048266/" title="于尔根·福格尔 Jürgen Vogel" class="">
+      <div class="avatar" style="background-image: url(https://img9.doubanio.com/view/celebrity/raw/public/p8154.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1048266/" title="于尔根·福格尔 Jürgen Vogel" class="name">于尔根·福格尔</a></span>
+
+      <span class="role" title="演员">演员</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1223320/" title="弗雷德里克·劳 Frederick Lau" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p1485418822.11.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1223320/" title="弗雷德里克·劳 Frederick Lau" class="name">弗雷德里克·劳</a></span>
+
+      <span class="role" title="演员">演员</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1014166/" title="马克思·雷迈特 Max Riemelt" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p1434483290.83.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1014166/" title="马克思·雷迈特 Max Riemelt" class="name">马克思·雷迈特</a></span>
+
+      <span class="role" title="演员">演员</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1027634/" title="詹妮弗·乌尔里希 Jennifer Ulrich" class="">
+      <div class="avatar" style="background-image: url(https://img9.doubanio.com/view/celebrity/raw/public/p28695.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1027634/" title="詹妮弗·乌尔里希 Jennifer Ulrich" class="name">詹妮弗·乌尔里希</a></span>
+
+      <span class="role" title="演员">演员</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1032592/" title="克里斯蒂安娜·保罗 Christiane Paul" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p1367416110.32.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1032592/" title="克里斯蒂安娜·保罗 Christiane Paul" class="name">克里斯蒂安娜·保罗</a></span>
+
+      <span class="role" title="演员">演员</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/verify/b94df3c30a99176a78709b95ecf1cf80b105beb0/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '2297265',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/bd6325a12f40c34cbf2668aafafb4ccd60deab7e/vendors.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/6242a400cfd25992da35ace060e58f160efc9c50/shared_rc.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/verify/6e7e593ba318f1355c70e66e010cf89411c3d937/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0164f79cda68b2b3cb09b712e8417001e4a4ca1a/dist/movie/subject/photos_section.css">
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">浪潮的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/2297265/trailer#trailer">预告片1</a>&nbsp;|&nbsp;<a href="https://movie.douban.com/subject/2297265/all_photos">图片408</a>&nbsp;·&nbsp;<a href="https://movie.douban.com/subject/2297265/mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="https://movie.douban.com/trailer/115827/#content" title="预告片" style="background-image:url(https://img2.doubanio.com/img/trailer/medium/1579528762.jpg)">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/2497603815/"><img src="https://img9.doubanio.com/view/photo/sqxs/public/p2497603815.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/2563032607/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p2563032607.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/555129417/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p555129417.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/2391109009/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p2391109009.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+    
+
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+<div class="mod">
+    <div class="hd">
+        
+    <h2>
+        <i class="">浪潮的获奖情况</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/2297265/awards/">全部</a>
+            )
+            </span>
+    </h2>
+
+    </div>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/efa/21/">第21届欧洲电影奖</a>
+            </li>
+            <li>最佳男主角(提名)</li>
+            <li><a href='https://movie.douban.com/celebrity/1048266/' target='_blank'>于尔根·福格尔</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/efa/21/">第21届欧洲电影奖</a>
+            </li>
+            <li>观众选择奖(提名)</li>
+            <li></li>
+        </ul>
+</div>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0ebe45fa18ae69ea021b9ea03936d3656d4a5581/dist/movie/subject/recommendations.css">
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+              · · · · · ·
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1900841/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg" alt="窃听风暴" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1900841/?from=subject-page" class="" >窃听风暴</a>
+                <span class="subject-rate">9.2</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/6985810/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg" alt="狩猎" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/6985810/?from=subject-page" class="" >狩猎</a>
+                <span class="subject-rate">9.1</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1388216/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg" alt="撞车" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1388216/?from=subject-page" class="" >撞车</a>
+                <span class="subject-rate">8.6</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292224/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg" alt="飞越疯人院" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292224/?from=subject-page" class="" >飞越疯人院</a>
+                <span class="subject-rate">9.1</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1293182/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg" alt="十二怒汉" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1293182/?from=subject-page" class="" >十二怒汉</a>
+                <span class="subject-rate">9.4</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292064/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg" alt="楚门的世界" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292064/?from=subject-page" class="" >楚门的世界</a>
+                <span class="subject-rate">9.4</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/21937445/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg" alt="辩护人" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/21937445/?from=subject-page" class="" >辩护人</a>
+                <span class="subject-rate">9.2</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/5322596/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg" alt="超脱" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/5322596/?from=subject-page" class="" >超脱</a>
+                <span class="subject-rate">9.0</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1291858/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg" alt="鬼子来了" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1291858/?from=subject-page" class="" >鬼子来了</a>
+                <span class="subject-rate">9.3</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1291822/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg" alt="卢旺达饭店" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1291822/?from=subject-page" class="" >卢旺达饭店</a>
+                <span class="subject-rate">8.9</span>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+    
+        
+
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}vote-comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/d63a579a99fd372b4398731a279a1382e6eac71e/dist/movie/subject-comments/comments-section.css">
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+            
+        <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+    <h2>
+        <i class="">浪潮的短评</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/2297265/comments?status=P">全部 74165 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+       
+        
+
+
+        <div class="mod-bd">
+                
+        <div class="tab-hd">
+                        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+                        <a id="new-comments-tab" href="comments?sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+                        <a id="following-comments-tab" href="comments?sort=follows" data-id="following"  class="j a_show_login">好友</a>
+        </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+
+        
+        <div class="comment-item " data-cid="72702558">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2289</span>
+
+                    <input value="72702558" type="hidden"/>
+                    <a href="javascript:;" data-id="72702558"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/zishuiyilan/" class="">薇羅尼卡</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2008-11-15 14:45:35">
+                    2008-11-15 14:45:35
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">你认为新纳粹主义不会重新卷土重来吗？看看这部影片吧！法西斯强大的生命力深植于每个人内心，轻易被点燃。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/2297265/?comment_id=72702558"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="86628785">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3380</span>
+
+                    <input value="86628785" type="hidden"/>
+                    <a href="javascript:;" data-id="86628785"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/caesarphoenix/" class="">xīn</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2013-01-29 14:00:05">
+                    2013-01-29 14:00:05
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">糟蹋了这个题材，穿下校服和上课遵守纪律，学生就脑补到满城涂鸦、开枪杀人了。人类社会离不开组织和秩序，独裁统治和有效组织的区别其实应该是影片讲述的重点。而影片用一个神经脆弱学生的开枪来否定几乎一切社会运动和社会团体的组织方式显得很无力，对独裁的关键——监视、绝对的理念展现不够。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/2297265/?comment_id=86628785"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="67610039">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3015</span>
+
+                    <input value="67610039" type="hidden"/>
+                    <a href="javascript:;" data-id="67610039"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/chrisocean/" class="">17950</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2008-10-26 02:04:31">
+                    2008-10-26 02:04:31
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">奇怪的不是獨裁者而是服從者</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/2297265/?comment_id=67610039"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="323705898">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2384</span>
+
+                    <input value="323705898" type="hidden"/>
+                    <a href="javascript:;" data-id="323705898"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/2574869/" class="">fefe</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2010-12-07 14:44:17">
+                    2010-12-07 14:44:17
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">“还有，发言的人必须起立”“有点过分了吧！”</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/2297265/?comment_id=323705898"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="1017817580">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">761</span>
+
+                    <input value="1017817580" type="hidden"/>
+                    <a href="javascript:;" data-id="1017817580"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/spiky1920/" class="">Alain</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2016-03-05 11:21:36">
+                    2016-03-05 11:21:36
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">总觉得还差了点什么，拍得不够。
+想起中学时参加广播操比赛时被强制购买统一套装，有几个没买的，愣是被班主任说成了“自私”“没有集体荣誉感”，然后其他同学都在练操，他们几个就站在操场外面看着，像是看着一群猴子在整齐划一地听着口令杂耍。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/2297265/?comment_id=1017817580"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+
+
+
+
+                
+                    &gt; <a href="comments?sort=new_score&status=P" >
+                        更多短评
+                            74165条
+                    </a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="/help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的账号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="https://help.douban.com/help/ask?category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+    
+
+
+
+            <script src="https://img1.doubanio.com/f/movie/6eba6f43fb7592ab783e390f654c0d6a96b1598e/dist/movie/subject-comments/comments-section.js"></script>
+            <script>
+                $(function () {
+                    if (window.SUBJECT_COMMENTS_SECTION) {
+                        // tab handler
+                        SUBJECT_COMMENTS_SECTION.createTabHandler();
+                        // expand handler
+                        SUBJECT_COMMENTS_SECTION.createExpandHandler({
+                            root: document.getElementById('comments-section'),
+                        });
+                        // vote handler
+                        SUBJECT_COMMENTS_SECTION.createVoteHandler({
+                            api: '/j/comment/vote',
+                            root: document.getElementById('comments-section'),
+                            voteSelector: '.vote-comment',
+                            textSelector: '.vote-count',
+                            is_released: "true",
+                            alert_text: "该电影还未上映，不能投票噢",
+                            afterVote: function (elem) {
+                                var parentNode = elem.parentNode;
+                                var successElem = document.createElement('span');
+                                successElem.innerHTML = '已投票';
+                                parentNode.removeChild(elem);
+                                parentNode.appendChild(successElem);
+                            }
+                        });
+                    }
+                });
+            </script>
+        </div>
+    </div>
+
+
+
+<!--        此处是挂载其他页面，不是注释！不是注释！不是注释！-->
+        
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/610438fbda6eb614.css">
+
+    <section id="reviews-wrapper" class="reviews mod movie-content">
+        <header>
+            
+                <a href="new_review" rel="nofollow" class="create-review comment_btn "
+                    data-isverify="False"
+                    data-verify-url="https://www.douban.com/accounts/phone/verify?redir=http://movie.douban.com/subject/2297265/new_review">
+                    <span>我要写影评</span>
+                </a>
+            <h2>
+                    浪潮的影评 · · · · · ·
+
+                    <span class="pl">( <a href="reviews">全部 1829 条</a> )</span>
+            </h2>
+        </header>
+        
+            
+            <div class="review_filter">
+                            <a href="javascript:;;" class="cur" data-sort="">热门</a>
+                            <a href="javascript:;;" data-sort="time">最新</a>
+                            <a href="javascript:;;" data-sort="follow">好友</a>
+            </div>
+            <script>
+                var cur_sort = '';
+                $('#reviews-wrapper .review_filter a').on('click', function () {
+                    var sort = $(this).data('sort');
+                    if(sort === cur_sort) return;
+
+                    if(sort === 'follow' && true){
+                        window.location.href = '//www.douban.com/accounts/login?source=movie';
+                        return;
+                    }
+
+                    if($('#reviews-wrapper .review_filter').data('doing')) return;
+                    $('#reviews-wrapper .review_filter').data('doing', true);
+
+                    cur_sort = sort;
+
+                    $('#reviews-wrapper .review_filter a').removeClass('cur');
+                    $(this).addClass('cur');
+
+                    $.getJSON('reviews', { sort: sort }, function(res) {
+                        $('#reviews-wrapper .review-list').remove();
+                        $('#reviews-wrapper [href="reviews?sort=follow"]').parent().remove();
+                        $('#reviews-wrapper .review_filter').after(res.html);
+                        $('#reviews-wrapper .review_filter').data('doing', false);
+                        $('#reviews-wrapper .review_filter').removeData('doing');
+
+                        if (res.count === 0) {
+                            $('#reviews-wrapper .review-list').html('<span class="no-review">你关注的人还没写过长评</span>');
+                        }
+                    });
+                });
+            </script>
+
+
+            
+
+
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="1534880">
+        <div class="main review-item" id="1534880">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/hideinthecrowd/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1423569-219.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/hideinthecrowd/" class="name">赫克托尔</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-10-24" class="main-meta">2008-10-24 20:56:34</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1534880/">归属感源于脆弱，人类渴求同质化。</a></h2>
+
+                <div id="review_1534880_short" class="review-short" data-rid="1534880">
+                    <div class="short-content">
+
+                        一、  Marco：“你为什么这么反感浪潮？” Karo：“Marco，睁开你的双眼吧。浪潮正在扭曲的壮大起来。” …… Marco：“浪潮对我意义深远。” Karo：“什么意义？ Marco：“归属感。……你也清楚，你有一个完整的家庭。但我没有。”   二、  我去了广州听一个后摇乐队的演出。...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1534880-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1534880_full" class="hidden">
+                    <div id="review_1534880_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1534880" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1534880">
+                                2592
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1534880" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1534880">
+                                70
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1534880/#comments" class="reply ">171回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="2742178">
+        <div class="main review-item" id="2742178">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/wuzhihong/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1465170-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/wuzhihong/" class="name">武志红</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2009-11-12" class="main-meta">2009-11-12 22:37:43</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/2742178/">纳粹主义的魔力是什么？</a></h2>
+
+                <div id="review_2742178_short" class="review-short" data-rid="2742178">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        一个人自己的事要是值得管，他通常都会去管自己的事。如果自己的事不值得管，他就会丢下自己那些没意义的事，转而去管别人家的事。 ——美国哲学家埃里克•霍弗   为什么普通德国人，如农民、银行雇员、教师和医生都宣称，他们并不知道屠杀犹太人的惨剧？ 1967年4月，在美国...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-2742178-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_2742178_full" class="hidden">
+                    <div id="review_2742178_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="2742178" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-2742178">
+                                1094
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="2742178" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-2742178">
+                                37
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/2742178/#comments" class="reply ">93回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1830329">
+        <div class="main review-item" id="1830329">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/2217523/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u2217523-6.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/2217523/" class="name">DieKlavier</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2009-03-09" class="main-meta">2009-03-09 17:09:13</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1830329/">独裁主义究竟是什么</a></h2>
+
+                <div id="review_1830329_short" class="review-short" data-rid="1830329">
+                    <div class="short-content">
+
+                        国家体制周里文革尔老师说的独裁主义，而他们脑海里的独裁主义便心照不宣地指向了希特勒，然而整个实验活动隐喻地却是自从法国大革命以来的左翼激进运动。电影强调“文革尔老师被学生的崇拜冲昏了头脑”，同时用“一个极端狂热分子的荒唐举动”和文革尔老师的被逮捕来结束电影...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1830329-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1830329_full" class="hidden">
+                    <div id="review_1830329_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1830329" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1830329">
+                                287
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1830329" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1830329">
+                                8
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1830329/#comments" class="reply ">51回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1631125">
+        <div class="main review-item" id="1631125">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/Uvo/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u1030253-165.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/Uvo/" class="name">私享史</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2009-01-24" class="main-meta">2009-01-24 20:23:42</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1631125/">我们在天的哪一边？</a></h2>
+
+                <div id="review_1631125_short" class="review-short" data-rid="1631125">
+                    <div class="short-content">
+
+                        几天前看《奥运档案》讲开幕式击缶排练背后的故事，有朋友问我对于此间表现出的集体主义精神作何感想，因为是短信来往，并没有深谈。作为我来讲，自己素来是表现得更个人主义一些的，但我对集体主义也并不那么排斥。  然后突然发现了这部《浪潮》，一看简介我就窃喜，它不正是...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1631125-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1631125_full" class="hidden">
+                    <div id="review_1631125_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1631125" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1631125">
+                                309
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1631125" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1631125">
+                                55
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1631125/#comments" class="reply ">63回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1523548">
+        <div class="main review-item" id="1523548">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/Kliuq/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1919807-17.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/Kliuq/" class="name">帶飯修行黃克留</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-10-13" class="main-meta">2008-10-13 15:27:19</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1523548/">專制政治，并不遙遠——有關劇透，未觀片者慎讀</a></h2>
+
+                <div id="review_1523548_short" class="review-short" data-rid="1523548">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        路易斯安那的野蠻人想要果子時，便把果樹連根砍倒，采摘果實。這就是專制政體的寓意。  ——孟德斯鳩《論法的精神》 第五章 第十三節 專制主義的意義    故事發生在今天的德國。在某個城市的一所普通高中里，政治和體育老師Rainer Wenger工作積極，思維活躍，而且，精力旺盛—...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1523548-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1523548_full" class="hidden">
+                    <div id="review_1523548_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1523548" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1523548">
+                                147
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1523548" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1523548">
+                                6
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1523548/#comments" class="reply ">34回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="7629508">
+        <div class="main review-item" id="7629508">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/77096703/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u77096703-8.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/77096703/" class="name">多喝热水</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2015-10-17" class="main-meta">2015-10-17 16:52:45</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/7629508/">浪潮影评：关于时代风气和洗脑</a></h2>
+
+                <div id="review_7629508_short" class="review-short" data-rid="7629508">
+                    <div class="short-content">
+
+                        世界离独裁只有五天。让我们回到1967年4月克柏莱中学的那场试验。                                         ----------------熊培云  一群大学生，衣着时尚，思想现代，老师问他们：你们认为独裁专制在德国不可能重演，对不对？ 学生非常肯定地说：绝不可能，缺乏民众基础。 ...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-7629508-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_7629508_full" class="hidden">
+                    <div id="review_7629508_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="7629508" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-7629508">
+                                133
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="7629508" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-7629508">
+                                4
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/7629508/#comments" class="reply ">7回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="4575347">
+        <div class="main review-item" id="4575347">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/3590189/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u3590189-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/3590189/" class="name">爆青</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2011-01-11" class="main-meta">2011-01-11 19:02:54</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/4575347/">一个精神失常学生的覆灭</a></h2>
+
+                <div id="review_4575347_short" class="review-short" data-rid="4575347">
+                    <div class="short-content">
+
+                        看过后觉得失望，情节很单薄。  该剧试图告诉观众的是：  即使在和平年代里，当群情被煽动以后，都存在着走向极端的危险。  所有冲突，都是意图让观众感受die Welle的严重危害性来设置的：  - 实际上，die Welle能发挥的正面团队精神，正是体育活动中需要的。无法让人相信参加...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-4575347-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_4575347_full" class="hidden">
+                    <div id="review_4575347_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="4575347" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-4575347">
+                                122
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="4575347" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-4575347">
+                                9
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/4575347/#comments" class="reply ">19回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="4600994">
+        <div class="main review-item" id="4600994">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/bookghost/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u38082295-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/bookghost/" class="name">bookghost</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2011-01-27" class="main-meta">2011-01-27 11:00:12</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/4600994/">熊培云：世界离独裁只有五天</a></h2>
+
+                <div id="review_4600994_short" class="review-short" data-rid="4600994">
+                    <div class="short-content">
+
+                        熊培云：世界离独裁只有五天——评《浪潮》  今日世界，多数国家都已经实现了政治民主化，而尚未实现民主化的国家也正在试图从&#34;后极权&#34;的坑坑洼洼中走出。许多人可能会认为，当历史翻过黑暗的一页，过去那个血腥而愚昧的时代将一去不复返了。然而，真的可以高枕无忧了么？   世...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-4600994-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_4600994_full" class="hidden">
+                    <div id="review_4600994_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="4600994" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-4600994">
+                                88
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="4600994" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-4600994">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/4600994/#comments" class="reply ">8回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1574065">
+        <div class="main review-item" id="1574065">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/ThinkingCat/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1012144-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/ThinkingCat/" class="name">思考的猫</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-12-04" class="main-meta">2008-12-04 08:21:16</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1574065/">我离癫狂那么近</a></h2>
+
+                <div id="review_1574065_short" class="review-short" data-rid="1574065">
+                    <div class="short-content">
+
+                            “你们认为，独裁专制在德国不可能重演，对不对？”，德国中学老师Rainer向课堂的孩子们问到，是呀，在后来人看来，一个国家曾经的疯狂历史总是那么离谱和可笑，谁都不认为它会再次发生在“聪明”和“理智”的我们头上。所以，今天大多数德国人认为纳粹横行的日子不会再现...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1574065-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1574065_full" class="hidden">
+                    <div id="review_1574065_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1574065" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1574065">
+                                83
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1574065" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1574065">
+                                4
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1574065/#comments" class="reply ">15回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script type="text/javascript">
+        (function() {
+            if (window.__init_review_list) return;
+            __init_review_list = true;
+                window.is_released = true
+                window.txt_released = '该电影还未上映，不能投票噢'
+        })();
+        window.useful_icon = "https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png";
+        window.usefuled_icon = "https://img1.doubanio.com/f/zerkalo/635290bb14771c97270037be21ad50514d57acc3/pics/up-full.png";
+        window.useless_icon = "https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png";
+        window.uselessed_icon = "https://img1.doubanio.com/f/zerkalo/23cee7343568ca814238f5ef18bf8aadbe959df2/pics/down-full.png";
+    </script>
+
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/zerkalo/3aeb281ab0e4f2c7050458684acfeb6838441de9/css/review/editor/ng/setting_standalone.css">
+    <script src="https://img1.doubanio.com/f/zerkalo/938cdbe2e223a3117cbbcb4929cae2001b402c20/js/review/editor/ng/manifest.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/296cd5fec472a78add5fee958c58d72f47d91586/js/review/editor/ng/vendor.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8a6f99feb702ed3c956a552c1b978285dcfdf7d9/js/review/editor/ng/setting_standalone.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8941af7854ddad9561648b706cdb49f3d1534ff3/js/review/editor/ng/render_gif.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/ad32b4b739a59a90e9e3437fd2fba797dd7c26f2/js/review/actions.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/7196bdec780f03785f55b06fda34999595057f65/js/review/unfold.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+                <p class="pl">
+                    &gt;
+                        <a href="reviews">
+                            更多影评
+                                1829篇
+                        </a>
+                </p>
+    </section>
+<!-- COLLECTED JS -->
+
+
+    <br/>
+
+    
+            <div class="section-discussion">
+                    
+                    <div class="mod-hd">
+                            <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                        
+    <h2>
+        讨论区
+         &nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;
+    </h2>
+
+                    </div>
+                    
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/2297265/discussion/637560127/" title="你知道什么是疯狂吗？疯狂就是少数服从多数">你知道什么是疯狂吗？疯狂就是少数服从多数</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/222192750/">时光漫步者</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2023-10-14 09:51:43</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/2297265/discussion/48374327/" title="在现在的中国的校园  浪潮 能发生么">在现在的中国的校园  浪潮 能发生么</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/yisenj/">拾森</a></td>
+          <td class="pl"><span>51 回应</span></td>
+          <td class="pl"><span>2023-10-05 05:20:52</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/2297265/discussion/616826597/" title="总结了一下“独裁教室”的要求，有没有发现什么？">总结了一下“独裁教室”的要求，有没有发现什么？</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/227872956/">middleee</a></td>
+          <td class="pl"><span>12 回应</span></td>
+          <td class="pl"><span>2023-10-05 05:04:49</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/2297265/discussion/637553063/" title="浅谈浪潮模式（非专业，浅修过心理学，哲学，政治，经济学），不想发得，太多人被带偏了">浅谈浪潮模式（非专业，浅修过心理学，哲学，政治...</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/193377787/">啊之</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2023-09-27 01:04:56</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/2297265/discussion/637192354/" title="你被电影带着走就不是浪潮了？">你被电影带着走就不是浪潮了？</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/baishaoyu114/">fierce</a></td>
+          <td class="pl"><span>24 回应</span></td>
+          <td class="pl"><span>2023-09-27 00:41:23</span></td>
+        </tr>
+  </table>
+
+                    <p class="pl" align="right">
+                        <a href="/subject/2297265/discussion/" rel="nofollow">
+                            &gt; 去这部影片的讨论区（全部306条）
+                        </a>
+                    </p>
+            </div>
+
+        
+    
+        
+                
+                    
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+                关于《浪潮》的问题
+                · · · · · ·
+            <span class="pl">
+                (<a href='https://movie.douban.com/subject/2297265/questions/?from=subject'>
+                    全部32个
+                </a>)
+            </span>
+        </h2>
+
+
+        <!-- 
+    
+    <a class='j a_show_login comment_btn'
+        href='https://movie.douban.com/subject/2297265/questions/ask/?from=subject'>我来提问</a>
+ -->
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/2297265/questions/61402/?from=subject" class="">
+                            集体主义与独裁主义的区别？
+                    </a>
+                </span>
+                <span class="meta">
+                    11人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/2297265/questions/1434/?from=subject" class="">
+                            影片最后的定格，文格尔老师为何一脸错愕的表情？
+                    </a>
+                </span>
+                <span class="meta">
+                    25人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='https://movie.douban.com/subject/2297265/questions/?from=subject'>
+                全部32个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+<!--tags-->
+
+    <div id="dale_subject_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下片单推荐</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/2297265/doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/240962/" target="_blank">★豆瓣高分电影榜★ （上）9.7-8.6分</a>
+                    <span>(影志)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/107486/" target="_blank">【豆瓣五星电影集中营】(1/3)</a>
+                    <span>(影志)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/203399/" target="_blank">【真实犯罪】—— 真人真事改编案件（世界版1）</a>
+                    <span>(狷介有乌青)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/73124/" target="_blank">心理学电影(一句话剧透,不喜勿入)</a>
+                    <span>(何学卿)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/34304/" target="_blank">关于德国 你该看的</a>
+                    <span>(≌菩提风花)</span>
+                </li>
+    </ul>
+
+</div>
+
+    
+        
+
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+              · · · · · ·
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="https://www.douban.com/people/216169707/" class="others-interest-avatar">
+                    <img src="https://img2.doubanio.com/icon/u216169707-1.jpg" class="pil" alt="TZ j">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/216169707/" class="">TZ j</a>
+                    <div class="">
+                        21分钟前
+                        看过
+                        <span class="allstar40" title="推荐"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/189502959/" class="others-interest-avatar">
+                    <img src="https://img9.doubanio.com/icon/u189502959-15.jpg" class="pil" alt="Noora💕">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/189502959/" class="">Noora💕</a>
+                    <div class="">
+                        27分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/201998253/" class="others-interest-avatar">
+                    <img src="https://img9.doubanio.com/icon/u201998253-4.jpg" class="pil" alt="明天有雨">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/201998253/" class="">明天有雨</a>
+                    <div class="">
+                        47分钟前
+                        看过
+                        <span class="allstar30" title="还行"></span>
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="https://movie.douban.com/subject/2297265/comments?status=P">371402人看过</a>
+                &nbsp;/&nbsp;
+            <a href="https://movie.douban.com/subject/2297265/comments?status=F">271470人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅浪潮的评论: <br/><span class="feed">
+    <a href="https://movie.douban.com/feed/subject/2297265/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_hovering_video"></div>
+    <!-- douban ad end -->
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2023 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript">
+$(function(){
+    var $actor_list = $('#info .actor a');
+    var $actor_attr = $('#info .actor .attrs');
+
+    if ($actor_list.length > 5) {
+        $actor_attr.empty();
+
+        $actor_list.each(function(idx){
+            if (idx+1 === $actor_list.length) {
+                $('<span></span>').prepend($(this)).appendTo($actor_attr);
+            } else {
+                $('<span> / </span>').prepend($(this)).appendTo($actor_attr);
+            }
+        });
+
+        $('<a href="javascript:;" class="more-actor" title="更多主演">更多...</a>').on('click', function(){
+            $actor_attr.find('span').show();
+            $(this).hide();
+        }).appendTo($actor_attr);
+
+        $actor_attr.find('span').eq(4).nextAll('span').hide();
+    }
+})
+</script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/movie/9dbc931479d6c183e970ea3594672460b6c96b3c/dist/movie/mod/login_pop.css" />
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB = "https://www.douban.com"
+    </script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/movie/3897d4734502adbdaa37cdf7f5c67a8e543ceefe/dist/movie/mod/login_pop.js"></script>
+
+    
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/dist/movie/libs/handlebars.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/8d311a1defb6b721d73cfb891924c13c06af631b/js/ui/fix_aside.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/55caa4decc5b4d78a5afa5d12f0b4bdfa7dcb6bb/js/lib/jquery.ba-hashchange.min.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/a58210ac28f14c3878942b24ec2212af19e6a0ab/dist/movie/subject/comment_vote.js"></script>
+    
+    <script>
+        $(function(){
+            $().fixSide(300, 52);
+
+            var UA = navigator.userAgent.toLowerCase();
+            isSafari = /safari/.test(UA)
+            $("#season").on('change', function(){
+                var subjectId = $(this).val();
+                if (subjectId.length){
+                    window.location = "/subject/" + subjectId + "/";
+                    // fix null state bug in Safari
+                    if (isSafari) {
+                        window.history.pushState &&
+                          window.history.pushState(null, document.title, window.location.href)
+                    }
+                }
+            });
+            $("#season").val("2297265")
+
+            $(window).hashchange();
+            if(window.location.href.indexOf('suggest')>0 && window.location.href.indexOf("?")>0){
+                if(window.history.pushState){
+                    window.history.pushState(null, document.title, window.location.href.substring(0,window.location.href.indexOf("?")));
+                }
+            }
+
+            $('.indent .a_show_full').click(function(){
+                $.get('/blank?expand');
+            });
+
+            $('body').on('click', 'a.write_review', function(e) {
+                e.preventDefault();
+                if(window._USER_ABNORMAL) {
+                    show_abnormal && show_abnormal()
+                }else {
+                    location.href = $(this).attr('href')
+                }
+            })
+        });
+    </script>
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'TWqyUFJGzp0',
+            criteria = '7:Natascha Paulick|7:社会|7:詹妮弗·乌尔里希|7:Darvin Schmidt|7:莫丽·考依曼|7:独裁|7:蒂姆·奥利弗·舒尔茨|7:惊悚|7:马克思·雷迈特|7:弗雷德里克·劳|7:剧情|7:约翰娜·加斯多夫|7:纪实|7:德国|7:丽芙·丽莎·弗赖斯|7:莱纳德·博茨巴赫|7:心理|7:克里斯蒂娜·度·瑞格|7:卡罗莉内·特斯卡|7:克里斯蒂安娜·保罗|7:于尔根·福格尔|7:埃利亚斯·穆巴里克|7:丹尼斯·甘塞尔|7:马克斯·毛夫|7:雅各布·马琛茨|7:人性|7:教育|7:政治|7:马克西米利安·福尔马尔|7:2008|7:Ferdinand Schmidt-Modrow|7:奥蒂妮·乔尼|3:/subject/2297265/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_right', 'dale_movie_subject_inner_middle', 'dale_movie_subject_banner_after_intro', 'dale_subject_right_guess_you_like', 'dale_movie_subject_hovering_video'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/aHF4dWV0OC9mL2FkanMvYzQyYzU5YWEwNWM4YTkyOTE3Y2UzM2RkZGEwZDk0OWYwZGM0YjVjNC9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+
+    <!-- dae-web-movie--default-6c468db859-bzr76-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

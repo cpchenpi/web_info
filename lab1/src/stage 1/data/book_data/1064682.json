@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6264,
+        "average": "8.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "(台湾)三毛"
+    ],
+    "pubdate": "2003-07",
+    "tags": [
+        {
+            "count": 2277,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 580,
+            "name": "稻草人手记",
+            "title": "稻草人手记"
+        },
+        {
+            "count": 533,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 378,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 314,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 192,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 134,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 93,
+            "name": "三毛的书",
+            "title": "三毛的书"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2127044.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "序言\n1 江洋大盗\n2 亲爱的婆婆大人\n3 西风不识相\n4 这样的人生\n5 士为知己者死\n6 警告逃妻\n7 这种家庭生活\n8 塑料儿童\n9 卖花女\n10 守望的天使\n11 相思农场\n12 巨人\n13 三毛一生大事记",
+    "pages": "220",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2127044.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2127044.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2127044.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1064682/",
+    "id": "1064682",
+    "publisher": "哈尔滨出版社",
+    "isbn10": "7806399062",
+    "isbn13": "9787806399064",
+    "title": "稻草人手记",
+    "url": "https://api.douban.com/v2/book/1064682",
+    "alt_title": "",
+    "author_intro": "三毛：台湾著名作家，1943年3月26日出生于重庆，浙江省定海县人。本名为陈惠平，1946年改名陈平，笔名“三毛”。1964年进入文化大学哲学系，肄业后曾留学欧洲，婚后定居西属撒哈拉沙漠加那利岛并以当地的生活为背景，写出一连串情感真挚的作品。1981年回到台湾，曾在文化大学任教，1984年辞去教职，专职从事写作和演讲。1991年1月4日去世，享年48岁。\n三毛的足迹遍及世界各地，平生著作、译作十分丰富，其中《撒哈拉的故事》、《雨季不再来》、《哭泣的骆驼》、《我的宝贝》、《闹学记》、《滚滚红尘》等散文、小说、剧本更是脍炙人口，在全球华人社会广为流传，在大陆风靡一时，影响了整整一代人。",
+    "summary": "生命跟人恶作剧，它骗人化进故事里去话，它用种种的情节引诱着人热烈地投入，人，先被故事捉进去了，然后，那个守麦田的稻草人，就上当又上当地讲了又讲。麦田已经快收割完了，农夫的孩子拉着稻草人的衣袖，说：“来，我带你回家去休息吧！”",
+    "series": {
+        "id": "744",
+        "title": "三毛全集（华文天下2003版）"
+    },
+    "price": "15.80"
+}

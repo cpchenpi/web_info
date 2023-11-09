@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4191,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "筱原千绘"
+    ],
+    "pubdate": "2003-1-1",
+    "tags": [
+        {
+            "count": 872,
+            "name": "筱原千绘",
+            "title": "筱原千绘"
+        },
+        {
+            "count": 690,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 322,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 321,
+            "name": "魔影紫光",
+            "title": "魔影紫光"
+        },
+        {
+            "count": 203,
+            "name": "少女漫画",
+            "title": "少女漫画"
+        },
+        {
+            "count": 180,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 90,
+            "name": "奇幻",
+            "title": "奇幻"
+        },
+        {
+            "count": 75,
+            "name": "篠原千絵",
+            "title": "篠原千絵"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1657289.jpg",
+    "binding": "",
+    "translator": [],
+    "catalog": "\n      ",
+    "pages": "51",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1657289.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1657289.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1657289.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1522230/",
+    "id": "1522230",
+    "publisher": "吉林美术出版社",
+    "isbn10": "7538613587",
+    "isbn13": "9787538613582",
+    "title": "魔影紫光",
+    "url": "https://api.douban.com/v2/book/1522230",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "身上有豹纹样胎记的人会摇身一变成为身手矫健的猎豹?这个大胆 构思就已经足以让读者为之一震。筱原千绘很会制造紧张气氛，让人不敢轻易放过每 一情节。故事中以血缘为主轴，展开两代豹人的艰辛经历。只因有豹人的特殊血统， 大家就疏远、惧怕，并想方设法消灭之，这也许暴露了人性弱的一面，在读者中反响 强烈。",
+    "price": "18"
+}

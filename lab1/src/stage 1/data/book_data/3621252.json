@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9444,
+        "average": "7.4",
+        "min": 0
+    },
+    "subtitle": "林夕90前后",
+    "author": [
+        "林夕"
+    ],
+    "pubdate": "2009-5",
+    "tags": [
+        {
+            "count": 3333,
+            "name": "林夕",
+            "title": "林夕"
+        },
+        {
+            "count": 1095,
+            "name": "香港",
+            "title": "香港"
+        },
+        {
+            "count": 1060,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 1049,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 426,
+            "name": "曾经",
+            "title": "曾经"
+        },
+        {
+            "count": 424,
+            "name": "散文随笔",
+            "title": "散文随笔"
+        },
+        {
+            "count": 227,
+            "name": "杂文",
+            "title": "杂文"
+        },
+        {
+            "count": 180,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3681555.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "374",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3681555.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3681555.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3681555.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3621252/",
+    "id": "3621252",
+    "publisher": "广西师范大学出版社",
+    "isbn10": "7563382720",
+    "isbn13": "9787563382729",
+    "title": "曾经",
+    "url": "https://api.douban.com/v2/book/3621252",
+    "alt_title": "",
+    "author_intro": "林夕，原名梁伟文，生于香港。毕业于香港大学文学院，主修翻译。曾任港大中文系助教、《快报》编辑、亚洲电视节目创作主任/节目部副经理、音乐工厂制作总监/总经理、商业电台广告创作及制作部主管/商业电台制作创作顾问/商业电台顾问。同时写歌词、写稿。",
+    "summary": "《曾经：林夕90前后》收录了林夕90年代前后创作的三本散文集《某月某日记》、《即兴演出》、《盛世边缘》，是林夕“少年维特”岁月的忠实记录。为读者还原当年最真实的林夕。\n林夕说《曾经》：“那时候的我，任职过大学助教、报馆、电视台，同时写七个专栏，包括报纸杂志，因而充满了私人日记的贩卖，主要是对这个世界杂架摊的眉批。你可能不同意，但希望看完你会因更加了解我而了解我见的世界，也有些在大学宿舍生活的感受；你可能没有，但我希望看过后你会感同身受。”",
+    "series": {
+        "id": "2971",
+        "title": "林夕珍藏系列"
+    },
+    "price": "28.00"
+}

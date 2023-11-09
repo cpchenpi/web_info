@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 27514,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "寂地"
+    ],
+    "pubdate": "2004-10",
+    "tags": [
+        {
+            "count": 6874,
+            "name": "寂地",
+            "title": "寂地"
+        },
+        {
+            "count": 6543,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2688,
+            "name": "myway",
+            "title": "myway"
+        },
+        {
+            "count": 2038,
+            "name": "我的路",
+            "title": "我的路"
+        },
+        {
+            "count": 1328,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 661,
+            "name": "插画",
+            "title": "插画"
+        },
+        {
+            "count": 480,
+            "name": "时间海洋",
+            "title": "时间海洋"
+        },
+        {
+            "count": 443,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1445665.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1 惟一\n2 星之魔术师\n3 灯塔\n4 鱼\n5 飞行员\n6 烟火\n7 SPECIAL",
+    "pages": "123",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1445665.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1445665.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1445665.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1431836/",
+    "id": "1431836",
+    "publisher": "北方妇女儿童出版社",
+    "isbn10": "753852424X",
+    "isbn13": "9787538524246",
+    "title": "我的路",
+    "url": "https://api.douban.com/v2/book/1431836",
+    "alt_title": "MY WAY1",
+    "author_intro": "寂地，祖雅乐，国内新晋漫画插画家。风格别致优美，其代表作品《我的路》获得2004年东方国际原创动画漫画艺术大赛金龙奖最佳绘本漫画奖。",
+    "summary": "书中有《星之魔术师》、《灯塔》、《鱼》、《烟火》等系列短篇，此外还有部分心情文字及精选插图。独特的人物形象设计，唯美的爱情故事。",
+    "series": {
+        "id": "1448",
+        "title": "我的路 MY WAY"
+    },
+    "price": "20.00元"
+}

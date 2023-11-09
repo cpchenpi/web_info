@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 22743,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "高桥留美子"
+    ],
+    "pubdate": "2005-1-1",
+    "tags": [
+        {
+            "count": 3295,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 3277,
+            "name": "高桥留美子",
+            "title": "高桥留美子"
+        },
+        {
+            "count": 2132,
+            "name": "乱马",
+            "title": "乱马"
+        },
+        {
+            "count": 1527,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 1074,
+            "name": "搞笑",
+            "title": "搞笑"
+        },
+        {
+            "count": 972,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 949,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 343,
+            "name": "动漫",
+            "title": "动漫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s10031913.jpg",
+    "binding": "平装(无盘)",
+    "translator": [],
+    "catalog": "1 乱马1\\2（1）\n2 乱马1\\2（2）\n3 乱马1\\2（3）\n4 乱马1\\2（4）\n5 乱马1\\2（5）\n6 乱马1\\2（6）\n7 乱马1\\2（7）\n8 乱马1\\2（8）\n9 乱马1\\2（9）\n10 乱马1\\2（10）",
+    "pages": "1848",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s10031913.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s10031913.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s10031913.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1388169/",
+    "id": "1388169",
+    "publisher": "吉林美术出版社",
+    "isbn10": "7538617434",
+    "isbn13": "9787538617436",
+    "title": "乱马1/2",
+    "url": "https://api.douban.com/v2/book/1388169",
+    "alt_title": "",
+    "author_intro": "高桥留美子，出生于日本新泻县。生日10月10日。血型为A型。1978年在日本女子大学就学时发表处女作《任性的家伙们》，并得到第二回新人漫画大赏的佳作奖。同时，在《周刊少年星期天》上连载《福星小子》。\n1996年开始连载超人气《犬夜叉》，并第二次获得第47次小学馆漫画奖。她的代表作主要有：《福星小子》、《相聚一刻》、《乱马1/2》等。现在，《犬夜叉》正在连载中。",
+    "summary": "从中国归来的早乙女父子是拳法的高手。可是，只要被凉水浇到，父亲玄马就会变成熊猫，而儿子乱马则会变成女孩子！这是他们在中国的咒泉乡修行的结果。不过，只要浇上热水，他们就会恢复成原来的样子。回到日本后的早乙女父子暂时寄居在无差别格斗流的天道道场。并且，乱马和天道家的三女儿小茜订下了婚约。接下来，乱马又转入了风林馆高中，和小茜成为了同班同学。乱马和小茜两人的关系将会如何发展下去呢？",
+    "series": {
+        "id": "15321",
+        "title": "乱马1/2"
+    },
+    "price": "6.50元"
+}

@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 6721,
+        "average": "9.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "漆原 友紀"
+    ],
+    "pubdate": "2000-11",
+    "tags": [
+        {
+            "count": 1286,
+            "name": "虫师",
+            "title": "虫师"
+        },
+        {
+            "count": 1206,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 758,
+            "name": "漆原友纪",
+            "title": "漆原友纪"
+        },
+        {
+            "count": 494,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 403,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 232,
+            "name": "漆原友紀",
+            "title": "漆原友紀"
+        },
+        {
+            "count": 155,
+            "name": "动漫",
+            "title": "动漫"
+        },
+        {
+            "count": 130,
+            "name": "漫畫",
+            "title": "漫畫"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1464536.jpg",
+    "binding": "コミック",
+    "translator": [],
+    "catalog": "緑の座\n柔らかい角\n枕小路\n瞼の光\n旅をする沼",
+    "pages": "223",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1464536.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1464536.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1464536.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1452610/",
+    "id": "1452610",
+    "publisher": "講談社",
+    "isbn10": "4063142558",
+    "isbn13": "9784063142556",
+    "title": "蟲師 (1)  アフタヌーンKC (255)",
+    "url": "https://api.douban.com/v2/book/1452610",
+    "alt_title": "虫师",
+    "author_intro": "",
+    "summary": "アフタヌーン・シーズン増刊発、待望の単行本第1集。\nヒトと蟲との世が重なる時、蟲師・ギンコが現れる。\nおよそ遠しとされしもの――見慣れた動植物とはまるで違うとおぼしきモノ達それら異形の一群をヒトは古くから畏れを含みいつしか総じて「蟲」と呼んだ。\n另一个世界，住着一群与常见动植物孑然不同的生物。远古以来，人们敬畏地称它们为『虫』。当虫的世界和人的世界重合时，虫师银古便会出现。\n介绍中提到的虫显然不是看上去肉呼呼扭动的小东西，而是一种最接近生命本源，类似灵体的生物。它们有自己的生存方式，而这种方式却可能有驳于人类的 常识，甚至危害人类的生存。于是就出现了『虫师』这种职业，他们云游四方，对虫的生命形态，生存方式进行研究，并接受人们的委托，解决可能是由虫引起的怪异事件。银古，正是他们的一员。",
+    "series": {
+        "id": "10537",
+        "title": "蟲師"
+    },
+    "price": "JPY 590"
+}

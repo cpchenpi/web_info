@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3636,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "三毛"
+    ],
+    "pubdate": "2003.8",
+    "tags": [
+        {
+            "count": 1438,
+            "name": "三毛",
+            "title": "三毛"
+        },
+        {
+            "count": 473,
+            "name": "滚滚红尘",
+            "title": "滚滚红尘"
+        },
+        {
+            "count": 329,
+            "name": "剧本",
+            "title": "剧本"
+        },
+        {
+            "count": 228,
+            "name": "台湾",
+            "title": "台湾"
+        },
+        {
+            "count": 116,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 115,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 97,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 89,
+            "name": "散文",
+            "title": "散文"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1230831.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "1 人物介绍\n2 楼高日尽\n3 望断天涯路\n4 来时陌上初熏\n5 有情风万里卷潮来\n6 推枕惘然不见\n7 分携如昨到处萍漂泊\n8 浩然相对今夕何年\n9 谁道人生无再少\n10 依旧梦魂中\n11 但有旧欢新怨\n12 人生底事往来如梭\n13 醉笑陪君三万场不诉离伤\n14 禅心已失人间爱\n15 又何曾梦觉\n……",
+    "pages": "188",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1230831.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1230831.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1230831.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1082369/",
+    "id": "1082369",
+    "publisher": "哈尔滨出版社",
+    "isbn10": "7806399267",
+    "isbn13": "9787806399262",
+    "title": "滚滚红尘",
+    "url": "https://api.douban.com/v2/book/1082369",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "本书是三毛的第一部中文电影原著剧本，以中国近代史上的动乱年代为背景，描绘一个全中国人悲欢离合的故事。实际上，它不经意流露出来的是一则凄怆无止的爱情故事，更是三毛自身灵魂的告白。 \n  人的第一部作品，往往不经意地流露出自身灵魂的告白。",
+    "series": {
+        "id": "744",
+        "title": "三毛全集（华文天下2003版）"
+    },
+    "price": "8.00元"
+}

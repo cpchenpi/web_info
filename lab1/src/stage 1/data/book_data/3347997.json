@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 17895,
+        "average": "8.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 埃勒里·奎因"
+    ],
+    "pubdate": "2009-1",
+    "tags": [
+        {
+            "count": 4657,
+            "name": "埃勒里·奎因",
+            "title": "埃勒里·奎因"
+        },
+        {
+            "count": 4141,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 2018,
+            "name": "推理小说",
+            "title": "推理小说"
+        },
+        {
+            "count": 1815,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 1393,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1087,
+            "name": "悬疑",
+            "title": "悬疑"
+        },
+        {
+            "count": 937,
+            "name": "悲剧系列",
+            "title": "悲剧系列"
+        },
+        {
+            "count": 611,
+            "name": "ElleryQueen",
+            "title": "ElleryQueen"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s3443636.jpg",
+    "binding": "平装",
+    "translator": [
+        "唐诺"
+    ],
+    "catalog": "",
+    "pages": "353",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s3443636.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s3443636.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s3443636.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3347997/",
+    "id": "3347997",
+    "publisher": "新星出版社",
+    "isbn10": "7802256003",
+    "isbn13": "9787802256002",
+    "title": "X的悲剧",
+    "url": "https://api.douban.com/v2/book/3347997",
+    "alt_title": "",
+    "author_intro": "埃勒里·奎因（Ellery Queen），推理小说史上一个非凡的名字，实指弗雷德里克·丹奈（Frederic Dannay，1905—1982）和曼弗里德·李（Manfred Lee，1905—1971）这对表兄弟作家。他们的创作时间长达半个世纪，作品多达数十部，全球销量约计两亿册；他们曾五获埃德加·爱伦·坡奖；他们的四部“悲剧系列”和九部“国名系列”作品被公认为推理小说史上难以逾越的佳作；他们于1941年创办的《埃勒里·奎因神秘杂志》（EQMM）成为劳伦斯·布洛克、迈克尔·康柰利等推理大家起飞的平台，迄今仍是最专业、最权威的推理文学杂志之一；他们出资设立“密室研讨小组”，定期与约翰·狄克森·卡尔、克雷顿·劳森等推理大师交流、切磋；他们成就的不仅仅是自己，更为成就推理小说的黄金时代书写了浓墨重彩。",
+    "summary": "故事发生在一辆拥挤的电车上。一个男人在车上被杀，所有人都看到男人死去的经过，却没人发现凶手。很多人都有理由憎恨死者，包括死者的合伙人，然而，萨姆巡官得到的线索都指向了死胡同。受邀参与调查的哲瑞·雷恩，一名专以饰演莎士比亚剧作的老演员，宣称知道凶手是谁，却拒绝在没得到确切的证据前指认凶手的身份。一案未解，一案又起：电车上的售票员在回家的渡轮上遇害了！",
+    "series": {
+        "id": "1239",
+        "title": "午夜文库·大师系列：埃勒里·奎因作品"
+    },
+    "price": "29.00"
+}

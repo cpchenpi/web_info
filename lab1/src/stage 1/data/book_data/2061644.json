@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13649,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "麦卡勒斯中短篇小说集",
+    "author": [
+        "[美] 卡森·麦卡勒斯"
+    ],
+    "pubdate": "2007-7",
+    "tags": [
+        {
+            "count": 4468,
+            "name": "卡森·麦卡勒斯",
+            "title": "卡森·麦卡勒斯"
+        },
+        {
+            "count": 2497,
+            "name": "伤心咖啡馆之歌",
+            "title": "伤心咖啡馆之歌"
+        },
+        {
+            "count": 1941,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1701,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 1368,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 915,
+            "name": "美国文学",
+            "title": "美国文学"
+        },
+        {
+            "count": 781,
+            "name": "短篇集",
+            "title": "短篇集"
+        },
+        {
+            "count": 683,
+            "name": "麦卡勒斯",
+            "title": "麦卡勒斯"
+        }
+    ],
+    "origin_title": "Ballad of sad cafe : the novels and stories of Carson McCullers",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3335033.jpg",
+    "binding": "平装",
+    "translator": [
+        "李文俊"
+    ],
+    "catalog": "伤心咖啡馆之歌神童赛马骑师席林斯基夫人与芬兰国王旅居者家庭困境树·石·云译后记",
+    "pages": "153",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3335033.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3335033.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3335033.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2061644/",
+    "id": "2061644",
+    "publisher": "上海三联书店",
+    "isbn10": "7542625225",
+    "isbn13": "9787542625229",
+    "title": "伤心咖啡馆之歌",
+    "url": "https://api.douban.com/v2/book/2061644",
+    "alt_title": "Ballad of sad cafe : the novels and stories of Carson McCullers",
+    "author_intro": "卡森·麦卡勒斯，20世纪美国最重要的作家之一，1917年2月19日生于美国佐治亚州的Columbus。29岁后瘫痪。著有《心是孤独的猎手》、《婚礼的成员》、《黄金眼睛的映像》、《没有指针的钟》等小说作品。1967年9月29日麦卡勒斯在纽约州的Nyack去世，时年50岁。",
+    "summary": "《伤心咖啡馆之歌》收入了麦卡勒斯的七篇中短篇小说，其中包括最著名的《伤心咖啡馆之歌》，以及麦卡勒斯十七岁时发表的处女作《神童》。\n诸篇小说的背景多样，有都市生活的，有大学生活的，也有家庭生活的，但其反映的主旨似仍在人物的内心世界，以及那种没来由的孤独感。书中除《伤心咖啡馆之歌》和《家庭困境》曾被引介入国内，其余均为首次面世。",
+    "series": {
+        "id": "703",
+        "title": "三联艺文馆卡森麦卡勒斯系列"
+    },
+    "price": "15.00元"
+}

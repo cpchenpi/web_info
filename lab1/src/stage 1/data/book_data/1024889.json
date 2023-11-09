@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4285,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "郑渊洁"
+    ],
+    "pubdate": "1996-10-1",
+    "tags": [
+        {
+            "count": 1035,
+            "name": "郑渊洁",
+            "title": "郑渊洁"
+        },
+        {
+            "count": 672,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 345,
+            "name": "大灰狼罗克",
+            "title": "大灰狼罗克"
+        },
+        {
+            "count": 275,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 173,
+            "name": "中国",
+            "title": "中国"
+        },
+        {
+            "count": 153,
+            "name": "童年",
+            "title": "童年"
+        },
+        {
+            "count": 117,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 75,
+            "name": "中国文学",
+            "title": "中国文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s1821150.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "第1集\n第2集\n第3集\n第4集\n第5集\n第6集\n第7集\n第8集\n第9集\n第10集\n第11集\n第12集\n第13集\n第14集\n第15集\n第16集\n第17集\n第18集\n第19集\n第20集\n第21集",
+    "pages": "249",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s1821150.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s1821150.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s1821150.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1024889/",
+    "id": "1024889",
+    "publisher": "学苑出版社",
+    "isbn10": "7507711951",
+    "isbn13": "9787507711950",
+    "title": "大灰狼罗克",
+    "url": "https://api.douban.com/v2/book/1024889",
+    "alt_title": "",
+    "author_intro": "郑渊洁，作家。脱口秀节目主持人。一个人写一本月刊23年世界纪录保持者。皮皮鲁讲堂教师。皮皮鲁作文大赛评委会主任。2008年北京奥运会吉祥物评选委员会委员。1955年出生于河北石家庄一个军官家庭。其父原籍山西浮山。其母原籍浙江绍兴。祖父和外祖父都是医生。在北京长大。1977年选择用母语写作作为谋生手段。1985年创刊至今的《童话大王》半月刊是全部刊登郑渊洁一人作品的杂志，创刊23年总印数逾亿册。其作品字数达两千万字。皮皮鲁、鲁西西、罗克、舒克和贝塔是他笔下的人物。《皮皮鲁总动员》（由54本书构成）是郑渊洁目前在图书市场销售的系列丛书。1993年当选北京首届十大杰出青年。郑渊洁创作童话30年，作品已售出1亿2千万册。2008年汶川地震，郑渊洁成为向地震灾区捐款最多的中国作家，捐款总额达38万元人民币。",
+    "summary": "罗克的经历很离奇，涉入过人类生活的众多领域。罗克用狼眼观察人类世界。他当过美容师，做过警探，开过加油站，摆过烤鱼串摊，还担任过春节联欢晚会的总导演。欢迎你也来用狼眼看人类。",
+    "series": {
+        "id": "10580",
+        "title": "郑渊洁童话"
+    },
+    "price": "10.00"
+}

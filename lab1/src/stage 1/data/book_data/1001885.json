@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 24085,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "林达"
+    ],
+    "pubdate": "2002-5",
+    "tags": [
+        {
+            "count": 7806,
+            "name": "林达",
+            "title": "林达"
+        },
+        {
+            "count": 6988,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 6771,
+            "name": "法国",
+            "title": "法国"
+        },
+        {
+            "count": 4597,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 4288,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 3496,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 3236,
+            "name": "巴黎",
+            "title": "巴黎"
+        },
+        {
+            "count": 2868,
+            "name": "游记",
+            "title": "游记"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3186863.jpg",
+    "binding": "平装",
+    "translator": [
+        "姜昊骞"
+    ],
+    "catalog": "Chapter1 带一本书去巴黎\nChapter2 奥斯曼和老巴黎\nChapter3 塞纳河上西岱岛\nChapter4 巴黎的教堂\nChapter5 巴黎是法国的象征\nChapter6 圣丹尼和他的头颅\nChapter7 安布瓦斯的古堡\nChapter8 卢瓦河的地牢和诗人维永\nChapter9 在凡尔赛宫回看路易十四\nChapter10 凡尔赛宫里的国会大厅\nChapter11 塞纳河边的伏尔泰咖啡馆\nChapter12 拉法耶特的故事\nChapter13 巴士底狱还在吗？\nChapter14 加纳瓦雷历史博物馆\nChapter15 寻找雅各宾俱乐部\nChapter16 消失了的雅各宾\nChapter17 协和广场上的卢克索方尖碑\nChapter18 杜勒里宫和圣·谢荷曼教堂\nChapter19 断头台的兴衰\nChapter20 先贤祠走访伏尔泰\nChapter21 卢梭手上的火把\nChapter22 从拿破仑回归雨果",
+    "pages": "287",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3186863.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3186863.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3186863.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1001885/",
+    "id": "1001885",
+    "publisher": "生活·读书·新知三联书店",
+    "isbn10": "7108017075",
+    "isbn13": "9787108017079",
+    "title": "带一本书去巴黎",
+    "url": "https://api.douban.com/v2/book/1001885",
+    "alt_title": "",
+    "author_intro": "林达为两名作者合用的笔名。他们都于1952年出生在上海，1978年进入大学。现居美国。作品有“近距离看美国”系列：《历史深处的忧虑》、《总统是靠不住的》、《我也有一个梦想》，以及《带一本书去巴黎》。译著有《汉娜的手提箱》、《克拉拉的战争》、《盖比橱柜的秘密》等。",
+    "summary": "作者在浓厚的法国历史文化氛围中，用大量的历史细节和场景，丰富了对艺术、文化，对历史、社会，以及对“革命”的理解。",
+    "series": {
+        "id": "14531",
+        "title": "林达作品系列"
+    },
+    "price": "35.00元"
+}

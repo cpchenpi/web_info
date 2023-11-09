@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 53230,
+        "average": "7.7",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 东野圭吾"
+    ],
+    "pubdate": "2008-6",
+    "tags": [
+        {
+            "count": 9856,
+            "name": "东野圭吾",
+            "title": "东野圭吾"
+        },
+        {
+            "count": 3860,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 3596,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 2912,
+            "name": "東野圭吾",
+            "title": "東野圭吾"
+        },
+        {
+            "count": 2805,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 2276,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 2089,
+            "name": "悬疑",
+            "title": "悬疑"
+        },
+        {
+            "count": 1965,
+            "name": "推理小说",
+            "title": "推理小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s5909700.jpg",
+    "binding": "平装",
+    "translator": [
+        "赵博"
+    ],
+    "catalog": "",
+    "pages": "377",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s5909700.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s5909700.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s5909700.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3102324/",
+    "id": "3102324",
+    "publisher": "海南出版社",
+    "isbn10": "780700150X",
+    "isbn13": "9787807001508",
+    "title": "秘密",
+    "url": "https://api.douban.com/v2/book/3102324",
+    "alt_title": "",
+    "author_intro": "东野圭吾Keigo Higashino（1958～ ）出生于日本大阪，大阪府立大学毕业。1985年以第31届江户川乱步奖得奖作《放学后》出道。1999年以《秘密》获得第52届日本推理作家协会奖。2006年以《嫌疑犯X的献身》 获得第134届直木奖以及第6届本格推理小说大奖。\n早期作品多为精巧细致的本格推理，之后作风逐渐超越传统推理小说的框架，其创作力旺盛的程度，让他跃居日本推理小说界的顶尖作家。1999年推出时序跨越19年，细腻描绘主角与周遭人物的犯罪小说《白夜行》之后，风格愈见圆熟，作品质地进入了全新的境界。2005年发表的《嫌疑犯X的献身》，则被视为到目前为止的最高杰作。",
+    "summary": "一场车祸改变了杉田平介平淡而幸福的家庭生活。妻子直子不幸身亡，女儿藻奈美奇迹般苏醒后，平介却发现她的身体里住着的是直子的灵魂……\n平介该如何应对这种“亦妻亦女”的奇妙家庭关系呢？他们的人生又将走向何方？",
+    "series": {
+        "id": "9458",
+        "title": "日本推理小说大师典藏系列"
+    },
+    "price": "29.80元"
+}

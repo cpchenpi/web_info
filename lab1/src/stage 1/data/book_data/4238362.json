@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 142506,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "刘瑜"
+    ],
+    "pubdate": "2010-1",
+    "tags": [
+        {
+            "count": 35404,
+            "name": "刘瑜",
+            "title": "刘瑜"
+        },
+        {
+            "count": 30880,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 17337,
+            "name": "送你一颗子弹",
+            "title": "送你一颗子弹"
+        },
+        {
+            "count": 11319,
+            "name": "杂七杂八",
+            "title": "杂七杂八"
+        },
+        {
+            "count": 9640,
+            "name": "时评",
+            "title": "时评"
+        },
+        {
+            "count": 7662,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 7221,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 6130,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s4243447.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "论他人即地狱\n渊博的人\n积极的人\n另一个高度\nWhat Is He Building There?\n自然\n另一个博客\n你比你想象的更自由\n词语洁癖\n红唇\n厨房政治\nIntimacy\n有关的无关的人\n他们学理工的\n集体早操\n煽情的艺术\n诗坛风乍起\n周末读物\n论自己作为他人\n学习焦虑\n对猪头肉的乡愁\n过去的理想\n干一行，恨一行\n谢谢收看\nAlice\n老张、亦文和蚊米\n我爱“饭扫光”\n纽约客\n与崔健有关的日子\n开头\n1路地铁\n甜蜜的恐怖\n非正式疯狂\n毛姆\n乱\n裙子\n技术问题\n缺乏弹性的人\n七年之后\nSlow like Honey\n我想乘一艘慢船去……\n开学了\n论人生意义之不可知\n人生缩影\n被搁置的生活\n解决\n无用功\n逃避自由\n请别让我消失\n吞下那颗红药丸\n回到巴黎\n买了一堆意义\n一天长一点\n娜拉出国之后\n老鼠与上帝\n25个箱子\n世相\n小芳\n飞越流水线\n雪花点\n形而下生活\n一个人要像一支队伍\n记一次邪教活动\n长达五分钟的爱意\n在死亡的强光中\n论爱情之不可能\n园丁与花园\n约会文化\nHello，Stranger\n已经太晚\n爱情饥渴症\n你所能想到的全部理由\n独身主义\n求婚\n这个，那个以及其他的\n爱是\n没有人比我更懂你\n电视里的爱情\nCrush\n欲望都市\n兔子跑什么跑\n色\n但是不要只是因为你是女人\n最好的时光\n论婚姻制度的演进趋势\n论社会之既不可知又不可能\n当他们开始用脚投票\n未来世界\n心型卡片\n自我一代\n那个搬起石头砸自己脚的人\n道德极限\n超越那一天\n奢侈生活\n政治的尽头\nThey Just Give Up\n送你一颗子弹\n在祖国的怀抱里\n没有你们就没有他们\n匈牙利咖啡馆\nLife after People\n学术辩论\n制度主义\n牛校牛在哪\n五个女博士\n在不可能与不可能之间\n后记",
+    "pages": "339",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s4243447.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s4243447.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s4243447.jpg"
+    },
+    "alt": "https://book.douban.com/subject/4238362/",
+    "id": "4238362",
+    "publisher": "上海三联书店",
+    "isbn10": "7542631667",
+    "isbn13": "9787542631664",
+    "title": "送你一颗子弹",
+    "url": "https://api.douban.com/v2/book/4238362",
+    "alt_title": "",
+    "author_intro": "刘瑜，生于1975年12月。毕业于中国人民大学，政治学博士，曾执教于剑桥大学，现任清华大学政治学系副教授。小说、随笔、政治评论散见于《芙蓉》、《希望》、《南风窗》、《外滩画刊》。曾以DrunkPiano网名在某海外网站，连载其主要小说作品。",
+    "summary": "这本书里记录的是作者2005—2009年左右(尤其是2006—2007年)生活里的点点滴滴。在这本书里，被“审视”的东西杂七杂八，有街上的疯老头，有同宿舍的室友，有爱情、电影和书，大到制度，小到老鼠。由于我写这些东西的时候，出发点并不是写一本书，所以不同文章往往风格迥异，长短不一，质量不均，随着社会形势、荷尔蒙周期以及我逃避生活的力度而起伏。",
+    "series": {
+        "id": "12374",
+        "title": "刘瑜作品系列"
+    },
+    "price": "25.00元"
+}

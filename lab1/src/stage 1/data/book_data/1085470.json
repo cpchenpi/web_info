@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 100244,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[法国] 儒尔·凡尔纳"
+    ],
+    "pubdate": "2002-9",
+    "tags": [
+        {
+            "count": 8923,
+            "name": "科幻",
+            "title": "科幻"
+        },
+        {
+            "count": 6742,
+            "name": "海底两万里",
+            "title": "海底两万里"
+        },
+        {
+            "count": 6688,
+            "name": "科幻小说",
+            "title": "科幻小说"
+        },
+        {
+            "count": 5959,
+            "name": "凡尔纳",
+            "title": "凡尔纳"
+        },
+        {
+            "count": 5755,
+            "name": "儒勒·凡尔纳",
+            "title": "儒勒·凡尔纳"
+        },
+        {
+            "count": 4602,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 4003,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 3846,
+            "name": "法国",
+            "title": "法国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1817666.jpg",
+    "binding": "精装",
+    "translator": [
+        "沈国华",
+        "钱培鑫",
+        "曹德明"
+    ],
+    "catalog": "译序\n上篇\n一 飞驰的礁石\n二 赞成与反对\n三 先生，悉听尊便\n四 尼德・兰\n五 瞎转悠\n六 全速前进\n七 种类不明的鲸鱼\n……\n下篇\n一 印度洋\n二 尼摩艇长的新建议\n三 价值千万的珍珠\n四 红海\n五 阿拉伯隧道\n六 希腊群岛\n七 四十八小时穿越地中海\n……",
+    "pages": "414",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1817666.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1817666.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1817666.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1085470/",
+    "id": "1085470",
+    "publisher": "译林出版社",
+    "isbn10": "780657431X",
+    "isbn13": "9787806574317",
+    "title": "海底两万里",
+    "url": "https://api.douban.com/v2/book/1085470",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "本书是法国举世闻名的科幻小说作家儒尔·凡尔纳的代表作之一。\n作者让读者登上“鹦鹉螺号”，以平均十二公里的时速，在将近十个月的海底旅行中，随着尼摩船长和他的“客人们”饱览海底变幻无穷的奇异景观和各类生物；航程中高潮迭起，有海底狩猎，参观海底森林，探访海底亚特兰蒂斯废墟，打捞西班牙沉船的财宝，目睹珊瑚王国的葬礼，与大蜘蛛、鲨鱼、章鱼搏斗， 击退土著人的围攻等等。\n十九世纪下半叶，“异国风情”曾受到不少作家，画家的青睐和读者的追捧，《海底两万里》的奇妙旅行为异域风情另辟蹊径，使人耳目一新；这就是为什么这部“海洋小说”不仅在当时一出版即成为畅销书，而且日后受到一代又一代读者欢迎的原因。",
+    "series": {
+        "id": "4328",
+        "title": "译林少儿文库"
+    },
+    "price": "19.50元"
+}

@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 43439,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "艾米"
+    ],
+    "pubdate": "2007-9",
+    "tags": [
+        {
+            "count": 5047,
+            "name": "山楂树之恋",
+            "title": "山楂树之恋"
+        },
+        {
+            "count": 5005,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4880,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 2597,
+            "name": "文革",
+            "title": "文革"
+        },
+        {
+            "count": 2275,
+            "name": "艾米",
+            "title": "艾米"
+        },
+        {
+            "count": 1694,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 1152,
+            "name": "有关青春",
+            "title": "有关青春"
+        },
+        {
+            "count": 888,
+            "name": "感人",
+            "title": "感人"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2684486.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "298",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2684486.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2684486.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2684486.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2243213/",
+    "id": "2243213",
+    "publisher": "江苏文艺出版社",
+    "isbn10": "7539926600",
+    "isbn13": "9787539926605",
+    "title": "山楂树之恋",
+    "url": "https://api.douban.com/v2/book/2243213",
+    "alt_title": "",
+    "author_intro": "艾米，女，2005年开始在文学城连载纪实性长篇故事，著有《致命的温柔》（与人合著）《十年忽悠》《不懂说将来》《三人行》《同林鸟》等。",
+    "summary": "小说《山楂树之恋》中的故事，发生在1975年前后那段贫穷而包含理想的时光。\n静秋是个漂亮的城里姑娘，因为父亲是地主后代，家庭成份不好，文革时很受打击，静秋一直很自卑。静秋和一群学生去西村坪体验生活，编教材。她住在村长家，认识了“老三”。老三喜欢上了静秋，很喜欢，静秋怕他欺骗她，起初常常躲避。英俊又有才气的老三是军区司令员的儿子，却是极重情谊的人，甘愿为静秋做任何事，给了静秋前所未有的鼓励。他等着静秋毕业，等着静秋工作，等着静秋转正。等到静秋所有的心愿都成了真，老三却得白血病去世了。那时候，1976年，老三他还很年轻。",
+    "price": "25.00元"
+}

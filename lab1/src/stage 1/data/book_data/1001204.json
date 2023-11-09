@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 16445,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "余秋雨"
+    ],
+    "pubdate": "2002-1",
+    "tags": [
+        {
+            "count": 3786,
+            "name": "余秋雨",
+            "title": "余秋雨"
+        },
+        {
+            "count": 2477,
+            "name": "散文",
+            "title": "散文"
+        },
+        {
+            "count": 1377,
+            "name": "文化",
+            "title": "文化"
+        },
+        {
+            "count": 1313,
+            "name": "山居笔记",
+            "title": "山居笔记"
+        },
+        {
+            "count": 1042,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 1017,
+            "name": "随笔",
+            "title": "随笔"
+        },
+        {
+            "count": 881,
+            "name": "中国文学",
+            "title": "中国文学"
+        },
+        {
+            "count": 635,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1080314.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "新版自序\n小引\n一、一个王朝的背影\n二、流放者的土地\n三、脆弱的都城\n四、苏东坡突围\n五、千年庭院\n六、抱愧山西\n七、乡关何处\n八、天涯故事\n九、十万进士\n十、遥远的绝响\n十一、历史的暗角\n附录\n一、谈“小人”\n附 文外心镜（四篇）\n一、答学生问\n二、我做了模特\n三、没那么重要\n四、酣睡寒风中",
+    "pages": "324",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1080314.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1080314.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1080314.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1001204/",
+    "id": "1001204",
+    "publisher": "文汇出版社",
+    "isbn10": "7806761128",
+    "isbn13": "9787806761120",
+    "title": "山居笔记",
+    "url": "https://api.douban.com/v2/book/1001204",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "《山居笔记》是余秋雨在1992年至1994年间，全身心地用两年多的时间创作成的，共十一篇文章。写作期间，作者辞去了学院的职务，不再上班；同时写作又与考察联在一起，很多写到的地方一去再去。\n在作者的总体计划上，这本《山居笔记》是他以直接感悟方式探访中华文明的第二阶段记述。第一阶段的记述是《文化苦旅》，在那本书中，他背负着生命的困惑，去寻找一个个文化遗迹和文化现场，然后把自己的惊讶和感动告诉读者。但是等到走完写完，发觉还有不少超越具体遗迹的整体性难题需要继续探访。作者将这些问题归为：对于政治功业和文化情结的互相觊觎和生死与共；对于文化灵魂的流放、毁灭和复苏；对于商业文明与中华文化的狭路相逢和擦肩而过；对于千年科举留给社会历史的功绩和留给群体人格的祸害；对于稀有人格在中华文化中断绝的必然和祭奠的必要；对于君子和小人这条重要界线的无处不在和难于划分。",
+    "price": "28.00"
+}

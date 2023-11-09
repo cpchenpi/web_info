@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 35730,
+        "average": "8.2",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英]狄更斯"
+    ],
+    "pubdate": "1991-7",
+    "tags": [
+        {
+            "count": 4951,
+            "name": "狄更斯",
+            "title": "狄更斯"
+        },
+        {
+            "count": 3287,
+            "name": "雾都孤儿",
+            "title": "雾都孤儿"
+        },
+        {
+            "count": 3066,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2182,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 2001,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1869,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 1823,
+            "name": "名著",
+            "title": "名著"
+        },
+        {
+            "count": 1760,
+            "name": "外国名著",
+            "title": "外国名著"
+        }
+    ],
+    "origin_title": "Oliver Twist",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1300531.jpg",
+    "binding": "平装",
+    "translator": [
+        "荣如德"
+    ],
+    "catalog": "一、作者序\n二、第一章  谈谈奥立弗・退斯特出生的地点和他降生时的情形\n三、第二章  谈谈奥立弗・退斯特的成长、教育和伙食情况\n四、第三章  奥立弗・退斯特差点儿有了一份差事，不过这也决不是个闲职\n五、第四章  另有所就的奥立弗初次踏进社会\n六、第五章  奥立弗与新相识打交道。第一次参加葬礼，他就对主人的行业印象不佳 \n七、第六章  奥立弗给诺亚的嘲骂惹急了奋起抵抗，使诺亚大吃一惊\n八、第七章  奥立弗仍然不屈服",
+    "pages": "370",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1300531.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1300531.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1300531.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1203251/",
+    "id": "1203251",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532710947",
+    "isbn13": "9787532710942",
+    "title": "雾都孤儿",
+    "url": "https://api.douban.com/v2/book/1203251",
+    "alt_title": "Oliver Twist",
+    "author_intro": "",
+    "summary": "孤儿奥立弗・退斯特从小在贫民习艺所受尽欺凌，逃到伦敦后又陷入贼窟。身边的世界像一台疯狂运转的机器，小奥立弗却努力坚守着心底深处的纯净与高贵。这份执著终于帮他等来了柳暗花明：布朗劳先生、梅里太太等人及时伸出援助之手；与此同时，奥立弗奇特的身世，也一步步真相大白。小说深刻揭示社会弊病的同时，也在英国文学史上留下一连串栩栩如生的人物形象，一百多年来深受读者爱戴。",
+    "series": {
+        "id": "1002",
+        "title": "世界文学名著普及本（全译本）"
+    },
+    "price": "10.10元"
+}

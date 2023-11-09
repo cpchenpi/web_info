@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 9184,
+        "average": "9.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "J.K. 羅琳"
+    ],
+    "pubdate": "2000-6",
+    "tags": [
+        {
+            "count": 1520,
+            "name": "哈利波特",
+            "title": "哈利波特"
+        },
+        {
+            "count": 914,
+            "name": "J.K.罗琳",
+            "title": "J.K.罗琳"
+        },
+        {
+            "count": 706,
+            "name": "魔幻",
+            "title": "魔幻"
+        },
+        {
+            "count": 603,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 540,
+            "name": "HarryPotter",
+            "title": "HarryPotter"
+        },
+        {
+            "count": 443,
+            "name": "英国",
+            "title": "英国"
+        },
+        {
+            "count": 325,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 309,
+            "name": "哈利·波特",
+            "title": "哈利·波特"
+        }
+    ],
+    "origin_title": "Harry Potter and the Philosopher's Stone",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1432756.jpg",
+    "binding": "平裝",
+    "translator": [
+        "彭倩文"
+    ],
+    "catalog": "",
+    "pages": "320",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1432756.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1432756.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1432756.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1419841/",
+    "id": "1419841",
+    "publisher": "皇冠文化出版公司",
+    "isbn10": "9573317249",
+    "isbn13": "9789573317241",
+    "title": "神秘的魔法石",
+    "url": "https://api.douban.com/v2/book/1419841",
+    "alt_title": "Harry Potter and the Philosopher's Stone",
+    "author_intro": "J. K.羅琳（Rowling, J. K.）\n英國作家，以《哈利波特》系列書籍創造全球暢銷千萬本的驚人銷售量！她曾是靠領政府救濟金過活的單親媽媽，因為想寫一本故事書給女兒看而開始創作哈利波特，這個十一歲大在大人眼中是個怪胎的小男孩。\n她的第一次創作，很快在全球書市掀起一陣哈利‧波特風，搖身一變成為出版界的傳奇人物。",
+    "summary": "在世界的另一個角落裡，有一個神秘的國度，裡面住滿了巫師，貓頭鷹是他們的信差，飛天掃帚是交通工具，西洋棋子會思考，幽靈頑皮鬼滿天飛，畫像裡的人還會跑出來串門子。 十一歲的哈利波特，從小被阿姨一家當成怪胎，經常得滿屋子躲避表哥達力的追打。他一直以為自己只是個平凡的小男孩，直到一封又一封神秘的信，將他帶入這個充滿神奇魔法的巫師世界，而他的身世之謎與魔法石的秘密也將同時解開。\n父母雙亡的哈利波特，11歲時哈利收到了來自霍格華茲魔法學校的入學通知書，脫離了『麻瓜』的生活，開始學習魔法，也認識了。幸福快樂的日子似乎終於來臨了，不過……前面還有更多的冒險在等著他。到底，哈利會不會平安、順利的度過霍格華茲七年的校園生活？會不會打敗佛地魔呢？？？？？就讓我們大家一起拭目以待吧！\n哈利波特（Harry Potter）一個特殊得不能再特殊的小男孩，有一張削瘦的面孔、骨頭突出的膝蓋、漆黑的頭髮和一雙明亮的綠眼睛，總是戴著一副用許多白膠帶黏起來的圓框眼鏡，額頭上還有一道形如閃電的淡淡疤痕。外觀不起眼的哈利，在還不會走路的時候就已經是魔法界的大名人了！十年前的萬聖節，佛地魔曾用最厲害、最惡毒的魔咒殺死哈利的父母（詹姆波特及莉莉波特），不過哈利卻奇蹟般的活了下來，而且由於一個不明的原因，佛地魔在沒辦法殺死哈利的那一刻起，他的法力也莫名其妙的消失了。\n哈利波特小事蹟：十一歲時才收到第一份生日禮物。是第一位乘坐飛車前往霍格華茲報到的學生。一年級時就成為霍格華茲一百年來最年輕的搜捕手。",
+    "series": {
+        "id": "6683",
+        "title": "哈利波特"
+    },
+    "price": "NT$250"
+}

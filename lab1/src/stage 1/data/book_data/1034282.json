@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 61264,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "插图本",
+    "author": [
+        "[英] 史蒂芬·霍金"
+    ],
+    "pubdate": "2010-4",
+    "tags": [
+        {
+            "count": 11674,
+            "name": "科普",
+            "title": "科普"
+        },
+        {
+            "count": 10969,
+            "name": "史蒂芬·霍金",
+            "title": "史蒂芬·霍金"
+        },
+        {
+            "count": 8366,
+            "name": "宇宙",
+            "title": "宇宙"
+        },
+        {
+            "count": 8155,
+            "name": "时间简史",
+            "title": "时间简史"
+        },
+        {
+            "count": 7055,
+            "name": "物理",
+            "title": "物理"
+        },
+        {
+            "count": 6159,
+            "name": "科学",
+            "title": "科学"
+        },
+        {
+            "count": 4872,
+            "name": "物理学",
+            "title": "物理学"
+        },
+        {
+            "count": 4550,
+            "name": "时间",
+            "title": "时间"
+        }
+    ],
+    "origin_title": "A Brief History of Time",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1914861.jpg",
+    "binding": "平装",
+    "translator": [
+        "许明贤",
+        "吴忠超"
+    ],
+    "catalog": "前言\n第一章 我们的宇宙图像\n第二章 空间和时间\n第三章 膨胀的宇宙\n第四章 不确定性原理\n第五章 基本粒子和自然的力\n第六章 黑洞 \n第七章 黑洞不是这么黑的\n第八章 宇宙的起源和命运\n第九章 时间箭头\n第十章 虫洞和时间旅行\n第十一章 物理学的统一\n第十二章 结论\n阿尔伯特・爱因斯坦\n伽利略・牛顿\n小辞典\n感谢",
+    "pages": "245",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1914861.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1914861.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1914861.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1034282/",
+    "id": "1034282",
+    "publisher": "湖南科学技术出版社",
+    "isbn10": "7535732305",
+    "isbn13": "9787535732309",
+    "title": "时间简史",
+    "url": "https://api.douban.com/v2/book/1034282",
+    "alt_title": "A Brief History of Time",
+    "author_intro": "史蒂芬·霍金（Stephen Hawking, 1942- ），现任剑桥大学卢卡斯数学教授。他广被推崇为继爱因斯坦后最杰出的理论物理学家。霍金的主要著作有《时间简史》、《霍金讲演录——黑洞、婴儿宇宙及其他》和《果壳中的宇宙》。",
+    "summary": "《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞、黑洞不是这么黑、时间箭头等内容。第一版中的许多理论预言，后来在对微观或宏观宇宙世界观测中得到证实。\n自1988年首版以来，《时间简史》已成为全球科学著作的里程碑。它被翻译成40种文字，销售了近1000万册。此版更新了内容，把许多观测揭示的新知识，以及霍金最新的研究纳入，并配以250幅照片和电脑制作的三维和四维空间图。",
+    "price": "45.00元"
+}

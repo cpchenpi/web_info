@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 10074,
+        "average": "7.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 道尾秀介"
+    ],
+    "pubdate": "2009-4",
+    "tags": [
+        {
+            "count": 2576,
+            "name": "道尾秀介",
+            "title": "道尾秀介"
+        },
+        {
+            "count": 2009,
+            "name": "推理",
+            "title": "推理"
+        },
+        {
+            "count": 1578,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 744,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 580,
+            "name": "推理小说",
+            "title": "推理小说"
+        },
+        {
+            "count": 576,
+            "name": "日本推理",
+            "title": "日本推理"
+        },
+        {
+            "count": 550,
+            "name": "向日葵不开的夏天",
+            "title": "向日葵不开的夏天"
+        },
+        {
+            "count": 528,
+            "name": "日本文学",
+            "title": "日本文学"
+        }
+    ],
+    "origin_title": "向日葵の咲かない夏",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3738321.jpg",
+    "binding": "平装",
+    "translator": [
+        "于彤彤"
+    ],
+    "catalog": "",
+    "ebook_url": "https://read.douban.com/ebook/284958/",
+    "pages": "348",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3738321.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3738321.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3738321.jpg"
+    },
+    "alt": "https://book.douban.com/subject/3683898/",
+    "id": "3683898",
+    "publisher": "新星出版社",
+    "isbn10": "7802256577",
+    "isbn13": "9787802256576",
+    "title": "向日葵不开的夏天",
+    "url": "https://api.douban.com/v2/book/3683898",
+    "alt_title": "向日葵の咲かない夏",
+    "author_intro": "道尾秀介，1975年出生于东京都，是近年来日本推理文坛最炙手可热的新锐作家。在短短不到两年的时间，他推出了四部长篇小说，其中三部更同时入选年度十大推理小说，被誉为“本格推理的新希望”。 道尾属于天才型作家，一部长篇小说往往只需要花一两个月就能完成，且很擅长描写人物的内心情感，这也是他以自己为第一人称主角“真备庄介”系列的特色之一。道尾结合了恐怖、悬疑及本格推理的独特风格，受到读者和媒体极高的评价，并期待他能成为刺激日本推理界的王牌。除了为他赢得第5届“恐怖悬疑小说大赏”特别奖的成名处女作《背之眼》之外，其它作品有《骸之爪》、《向日葵不开的夏天》、《独眼猴》、《影子》、《所罗门之犬》、《乌鸦的拇指》、《鼠男》等等。",
+    "summary": "那年夏天，我同学S君上吊，死了，我明明看到他的尸体，大家却说我骗人……喂，你相信投胎转世吗？那……那个死掉的S君，七天之后，竟然在我房里现身啦！只不过，他变成了一个……",
+    "ebook_price": "15.99",
+    "series": {
+        "id": "8989",
+        "title": "午夜文库·日系佳作：道尾秀介作品"
+    },
+    "price": "25.00"
+}

@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5431,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "富江三部曲之末",
+    "author": [
+        "伊藤润二"
+    ],
+    "pubdate": "2003/01/07",
+    "tags": [
+        {
+            "count": 1196,
+            "name": "伊藤润二",
+            "title": "伊藤润二"
+        },
+        {
+            "count": 800,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 527,
+            "name": "恐怖漫画",
+            "title": "恐怖漫画"
+        },
+        {
+            "count": 508,
+            "name": "富江",
+            "title": "富江"
+        },
+        {
+            "count": 423,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 404,
+            "name": "恐怖",
+            "title": "恐怖"
+        },
+        {
+            "count": 301,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 275,
+            "name": "伊藤潤二",
+            "title": "伊藤潤二"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s3144138.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "221",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s3144138.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s3144138.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s3144138.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1441241/",
+    "id": "1441241",
+    "publisher": "东立出版社",
+    "isbn10": "9861114920",
+    "isbn13": "9789861114927",
+    "title": "富江 PARTIII",
+    "url": "https://api.douban.com/v2/book/1441241",
+    "alt_title": "",
+    "author_intro": "最近伊藤潤二名氣如日中天，在台灣的人氣也相當旺，東立不但將其舊作以漫畫精選的方式集結出書，他的新作亦不斷地代理來台，本周要介紹的這部【富江 PART III】，便是2003年1月才剛集結的新作。\r\n\r\n【富江系列】是伊藤相當重要的作品，因為它不但是伊藤的出道作，伊藤依然持續不定期為【富江】畫新作。由【富江】，可以感受到伊藤這些年來畫工及內容上取向上的改變。\r\n\r\n由本書前半段依然是維持著【富江】原始基調---\"一個讓男人愛到無法自拔而將她分屍的女人。但分屍之後，每一部份的屍塊又會再生成一個完整的富江，然後再被分屍…如此不斷地重覆\"，但本書最後幾回談論了富江的\"成長\"與\"老化\"，將【富江】帶到另一個新領域。\r\n\r\n若是想要進來伊藤恐怖世界玩玩的話，富江將是你最佳的入門導覽…",
+    "summary": "",
+    "price": "NTS110"
+}

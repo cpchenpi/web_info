@@ -1,0 +1,3100 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        记忆碎片 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2006 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="https://img1.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img1.doubanio.com/f/vendors/02814fbb5bee25484516bd0a642af695f7ec5a83/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/vendors/ee6598d46af0bc554cecec9bcbf525b9b0582cb0/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/movie/cb1cb6aaa244dff6a281d103ff26d445debd130a/dist/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/aa9559674f2476cdc16f755b3cdc4ebc478db669/js/douban.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="记忆碎片,Memento,记忆碎片影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="记忆碎片电影简介和剧情介绍,记忆碎片影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/movie/subject/1304447/"/>
+    <link rel="alternate" href="android-app://com.douban.movie/doubanmovie/subject/1304447/" />
+    <link rel="stylesheet" href="https://img1.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/ea46c1bbb13fe495ccb639fd815b628ba32df4c5/dist/movie/common/show.css">
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "name": "记忆碎片 Memento",
+  "url": "/subject/1304447/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054524/",
+      "name": "克里斯托弗·诺兰 Christopher Nolan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054524/",
+      "name": "克里斯托弗·诺兰 Christopher Nolan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275104/",
+      "name": "乔纳森·诺兰 Jonathan Nolan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035672/",
+      "name": "盖·皮尔斯 Guy Pearce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022581/",
+      "name": "凯瑞-安·莫斯 Carrie-Anne Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049557/",
+      "name": "乔·潘托里亚诺 Joe Pantoliano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032104/",
+      "name": "小马克·布恩 Mark Boone Junior"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366207/",
+      "name": "拉什·费加 Russ Fega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009327/",
+      "name": "乔雅·福克斯 Jorja Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019062/",
+      "name": "斯蒂芬·托布罗斯基 Stephen Tobolowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100150/",
+      "name": "哈里特·桑塞姆·哈里斯 Harriet Sansom Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025213/",
+      "name": "托马斯·列农 Thomas Lennon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049641/",
+      "name": "考乐姆·吉斯·雷尼 Callum Keith Rennie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366208/",
+      "name": "金伯利·坎贝尔 Kimberly Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132232/",
+      "name": "玛丽安妮·穆勒雷尔 Marianne Muellerleile"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045227/",
+      "name": "拉里·霍尔登 Larry Holden"
+    }
+  ]
+,
+  "datePublished": "2000-09-05",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H53M",
+  "description": "当记忆支离破碎后，你该怎样面对生活？本片的主人公就遭遇了这样的事情。
+莱纳•谢尔比（盖伊•皮尔斯 饰）在家遭到歹徒的袭击，妻子被残忍的奸杀，自己脑部也受到严重的伤害。
+醒来后，他发现自己患了罕见的“短...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "611163",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.7"
+  }
+}
+</script>
+
+    
+    
+    <meta property="og:title" content="记忆碎片 Memento" />
+    <meta property="og:description" content="当记忆支离破碎后，你该怎样面对生活？本片的主人公就遭遇了这样的事情。
+莱纳•谢尔比（盖伊•皮尔斯 饰）在家遭到歹徒的袭击，妻子被残忍的奸杀，自己脑部也受到严重的伤害。
+醒来后，他发现自己患了罕见的“短..." />
+    <meta property="og:site_name" content="豆瓣" />
+    <meta property="og:url" content="https://movie.douban.com/subject/1304447/" />
+    <meta property="og:image" content="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg" />
+    <meta property="og:type" content="video.movie" />
+            <meta property="video:actor" content="盖·皮尔斯" />
+            <meta property="video:actor" content="凯瑞-安·莫斯" />
+            <meta property="video:actor" content="乔·潘托里亚诺" />
+            <meta property="video:actor" content="小马克·布恩" />
+            <meta property="video:actor" content="拉什·费加" />
+            <meta property="video:actor" content="乔雅·福克斯" />
+            <meta property="video:actor" content="斯蒂芬·托布罗斯基" />
+            <meta property="video:actor" content="哈里特·桑塞姆·哈里斯" />
+            <meta property="video:actor" content="托马斯·列农" />
+            <meta property="video:actor" content="考乐姆·吉斯·雷尼" />
+            <meta property="video:actor" content="金伯利·坎贝尔" />
+            <meta property="video:actor" content="玛丽安妮·穆勒雷尔" />
+            <meta property="video:actor" content="拉里·霍尔登" />
+            <meta property="video:director" content="克里斯托弗·诺兰" />
+        <meta property="video:duration" content="6780" />
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/712d24d01e0555fc.css">
+
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2022?fullscreen=1&source=navigation"
+     >2022年度榜单</a>
+    </li>
+    <li    ><a href="https://standbyme2022.douban.com/?autorotate=false&fullscreen=true&hidenav=true&source=web_navigation"
+            target="_blank"
+     >2022书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2022?fullscreen=1&source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/164cfd8/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+    <!-- top 250 begin -->
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/5986ab7176af54744e71209c6afb5e1d8d1191cf/dist/movie/charts/top250.css">
+    <div class="top250"><span class="top250-no">No.178</span><span class="top250-link"><a href="https://movie.douban.com/top250" target="_blank">豆瓣电影Top250</a></span>
+    </div>
+
+    <!-- top 250 end -->
+
+    <h1>
+        <span property="v:itemreviewed">记忆碎片 Memento</span>
+            <span class="year">(2000)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="https://movie.douban.com/subject/1304447/photos?type=R" title="点击看更多海报">
+        <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg" title="点击看更多海报" alt="Memento" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="/celebrity/1054524/" rel="v:directedBy">克里斯托弗·诺兰</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="/celebrity/1054524/">克里斯托弗·诺兰</a> / <a href="/celebrity/1275104/">乔纳森·诺兰</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="/celebrity/1035672/" rel="v:starring">盖·皮尔斯</a> / <a href="/celebrity/1022581/" rel="v:starring">凯瑞-安·莫斯</a> / <a href="/celebrity/1049557/" rel="v:starring">乔·潘托里亚诺</a> / <a href="/celebrity/1032104/" rel="v:starring">小马克·布恩</a> / <a href="/celebrity/1366207/" rel="v:starring">拉什·费加</a> / <a href="/celebrity/1009327/" rel="v:starring">乔雅·福克斯</a> / <a href="/celebrity/1019062/" rel="v:starring">斯蒂芬·托布罗斯基</a> / <a href="/celebrity/1100150/" rel="v:starring">哈里特·桑塞姆·哈里斯</a> / <a href="/celebrity/1025213/" rel="v:starring">托马斯·列农</a> / <a href="/celebrity/1049641/" rel="v:starring">考乐姆·吉斯·雷尼</a> / <a href="/celebrity/1366208/" rel="v:starring">金伯利·坎贝尔</a> / <a href="/celebrity/1132232/" rel="v:starring">玛丽安妮·穆勒雷尔</a> / <a href="/celebrity/1045227/" rel="v:starring">拉里·霍尔登</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">悬疑</span> / <span property="v:genre">惊悚</span> / <span property="v:genre">犯罪</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 美国<br/>
+        <span class="pl">语言:</span> 英语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2000-09-05(威尼斯电影节)">2000-09-05(威尼斯电影节)</span> / <span property="v:initialReleaseDate" content="2000-10-20(英国)">2000-10-20(英国)</span> / <span property="v:initialReleaseDate" content="2001-05-25(美国)">2001-05-25(美国)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="113">113分钟</span><br/>
+        <span class="pl">又名:</span> 凶心人(港) / 记忆拼图(台) / 记忆迷局 / 失忆 / Amnesia<br/>
+        <span class="pl">IMDb:</span> tt0209144<br>
+
+</div>
+
+
+
+
+                </div>
+                
+                    
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/b9636a640b0525c5be0809d093247e12d39aebbe/dist/movie/download-output-image/index.css">
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v:rating">
+        <div class="clearfix">
+            <div class="rating_logo ll">
+                豆瓣评分
+            </div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="https://img1.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">8.7</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar45"></div>
+        <div class="rating_sum">
+                <a href="comments" class="rating_people">
+                    <span property="v:votes">611168</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">46.9%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:56px"></div>
+        <span class="rating_per">41.5%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:14px"></div>
+        <span class="rating_per">10.4%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:1px"></div>
+        <span class="rating_per">0.9%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:0px"></div>
+        <span class="rating_per">0.3%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=悬疑&type=10&interval_id=100:90&action=">98% 悬疑片</a><br/>
+            好于 <a href="/typerank?type_name=剧情&type=11&interval_id=100:90&action=">97% 剧情片</a><br/>
+        </div>
+</div>
+<script src="https://img1.doubanio.com/f/movie/d9835c2c116dd65ad5f00817337abbb5445486ca/dist/movie/download-output-image/index.js"></script>
+
+
+                
+            </div>
+            
+                
+
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="https://www.douban.com/reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1304447-wish">
+                <span>想看</span>
+            </a>
+            <a href="https://www.douban.com/reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1304447-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img1.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img1.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img1.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1304447-1">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1304447-2">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1304447-3">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1304447-4">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/>
+        </a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1304447-5">
+            <img src="https://img1.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/>
+        </a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                
+                  <li> 
+    <img src="https://img1.doubanio.com/f/movie/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/movie/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写短评</a>
+ </li>
+                  <li> 
+    
+    <img src="https://img1.doubanio.com/f/movie/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/movie/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-1304447">
+    <a href= "#"
+        data-type="电影"
+        data-url="https://movie.douban.com/subject/1304447/"
+        data-desc="电影《记忆碎片 Memento》 (来自豆瓣) "
+        data-title="电影《记忆碎片 Memento》 (来自豆瓣) "
+        data-pic="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css">
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/b6e0770163b1da14217b0f1ca39189d47b95f51f/js/lib/sharebutton.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/dist/movie/libs/qrcode.min.js"></script>
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("/blank?sbj_page_click=bn_sharing");
+            });
+        });
+    </script>
+</div>
+
+
+
+
+            
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="/j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="1304447">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="记忆碎片 Memento‎ (2000)">
+                <input type="hidden" name="desc" value="导演 克里斯托弗·诺兰 主演 盖·皮尔斯 / 凯瑞-安·莫斯 / 美国 / 8.7分(611168评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg" />
+                <strong>记忆碎片 Memento‎ (2000)</strong>
+                <p>导演 克里斯托弗·诺兰 主演 盖·皮尔斯 / 凯瑞-安·莫斯 / 美国 / 8.7分(611168评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="/accounts/register?reason=recommend"  class="j a_show_login lnk-sharing" 
+            share-id="1304447" 
+            data-mode="plain" data-name="记忆碎片 Memento‎ (2000)" 
+            data-type="movie" data-desc="导演 克里斯托弗·诺兰 主演 盖·皮尔斯 / 凯瑞-安·莫斯 / 美国 / 8.7分(611168评价)" 
+            data-href="https://movie.douban.com/subject/1304447/" data-image="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg" 
+            data-properties="{}" 
+            data-redir="" data-text="" 
+            data-apikey="" data-curl="" 
+            data-count="10" data-object_kind="1002" 
+            data-object_id="1304447" data-target_type="rec" 
+            data-target_action="0" 
+            data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/1304447\/&#34;,&#34;subject_title&#34;:&#34;记忆碎片 Memento‎ (2000)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_1304447"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">记忆碎片的剧情简介</i>
+              · · · · · ·
+    </h2>
+
+            <div class="indent" id="link-report-intra">
+                    
+                        <span property="v:summary" class="">
+                                　　当记忆支离破碎后，你该怎样面对生活？本片的主人公就遭遇了这样的事情。
+                                    <br />
+                                　　莱纳•谢尔比（盖伊•皮尔斯 饰）在家遭到歹徒的袭击，妻子被残忍的奸杀，自己脑部也受到严重的伤害。
+                                    <br />
+                                　　醒来后，他发现自己患了罕见的“短期记忆丧失症”，他只能记住十几分钟前发生的事情，为了让生活继续下去，更为了替惨死的妻子报仇，他凭借纹身、纸条、宝丽来快照等零碎的小东西，保存记忆，收集线索，展开了艰难的调查。
+                                    <br />
+                                　　调查中，莱纳遇上粗俗的酒吧女招待娜塔莉娅(凯瑞•安妮•莫斯 饰)，她似乎知道一些莱昂纳多感兴趣的事；还有泰迪(乔•潘托利亚诺 饰)，自称是他以前好朋友，但看上去鬼鬼祟祟的，不怀好意。到底谁能相信？娜塔莉娅？泰迪？还是他自己？
+                                    <br />
+                                　　抽丝剥茧之后，真相呼之欲出，简单之至却又残酷无比，而莱纳是否有面对这一切的勇气？
+                        </span>
+                        <span class="pl"><a href="https://movie.douban.com/help/movie#t0-qs">&copy;豆瓣</a></span>
+            </div>
+</div>
+
+
+    <div id="dale_movie_subject_banner_after_intro"></div>
+
+    
+
+
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/e7bb3fa21985f6e07c027dd984c99f26e54987f9/dist/movie/celebrity/celebrities_section.css">
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">记忆碎片的演职员</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="/subject/1304447/celebrities">全部 26</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1054524/" title="克里斯托弗·诺兰 Christopher Nolan" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/personage/raw/public/7b089a8ecf2308f98d5912ec00b9a91c.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1054524/" title="克里斯托弗·诺兰 Christopher Nolan" class="name">克里斯托弗·诺兰</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1035672/" title="盖·皮尔斯 Guy Pearce" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p381.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1035672/" title="盖·皮尔斯 Guy Pearce" class="name">盖·皮尔斯</a></span>
+
+      <span class="role" title="饰 莱昂纳德 Leonard">饰 莱昂纳德 Leonard</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1022581/" title="凯瑞-安·莫斯 Carrie-Anne Moss" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/celebrity/raw/public/p2799.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1022581/" title="凯瑞-安·莫斯 Carrie-Anne Moss" class="name">凯瑞-安·莫斯</a></span>
+
+      <span class="role" title="饰 娜塔利 Natalie">饰 娜塔利 Natalie</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1049557/" title="乔·潘托里亚诺 Joe Pantoliano" class="">
+      <div class="avatar" style="background-image: url(https://img2.doubanio.com/view/celebrity/raw/public/p1360151030.33.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1049557/" title="乔·潘托里亚诺 Joe Pantoliano" class="name">乔·潘托里亚诺</a></span>
+
+      <span class="role" title="饰 泰迪 Teddy">饰 泰迪 Teddy</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1032104/" title="小马克·布恩 Mark Boone Junior" class="">
+      <div class="avatar" style="background-image: url(https://img1.doubanio.com/view/celebrity/raw/public/p4769.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1032104/" title="小马克·布恩 Mark Boone Junior" class="name">小马克·布恩</a></span>
+
+      <span class="role" title="饰 伯特 Burt">饰 伯特 Burt</span>
+
+    </div>
+  </li>
+
+
+        
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="https://movie.douban.com/celebrity/1366207/" title="拉什·费加 Russ Fega" class="">
+      <div class="avatar" style="background-image: url(https://img9.doubanio.com/view/celebrity/raw/public/p1482390245.66.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="https://movie.douban.com/celebrity/1366207/" title="拉什·费加 Russ Fega" class="name">拉什·费加</a></span>
+
+      <span class="role" title="饰 服务员 Waiter">饰 服务员 Waiter</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/verify/b94df3c30a99176a78709b95ecf1cf80b105beb0/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '1304447',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/bd6325a12f40c34cbf2668aafafb4ccd60deab7e/vendors.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/vendors/6242a400cfd25992da35ace060e58f160efc9c50/shared_rc.js"></script>
+<script type="text/javascript" src="https://img1.doubanio.com/f/verify/6e7e593ba318f1355c70e66e010cf89411c3d937/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0164f79cda68b2b3cb09b712e8417001e4a4ca1a/dist/movie/subject/photos_section.css">
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">记忆碎片的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1304447/trailer#trailer">预告片2</a>&nbsp;|&nbsp;<a href="https://movie.douban.com/subject/1304447/all_photos">图片489</a>&nbsp;·&nbsp;<a href="https://movie.douban.com/subject/1304447/mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="https://movie.douban.com/trailer/263743/#content" title="预告片" style="background-image:url(https://img1.doubanio.com/img/trailer/medium/2614810328.jpg)">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/641694896/"><img src="https://img9.doubanio.com/view/photo/sqxs/public/p641694896.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/1793561541/"><img src="https://img2.doubanio.com/view/photo/sqxs/public/p1793561541.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/641696597/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p641696597.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="https://movie.douban.com/photos/photo/641696747/"><img src="https://img1.doubanio.com/view/photo/sqxs/public/p641696747.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+    
+
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+<div class="mod">
+    <div class="hd">
+        
+    <h2>
+        <i class="">记忆碎片的获奖情况</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1304447/awards/">全部</a>
+            )
+            </span>
+    </h2>
+
+    </div>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/Oscar/74/">第74届奥斯卡金像奖</a>
+            </li>
+            <li>最佳原创剧本(提名)</li>
+            <li><a href='https://movie.douban.com/celebrity/1054524/' target='_blank'>克里斯托弗·诺兰</a>&nbsp;/&nbsp;<a href='https://movie.douban.com/celebrity/1275104/' target='_blank'>乔纳森·诺兰</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/golden-globes/59/">第59届金球奖</a>
+            </li>
+            <li>电影类 最佳编剧(提名)</li>
+            <li><a href='https://movie.douban.com/celebrity/1054524/' target='_blank'>克里斯托弗·诺兰</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="https://movie.douban.com/awards/afi/2/">第2届美国电影学会奖</a>
+            </li>
+            <li>年度佳片</li>
+            <li></li>
+        </ul>
+</div>
+
+
+    
+        
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/f/movie/0ebe45fa18ae69ea021b9ea03936d3656d4a5581/dist/movie/subject/recommendations.css">
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+              · · · · · ·
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/2334904/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg" alt="禁闭岛" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/2334904/?from=subject-page" class="" >禁闭岛</a>
+                <span class="subject-rate">8.9</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1780330/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg" alt="致命魔术" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1780330/?from=subject-page" class="" >致命魔术</a>
+                <span class="subject-rate">8.9</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292217/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792248233.jpg" alt="穆赫兰道" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292217/?from=subject-page" class="" >穆赫兰道</a>
+                <span class="subject-rate">8.4</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/3011051/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg" alt="恐怖游轮" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/3011051/?from=subject-page" class="" >恐怖游轮</a>
+                <span class="subject-rate">8.5</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/26580232/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg" alt="看不见的客人" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/26580232/?from=subject-page" class="" >看不见的客人</a>
+                <span class="subject-rate">8.8</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292214/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455372830.jpg" alt="非常嫌疑犯" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292214/?from=subject-page" class="" >非常嫌疑犯</a>
+                <span class="subject-rate">8.6</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1397546/?from=subject-page" >
+                    <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561545031.jpg" alt="追随" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1397546/?from=subject-page" class="" >追随</a>
+                <span class="subject-rate">8.9</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292223/?from=subject-page" >
+                    <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg" alt="七宗罪" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292223/?from=subject-page" class="" >七宗罪</a>
+                <span class="subject-rate">8.8</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1292343/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg" alt="蝴蝶效应" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1292343/?from=subject-page" class="" >蝴蝶效应</a>
+                <span class="subject-rate">8.9</span>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="https://movie.douban.com/subject/1296141/?from=subject-page" >
+                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg" alt="控方证人" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="https://movie.douban.com/subject/1296141/?from=subject-page" class="" >控方证人</a>
+                <span class="subject-rate">9.6</span>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+    
+        
+
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}vote-comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/movie/d63a579a99fd372b4398731a279a1382e6eac71e/dist/movie/subject-comments/comments-section.css">
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+            
+        <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+    <h2>
+        <i class="">记忆碎片的短评</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1304447/comments?status=P">全部 127283 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+       
+        
+
+
+        <div class="mod-bd">
+                
+        <div class="tab-hd">
+                        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+                        <a id="new-comments-tab" href="comments?sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+                        <a id="following-comments-tab" href="comments?sort=follows" data-id="following"  class="j a_show_login">好友</a>
+        </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+
+        
+        <div class="comment-item " data-cid="38870173">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">605</span>
+
+                    <input value="38870173" type="hidden"/>
+                    <a href="javascript:;" data-id="38870173"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/little_cupid/" class="">粟熙</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2008-04-29 23:41:31">
+                    2008-04-29 23:41:31
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">有些故弄玄虚，其实我原本应该很喜欢这种结构，但不知为何这部让我不太感冒</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1304447/?comment_id=38870173"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="43045963">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">5927</span>
+
+                    <input value="43045963" type="hidden"/>
+                    <a href="javascript:;" data-id="43045963"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/windfallchen/" class="">即兴表演艺术家</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2008-06-01 19:02:04">
+                    2008-06-01 19:02:04
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">虽然知道多看几遍有可能会看懂，但我觉得应该把这个时间献给更多的电影。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1304447/?comment_id=43045963"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="254264794">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">5463</span>
+
+                    <input value="254264794" type="hidden"/>
+                    <a href="javascript:;" data-id="254264794"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/3265640/" class="">周鱼</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2010-05-24 22:10:19">
+                    2010-05-24 22:10:19
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">你可以连看5部烂片 然后忘掉他们 或者用同样的时间 把《记忆碎片》看上5遍 然后爱上它</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1304447/?comment_id=254264794"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="10742067">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2554</span>
+
+                    <input value="10742067" type="hidden"/>
+                    <a href="javascript:;" data-id="10742067"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/Lan.die/" class="">Lan~die</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2007-02-19 07:57:26">
+                    2007-02-19 07:57:26
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">导演用一种前无古人的倒序方式营造出“支离破碎”氛围，让观众深刻体验到Lenny破碎的生活及内在，我们如Lenny般扮成侦探，在电影里寻找着所谓的真实。而那织在复杂结构中的情感更让人没有办法不被感动。“如果自欺才能使我快乐，我选择如此的活着。”我们要生存下去必须给自己一个理由，否则就会精神分裂。但那些我们坚持的东西可能只是自己假象中的虚幻。一觉醒来时看着天花板问问自己：我是谁，我为什么在这里。然后你...</span>
+                <span class="full">导演用一种前无古人的倒序方式营造出“支离破碎”氛围，让观众深刻体验到Lenny破碎的生活及内在，我们如Lenny般扮成侦探，在电影里寻找着所谓的真实。而那织在复杂结构中的情感更让人没有办法不被感动。“如果自欺才能使我快乐，我选择如此的活着。”我们要生存下去必须给自己一个理由，否则就会精神分裂。但那些我们坚持的东西可能只是自己假象中的虚幻。一觉醒来时看着天花板问问自己：我是谁，我为什么在这里。然后你开始回忆，当那些记忆的碎片一点一点拼凑起来，一个完整的可能也并不客观的现实呈现在眼前，你，是否惶恐？</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1304447/?comment_id=10742067"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item " data-cid="1168540071">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">332</span>
+
+                    <input value="1168540071" type="hidden"/>
+                    <a href="javascript:;" data-id="1168540071"
+                        class="j a_show_login" 
+                        onclick="">有用</a>
+                    
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/13419259/" class="">sharon</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2017-03-23 23:32:36">
+                    2017-03-23 23:32:36
+                </span>
+                <span class="comment-location"></span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+            
+                <span class="short">感觉太过用力的在制造悬疑，而不是故事本事迷雾层层</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/1304447/?comment_id=1168540071"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+
+
+
+
+                
+                    &gt; <a href="comments?sort=new_score&status=P" >
+                        更多短评
+                            127283条
+                    </a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="/help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的账号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="https://help.douban.com/help/ask?category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+    
+
+
+
+            <script src="https://img1.doubanio.com/f/movie/6eba6f43fb7592ab783e390f654c0d6a96b1598e/dist/movie/subject-comments/comments-section.js"></script>
+            <script>
+                $(function () {
+                    if (window.SUBJECT_COMMENTS_SECTION) {
+                        // tab handler
+                        SUBJECT_COMMENTS_SECTION.createTabHandler();
+                        // expand handler
+                        SUBJECT_COMMENTS_SECTION.createExpandHandler({
+                            root: document.getElementById('comments-section'),
+                        });
+                        // vote handler
+                        SUBJECT_COMMENTS_SECTION.createVoteHandler({
+                            api: '/j/comment/vote',
+                            root: document.getElementById('comments-section'),
+                            voteSelector: '.vote-comment',
+                            textSelector: '.vote-count',
+                            is_released: "true",
+                            alert_text: "该电影还未上映，不能投票噢",
+                            afterVote: function (elem) {
+                                var parentNode = elem.parentNode;
+                                var successElem = document.createElement('span');
+                                successElem.innerHTML = '已投票';
+                                parentNode.removeChild(elem);
+                                parentNode.appendChild(successElem);
+                            }
+                        });
+                    }
+                });
+            </script>
+        </div>
+    </div>
+
+
+
+<!--        此处是挂载其他页面，不是注释！不是注释！不是注释！-->
+        
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/misc/mixed_static/610438fbda6eb614.css">
+
+    <section id="reviews-wrapper" class="reviews mod movie-content">
+        <header>
+            
+                <a href="new_review" rel="nofollow" class="create-review comment_btn "
+                    data-isverify="False"
+                    data-verify-url="https://www.douban.com/accounts/phone/verify?redir=http://movie.douban.com/subject/1304447/new_review">
+                    <span>我要写影评</span>
+                </a>
+            <h2>
+                    记忆碎片的影评 · · · · · ·
+
+                    <span class="pl">( <a href="reviews">全部 1571 条</a> )</span>
+            </h2>
+        </header>
+        
+            
+            <div class="review_filter">
+                            <a href="javascript:;;" class="cur" data-sort="">热门</a>
+                            <a href="javascript:;;" data-sort="time">最新</a>
+                            <a href="javascript:;;" data-sort="follow">好友</a>
+            </div>
+            <script>
+                var cur_sort = '';
+                $('#reviews-wrapper .review_filter a').on('click', function () {
+                    var sort = $(this).data('sort');
+                    if(sort === cur_sort) return;
+
+                    if(sort === 'follow' && true){
+                        window.location.href = '//www.douban.com/accounts/login?source=movie';
+                        return;
+                    }
+
+                    if($('#reviews-wrapper .review_filter').data('doing')) return;
+                    $('#reviews-wrapper .review_filter').data('doing', true);
+
+                    cur_sort = sort;
+
+                    $('#reviews-wrapper .review_filter a').removeClass('cur');
+                    $(this).addClass('cur');
+
+                    $.getJSON('reviews', { sort: sort }, function(res) {
+                        $('#reviews-wrapper .review-list').remove();
+                        $('#reviews-wrapper [href="reviews?sort=follow"]').parent().remove();
+                        $('#reviews-wrapper .review_filter').after(res.html);
+                        $('#reviews-wrapper .review_filter').data('doing', false);
+                        $('#reviews-wrapper .review_filter').removeData('doing');
+
+                        if (res.count === 0) {
+                            $('#reviews-wrapper .review-list').html('<span class="no-review">你关注的人还没写过长评</span>');
+                        }
+                    });
+                });
+            </script>
+
+
+            
+
+
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="1096945">
+        <div class="main review-item" id="1096945">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/1226511/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1226511-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/1226511/" class="name">课堂.课本</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2006-12-05" class="main-meta">2006-12-05 14:32:34</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1096945/">记忆碎片之我见</a></h2>
+
+                <div id="review_1096945_short" class="review-short" data-rid="1096945">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        真实的故事: Leonard（以下简称Lenny）是美国三藩市某保险公司的一名侦探，负责保险理赔的调查业务。在工作中，他接到一个理赔案件，发现车祸受害者Sammy假装短期失忆症骗保，他揭穿了真相，获得了升职。（黑白片叙述；1:40:00 Teddy 对白）  除了拥有不错的工作，Lenny还有一...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1096945-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1096945_full" class="hidden">
+                    <div id="review_1096945_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1096945" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1096945">
+                                8719
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1096945" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1096945">
+                                689
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1096945/#comments" class="reply ">1063回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1131294">
+        <div class="main review-item" id="1131294">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/hzm/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1380183-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/hzm/" class="name">赤龙</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2007-03-07" class="main-meta">2007-03-07 16:55:19</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1131294/">评《记忆碎片》的优缺点，加剧情重点分析和揭秘</a></h2>
+
+                <div id="review_1131294_short" class="review-short" data-rid="1131294">
+                    <div class="short-content">
+
+                            最近观看了一部2000年出产的电影《记忆碎片》（Memento），IMDB排名第24，算是近几年电影中相当靠前的了。  影片优点：很好的锻炼逻辑思维能力的悬疑电影，少有的值得看两遍和中英字幕一起看的电影，彩色和黑白两条主线交错叙述相当有趣。  影片缺点：为了降低观看的门槛，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1131294-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1131294_full" class="hidden">
+                    <div id="review_1131294_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1131294" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1131294">
+                                2640
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1131294" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1131294">
+                                213
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1131294/#comments" class="reply ">250回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1370793">
+        <div class="main review-item" id="1370793">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/slpnm/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u2377790-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/slpnm/" class="name">裸睡的墨</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-05-04" class="main-meta">2008-05-04 02:27:10</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1370793/">看完记忆碎片，试图拼起一副完整的拼图</a></h2>
+
+                <div id="review_1370793_short" class="review-short" data-rid="1370793">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        《记忆碎片》是迄今为止我看到剧情编排最精妙的一个片子了， 看完以后竟然心情久久都不能平静。 对于片中人，记忆的碎片散落一地，没有一个人拥有完整的事实真相， 这像极了我们的人生。 好在这只是一个电影，而它的造物主，导演和编剧，一定很缜密的设计了故事的事实真相。 所...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1370793-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1370793_full" class="hidden">
+                    <div id="review_1370793_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1370793" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1370793">
+                                1342
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1370793" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1370793">
+                                93
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1370793/#comments" class="reply ">137回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1007632">
+        <div class="main review-item" id="1007632">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/xiaomao/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1033463-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/xiaomao/" class="name">xiaomao</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2005-10-16" class="main-meta">2005-10-16 17:07:44</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1007632/">记忆碎片——拼图游戏</a></h2>
+
+                <div id="review_1007632_short" class="review-short" data-rid="1007632">
+                    <div class="short-content">
+
+                        昨晚看完这部电影，情节我不想赘述，以下只说一说我关于这部电影的感受和看法。 看这部电影之前，我简单看了一些介绍和评论，知道这是一部关于失忆的电影，而且导演运用倒叙的手法。倒叙的手法在昆汀塔伦蒂诺的电影中是感受过的，可是看完这部电影才知道，导演诺兰运用的剪辑手...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1007632-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1007632_full" class="hidden">
+                    <div id="review_1007632_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1007632" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1007632">
+                                666
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1007632" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1007632">
+                                75
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1007632/#comments" class="reply ">55回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="3772253">
+        <div class="main review-item" id="3772253">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/lzxt06/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1669866-49.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/lzxt06/" class="name">清越</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2010-09-30" class="main-meta">2010-09-30 19:31:47</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/3772253/">记忆为何是我们存在于世界的意义？</a></h2>
+
+                <div id="review_3772253_short" class="review-short" data-rid="3772253">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        这是迄今为止看过的最牛逼的电影了吧，第一部让自己连看两遍的片子，因为这样才将其大体搞懂。其实第一遍也能将故事大意知晓，但不少碎片没法拼接起来，于是用快进的办法又看了一遍。接着花一个中午的时间将具体的脉络勾画出来，这才算将整部片子消化了一下。看了豆瓣上的评论...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-3772253-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_3772253_full" class="hidden">
+                    <div id="review_3772253_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="3772253" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-3772253">
+                                447
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="3772253" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-3772253">
+                                21
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/3772253/#comments" class="reply ">58回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="9146663">
+        <div class="main review-item" id="9146663">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/fcy17784245328/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u153779556-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/fcy17784245328/" class="name">冯春阳 p.h.</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2018-02-12" class="main-meta">2018-02-12 15:20:18</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9146663/">超详细《记忆碎片》解析，彩蛋和揭秘</a></h2>
+
+                <div id="review_9146663_short" class="review-short" data-rid="9146663">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        此篇解析是我看了网上所有的解析之后，都感觉故事梳理的不尽如人意，于是有感而发。篇幅较长，感谢耐心。 Lenny是一个保险公司的调查员，负责调查保险索赔。他有条不紊，擅长辨别真假，并且是一个观人高手。Lenny拥有一个爱他的妻子，自己也努力工作，生活幸福美满。此为背景一...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9146663-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9146663_full" class="hidden">
+                    <div id="review_9146663_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9146663" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9146663">
+                                347
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9146663" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9146663">
+                                10
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9146663/#comments" class="reply ">62回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="5109169">
+        <div class="main review-item" id="5109169">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/qfmeng/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u7572103-9.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/qfmeng/" class="name">思想起</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2011-09-26" class="main-meta">2011-09-26 18:25:22</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/5109169/">《记忆碎片（Memento）》：自欺欺人【附带剧情详解及截图】（IMDB250 TOP 030）</a></h2>
+
+                <div id="review_5109169_short" class="review-short" data-rid="5109169">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        具体到我的博客看原文，有详细截图 http://qfmeng.blogcn.com/articles/%E3%80%8A%E8%AE%B0%E5%BF%86%E7%A2%8E%E7%89%87%EF%BC%88memento%EF%BC%89%E3%80%8B%EF%BC%9A%E8%87%AA%E6%AC%BA%E6%AC%BA%E4%BA%BA%E3%80%90%E9%99%84%E5%B8%A6%E5%89%A7%E6%83%85%E8%AF%A6%E8%A7%A3%E5...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-5109169-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_5109169_full" class="hidden">
+                    <div id="review_5109169_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="5109169" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-5109169">
+                                162
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="5109169" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-5109169">
+                                12
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/5109169/#comments" class="reply ">15回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1369232">
+        <div class="main review-item" id="1369232">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/alcudish/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u2411826-9.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/alcudish/" class="name">叶洲</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2008-05-02" class="main-meta">2008-05-02 15:52:05</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1369232/">我这篇适合还没看或者准备看这部电影的人阅读</a></h2>
+
+                <div id="review_1369232_short" class="review-short" data-rid="1369232">
+                    <div class="short-content">
+
+                        克里斯托弗·诺兰如今早已大红大紫，尤其在中国有一群奉其为神明的拥趸。作为导演，他对情怀、艺术和社会问题之类都不太感冒，而是痴迷于讲一个引人入胜的故事，以及怎么让这个故事更加引人入胜。他最著名的作品无疑是《盗梦空间》和《星际穿越》，两部作品都胜在背景设定的创...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1369232-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1369232_full" class="hidden">
+                    <div id="review_1369232_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1369232" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1369232">
+                                79
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1369232" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1369232">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1369232/#comments" class="reply ">12回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="1007417">
+        <div class="main review-item" id="1007417">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/bullet/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1009354-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/bullet/" class="name">bullet</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2005-10-14" class="main-meta">2005-10-14 11:38:10</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/1007417/">世界仍然存在，我们需要记忆回忆自己的身份</a></h2>
+
+                <div id="review_1007417_short" class="review-short" data-rid="1007417">
+                    <div class="short-content">
+
+                        昨晚刚看完这部Christopher Nolan的大作，不禁惊叹导演的诡才，也庆幸自己是在图书馆看的这部片子。 我的这部《Memento》是两张D9的精装版，第一张正片，第二章是花絮。DVD的制作是我见过最诡异的，将碟放入光驱，在黑色的屏幕上连续快速跳过将近六十个单词，然后弹出一个问题...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-1007417-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_1007417_full" class="hidden">
+                    <div id="review_1007417_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="1007417" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-1007417">
+                                104
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="1007417" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-1007417">
+                                50
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/1007417/#comments" class="reply ">45回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="9172912">
+        <div class="main review-item" id="9172912">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/172054257/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u172054257-5.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/172054257/" class="name">做个好人</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2018-02-22" class="main-meta">2018-02-22 12:42:35</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9172912/">万万没想到</a></h2>
+
+                <div id="review_9172912_short" class="review-short" data-rid="9172912">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        很早就听说过这部电影，只听说好看，不知道讲了什么。为了防止被剧透，就没有了解内容，直接看了。 当电影开始时，我就猜测是男主自己杀了自己的妻子，但一开始我以为男主是精神分裂了，自己的一个人格杀了妻子，另一个人格还苦苦寻找杀妻仇人。 但没想到的是，真实的故事更加...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9172912-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9172912_full" class="hidden">
+                    <div id="review_9172912_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9172912" title="有用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9172912">
+                                44
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9172912" title="没用">
+                        <img src="https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9172912">
+                                3
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9172912/#comments" class="reply ">12回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script type="text/javascript">
+        (function() {
+            if (window.__init_review_list) return;
+            __init_review_list = true;
+                window.is_released = true
+                window.txt_released = '该电影还未上映，不能投票噢'
+        })();
+        window.useful_icon = "https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png";
+        window.usefuled_icon = "https://img1.doubanio.com/f/zerkalo/635290bb14771c97270037be21ad50514d57acc3/pics/up-full.png";
+        window.useless_icon = "https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png";
+        window.uselessed_icon = "https://img1.doubanio.com/f/zerkalo/23cee7343568ca814238f5ef18bf8aadbe959df2/pics/down-full.png";
+    </script>
+
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/zerkalo/3aeb281ab0e4f2c7050458684acfeb6838441de9/css/review/editor/ng/setting_standalone.css">
+    <script src="https://img1.doubanio.com/f/zerkalo/938cdbe2e223a3117cbbcb4929cae2001b402c20/js/review/editor/ng/manifest.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/296cd5fec472a78add5fee958c58d72f47d91586/js/review/editor/ng/vendor.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8a6f99feb702ed3c956a552c1b978285dcfdf7d9/js/review/editor/ng/setting_standalone.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/8941af7854ddad9561648b706cdb49f3d1534ff3/js/review/editor/ng/render_gif.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/ad32b4b739a59a90e9e3437fd2fba797dd7c26f2/js/review/actions.js"></script>
+    <script src="https://img1.doubanio.com/f/zerkalo/7196bdec780f03785f55b06fda34999595057f65/js/review/unfold.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+                <p class="pl">
+                    &gt;
+                        <a href="reviews">
+                            更多影评
+                                1571篇
+                        </a>
+                </p>
+    </section>
+<!-- COLLECTED JS -->
+
+
+    <br/>
+
+    
+            <div class="section-discussion">
+                    
+                    <div class="mod-hd">
+                            <a class="comment_btn j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                        
+    <h2>
+        讨论区
+         &nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;&nbsp; &middot;
+    </h2>
+
+                    </div>
+                    
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1304447/discussion/27658044/" title="记忆碎片完美全解释--所有疑问（车牌，照片，招妓等）在此终结">记忆碎片完美全解释--所有疑问（车牌，照片，招妓...</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/46072178/">飞翔鸟74</a></td>
+          <td class="pl"><span>13 回应</span></td>
+          <td class="pl"><span>2023-10-22 22:55:21</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1304447/discussion/637561955/" title="时隔十年，又看了一遍这个电影。里面有个设定">时隔十年，又看了一遍这个电影。里面有个设定</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/4220254/">击破苍穹</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2023-10-19 00:03:01</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1304447/discussion/637548354/" title="垃圾电影">垃圾电影</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/52446965/">易水兰</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2023-10-19 00:02:24</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1304447/discussion/637240746/" title="为什么主角记泰德车牌的时候不直接杀他？">为什么主角记泰德车牌的时候不直接杀他？</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/157439148/">大热欧派</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2023-10-08 23:23:44</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="https://movie.douban.com/subject/1304447/discussion/637553090/" title="Lenny在编造Sammy故事时怎么想到妻子被注射胰岛素致死的桥段">Lenny在编造Sammy故事时怎么想到妻子被注射胰岛素...</a></td>
+          <td class="pl"><span>来自</span><a href="https://www.douban.com/people/z2076932593/">萨迦利亚葫芦丝</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2023-09-27 04:27:59</span></td>
+        </tr>
+  </table>
+
+                    <p class="pl" align="right">
+                        <a href="/subject/1304447/discussion/" rel="nofollow">
+                            &gt; 去这部影片的讨论区（全部399条）
+                        </a>
+                    </p>
+            </div>
+
+        
+    
+        
+                
+                    
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+                关于《记忆碎片》的问题
+                · · · · · ·
+            <span class="pl">
+                (<a href='https://movie.douban.com/subject/1304447/questions/?from=subject'>
+                    全部54个
+                </a>)
+            </span>
+        </h2>
+
+
+        <!-- 
+    
+    <a class='j a_show_login comment_btn'
+        href='https://movie.douban.com/subject/1304447/questions/ask/?from=subject'>我来提问</a>
+ -->
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/1304447/questions/10482/?from=subject" class="">
+                            【看了这张图你就懂了】？
+                    </a>
+                </span>
+                <span class="meta">
+                    27人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="https://movie.douban.com/subject/1304447/questions/61570/?from=subject" class="">
+                            明明是男主在旅店开了两个房间，为什么老板说是他开的？
+                    </a>
+                </span>
+                <span class="meta">
+                    3人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='https://movie.douban.com/subject/1304447/questions/?from=subject'>
+                全部54个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+    <script src="https://img1.doubanio.com/f/movie/b2a06a0332fc1526f4caaf8c76c2717d24da408d/dist/movie/libs/jsrender.min.js"></script>
+    <script>
+        function reportTrack(url) {
+          if (!url) { return false }
+          $.ajax({ url: url, dataType: 'text/html' })
+        }
+        $(function(){
+            $(document).on('click', '.cross span', function(e) {
+                var $this = $(this);
+                var $dialog = $this.parents('#tv-play-source');
+                $dialog.remove();
+            });
+            $('body').bind('click', function(e) {
+                var $this = $(e.target),
+                    $source = $('.play-source');
+                if (!$this.is('.playBtn') && !$this.parents('.play-source').length) {
+                    $source.remove();
+                }
+            });
+            var sources = {};
+            sources[9] = [
+                        {play_link: "https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhul5po.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&amp;subtype=9&amp;type=online-video", ep: "1"},
+            ];
+            $('.playBtn').each(function(i, item) {
+                // 曝光监测上报
+                if (item) {
+                    reportTrack(item.dataset.impressionTrack);
+                }
+            });
+            $('.playBtn').click(function(e){
+                // 点击监测上报
+                reportTrack(e.target.dataset.clickTrack);
+
+                $('.play-source').remove();
+
+                var height, width, tmpl, cn, source;
+                var $dialog = $('#tv-play-source');
+                var $this = $(this);
+                source = $this.data('source');
+                if(!source)return;
+                cn = $this.data('cn');
+
+                tmpl = $.templates('#episode-tmpl');
+                $dialog = $(tmpl.render({playlist: sources[source], cn: cn}));
+
+                $dialog.hide();
+                $('body').append($dialog);
+                width = $dialog.outerWidth();
+
+                $dialog.css({
+                    marginLeft: -width / 2,
+                    top: $this.offset().top + $this.outerHeight()
+                }).show();
+            });
+        });
+    </script>
+
+<script id="episode-tmpl" type="text/x-jsrender">
+<div id="tv-play-source" class="play-source">
+    <div class="cross">
+        <span style="color:#494949; font-size:16px">{{:cn}}</span>
+        <span style="cursor:pointer">✕</span>
+    </div>
+    <div class="episode-list">
+        {{for playlist}}
+            <a href="{{:play_link}}&episode={{:ep}}" target="_blank">{{:ep}}集</a>
+        {{/for}}
+     <div>
+ </div>
+</script>
+
+<div class="gray_ad">
+    
+    <h2>
+        在哪儿看这部电影
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+    
+    <ul class="bs">
+                
+                <li>
+                        <a class="playBtn" data-cn="爱奇艺视频" data-impression-track="https://frodo.douban.com/rohirrim/video_tracking/impression?subject_id=1304447&amp;video_type=movie&amp;video_id=836726&amp;source=iqiyi&amp;user_id=&amp;bid=EcTDEB7dfbY&amp;platform=pc&amp;location=vendor_subject" data-click-track="https://frodo.douban.com/rohirrim/video_tracking/click?subject_id=1304447&amp;video_type=movie&amp;video_id=836726&amp;source=iqiyi&amp;user_id=&amp;bid=EcTDEB7dfbY&amp;platform=pc&amp;location=vendor_subject" href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhul5po.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&amp;subtype=9&amp;type=online-video" target="_blank">
+                            爱奇艺视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        
+                    </span></span>
+                </li>
+
+    </ul>
+</div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+<!--tags-->
+
+    <div id="dale_subject_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下片单推荐</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="https://movie.douban.com/subject/1304447/doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/240962/" target="_blank">★豆瓣高分电影榜★ （上）9.7-8.6分</a>
+                    <span>(影志)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/11324/" target="_blank">【意外结局】</a>
+                    <span>(影志)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/107486/" target="_blank">【豆瓣五星电影集中营】(1/3)</a>
+                    <span>(影志)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/73124/" target="_blank">心理学电影(一句话剧透,不喜勿入)</a>
+                    <span>(何学卿)</span>
+                </li>
+            
+                <li>
+                    <a href="https://www.douban.com/doulist/57376/" target="_blank">那些牛叉闪闪的片子</a>
+                    <span>(家庭种菜笔记)</span>
+                </li>
+    </ul>
+
+</div>
+
+    
+        
+
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+              · · · · · ·
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="https://www.douban.com/people/54549836/" class="others-interest-avatar">
+                    <img src="https://img2.doubanio.com/icon/u54549836-3.jpg" class="pil" alt="devilyoung">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/54549836/" class="">devilyoung</a>
+                    <div class="">
+                        11分钟前
+                        看过
+                        <span class="allstar50" title="力荐"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/189502959/" class="others-interest-avatar">
+                    <img src="https://img9.doubanio.com/icon/u189502959-15.jpg" class="pil" alt="Noora💕">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/189502959/" class="">Noora💕</a>
+                    <div class="">
+                        12分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="https://www.douban.com/people/122036389/" class="others-interest-avatar">
+                    <img src="https://img9.doubanio.com/icon/u122036389-5.jpg" class="pil" alt="一只狗">
+                </a>
+                <div class="others-interest-info">
+                    <a href="https://www.douban.com/people/122036389/" class="">一只狗</a>
+                    <div class="">
+                        15分钟前
+                        看过
+                        <span class="allstar50" title="力荐"></span>
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="https://movie.douban.com/subject/1304447/comments?status=P">912279人看过</a>
+                &nbsp;/&nbsp;
+            <a href="https://movie.douban.com/subject/1304447/comments?status=F">344356人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅记忆碎片的评论: <br/><span class="feed">
+    <a href="https://movie.douban.com/feed/subject/1304447/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_hovering_video"></div>
+    <!-- douban ad end -->
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2023 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript">
+$(function(){
+    var $actor_list = $('#info .actor a');
+    var $actor_attr = $('#info .actor .attrs');
+
+    if ($actor_list.length > 5) {
+        $actor_attr.empty();
+
+        $actor_list.each(function(idx){
+            if (idx+1 === $actor_list.length) {
+                $('<span></span>').prepend($(this)).appendTo($actor_attr);
+            } else {
+                $('<span> / </span>').prepend($(this)).appendTo($actor_attr);
+            }
+        });
+
+        $('<a href="javascript:;" class="more-actor" title="更多主演">更多...</a>').on('click', function(){
+            $actor_attr.find('span').show();
+            $(this).hide();
+        }).appendTo($actor_attr);
+
+        $actor_attr.find('span').eq(4).nextAll('span').hide();
+    }
+})
+</script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/vendors/0035bb2f83e2cba49ecf634fed57f9ff1bbd0d09/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/movie/9dbc931479d6c183e970ea3594672460b6c96b3c/dist/movie/mod/login_pop.css" />
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB = "https://www.douban.com"
+    </script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/movie/3897d4734502adbdaa37cdf7f5c67a8e543ceefe/dist/movie/mod/login_pop.js"></script>
+
+    
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/dist/movie/libs/handlebars.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/8d311a1defb6b721d73cfb891924c13c06af631b/js/ui/fix_aside.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/55caa4decc5b4d78a5afa5d12f0b4bdfa7dcb6bb/js/lib/jquery.ba-hashchange.min.js"></script>
+    <script src="https://img1.doubanio.com/f/movie/a58210ac28f14c3878942b24ec2212af19e6a0ab/dist/movie/subject/comment_vote.js"></script>
+    
+    <script>
+        $(function(){
+            $().fixSide(300, 52);
+
+            var UA = navigator.userAgent.toLowerCase();
+            isSafari = /safari/.test(UA)
+            $("#season").on('change', function(){
+                var subjectId = $(this).val();
+                if (subjectId.length){
+                    window.location = "/subject/" + subjectId + "/";
+                    // fix null state bug in Safari
+                    if (isSafari) {
+                        window.history.pushState &&
+                          window.history.pushState(null, document.title, window.location.href)
+                    }
+                }
+            });
+            $("#season").val("1304447")
+
+            $(window).hashchange();
+            if(window.location.href.indexOf('suggest')>0 && window.location.href.indexOf("?")>0){
+                if(window.history.pushState){
+                    window.history.pushState(null, document.title, window.location.href.substring(0,window.location.href.indexOf("?")));
+                }
+            }
+
+            $('.indent .a_show_full').click(function(){
+                $.get('/blank?expand');
+            });
+
+            $('body').on('click', 'a.write_review', function(e) {
+                e.preventDefault();
+                if(window._USER_ABNORMAL) {
+                    show_abnormal && show_abnormal()
+                }else {
+                    location.href = $(this).attr('href')
+                }
+            })
+        });
+    </script>
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'EcTDEB7dfbY',
+            criteria = '7:失忆|7:克里斯托弗·诺兰|7:烧脑|7:犯罪|7:惊悚|7:拉里·霍尔登|7:乔雅·福克斯|7:剧情|7:盖·皮尔斯|7:斯蒂芬·托布罗斯基|7:玛丽安妮·穆勒雷尔|7:经典|7:记忆|7:托马斯·列农|7:心理|7:乔·潘托里亚诺|7:拉什·费加|7:美国|7:悬疑|7:凯瑞-安·莫斯|7:哈里特·桑塞姆·哈里斯|7:金伯利·坎贝尔|7:考乐姆·吉斯·雷尼|7:小马克·布恩|3:/subject/1304447/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_right', 'dale_movie_subject_inner_middle', 'dale_movie_subject_banner_after_intro', 'dale_subject_right_guess_you_like', 'dale_movie_subject_hovering_video'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/aHF4dWV0OC9mL2FkanMvYzQyYzU5YWEwNWM4YTkyOTE3Y2UzM2RkZGEwZDk0OWYwZGM0YjVjNC9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+
+    <!-- dae-web-movie--default-6c468db859-vt8gq-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

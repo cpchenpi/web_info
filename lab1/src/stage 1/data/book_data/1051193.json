@@ -1,0 +1,79 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 74621,
+        "average": "8.7",
+        "min": 0
+    },
+    "subtitle": "欧·亨利短篇小说经典",
+    "author": [
+        "[美] 欧·亨利"
+    ],
+    "pubdate": "2003-7",
+    "tags": [
+        {
+            "count": 10028,
+            "name": "欧·亨利",
+            "title": "欧·亨利"
+        },
+        {
+            "count": 5380,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 5293,
+            "name": "麦琪的礼物",
+            "title": "麦琪的礼物"
+        },
+        {
+            "count": 3735,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 3691,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 2916,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 2594,
+            "name": "爱情",
+            "title": "爱情"
+        },
+        {
+            "count": 2372,
+            "name": "短篇小说",
+            "title": "短篇小说"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1137441.jpg",
+    "binding": "平装",
+    "translator": [
+        "张经浩"
+    ],
+    "catalog": "译序\n1 警察与圣歌\n2 带家具的房间\n3 托宾的掌纹\n4 麦琪的礼物\n5 二十年后\n6 最后一片叶\n7 财神与爱神\n8 失算\n9 五月是个结婚月\n10 艾基・舍思斯坦的春药\n......",
+    "pages": "354",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1137441.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1137441.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1137441.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1051193/",
+    "id": "1051193",
+    "publisher": "上海社会科学院出版社",
+    "isbn10": "7806812296",
+    "isbn13": "9787806812297",
+    "title": "麦琪的礼物",
+    "url": "https://api.douban.com/v2/book/1051193",
+    "alt_title": "",
+    "author_intro": "",
+    "summary": "选收欧·亨利的小说34篇，国外当代文学类重要工具书介绍的有代表性的作品均已收入。欧·亨利是位有独特风格的杰出短篇小说家，以巧妙的构思、夸张和幽默的文笔反映了他那个时代的人和事。",
+    "price": "25.00元"
+}

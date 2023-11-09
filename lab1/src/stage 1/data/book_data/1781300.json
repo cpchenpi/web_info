@@ -1,0 +1,77 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4242,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "猪乐桃 编绘"
+    ],
+    "pubdate": "2006-4",
+    "tags": [
+        {
+            "count": 1116,
+            "name": "猪乐桃",
+            "title": "猪乐桃"
+        },
+        {
+            "count": 793,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 594,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 456,
+            "name": "玛塔",
+            "title": "玛塔"
+        },
+        {
+            "count": 238,
+            "name": "MATA",
+            "title": "MATA"
+        },
+        {
+            "count": 160,
+            "name": "国内漫画",
+            "title": "国内漫画"
+        },
+        {
+            "count": 151,
+            "name": "清爽",
+            "title": "清爽"
+        },
+        {
+            "count": 124,
+            "name": "温馨",
+            "title": "温馨"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2984870.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "",
+    "pages": "288",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2984870.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2984870.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2984870.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1781300/",
+    "id": "1781300",
+    "publisher": "黑龙江美术出版社",
+    "isbn10": "7531815753",
+    "isbn13": "9787531815754",
+    "title": "玛塔",
+    "url": "https://api.douban.com/v2/book/1781300",
+    "alt_title": "",
+    "author_intro": "猪乐桃，原名齐潇，生日9月10日，血型B。\n喜欢的漫画家：高桥留美子、安达充、手冢治虫、埃尔热；主要作品：长篇彩色连载《玛塔与黄金国》；专题栏目《MATA测试馆》；专题栏目《猪仔仔的生活日记》。短篇彩色漫画《尤米飞行日记》获首届OACC金龙奖最佳效果奖，中篇黑白漫画《玛塔之灯塔岛历险》获第2届OACC金龙奖故事漫画金奖。",
+    "summary": "《玛塔》的世界奇幻而不乏轻松的生活气息与童趣，类似多啦A梦式的成长或者宫崎骏的红猪世界——美丽的蓝天大海，可爱的小猪，超CUTE的设定，优美的画面，明快的色彩,生动诙谐的情节……\n系列作品分为散文性的超短篇和故事性中长篇两种概念的故事，散文性的故事以简单轻松为主，中长篇则会有严谨的故事构架和引人入胜的冒险情节。在作品中，玛塔是一个念小学五年级的活泼可爱的小女生，带着自己的宠物兼好友小猪嘟吧，随父母从大城市移居到充满地中海风情的美丽雷诺岛上。在岛上她结识了邮递员安佐，同学阿达，飞行员尤米，以及一干看似奇奇怪怪，但又热情无比的岛民。别以为小小的岛上就一定是风平浪静，玛塔和诸多妙趣横生的人物一起，为我们带来一段又一段离奇而美丽的岛屿风情画。",
+    "price": "35.00元"
+}

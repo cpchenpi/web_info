@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 4307,
+        "average": "8.0",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 高木直子 图文"
+    ],
+    "pubdate": "2007-3",
+    "tags": [
+        {
+            "count": 1498,
+            "name": "高木直子",
+            "title": "高木直子"
+        },
+        {
+            "count": 1161,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 507,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 384,
+            "name": "150cm",
+            "title": "150cm"
+        },
+        {
+            "count": 251,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 202,
+            "name": "Life",
+            "title": "Life"
+        },
+        {
+            "count": 129,
+            "name": "3",
+            "title": "3"
+        },
+        {
+            "count": 122,
+            "name": "繪本",
+            "title": "繪本"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s2599525.jpg",
+    "binding": "平装",
+    "translator": [
+        "常纯敏"
+    ],
+    "catalog": "前言Chapter．1 150cm in交通工具Chapter．2 150cm in站立演唱会前篇Chapter．3 150cm in站立演唱会后篇Chapter．4 150cm看牙医Chapter．5失败0f 150cm T恤篇Chapter．6失败0f 150cm围裙篇·很认真地帮大伙儿问了哟!·向美容师打听“发型秘诀”·向美容师打听“化妆秘诀”·修改衣服的专家有多厉害呢??·DIY修改衣服特集!·向和服店打听”可爱和服挑选秘诀”Chapter．7 150cm in游泳池Chapter．8 150cm恐怖兜风记Chapter．9 150cm倒车入库Chapter．i0 150cm in炎炎夏日Chapter．11 150cm with 175cm第一天Chapter．12 150cm with 175cm第二天后  记",
+    "ebook_url": "https://read.douban.com/ebook/39935358/",
+    "pages": "144",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s2599525.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s2599525.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s2599525.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2003526/",
+    "id": "2003526",
+    "publisher": "陕西师范大学出版社",
+    "isbn10": "7561333110",
+    "isbn13": "9787561333112",
+    "title": "150cm Life 3",
+    "url": "https://api.douban.com/v2/book/2003526",
+    "alt_title": "",
+    "author_intro": "高木直子，1974年出生于日本三重县，插画家，主要作品《150cm life》、《150cm life2》、《150cm life3》、《一个人住第五年》、《一个人上东京》、《一个人的第一次》。\n首次推出的剧情绘本《30分妈妈》正于COMIC ESSAY剧场网站连载中。最近开始伺养表鳉鱼。",
+    "summary": "依然只有150cm，进入游泳池只敢停在130 公分处；依然只有150cm，开车椅背一定要保持90 度直角；依然只有150cm，看牙总被医师说：再坐上来一点，再坐上来一点……\n依然只有150cm。我的身高依旧，没有变高也没有变矮，天天过着150cm的生活，虽然早就习惯了自己的身高，但还是经常发生令人惊讶，爆笑，或者沮丧的事件。\n每次遇到身高相同的人就会：“我们差不多高耶——呵呵呵。”用这种方式来代替打招呼，就差那么一点点却摸不到，只好苦笑着去找专用的踏脚垫。偶然发现全身的衣服而欣喜若狂……等等。这次也画出了许多150cm生活里的琐碎小事。另外，也特别去访问和服店，请教美容师小姐，打听到许多有用的情报，希望能造福各位读者朋友呦！",
+    "ebook_price": "10.80",
+    "series": {
+        "id": "10992",
+        "title": "高木直子绘本系列"
+    },
+    "price": "20.00元/本"
+}

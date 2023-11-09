@@ -1,0 +1,85 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 50007,
+        "average": "7.8",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[美] 杰克·凯鲁亚克"
+    ],
+    "pubdate": "2006-10",
+    "tags": [
+        {
+            "count": 13385,
+            "name": "在路上",
+            "title": "在路上"
+        },
+        {
+            "count": 12395,
+            "name": "垮掉的一代",
+            "title": "垮掉的一代"
+        },
+        {
+            "count": 9955,
+            "name": "凯鲁亚克",
+            "title": "凯鲁亚克"
+        },
+        {
+            "count": 6892,
+            "name": "美国",
+            "title": "美国"
+        },
+        {
+            "count": 5912,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 4993,
+            "name": "旅行",
+            "title": "旅行"
+        },
+        {
+            "count": 4875,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2619,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "On the Road",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s2577057.jpg",
+    "binding": "平装",
+    "translator": [
+        "王永年"
+    ],
+    "catalog": "",
+    "ebook_url": "https://read.douban.com/ebook/8109606/",
+    "pages": "394",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s2577057.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s2577057.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s2577057.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1917972/",
+    "id": "1917972",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532740269",
+    "isbn13": "9787532740260",
+    "title": "在路上",
+    "url": "https://api.douban.com/v2/book/1917972",
+    "alt_title": "On the Road",
+    "author_intro": "杰克·凯鲁亚克（Jack Kerouac, 1922-1969），1922年3月12日，凯鲁亚克出生于马萨诸塞州洛厄尔，父母为法裔美国人，他是家中幼子。他曾在当地天主教和公立学校就读，以橄榄球奖学金入纽约哥伦比亚大学，结识爱伦·金斯堡、威廉·巴勒斯和尼尔·卡萨迪等“垮掉的一代”。\n凯鲁亚克大学二年级退学从事文学创作，并辗转于美国海军和商用航运公司等处。1950年，第一部小说《乡镇和城市》出版。1957年的《在路上》问世后，他成为“垮掉的一代”的代言人，跻身二十世纪最有争议的著名作家行列。他还著有《达摩流浪者》、《地下人》、《孤独的旅人》和《孤独天使》等作品。\n1969年10月21日，凯鲁亚克在佛罗里达圣彼得堡去世，享年47岁。",
+    "summary": "青年学生萨尔为追求个性自由，与狄安（以卡萨迪为原型）、玛丽露等一伙男女开车横穿全美，一路狂喝滥饮，耽迷酒色，流浪吸毒，性放纵，在经过精疲力竭的漫长放荡后，开始笃信东方禅宗，感悟到生命的意义。小说主人公及其伙伴沿途搭车或开车，几次横越美国大陆，最终到了墨西哥。\n《在路上》体现了作者主张的即兴式自发性写作技巧，并广泛涉及美国社会一文化习俗，都给理解和翻译带来很大困难。",
+    "ebook_price": "14.99",
+    "series": {
+        "id": "9111",
+        "title": "杰克·凯鲁亚克作品"
+    },
+    "price": "28.00元"
+}

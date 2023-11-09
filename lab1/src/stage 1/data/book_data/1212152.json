@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 5262,
+        "average": "7.9",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[日] 村上春树"
+    ],
+    "pubdate": "2002-12",
+    "tags": [
+        {
+            "count": 1758,
+            "name": "村上春树",
+            "title": "村上春树"
+        },
+        {
+            "count": 530,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 493,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 435,
+            "name": "日本文学",
+            "title": "日本文学"
+        },
+        {
+            "count": 294,
+            "name": "萤",
+            "title": "萤"
+        },
+        {
+            "count": 183,
+            "name": "村上春樹",
+            "title": "村上春樹"
+        },
+        {
+            "count": 143,
+            "name": "文学",
+            "title": "文学"
+        },
+        {
+            "count": 135,
+            "name": "短篇",
+            "title": "短篇"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1152902.jpg",
+    "binding": "平装",
+    "translator": [
+        "林少华"
+    ],
+    "catalog": "1 萤\n2 烧仓房\n3 跳舞的小人\n4 盲柳与睡女\n5 三个德国幻想\n6 后记",
+    "pages": "138",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1152902.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1152902.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1152902.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1212152/",
+    "id": "1212152",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532729966",
+    "isbn13": "9787532729968",
+    "title": "萤",
+    "url": "https://api.douban.com/v2/book/1212152",
+    "alt_title": "",
+    "author_intro": "村上春树（1949- ），日本小说家。曾在早稻田大学文学部戏剧科就读。1979年，他的第一部小说《听风之歌》问世后，即被搬上了银幕。随后，他的优秀作品《1973年的弹子球》、《寻羊冒险记》、《挪威的森林》等相继发表。他的创作不受传统拘束，构思新奇，行文潇洒自在，而又不流于庸俗浅薄。尤其是在刻画人的孤独无奈方面更有特色，他没有把这种情绪写成负的东西，而是通过内心的心智性操作使之升华为一种优雅的格调，一种乐在其中的境界，以此来为读者，尤其是生活在城市里的人们提供了一种生活模式或生命的体验。",
+    "summary": "《萤》是村上春树1987年发表的短篇小说集，共五篇。其中1983年发表的《萤》是《挪威的森林》的前奏曲，四年后村上春树以此为基础写出了《挪》。另外四篇，《跳舞的小人》是有趣的求爱故事，《烧仓房》、《盲柳与睡女》描写人生的和无奈，表现了村上春树深沉的另一面，《三个德国幻想》描写了东西德统一前的柏林。",
+    "series": {
+        "id": "120",
+        "title": "村上春树文集（2001版）"
+    },
+    "price": "12.00元"
+}

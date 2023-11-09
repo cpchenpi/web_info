@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 33554,
+        "average": "9.3",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 乔治·奥威尔"
+    ],
+    "pubdate": "2006-8",
+    "tags": [
+        {
+            "count": 8745,
+            "name": "乔治·奥威尔",
+            "title": "乔治·奥威尔"
+        },
+        {
+            "count": 5856,
+            "name": "反乌托邦",
+            "title": "反乌托邦"
+        },
+        {
+            "count": 4534,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 3892,
+            "name": "极权主义",
+            "title": "极权主义"
+        },
+        {
+            "count": 3689,
+            "name": "一九八四",
+            "title": "一九八四"
+        },
+        {
+            "count": 3172,
+            "name": "政治",
+            "title": "政治"
+        },
+        {
+            "count": 2694,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 2598,
+            "name": "英国",
+            "title": "英国"
+        }
+    ],
+    "origin_title": "Nineteen Eighty-Four",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s1790263.jpg",
+    "binding": "平装",
+    "translator": [
+        "董乐山"
+    ],
+    "catalog": "",
+    "pages": "283",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s1790263.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s1790263.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s1790263.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1858576/",
+    "id": "1858576",
+    "publisher": "上海译文出版社",
+    "isbn10": "753273997X",
+    "isbn13": "9787532739974",
+    "title": "一九八四",
+    "url": "https://api.douban.com/v2/book/1858576",
+    "alt_title": "Nineteen Eighty-Four",
+    "author_intro": "乔治·奥威尔（George Orwell, 1903-1950），英国作家。本名埃里克·亚瑟·布莱尔（Eric Arthur Blair），生于印度，父亲为殖民地官员。14岁考入伊顿公学，获取奖学金。1921从伊顿公学毕业后考取公职，到缅甸作了一名帝国警察，在那里，被奴役的殖民地人民的悲惨生活刺激了奥威尔的良知。他1927年辞职，后来写下与此段经历有关的《绞刑》（A Hanging, 1931），《缅甸岁月》（Burmese Days, 1934）和《猎象记》（Shooting an Elephant, 1936）这些纪实性作品。\n1928年1月回国后，奥威尔深入到社会底层，四处漂泊流落。在巴黎、伦敦两地，当过洗盘子的杂工，住过贫民窟，常常混迹在流浪汉和乞丐之中。次年，写下了关于这段经历的纪实性作品《巴黎伦敦落魄记》（Down and Out in Paris and London, 1933），真切地描述了生活在社会底层的人民的苦难。正是在为这部作品署名时，他用了“乔治·奥威尔”这一笔名。\n1936年7月，西班牙内战爆发。同年年底，奥威尔与新婚妻子一同奔赴西班牙，投身于保卫共和政府的战斗。奥威尔在前线担任少尉，喉部曾受重伤。他为记述西班牙内战而写的《向卡特洛尼亚致敬》（Homage to Catalonia, 1938）一书，后来成为关于这场内战的一部权威性文献。\n西班牙左翼共和政府的内部分裂，致使战争失利，而奥威尔差一点丧身在共和政府内部党派之争的倾轧中。这个惨痛的经验对他影响巨大。他曾说自己“从1930年起就是一个社会主义者了”，而这时候，他又开始考虑“捍卫民主社会主义”的问题了。这个思想出发点，一直影响到他后期的影响最广的两部名作——《动物农场》和《1984》的创作。\n1950年1月，奥威尔病逝，终年46岁。",
+    "summary": "《一九八四》是奥威尔的传世之作，堪称世界文坛上最著名的反乌托邦、反极权的政治讽喻小说。他在小说中他创造的“老大哥”、“双重思想”、“新话”等词汇都已收入权威的英语词典，甚至由他的姓衍生出“奥威尔式”（Orwellian）、“奥威尔主义”（Orwellism）这样的通用词汇，不断出现在报道国际新闻的记者笔下，足见其作品在英语国家影响之深远。",
+    "series": {
+        "id": "1018",
+        "title": "译文名著文库"
+    },
+    "price": "13.00元"
+}

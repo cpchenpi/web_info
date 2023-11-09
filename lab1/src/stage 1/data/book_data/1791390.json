@@ -1,0 +1,78 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 7555,
+        "average": "9.2",
+        "min": 0
+    },
+    "subtitle": "ハンター×ハンター",
+    "author": [
+        "富坚义博",
+        "Yoshihiro Togashi"
+    ],
+    "pubdate": "1999",
+    "tags": [
+        {
+            "count": 1099,
+            "name": "富坚义博",
+            "title": "富坚义博"
+        },
+        {
+            "count": 973,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 487,
+            "name": "全职猎人",
+            "title": "全职猎人"
+        },
+        {
+            "count": 387,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 311,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 254,
+            "name": "少年漫画",
+            "title": "少年漫画"
+        },
+        {
+            "count": 237,
+            "name": "hunter",
+            "title": "hunter"
+        },
+        {
+            "count": 189,
+            "name": "猎人",
+            "title": "猎人"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s26041185.jpg",
+    "binding": "",
+    "translator": [],
+    "catalog": "",
+    "pages": "309",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s26041185.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s26041185.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s26041185.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1791390/",
+    "id": "1791390",
+    "publisher": "远方出版社",
+    "isbn10": "7805957126",
+    "isbn13": "9787805957128",
+    "title": "Hunter X Hunter",
+    "url": "https://api.douban.com/v2/book/1791390",
+    "alt_title": "Hunter X Hunter",
+    "author_intro": "",
+    "summary": "故事讲述一个自幼丧母的少年小冈，为了要寻找失散多年的父亲，及成为一个和父亲一样出色的“猎人”，踏上了崎岖而漫长的旅程，接受重重测试，途中遇上各色各样的同伴和敌人，各自为了不同的目的而展开一场又一场的战斗……\n在《全职猎人HUNTER》的世界里猎人是个很受人尊敬的职业，亦引得无数人来参加猎人的测试，小冈在众考生中脱颍而出通过了猎人种种艰难的测试，终于如愿以偿成为一名猎人，但这样就结束了吗？不，真正的试炼才刚刚开始，想知道以后吗？让我们和GON一起来到猎人的世界吧！",
+    "price": "15.00"
+}

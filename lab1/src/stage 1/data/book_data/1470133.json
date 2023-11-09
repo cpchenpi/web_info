@@ -1,0 +1,83 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 3335,
+        "average": "8.5",
+        "min": 0
+    },
+    "subtitle": "日本小學館正式授權台灣中文版",
+    "author": [
+        "高橋留美子"
+    ],
+    "pubdate": "1994-12-1",
+    "tags": [
+        {
+            "count": 623,
+            "name": "高桥留美子",
+            "title": "高桥留美子"
+        },
+        {
+            "count": 557,
+            "name": "漫画",
+            "title": "漫画"
+        },
+        {
+            "count": 247,
+            "name": "日本漫画",
+            "title": "日本漫画"
+        },
+        {
+            "count": 242,
+            "name": "福星小子",
+            "title": "福星小子"
+        },
+        {
+            "count": 183,
+            "name": "搞笑",
+            "title": "搞笑"
+        },
+        {
+            "count": 177,
+            "name": "日本",
+            "title": "日本"
+        },
+        {
+            "count": 129,
+            "name": "经典",
+            "title": "经典"
+        },
+        {
+            "count": 71,
+            "name": "高橋留美子",
+            "title": "高橋留美子"
+        }
+    ],
+    "origin_title": "うる星やつら",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s3439132.jpg",
+    "binding": "平装",
+    "translator": [
+        "拉姆同好組織"
+    ],
+    "catalog": "",
+    "pages": "",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s3439132.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s3439132.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s3439132.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1470133/",
+    "id": "1470133",
+    "publisher": "尖端",
+    "isbn10": "9577124941",
+    "isbn13": "9789577124944",
+    "title": "福星小子 1",
+    "url": "https://api.douban.com/v2/book/1470133",
+    "alt_title": "うる星やつら",
+    "author_intro": "",
+    "summary": "共25册。\n《福星小子》作为高桥留美子的成名作，能吸引无数的漫画迷，已足以说明它的成功之处，不管是关于爱情的描写，还是后来的大团圆结局，其中的细微平凡得就如同我们真正的生活一般，宁静祥和而偶有波澜。",
+    "series": {
+        "id": "1552",
+        "title": "福星小子"
+    },
+    "price": "NT$120"
+}

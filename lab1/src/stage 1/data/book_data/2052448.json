@@ -1,0 +1,81 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 47200,
+        "average": "8.9",
+        "min": 0
+    },
+    "subtitle": "妖孽宫廷",
+    "author": [
+        "当年明月"
+    ],
+    "pubdate": "2007-4",
+    "tags": [
+        {
+            "count": 8502,
+            "name": "历史",
+            "title": "历史"
+        },
+        {
+            "count": 5184,
+            "name": "明朝那些事儿",
+            "title": "明朝那些事儿"
+        },
+        {
+            "count": 3722,
+            "name": "当年明月",
+            "title": "当年明月"
+        },
+        {
+            "count": 2664,
+            "name": "明朝",
+            "title": "明朝"
+        },
+        {
+            "count": 2332,
+            "name": "明史",
+            "title": "明史"
+        },
+        {
+            "count": 1920,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1879,
+            "name": "中国历史",
+            "title": "中国历史"
+        },
+        {
+            "count": 1508,
+            "name": "中国",
+            "title": "中国"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img2.doubanio.com/view/subject/m/public/s2544553.jpg",
+    "binding": "平装",
+    "translator": [],
+    "catalog": "第一章　有冤报冤，有仇报仇\n第二章　隐藏的敌人\n第三章　公道\n第四章　不伦之恋\n第五章　武林大会\n第六章　明君\n第七章　斗争，还是陷忍？\n第八章　传奇就此开始\n第九章　悟道\n第十章　机会终于到来\n第十一章　必杀刘瑾\n第十二章　皇帝的幸福生活\n第十三章　无人知晓的胜利\n第十四章　东山再起\n第十五章　孤军\n第十六章　奋战\n第十七章　死亡的阴谋\n第十八章　沉默的较量\n第十九章　终结的归宿\n第二十章　新的开始",
+    "pages": "273",
+    "images": {
+        "small": "https://img2.doubanio.com/view/subject/s/public/s2544553.jpg",
+        "large": "https://img2.doubanio.com/view/subject/l/public/s2544553.jpg",
+        "medium": "https://img2.doubanio.com/view/subject/m/public/s2544553.jpg"
+    },
+    "alt": "https://book.douban.com/subject/2052448/",
+    "id": "2052448",
+    "publisher": "中国友谊出版公司",
+    "isbn10": "750572326X",
+    "isbn13": "9787505723269",
+    "title": "明朝那些事儿（叁）",
+    "url": "https://api.douban.com/v2/book/2052448",
+    "alt_title": "",
+    "author_intro": "当年明月，青年历史学者，畅销书作家。专业职称为副研究员，明史学会会员。是心灵历史的开创者，担任国内多家电视台文史类节目主讲人。所著作品《明朝那些事儿》销量过五百万册，为三十年来最畅销之史学读本。",
+    "summary": "从明英宗朱祁镇成功复辟的“夺门之变”后写起，叙述了忠奸不分的朱祁镇听信谗言，杀害曾救其于危难之际的大功臣于谦，而这也成为他继“土木堡之变”后在历史上留下的又一大污点，而在他病逝后，相继继位的两位皇帝宪宗和孝宗，一个懦弱不堪无所作为，一个心有余而力不足，撂下的这副重担落在了明代三百年中最能闹的一个皇帝——朱厚照身上，宠八虎，建豹房，自封威武大将军，朝廷中充斥着一幕幕荒唐的闹剧，局势更是动荡不安，这时便引起了一位亘古罕有的文武奇才——王守仁，他清剿盗寇，平定叛王，勇斗奸宦，给后人留下了许多近乎神话的不朽传奇。",
+    "series": {
+        "id": "613",
+        "title": "明朝那些事儿"
+    },
+    "price": "24.80"
+}

@@ -1,0 +1,80 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 15555,
+        "average": "9.4",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[英] 山姆·麦克布雷尼 文",
+        "安妮塔·婕朗 图"
+    ],
+    "pubdate": "2005-4",
+    "tags": [
+        {
+            "count": 4976,
+            "name": "绘本",
+            "title": "绘本"
+        },
+        {
+            "count": 2310,
+            "name": "猜猜我有多爱你",
+            "title": "猜猜我有多爱你"
+        },
+        {
+            "count": 1613,
+            "name": "温暖",
+            "title": "温暖"
+        },
+        {
+            "count": 1450,
+            "name": "童话",
+            "title": "童话"
+        },
+        {
+            "count": 1378,
+            "name": "儿童文学",
+            "title": "儿童文学"
+        },
+        {
+            "count": 809,
+            "name": "儿童",
+            "title": "儿童"
+        },
+        {
+            "count": 740,
+            "name": "童书",
+            "title": "童书"
+        },
+        {
+            "count": 613,
+            "name": "童心",
+            "title": "童心"
+        }
+    ],
+    "origin_title": "Guess How Much I Love You",
+    "image": "https://img1.doubanio.com/view/subject/m/public/s24549957.jpg",
+    "binding": "精装",
+    "translator": [
+        "梅子涵"
+    ],
+    "catalog": "\n      ",
+    "pages": "28",
+    "images": {
+        "small": "https://img1.doubanio.com/view/subject/s/public/s24549957.jpg",
+        "large": "https://img1.doubanio.com/view/subject/l/public/s24549957.jpg",
+        "medium": "https://img1.doubanio.com/view/subject/m/public/s24549957.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1433640/",
+    "id": "1433640",
+    "publisher": "少年儿童出版社",
+    "isbn10": "7532463451",
+    "isbn13": "9787532463459",
+    "title": "猜猜我有多爱你",
+    "url": "https://api.douban.com/v2/book/1433640",
+    "alt_title": "Guess How Much I Love You",
+    "author_intro": "山姆·麦克布雷尼（Sam McBratney），1945年出生于爱尔兰的贝尔法斯特。他在爱尔兰的著名学府都柏林主日学院求学多年，原本只是位教师，却在为患有阅读障碍的学生创作故事的同时，喜爱上了故事里丰富的想象力，进而陆续创作了数十本童书，包括JUST ONE!、《你们都是我的最爱》以及全球销售超过一千五百万本的《猜猜我有多爱你》。\n安妮塔·婕朗（Anita Jeram），出生于英国朴次茅斯。在曼彻斯特工艺专科学校学习过美术，当她还是一个学生的时候，就为孩子们出版了第一本书。主要作品有《亲亲晚安》（Kiss Good Night）、《塞姆，你觉得不舒服吗？》（Don’t You Feel Well，Sam?）、《小兔，我的甜心》（Bunny，My Honey）。",
+    "summary": "孩子总喜欢和别人比较，在《猜猜我有多爱你》这本图画书中的小兔子就是个典型的例子。小兔子认真的告诉大兔子“我好爱你”，而大兔子回应小兔子说：“我更爱你！”如此一来，不仅确定大兔子很爱自己，更希望自己的爱能胜过大兔子的爱。牠想尽办法用各种身体动作、看得见的景物来描述自己的爱意，直到牠累得在大兔子的怀中睡着了。\n这本图画书里有一只像孩子的小兔子和一只像爸爸的大兔子。小兔子像所有的孩子一样爱比较。它们俩在比赛谁的爱更多一些。大兔子用智慧赢得了比赛和小兔子稍微少一点的爱，可小兔子用它的天真和想象赢得了大兔子多出一倍的爱。两只兔子都获胜了。整个作品充溢着爱的气氛和快乐的童趣，小兔子亲切可爱的形象、两只兔子相互较劲的故事构架以及形象、新奇的细节设置都对孩子有着极大的吸引力。",
+    "price": "29.80元"
+}

@@ -1,0 +1,84 @@
+{
+    "rating": {
+        "max": 10,
+        "numRaters": 13995,
+        "average": "8.6",
+        "min": 0
+    },
+    "subtitle": "",
+    "author": [
+        "[捷克] 米兰·昆德拉"
+    ],
+    "pubdate": "2003-06",
+    "tags": [
+        {
+            "count": 4588,
+            "name": "米兰·昆德拉",
+            "title": "米兰·昆德拉"
+        },
+        {
+            "count": 1950,
+            "name": "小说",
+            "title": "小说"
+        },
+        {
+            "count": 1940,
+            "name": "米兰・昆德拉",
+            "title": "米兰・昆德拉"
+        },
+        {
+            "count": 1612,
+            "name": "外国文学",
+            "title": "外国文学"
+        },
+        {
+            "count": 1422,
+            "name": "不朽",
+            "title": "不朽"
+        },
+        {
+            "count": 1211,
+            "name": "捷克",
+            "title": "捷克"
+        },
+        {
+            "count": 1033,
+            "name": "哲学",
+            "title": "哲学"
+        },
+        {
+            "count": 868,
+            "name": "文学",
+            "title": "文学"
+        }
+    ],
+    "origin_title": "",
+    "image": "https://img9.doubanio.com/view/subject/m/public/s1255594.jpg",
+    "binding": "平装",
+    "translator": [
+        "王振孙",
+        "郑克鲁"
+    ],
+    "catalog": "第一部 脸\n第二部 不朽\n第三部 斗争\n第四部 感情的人\n第五部 偶然\n第六部 钟面\n第七部 庆祝\n阿涅丝的必死",
+    "pages": "412",
+    "images": {
+        "small": "https://img9.doubanio.com/view/subject/s/public/s1255594.jpg",
+        "large": "https://img9.doubanio.com/view/subject/l/public/s1255594.jpg",
+        "medium": "https://img9.doubanio.com/view/subject/m/public/s1255594.jpg"
+    },
+    "alt": "https://book.douban.com/subject/1060117/",
+    "id": "1060117",
+    "publisher": "上海译文出版社",
+    "isbn10": "7532730506",
+    "isbn13": "9787532730506",
+    "title": "不朽",
+    "url": "https://api.douban.com/v2/book/1060117",
+    "alt_title": "L'immortalité",
+    "author_intro": "米兰・昆德拉，小说家，出生于捷克斯洛伐克尔布诺，自1975年起，在法国定居。长篇小说《玩笑》、《生活在别处》、《告别圆舞曲》、《笑忘录》、《不能承受的生命之轻》和《不朽》，以及短篇小说集《好笑的爱》，原作以捷克文写成。最新出版的长篇小说《慢》、《身份》和《无知》，还有随笔集《小说的艺术》和《被背叛的遗嘱》，原作以法文写成。《雅克和他的主人》，系作者戏剧代表作。",
+    "summary": "歌德谈到不朽当然和灵魂的不朽毫无关系。这是另外一种世俗的不朽，是指死后有留在人记忆中的那些人的不朽。任何人都能得到这种伟大程度不等，、时间长短不一的不朽，每个人从青少年时代起就可以有这个向往。我在童年时代每星期日都到一个摩拉维亚村子去闲逛；据说这个村的村长在他家的客厅里放着一只没有盖盖子的棺材，在他对自己感到特别满意的适当时刻，他便躺进这口棺材，想象着自己的葬礼。他一生中最美好的时刻莫过于躺在棺材里梦想；就这样，他居住在他的不朽中。",
+    "series": {
+        "id": "1218",
+        "title": "米兰·昆德拉作品系列（2003版）"
+    },
+    "price": "24.00元"
+}
