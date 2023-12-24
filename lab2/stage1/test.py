@@ -2,15 +2,15 @@
 Author: Ashton
 Date: 2023-12-13 20:06:07
 LastEditors: Ashton
-LastEditTime: 2023-12-22 16:01:19
+LastEditTime: 2023-12-24 10:54:44
 Description: 
 '''
 import gzip
 
 
 class triplet_filter:
-    def __init__(self, triplets, basic_entities, entity_min, entity_max = 20000, releation_min = 50):
-        self.triplets = triplets
+    def __init__(self, triplet_data, basic_entities, entity_min, entity_max = 20000, releation_min = 50):
+        self.triplets = self.process(triplet_data)
         self.triplets = self.filter1()
         self.basic_entities = basic_entities
         self.entity_min = entity_min
@@ -21,6 +21,14 @@ class triplet_filter:
         self.extend_entities = self.get_extend_entities()
         self.triplets = self.filler3()
 
+    def process(self, triplet_data):
+        triplets = []
+        for line in triplet_data:
+            line = line.strip()
+            triplet = line.split('\t')
+            triplets.append(triplet)
+        return triplets
+
     def count(self):
         entity_count = {}
         relation_count = {}
@@ -30,9 +38,9 @@ class triplet_filter:
             else:
                 entity_count[triplet[0]] += 1
             if triplet[1] not in relation_count:
-                relation_count[triplet[2]] = 1
+                relation_count[triplet[1]] = 1
             else:
-                relation_count[triplet[2]] += 1
+                relation_count[triplet[1]] += 1
             if triplet[2] not in entity_count:
                 entity_count[triplet[2]] = 1
             else:
@@ -65,8 +73,9 @@ class triplet_filter:
     def filler3(self):
         triplets = []
         for triplet in self.triplets:
-            if (triplet[0] in self.basic_entities or triplet[0] in self.extend_entities) and (triplet[2] in self.movie_entities or triplet[2] in self.extend_entities):
+            if (triplet[0] in self.basic_entities or triplet[0] in self.extend_entities) and (triplet[2] in self.basic_entities or triplet[2] in self.extend_entities):
                 triplets.append(triplet)
+        return triplets
 
 if __name__ == '__main__':
     movie2fb = {}
@@ -80,30 +89,45 @@ if __name__ == '__main__':
             movie_entities.append(movie_entity)
             
     triplets = []
+    '''
     with gzip.open('lab2/stage1/data/freebase_douban.gz', 'rb') as file:
-        for line in file:
-            line = line.strip()
-            triplet = line.decode().split('\t')
-            if triplet[0] in movie_entities or triplet[2] in movie_entities:
-                triplets.append(triplet)
-    filter1 = triplet_filter(triplets, movie_entities, 20)
+        with open('lab2/stage1/data/extract_movie_raw.txt', 'a') as f:
+            for line in file:
+                line = line.strip()
+                triplet = line.decode().split('\t')
+                if triplet[0] in movie_entities or triplet[2] in movie_entities:
+                    f.write('\t'.join(triplet[0:3]) + '\n')
+    '''
+
+    with open('lab2/stage1/data/extract_movie_raw.txt', 'r') as file:
+        filter1 = triplet_filter(file.readlines(), movie_entities, 20)
+        with open('lab2/stage1/data/extract_movie.txt', 'a') as f:
+            for triplet in filter1.triplets:
+                f.write('\t'.join(triplet) + '\n')
 
     extend_entities = filter1.extend_entities
     triplets = []
+    '''
     with gzip.open('lab2/stage1/data/freebase_douban.gz', 'rb') as file:
-        for line in file:
-            line = line.strip()
-            triplet = line.decode().split('\t')
-            if triplet[0] in movie_entities or triplet[2] in movie_entities:
-                continue
-            if triplet[0] in extend_entities or triplet[2] in extend_entities:
-                triplets.append(triplet)
-    filter2 = triplet_filter(triplets, extend_entities, 15)
+        with open('lab2/stage1/data/extract_extend_raw.txt', 'a') as f:
+            for line in file:
+                line = line.strip()
+                triplet = line.decode().split('\t')
+                if triplet[0] in movie_entities or triplet[2] in movie_entities:
+                    continue
+                if triplet[0] in extend_entities or triplet[2] in extend_entities:
+                    f.write('\t'.join(triplet[0:3]) + '\n')'''
+
+    with open('lab2/stage1/data/extract_extend_raw.txt', 'r') as file:
+        filter2 = triplet_filter(file.readlines(), extend_entities, 15)
+        with open('lab2/stage1/data/extract_extend.txt', 'a') as f:
+            for triplet in filter1.triplets:
+                f.write('\t'.join(triplet) + '\n')
 
     with open('lab2/stage1/data/kg.txt', 'a') as file:
-        for triplet in filter1:
-            line = triplet[0] + '\t' + triplet[1] + '\t' + triplet[2] + '\n'
+        f1 = open('lab2/stage1/data/extract_movie.txt', 'r')
+        f2 = open('lab2/stage1/data/extract_extend.txt', 'r')
+        for line in f1.readlines():
             file.write(line)
-        for triplet in filter2:
-            line = triplet[0] + '\t' + triplet[1] + '\t' + triplet[2] + '\n'
+        for line in f2.readlines():
             file.write(line)

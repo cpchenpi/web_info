@@ -1,3 +1,10 @@
+'''
+Author: Ashton
+Date: 2022-12-05 16:56:06
+LastEditors: Ashton
+LastEditTime: 2023-12-24 11:26:39
+Description: 
+'''
 import os
 import random
 import collections
@@ -30,18 +37,26 @@ class DataLoader(DataLoaderBase):
         # 1. 为KG添加逆向三元组，即对于KG中任意三元组(h, r, t)，添加逆向三元组 (t, r+n_relations, h)，
         #    并将原三元组和逆向三元组拼接为新的DataFrame，保存在 self.kg_data 中。
         
-        self.kg_data = 
+        temp = []
+        n_relations = max(kg_data['r']) + 1
+        for _, val in kg_data.iterrows():
+            temp.append([val[2], val[1] + n_relations, val[0]])
+        col = ['h', 'r', 't']
+        frame = [kg_data, pd.DataFrame(data = temp, columns = col)]
+        self.kg_data = pd.concat(frame, ignore_index = True)
 
         # 2. 计算关系数，实体数和三元组的数量
-        self.n_relations = 
-        self.n_entities = 
-        self.n_kg_data = 
+        self.n_relations = max(self.kg_data['r']) + 1
+        self.n_entities = max(max(self.kg_data['h']), max(self.kg_data['t'])) + 1
+        self.n_kg_data = len(self.kg_data)
 
         # 3. 根据 self.kg_data 构建字典 self.kg_dict ，其中key为h, value为tuple(t, r)，
         #    和字典 self.relation_dict，其中key为r, value为tuple(h, t)。
         self.kg_dict = collections.defaultdict(list)
         self.relation_dict = collections.defaultdict(list)
-        
+        for _, val in self.kg_data.iterrows():
+            self.kg_dict[val[0]].append((val[2], val[1]))
+            self.relation_dict[val[1]].append((val[0], val[2]))
 
 
 
